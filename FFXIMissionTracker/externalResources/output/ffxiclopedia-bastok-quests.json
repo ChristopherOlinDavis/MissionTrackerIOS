@@ -1,0 +1,2966 @@
+{
+  "id": "ffxiclopedia-bastok-quests",
+  "name": "FFXIclopedia - Bastok Quests",
+  "category": "quest",
+  "source": "FFXIclopedia",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Bastok_Quests",
+  "lastScraped": "2025-12-29T17:29:37.815Z",
+  "lastKnownUpdate": "2025-12-29T17:29:37.815Z",
+  "totalMissions": 71,
+  "missions": [
+    {
+      "id": "ffxiclopedia-bastok-quests-chips",
+      "title": "Chips",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Chips",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-chips-node-1",
+          "orderIndex": 0,
+          "title": "You must get the Cutscene from Cid for 6-4 before you can start the quest.",
+          "description": "You must get the Cutscene from Cid for 6-4 before you can start the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-chips-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Ghebi Damomohe at the Neptune's Spire to start the quest.",
+          "description": "Talk to Ghebi Damomohe at the Neptune's Spire to start the quest. Be sure to pick the first option or you will have to zone to restart the quest.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-chips-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-chips-node-3",
+          "orderIndex": 2,
+          "title": "Farm the chips in Pso'Xja, and then trade them all to Cid.",
+          "description": "Farm the chips in Pso'Xja, and then trade them all to Cid. The Gray Chip is dropped by Diremites. The Carmine Chip is dropped by Lizards (Snow Lizards, Frost Lizards). The Cyan Chip is dropped by Mimics. Tip: go to the tower at Beaucedine's F-7, where you'll find all these monsters.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-chips-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-cid-s-secret",
+      "title": "Cid's Secret",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Cid%27s_Secret",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-cid-s-secret-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Cid, who will ask you to check on Hilda (E-6) in the Steaming Sheep Restaurant.",
+          "description": "Talk to Cid, who will ask you to check on Hilda (E-6) in the Steaming Sheep Restaurant.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-cid-s-secret-node-2",
+          "orderIndex": 1,
+          "title": "Go to Port Bastok and talk to Hilda in the restaurant.",
+          "description": "Go to Port Bastok and talk to Hilda in the restaurant. If she is on the stairs, stand across from Sawyer at the counter to target her. It she is on the upper floor, stand at the counter beneath her to target her.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-cid-s-secret-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-cid-s-secret-node-3",
+          "orderIndex": 2,
+          "title": "Obtain a Rolanberry 874 from the mini-quest in Crawlers' Nest or purchased in the Auction House unde",
+          "description": "Obtain a Rolanberry 874 from the mini-quest in Crawlers' Nest or purchased in the Auction House under Food -> Ingredients.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-cid-s-secret-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-cid-s-secret-node-4",
+          "orderIndex": 3,
+          "title": "Trade the Rolanberry 874 to Hilda and she will give you an Unfinished Letter (key item) to take to C",
+          "description": "Trade the Rolanberry 874 to Hilda and she will give you an Unfinished Letter (key item) to take to Cid.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-cid-s-secret-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-cid-s-secret-node-5",
+          "orderIndex": 4,
+          "title": "Return to the Metalworks and talk to Cid to deliver the letter and complete the quest.",
+          "description": "Return to the Metalworks and talk to Cid to deliver the letter and complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-cid-s-secret-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-dark-legacy",
+      "title": "Dark Legacy",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Dark_Legacy",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-dark-legacy-node-1",
+          "orderIndex": 0,
+          "title": "With your main job set to level 40+ Dark Knight, talk to Raibaht in Cid's Lab in the Metalworks.",
+          "description": "With your main job set to level 40+ Dark Knight, talk to Raibaht in Cid's Lab in the Metalworks. Raibaht asks you to find a book detailing the Darksteel Formula.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-dark-puppet",
+      "title": "Dark Puppet",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Dark_Puppet",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-dark-puppet-node-1",
+          "orderIndex": 0,
+          "title": "Go to Cid's Lab in the Metalworks and talk to Cid to hear comments about the Darksteel Formula you f",
+          "description": "Go to Cid's Lab in the Metalworks and talk to Cid to hear comments about the Darksteel Formula you found during the Dark Legacy quest. Raibaht informs Cid that Zeid sent him a letter indicating that he found one of the weapons forged by Gerwitz, the legendary darksteel smith, but it has taken the form of an evil weapon. You must meet Zeid and help him with his task.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-drachenfall",
+      "title": "Drachenfall",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Drachenfall",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-drachenfall-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Black Mud, who gives you a Brass Canteen to fill with water from the Drachenfall.",
+          "description": "Talk to Black Mud, who gives you a Brass Canteen to fill with water from the Drachenfall. If you drop the Brass Canteen, you can talk to him again to get another one. You may need to zone and return to Black Mud to get a replacement.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-drachenfall-node-2",
+          "orderIndex": 1,
+          "title": "Take the canteen to Dangruf Wadi and head north.",
+          "description": "Take the canteen to Dangruf Wadi and head north. You will pass through two geysers that shoot you up to a higher ledge. The first geyser is at I-8, and the next is at J-3, the far northeast area of the zone. After going up that geyser you will follow an unmarked path leading northeast into a hidden section of North Gustaberg. Some form of Invisible is strongly suggested, as there are lvl 85+ Goblins beyond the first geyser.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-drachenfall-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-drachenfall-node-3",
+          "orderIndex": 2,
+          "title": "Alternatively, if you have the North Gustaberg Proto-Waypoint unlocked, you can use this to get to t",
+          "description": "Alternatively, if you have the North Gustaberg Proto-Waypoint unlocked, you can use this to get to the same location. If you don't have it unlocked but have a Prototype attuner from Ru'Lude Gardens, you can activate this point now, even if not to that point in the prototype attuner quest.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-drachenfall-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-drachenfall-node-4",
+          "orderIndex": 3,
+          "title": "Once in North Gustaberg, head east along the river, cross the bridge, then go further east to the wa",
+          "description": "Once in North Gustaberg, head east along the river, cross the bridge, then go further east to the waterfall. Since North Gustaberg is an outdoor area, mounts are allowed to shorten your trek.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-drachenfall-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-drachenfall-node-5",
+          "orderIndex": 4,
+          "title": "Trade the Brass Canteen to the Waterfall Base, not the ???, to receive the Drachenfall Water.",
+          "description": "Trade the Brass Canteen to the Waterfall Base, not the ???, to receive the Drachenfall Water.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-drachenfall-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-eco-warrior-bastok",
+      "title": "Eco-Warrior (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Eco-Warrior_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-1",
+          "orderIndex": 0,
+          "title": "NOTE: Before attempting this quest, designate a leader so that the group functions as a team.",
+          "description": "NOTE: Before attempting this quest, designate a leader so that the group functions as a team. This is essential for the success of this quest. Make sure you have a near-full alliance unless you are using two or more Summoners with Ifrit's Astral Flow ability, Inferno.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Raifa in the Steaming Sheep Restaurant in Port Bastok (D-6).",
+          "description": "Talk to Raifa in the Steaming Sheep Restaurant in Port Bastok (D-6). If you cannot get the quest, Raifa says... Something about the food. (You have already completed an Eco-Warrior quest this Conquest period or you do not have enough fame) \"...Can I have a moment of your time? Oh, but you look busy...\" (You are currently involved in another Eco-Warrior quest)",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-3",
+          "orderIndex": 2,
+          "title": "Head to Gusgen Mines.",
+          "description": "Head to Gusgen Mines.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Degga at (H-9).",
+          "description": "Talk to Degga at (H-9). (You will see him on your right, toward the end of the entry corridor.) He applies an ointment that restricts your level to 25. Buffs do NOT wear with this level restriction. Buff before applying the restriction. Note that, once the level restriction is applied, only others with the same level restriction are able to cure or buff you. Trusts will be dismissed upon application of the level restriction, but can be resummoned (and will have the same level restriction that you do). You lose the level restriction if you are KO'd. It may be reapplied at any time by speaking to Degga again once raised. Note: if you Reraise, you keep the level restriction. If you return to your Home Point after being KO'd or otherwise leave the area in any way, you lose any progress made in the quest since talking to Degga.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-5",
+          "orderIndex": 4,
+          "title": "At the very first 4-way intersection (H-9), go down the west corridor (turn left).",
+          "description": "At the very first 4-way intersection (H-9), go down the west corridor (turn left).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-6",
+          "orderIndex": 5,
+          "title": "Go down the west corridor and turn north at (G-9).",
+          "description": "Go down the west corridor and turn north at (G-9).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-7",
+          "orderIndex": 6,
+          "title": "Continue north at (G-9) and do not turn down any passage except ones leading north until you arrive ",
+          "description": "Continue north at (G-9) and do not turn down any passage except ones leading north until you arrive at (G-6).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-8",
+          "orderIndex": 7,
+          "title": "Camp on the western side of (G-6) and clear out the monsters here before turning to the east corrido",
+          "description": "Camp on the western side of (G-6) and clear out the monsters here before turning to the east corridor.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-9",
+          "orderIndex": 8,
+          "title": "Clear the way to the east.",
+          "description": "Clear the way to the east. The ??? is on a chest further east in the middle of the deck at (H-6). Clear the area around the chest.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-10",
+          "orderIndex": 9,
+          "title": "When ready, click the ??? to spawn two Pudding NMs.",
+          "description": "When ready, click the ??? to spawn two Pudding NMs. You must have the level restriction applied to spawn and engage these NMs. The Puddings spawn with aggro toward the party member who spawns them. If Sneak is applied, the spawner is still aggroed. Clicking the ??? removes any Sneak effect. The Puddings are Slime-type NMs. As such, they are weak against magic, but highly resistant to physical attack. As they gain TP, they use a strong version of Fluid Spread, the Slime AOE attack, that causes critical damage to anyone in range. This is a common cause of wipes.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-9"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-11",
+          "orderIndex": 10,
+          "title": "After the NMs are defeated, touch the ??? again to receive an Indigested Ore.",
+          "description": "After the NMs are defeated, touch the ??? again to receive an Indigested Ore. You must have the Level Restriction applied to obtain the key item. Should you change areas during or after the fight, but before obtaining the key item, clicking the ??? causes the Puddings to respawn. They must be defeated again for you to obtain the key item.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-10"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-12",
+          "orderIndex": 11,
+          "title": "Return to Degga to have your ointment/level restriction removed.",
+          "description": "Return to Degga to have your ointment/level restriction removed. It may also be removed through logging out and back in, or simply warping out of the mines.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-11"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-13",
+          "orderIndex": 12,
+          "title": "Return to Raifa in Port Bastok to receive your reward.",
+          "description": "Return to Raifa in Port Bastok to receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-eco-warrior-bastok-node-12"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-escort-for-hire-bastok",
+      "title": "Escort for Hire (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Escort_for_Hire_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Trilok in Port Bastok (D-6) to activate the quest.",
+          "description": "Talk to Trilok in Port Bastok (D-6) to activate the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-2",
+          "orderIndex": 1,
+          "title": "Zone into Crawlers' Nest.",
+          "description": "Zone into Crawlers' Nest.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-3",
+          "orderIndex": 2,
+          "title": "The first person to zone into the dungeon will get a cut scene with Olavia about the quest.",
+          "description": "The first person to zone into the dungeon will get a cut scene with Olavia about the quest.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-4",
+          "orderIndex": 3,
+          "title": "That person must talk to Olavia to start the quest.",
+          "description": "That person must talk to Olavia to start the quest. You will have 30 minutes to finish from this point.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-5",
+          "orderIndex": 4,
+          "title": "After talking to Olavia, she will immediately bolt away and start towards her destination with no th",
+          "description": "After talking to Olavia, she will immediately bolt away and start towards her destination with no thought for aggro at all. Anyone can stop and start her, simply talk to her. She will reply \"Is anything wrong?\" This way you can safely fight mobs with her out of aggro and AoE range. To start her forward again, talk to her once more.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-6",
+          "orderIndex": 5,
+          "title": "Be warned that monsters will aggro Olavia from farther away than they normally would aggro a charact",
+          "description": "Be warned that monsters will aggro Olavia from farther away than they normally would aggro a character.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-7",
+          "orderIndex": 6,
+          "title": "Olavia can be cured by White Magic and Curing Waltzes, but not by Blue Magic or Blood Pact: Wards.",
+          "description": "Olavia can be cured by White Magic and Curing Waltzes, but not by Blue Magic or Blood Pact: Wards.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-8",
+          "orderIndex": 7,
+          "title": "There are three possible routes she can take.",
+          "description": "There are three possible routes she can take.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-9",
+          "orderIndex": 8,
+          "title": "All three routes start with her running into the big central room at J-9 on the first map, running n",
+          "description": "All three routes start with her running into the big central room at J-9 on the first map, running north into the scorpion room, and circling back out to the main room.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-10",
+          "orderIndex": 9,
+          "title": "There are at least three possible routes:.",
+          "description": "There are at least three possible routes:",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-escort-for-hire-bastok-node-9"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-faded-promises",
+      "title": "Faded Promises",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Faded_Promises",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-faded-promises-node-1",
+          "orderIndex": 0,
+          "title": "With your job set to ninja level 20+, talk to Romualdo for a cutscene to start the quest.",
+          "description": "With your job set to ninja level 20+, talk to Romualdo for a cutscene to start the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-faded-promises-node-2",
+          "orderIndex": 1,
+          "title": "Go to the other Cannonry room and talk to Ayame.",
+          "description": "Go to the other Cannonry room and talk to Ayame. You may get a scene related to the quest Out of the Depths the first time you speak to her.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-faded-promises-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-faded-promises-node-3",
+          "orderIndex": 2,
+          "title": "Obtain a Palborough Chest Key in the Palborough Mines and open a treasure chest there to obtain the ",
+          "description": "Obtain a Palborough Chest Key in the Palborough Mines and open a treasure chest there to obtain the Diary of Mukunda.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-faded-promises-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-faded-promises-node-4",
+          "orderIndex": 3,
+          "title": "Return to Bastok and talk to Kagetora (F-6) in Port Bastok, then talk to Ayame again.",
+          "description": "Return to Bastok and talk to Kagetora (F-6) in Port Bastok, then talk to Ayame again.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-faded-promises-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-faded-promises-node-5",
+          "orderIndex": 4,
+          "title": "Finally, talk to Alois (J-8) in Metalworks to receive your reward.",
+          "description": "Finally, talk to Alois (J-8) in Metalworks to receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-faded-promises-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-fallen-comrades",
+      "title": "Fallen Comrades",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Fallen_Comrades",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-fallen-comrades-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Pavvke.",
+          "description": "Talk to Pavvke.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-fallen-comrades-node-2",
+          "orderIndex": 1,
+          "title": "Obtain a Silver Name Tag, either from killing Onyx Quadav or Greater Quadav in Palborough Mines, or ",
+          "description": "Obtain a Silver Name Tag, either from killing Onyx Quadav or Greater Quadav in Palborough Mines, or purchasing it from the Neck section of the Auction House.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-fallen-comrades-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-fallen-comrades-node-3",
+          "orderIndex": 2,
+          "title": "Trade the Silver Name Tag to Pavvke for your gil reward.",
+          "description": "Trade the Silver Name Tag to Pavvke for your gil reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-fallen-comrades-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-father-figure",
+      "title": "Father Figure",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Father_Figure",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-father-figure-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Michea.",
+          "description": "Talk to Michea.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-father-figure-node-2",
+          "orderIndex": 1,
+          "title": "Trade a Silver Ingot to Michea.",
+          "description": "Trade a Silver Ingot to Michea.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-father-figure-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-father-figure-node-3",
+          "orderIndex": 2,
+          "title": "You can not start this quest if you already have the San d'Orian quest Distant Loyalties started.",
+          "description": "You can not start this quest if you already have the San d'Orian quest Distant Loyalties started.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-father-figure-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-fear-of-flying",
+      "title": "Fear of Flying",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Fear_of_Flying",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-fear-of-flying-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Kurando to accept the quest.",
+          "description": "Talk to Kurando to accept the quest. He can be found at the end of the tunnel between the construction area and the water side.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-fear-of-flying-node-2",
+          "orderIndex": 1,
+          "title": "Go to Rolanberry Fields and hunt the Silk Caterpillar (see testimonials) - it spawns every 11 minute",
+          "description": "Go to Rolanberry Fields and hunt the Silk Caterpillar (see testimonials) - it spawns every 11 minutes in the area of K-7, when the Airship flies by overhead. Kill it to get the Silkworm Egg. You will see a piece of Crag material sticking out of the ground. The Silk Caterpillar spawns just behind this.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-fear-of-flying-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-fear-of-flying-node-3",
+          "orderIndex": 2,
+          "title": "Go back to Kurando and trade him the Silkworm Egg to get your reward.",
+          "description": "Go back to Kurando and trade him the Silkworm Egg to get your reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-fear-of-flying-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-forever-to-hold",
+      "title": "Forever to Hold",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Forever_to_Hold",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-forever-to-hold-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Qiji and he will tell you he wants to give his wife a Brass Hairpin.",
+          "description": "Talk to Qiji and he will tell you he wants to give his wife a Brass Hairpin.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-forever-to-hold-node-2",
+          "orderIndex": 1,
+          "title": "Give Qiji's wife, Romilda, who is standing next to him, a Brass Hairpin.",
+          "description": "Give Qiji's wife, Romilda, who is standing next to him, a Brass Hairpin.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-forever-to-hold-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-forever-to-hold-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Qiji for your reward.",
+          "description": "Talk to Qiji for your reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-forever-to-hold-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-fully-mental-alchemist",
+      "title": "Fully Mental Alchemist",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Fully_Mental_Alchemist",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-fully-mental-alchemist-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Titus at the 2nd floor of the Alchemy Guild in Bastok Mines, at (L-7).",
+          "description": "Speak with Titus at the 2nd floor of the Alchemy Guild in Bastok Mines, at (L-7). In a cutscene, you will be asked to procure twenty grains of gold dust from Grauberg. He will give you the key items Prospector's Pan and Corked Ampoule to do this.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-fully-mental-alchemist-node-2",
+          "orderIndex": 1,
+          "title": "Make your way to (F-13) at Grauberg (S) to find the Riverbed, a spot in the river that can be target",
+          "description": "Make your way to (F-13) at Grauberg (S) to find the Riverbed, a spot in the river that can be targeted.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-fully-mental-alchemist-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-fully-mental-alchemist-node-3",
+          "orderIndex": 2,
+          "title": "Examine it and choose one of the given options to start scooping and how roughly to do it.",
+          "description": "Examine it and choose one of the given options to start scooping and how roughly to do it.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-fully-mental-alchemist-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-fully-mental-alchemist-node-4",
+          "orderIndex": 3,
+          "title": "Once you have the 20 grains you will receive the key item: Ampoule of Gold Dust If you leave the are",
+          "description": "Once you have the 20 grains you will receive the key item: Ampoule of Gold Dust If you leave the area before you get the 20 grains, you'll have to start over. See the Discussion page for successive methods though it does not matter if you fail to find any gold. You will merely need to try again.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-fully-mental-alchemist-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-fully-mental-alchemist-node-5",
+          "orderIndex": 4,
+          "title": "Return to Titus for another cutscene and your reward.",
+          "description": "Return to Titus for another cutscene and your reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-fully-mental-alchemist-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-ghosts-of-the-past",
+      "title": "Ghosts of the Past",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Ghosts_of_the_Past",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-ghosts-of-the-past-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Oggbi in Port Bastok inside the Steaming Sheep Restaurant located at (E-6) as a MNK level 40",
+          "description": "Talk to Oggbi in Port Bastok inside the Steaming Sheep Restaurant located at (E-6) as a MNK level 40+. Home Point #3 is closest. Note: If you have hand-to-hand skill above 250 he will offer you the Knuckles of Trials for the quest The Walls of Your Mind first. Talk to him again for the right quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-ghosts-of-the-past-node-2",
+          "orderIndex": 1,
+          "title": "Once flagged, you can complete the quest on any high-level job, not just monk.",
+          "description": "Once flagged, you can complete the quest on any high-level job, not just monk.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-ghosts-of-the-past-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-ghosts-of-the-past-node-3",
+          "orderIndex": 2,
+          "title": "Obtain a Pickaxe (you can buy one from Numa (E-7) in Port Bastok for about 190 gil).",
+          "description": "Obtain a Pickaxe (you can buy one from Numa (E-7) in Port Bastok for about 190 gil).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-ghosts-of-the-past-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-ghosts-of-the-past-node-4",
+          "orderIndex": 3,
+          "title": "Head to Gusgen Mines and look for a ??? in the lowest level around G-7.",
+          "description": "Head to Gusgen Mines and look for a ??? in the lowest level around G-7.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-ghosts-of-the-past-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-gourmet",
+      "title": "Gourmet",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gourmet",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-gourmet-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Salimah, who will always want one of three items for her cooking.",
+          "description": "Talk to Salimah, who will always want one of three items for her cooking.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-gourmet-node-2",
+          "orderIndex": 1,
+          "title": "Talk to her daughter next to her, Rothais, or check the chart below to see which item is currently w",
+          "description": "Talk to her daughter next to her, Rothais, or check the chart below to see which item is currently wanted.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-gourmet-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-gourmet-node-3",
+          "orderIndex": 2,
+          "title": "Trade the appropriate item to Salimah at the right hours gametime to get the higher amount of gil; t",
+          "description": "Trade the appropriate item to Salimah at the right hours gametime to get the higher amount of gil; trading her the item at any other time will give 100 gil.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-gourmet-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-groceries",
+      "title": "Groceries",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Groceries",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-groceries-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Tami at (J-8) in Bastok Mines.",
+          "description": "Talk to Tami at (J-8) in Bastok Mines.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-groceries-node-2",
+          "orderIndex": 1,
+          "title": "She'll give you the key item Tami's Note to take to her husband.",
+          "description": "She'll give you the key item Tami's Note to take to her husband. Note: If you read the note, the quest is no longer repeatable. Note: Colliery Bats (level 75 - 80) may be in the corridor between you and Zelman. Some form of sneak may be needed.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-groceries-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-groceries-node-3",
+          "orderIndex": 2,
+          "title": "If you do not read the note: Take the note to Zelman at (I-8) in Zeruhn Mines.",
+          "description": "If you do not read the note: Take the note to Zelman at (I-8) in Zeruhn Mines. He will tell you that he is busy and to report back to his wife. Return to Tami and get a reward of 10 gil.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-groceries-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-guest-of-hauteur",
+      "title": "Guest of Hauteur",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Guest_of_Hauteur",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-guest-of-hauteur-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Powhatan.",
+          "description": "Talk to Powhatan. If you have just completed the previous quest Welcome to Bastok, you will have to zone before being able to start this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-guest-of-hauteur-node-2",
+          "orderIndex": 1,
+          "title": "Obtain and equip a Maul or Replica Maul.",
+          "description": "Obtain and equip a Maul or Replica Maul.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-guest-of-hauteur-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-guest-of-hauteur-node-3",
+          "orderIndex": 2,
+          "title": "Optional: Talk to Powhatan again and select the second option.",
+          "description": "Optional: Talk to Powhatan again and select the second option. He suggests that you talk to the guards in the area.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-guest-of-hauteur-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-guest-of-hauteur-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Steel Bones, the guard near the Port Bastok/Bastok Markets zone, for a cutscene with the pas",
+          "description": "Talk to Steel Bones, the guard near the Port Bastok/Bastok Markets zone, for a cutscene with the passenger and to receive a Letter from Domien.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-guest-of-hauteur-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-guest-of-hauteur-node-5",
+          "orderIndex": 4,
+          "title": "Return to Powhatan and talk to him to deliver the letter and complete the quest.",
+          "description": "Return to Powhatan and talk to him to deliver the letter and complete the quest. You will receive a Targe as your reward, and you will still have your maul.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-guest-of-hauteur-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-hearts-of-mythril",
+      "title": "Hearts of Mythril",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hearts_of_Mythril",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-hearts-of-mythril-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Elki in the Bat's Lair Inn; his grandfather Omran is buried at a monument at the top of Zegh",
+          "description": "Talk to Elki in the Bat's Lair Inn; his grandfather Omran is buried at a monument at the top of Zegham Hill in North Gustaberg. He gives you the key item Bouquet for the Pioneers to lay at the foot of the grave.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-hearts-of-mythril-node-2",
+          "orderIndex": 1,
+          "title": "Follow the paths up to the top of Zegham Hill in North Gustaberg to find the monument at J-7.",
+          "description": "Follow the paths up to the top of Zegham Hill in North Gustaberg to find the monument at J-7. (The path starts on the south side at I-8. Look for a grassy spot with trees.)",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-hearts-of-mythril-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-hearts-of-mythril-node-3",
+          "orderIndex": 2,
+          "title": "Examine the Palborough Pioneers Monument to place the bouquet; you see the name of Elki's ancestor, ",
+          "description": "Examine the Palborough Pioneers Monument to place the bouquet; you see the name of Elki's ancestor, Omran, and a partially readable name, Vig****t O**. This is the name of Vigilant Owl, which ties the quest The Eleventh's Hour to this one.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-hearts-of-mythril-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-hearts-of-mythril-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Elki again to complete the quest.",
+          "description": "Talk to Elki again to complete the quest. He doesn't seem to recognize the partial name but he might if you get more information.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-hearts-of-mythril-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-hyper-active",
+      "title": "Hyper Active",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hyper_Active",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-hyper-active-node-1",
+          "orderIndex": 0,
+          "title": "You must zone after completing the previous quest to activate this one.",
+          "description": "You must zone after completing the previous quest to activate this one.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-hyper-active-node-2",
+          "orderIndex": 1,
+          "title": "Raibaht gives you a Molybdenum Box in which to smuggle the Hyper Altimeter through Jeuno customs onc",
+          "description": "Raibaht gives you a Molybdenum Box in which to smuggle the Hyper Altimeter through Jeuno customs once the adventurer reveals its location to you.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-hyper-active-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-hyper-active-node-3",
+          "orderIndex": 2,
+          "title": "Head to Delkfutt's Tower in Qufim and use the Delkfutt Key (obtained from Mission 3-3) to open the d",
+          "description": "Head to Delkfutt's Tower in Qufim and use the Delkfutt Key (obtained from Mission 3-3) to open the door to the basement inside level 1 at (E-8).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-hyper-active-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-hyper-active-node-4",
+          "orderIndex": 3,
+          "title": "Proceed downstairs to basement and head to (I-6), where the passage dead-ends into a cermet door.",
+          "description": "Proceed downstairs to basement and head to (I-6), where the passage dead-ends into a cermet door.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-hyper-active-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-hyper-active-node-5",
+          "orderIndex": 4,
+          "title": "Upon attempting to open the door, a message will be displayed, \"A bloodthirsty monster has appeared!",
+          "description": "Upon attempting to open the door, a message will be displayed, \"A bloodthirsty monster has appeared!\". The monster Orna, and two Fomorian Spear will spawn. Upon defeating Orna, the two Fomorian Spears will despawn.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-hyper-active-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-hyper-active-node-6",
+          "orderIndex": 5,
+          "title": "Attempt to open the door again and watch a cutscene with the adventurer that was sent to kill Orna.",
+          "description": "Attempt to open the door again and watch a cutscene with the adventurer that was sent to kill Orna. He tells you that he hid the Hyper Altimeter in one of the streetlamps in Lower Jeuno.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-hyper-active-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-hyper-active-node-7",
+          "orderIndex": 6,
+          "title": "Head to Lower Jeuno and search the streetlamps until you find the Hyper Altimeter, which you put int",
+          "description": "Head to Lower Jeuno and search the streetlamps until you find the Hyper Altimeter, which you put into the Molybdenum Box.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-hyper-active-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-hyper-active-node-8",
+          "orderIndex": 7,
+          "title": "Head back to Bastok and talk to Raibaht to complete the quest.",
+          "description": "Head back to Bastok and talk to Raibaht to complete the quest. You do not need to clear customs in the Bastok-Jeuno Airship terminal. You may use the Home Point to return to the Metalworks.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-hyper-active-node-7"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-inheritance",
+      "title": "Inheritance",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Inheritance",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-inheritance-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Gumbah in Bastok Mines (J-7) who will give you the Sword of Trials and the Weapon Training G",
+          "description": "Talk to Gumbah in Bastok Mines (J-7) who will give you the Sword of Trials and the Weapon Training Guide.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-inheritance-node-2",
+          "orderIndex": 1,
+          "title": "Use the Sword of Trials until the latent effect disappears.",
+          "description": "Use the Sword of Trials until the latent effect disappears.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-inheritance-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-inheritance-node-3",
+          "orderIndex": 2,
+          "title": "How to remove the latent effect:.",
+          "description": "How to remove the latent effect:",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-inheritance-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-love-and-ice",
+      "title": "Love and Ice",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Love_and_Ice",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-love-and-ice-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Carrier Pigeon Letter permanent key item that you received during The Stars of Ifrit que",
+          "description": "Examine the Carrier Pigeon Letter permanent key item that you received during The Stars of Ifrit quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-love-and-ice-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Carmelo who is at (E-6) in Port Bastok.",
+          "description": "Talk to Carmelo who is at (E-6) in Port Bastok. He will give you Carmelo's Song Sheet and ask you to place it at the Mirror Pond.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-love-and-ice-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-love-and-ice-node-3",
+          "orderIndex": 2,
+          "title": "Go to the pond at (G-10) in Beaucedine Glacier.",
+          "description": "Go to the pond at (G-10) in Beaucedine Glacier. A portion of the pond will become selectable (the target is named \"Mirror Pond\") in the presence of dark-element weather or clear weather. This target disappears when there is single or double ice-element weather. Check with Maleme, the Weather Checker at (J-8) in Southern San d'Oria, before going to the glacier to see what the weather will be like there. A weather message of \"gloom with occasional snow\" means that snow will taper on and off.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-love-and-ice-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-love-and-ice-node-4",
+          "orderIndex": 3,
+          "title": "Select the \"Mirror Pond\" for a cutscene.",
+          "description": "Select the \"Mirror Pond\" for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-love-and-ice-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-love-and-ice-node-5",
+          "orderIndex": 4,
+          "title": "Return to Bastok and talk to Carmelo to complete the quest and receive your reward.",
+          "description": "Return to Bastok and talk to Carmelo to complete the quest and receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-love-and-ice-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-lovers-in-the-dusk",
+      "title": "Lovers in the Dusk",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Lovers_in_the_Dusk",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-lovers-in-the-dusk-node-1",
+          "orderIndex": 0,
+          "title": "Change zones then talk to Carmelo after completing A Test of True Love and he will give the key item",
+          "description": "Change zones then talk to Carmelo after completing A Test of True Love and he will give the key item Chanson de Liberte and ask you to place it in the Sanctuary of Zi'Tah at Dusk.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-lovers-in-the-dusk-node-2",
+          "orderIndex": 1,
+          "title": "Go to the Sanctuary of Zi'Tah and find the ??? located there, in the middle of H-8.",
+          "description": "Go to the Sanctuary of Zi'Tah and find the ??? located there, in the middle of H-8.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-lovers-in-the-dusk-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-lovers-in-the-dusk-node-3",
+          "orderIndex": 2,
+          "title": "Select this at Dusk (between the hours of 16:00-18:00) for a cut-scene to complete the story for thi",
+          "description": "Select this at Dusk (between the hours of 16:00-18:00) for a cut-scene to complete the story for this set of quests, and to obtain your reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-lovers-in-the-dusk-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-lure-of-the-wildcat-bastok",
+      "title": "Lure of the Wildcat (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Lure_of_the_Wildcat_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-lure-of-the-wildcat-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Alib-Mufalib who will give you the Key Item: Blue Sentinel Badge.",
+          "description": "Talk to Alib-Mufalib who will give you the Key Item: Blue Sentinel Badge. He will tell you about his company, \"Salaheem's Sentinels,\" which has been sanctioned by the Empire of Aht Urhgan and is currently recruiting new members.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-lure-of-the-wildcat-bastok-node-2",
+          "orderIndex": 1,
+          "title": "Check the badge to get coordinates for the people you should talk to in each area.",
+          "description": "Check the badge to get coordinates for the people you should talk to in each area.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-lure-of-the-wildcat-bastok-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-lure-of-the-wildcat-bastok-node-3",
+          "orderIndex": 2,
+          "title": "You will know you've found the right person because you get an emote message: \" <Your name>'s badge ",
+          "description": "You will know you've found the right person because you get an emote message: \" <Your name>'s badge flashes brightly.\"",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-lure-of-the-wildcat-bastok-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-lure-of-the-wildcat-bastok-node-4",
+          "orderIndex": 3,
+          "title": "After you talk to all of the people for Bastok, return to Alib-Mufalib to receive a Blue Invitation ",
+          "description": "After you talk to all of the people for Bastok, return to Alib-Mufalib to receive a Blue Invitation Card (key item).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-lure-of-the-wildcat-bastok-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-lure-of-the-wildcat-bastok-node-5",
+          "orderIndex": 4,
+          "title": "Once you have also signed up to be a whitegate mercenary, Alib-Mufalib will also teleport you to whi",
+          "description": "Once you have also signed up to be a whitegate mercenary, Alib-Mufalib will also teleport you to whitegate for 300g.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-lure-of-the-wildcat-bastok-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-mean-machine",
+      "title": "Mean Machine",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Mean_Machine",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-mean-machine-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Unlucky Rat inside the Cermet Refinery of Bastok's Metalworks.",
+          "description": "Talk to Unlucky Rat inside the Cermet Refinery of Bastok's Metalworks. He muses about how to oil the machine, but does not ask you for anything specific. Unlucky Rat is on the lower level, so use Home Point #2",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-mean-machine-node-2",
+          "orderIndex": 1,
+          "title": "Obtain a Slime Oil from one of the mobs in the Slime family that drop it, or purchase it from the Au",
+          "description": "Obtain a Slime Oil from one of the mobs in the Slime family that drop it, or purchase it from the Auction House.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-mean-machine-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-minesweeper",
+      "title": "Minesweeper",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Minesweeper",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-minesweeper-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Gerbaum; he complains about the monsters in Zeruhn Mines and asks you to clear them out and ",
+          "description": "Talk to Gerbaum; he complains about the monsters in Zeruhn Mines and asks you to clear them out and bring back Zeruhn Soot as proof.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-minesweeper-node-2",
+          "orderIndex": 1,
+          "title": "Obtain three Zeruhn Soot and trade them to Gerbaum to complete the quest.",
+          "description": "Obtain three Zeruhn Soot and trade them to Gerbaum to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-minesweeper-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-mom-the-adventurer",
+      "title": "Mom, the Adventurer?",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Mom,_the_Adventurer%3F",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-mom-the-adventurer-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Nbu Latteh.",
+          "description": "Talk to Nbu Latteh. She wants a Copper Ring for her daughter, Roh Latteh, but only has a Fire Crystal which she gives you so you can synthesize one.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-mom-the-adventurer-node-2",
+          "orderIndex": 1,
+          "title": "Obtain a Copper Ring.",
+          "description": "Obtain a Copper Ring. (Copper Ring +1 will not work)",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-mom-the-adventurer-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-mom-the-adventurer-node-3",
+          "orderIndex": 2,
+          "title": "Trade the Copper Ring to Roh Latteh in Bastok Mines at (H-7) in a house on the bottom floor; she giv",
+          "description": "Trade the Copper Ring to Roh Latteh in Bastok Mines at (H-7) in a house on the bottom floor; she gives you a key item Letter from Roh Latteh.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-mom-the-adventurer-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-mom-the-adventurer-node-4",
+          "orderIndex": 3,
+          "title": "Do not peek at the letter.",
+          "description": "Do not peek at the letter. If you do you only get half the reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-mom-the-adventurer-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-mom-the-adventurer-node-5",
+          "orderIndex": 4,
+          "title": "Talk to Nbu Latteh again to complete the quest.",
+          "description": "Talk to Nbu Latteh again to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-mom-the-adventurer-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-out-of-one-s-shell",
+      "title": "Out of One's Shell",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Out_of_One%27s_Shell",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-out-of-one-s-shell-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Ronan to activate the quest.",
+          "description": "Talk to Ronan to activate the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-out-of-one-s-shell-node-2",
+          "orderIndex": 1,
+          "title": "(optional) Talk to Mine Konte Port Bastok (D-7) and then with Panana.",
+          "description": "(optional) Talk to Mine Konte Port Bastok (D-7) and then with Panana.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-out-of-one-s-shell-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-out-of-one-s-shell-node-3",
+          "orderIndex": 2,
+          "title": "Trade 3 Shell Bugs to Ronan.",
+          "description": "Trade 3 Shell Bugs to Ronan.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-out-of-one-s-shell-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-out-of-one-s-shell-node-4",
+          "orderIndex": 3,
+          "title": "Give him his \"time\" by zoning out of Port Bastok and back in.",
+          "description": "Give him his \"time\" by zoning out of Port Bastok and back in. Talk to him again for your reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-out-of-one-s-shell-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-out-of-the-depths",
+      "title": "Out of the Depths",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Out_of_the_Depths",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-out-of-the-depths-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Ayame (K-7 on the top floor of Metalworks in a Cannon Room) and accept her job offer.",
+          "description": "Talk to Ayame (K-7 on the top floor of Metalworks in a Cannon Room) and accept her job offer. You cannot start this quest if you are a Bastokan citizen and have completed Bastok Mission 4-1, but have not started Bastok Mission 5-1. Ayame will just tell you to go talk to Naji because there is an emergency.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-out-of-the-depths-node-2",
+          "orderIndex": 1,
+          "title": "Next go talk to Ravorara outside the Steaming Sheep Restaurant Port Bastok (E-7) (Home Point #3).",
+          "description": "Next go talk to Ravorara outside the Steaming Sheep Restaurant Port Bastok (E-7) (Home Point #3).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-out-of-the-depths-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-out-of-the-depths-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Brakobrik at Oldton Movalpolos (K-11), selecting the option \"I getting you.\" You can use a P",
+          "description": "Talk to Brakobrik at Oldton Movalpolos (K-11), selecting the option \"I getting you.\" You can use a Proto-Waypoints to teleport to the Geomagnetic Fount at (K-11). Just drop down to the floor Brakobrik is on.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-out-of-the-depths-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-out-of-the-depths-node-4",
+          "orderIndex": 3,
+          "title": "Proceed to kill Ancient Bombs and gather 11 Hoary Bomb Ashes.",
+          "description": "Proceed to kill Ancient Bombs and gather 11 Hoary Bomb Ashes. Each kill will net you one to four. These bombs are hard to come by as they hang out by themselves in the tunnels throughout the zone. Since they have a 14 minute respawn time, making a wide circle through the zone through their spawn points is recommended (FFXIDB spawn map).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-out-of-the-depths-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-out-of-the-depths-node-5",
+          "orderIndex": 4,
+          "title": "Once you have 11 Hoary Bomb Ashes, take 10 of them & trade them in a specific way to Brakobrik.",
+          "description": "Once you have 11 Hoary Bomb Ashes, take 10 of them & trade them in a specific way to Brakobrik. Trade 1 pinch of Hoary Bomb Ash to get the Dusty Tome Trade 2 pinches of Hoary Bomb Ash to get the Pointed Jug Trade 3 pinches of Hoary Bomb Ash to get the Cracked Club Trade 4 pinches of Hoary Bomb Ash to get the Peeling Hairpin",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-out-of-the-depths-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-out-of-the-depths-node-6",
+          "orderIndex": 5,
+          "title": "Now return to Port Bastok and talk to Ravorara four times - once for each key item.",
+          "description": "Now return to Port Bastok and talk to Ravorara four times - once for each key item. She'll give you 100 gil for the Dusty Tome, 200 gil for the Pointed Jug, 300 gil for the Cracked Club, and 400 gil for the Peeling Hairpin (repeatable if quest isn't finished).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-out-of-the-depths-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-out-of-the-depths-node-7",
+          "orderIndex": 6,
+          "title": "Now you must return to Oldton Movalpolos and trade one additional Hoary Bomb Ash to Brakobrik.",
+          "description": "Now you must return to Oldton Movalpolos and trade one additional Hoary Bomb Ash to Brakobrik.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-out-of-the-depths-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-out-of-the-depths-node-8",
+          "orderIndex": 7,
+          "title": "This time say \"No Thanks\" when he offers a reward.",
+          "description": "This time say \"No Thanks\" when he offers a reward. He will apologize to you and give you the Old Nametag.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-out-of-the-depths-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-out-of-the-depths-node-9",
+          "orderIndex": 8,
+          "title": "Head back to Port Bastok and talk to Ravorara.",
+          "description": "Head back to Port Bastok and talk to Ravorara.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-out-of-the-depths-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-out-of-the-depths-node-10",
+          "orderIndex": 9,
+          "title": "Finally, go to Bastok Mines and speak with Pavvke, in a house on the lower level of I-7, to finish t",
+          "description": "Finally, go to Bastok Mines and speak with Pavvke, in a house on the lower level of I-7, to finish the quest and get your final reward, 1,200 gil.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-out-of-the-depths-node-9"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-past-perfect",
+      "title": "Past Perfect",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Past_Perfect",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-past-perfect-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Evi, talk to Rafaela next to him, and then talk to Evi again.",
+          "description": "Talk to Evi, talk to Rafaela next to him, and then talk to Evi again.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-past-perfect-node-2",
+          "orderIndex": 1,
+          "title": "Go to Konschtat Highlands and select the ??? near the windmills at G-8 to receive the Tattered Missi",
+          "description": "Go to Konschtat Highlands and select the ??? near the windmills at G-8 to receive the Tattered Mission Orders (key item).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-past-perfect-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-past-perfect-node-3",
+          "orderIndex": 2,
+          "title": "Return to Port Bastok and talk to Evi to deliver the orders and complete the quest.",
+          "description": "Return to Port Bastok and talk to Evi to deliver the orders and complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-past-perfect-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-return-to-the-depths",
+      "title": "Return to the Depths",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Return_to_the_Depths",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-return-to-the-depths-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Ayame for a cutscene that starts the quest.",
+          "description": "Talk to Ayame for a cutscene that starts the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-return-to-the-depths-node-2",
+          "orderIndex": 1,
+          "title": "Go to Oldton Movalpolos, watch a cutscene, and proceed to Misareaux Coast and obtain a Misareaux Gar",
+          "description": "Go to Oldton Movalpolos, watch a cutscene, and proceed to Misareaux Coast and obtain a Misareaux Garlic that drops from the Orcs there.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-return-to-the-depths-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-rivals",
+      "title": "Rivals",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Rivals",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-rivals-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Detzo.",
+          "description": "Talk to Detzo.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-rivals-node-2",
+          "orderIndex": 1,
+          "title": "Obtain a Mythril Sallet and trade it to Detzo for the cut-scene and to receive your reward.",
+          "description": "Obtain a Mythril Sallet and trade it to Detzo for the cut-scene and to receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-rivals-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-shady-business",
+      "title": "Shady Business",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Shady_Business",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-shady-business-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Talib in Port Bastok (F-6) (Home Point #3) (located downstairs in Warehouse 2) who tells you",
+          "description": "Talk to Talib in Port Bastok (F-6) (Home Point #3) (located downstairs in Warehouse 2) who tells you he wants four more Zinc Ore.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-shady-business-node-2",
+          "orderIndex": 1,
+          "title": "Obtain four Zinc Ore and trade them to Talib to complete the quest and receive the gil reward.",
+          "description": "Obtain four Zinc Ore and trade them to Talib to complete the quest and receive the gil reward. Hint: You can trade anywhere from 5 to 12 ores; Talib will take 4 from your trade and return the rest to your inventory. In other words, you don't have to trade exactly 4. Thus, you can complete multiple trades rapidly.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-shady-business-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-shoot-first-ask-questions-later",
+      "title": "Shoot First, Ask Questions Later",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Shoot_First,_Ask_Questions_Later",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-shoot-first-ask-questions-later-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Cid in Metalworks to receive the Gun of Trials and a Weapon Training Guide.",
+          "description": "Talk to Cid in Metalworks to receive the Gun of Trials and a Weapon Training Guide.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-shoot-first-ask-questions-later-node-2",
+          "orderIndex": 1,
+          "title": "Use the Gun of Trials until the latent effect disappears.",
+          "description": "Use the Gun of Trials until the latent effect disappears. You must accumulate 300 total Weapon Skill Points by performing Weapon Skills on experience-yielding monsters. You cannot earn points by participating in Campaign Battles or Besieged, because those monsters do not directly grant experience points. The Weapon Skills must be performed by this particular gun; using a melee Weapon Skill with this gun merely equipped does not count. Weapon Skills performed while under Level Sync count. Weapon Skills performed in Reives will count. You receive 5 points for opening/soloing a weaponskill, 7 points for closing a Lv.1 Skillchain, 9 points for closing a Lv.2 Skillchain and 11 points for closing a level 3 Skillchain. No message is given when the latent effect is lost. To check if the latent effect has disappeared, simply check if you have the bonus stats; if not, you are done. It is not necessary to unequip the gun for the latent effect to disappear; the stats disappear immediately upon acquiring the 300th WS point. Note your Elemental Resistance bonuses from the weapon: they will be gone if the latent is broken.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-shoot-first-ask-questions-later-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-shoot-first-ask-questions-later-node-3",
+          "orderIndex": 2,
+          "title": "Once you no longer receive the latent effect bonus, head back to Metalworks and trade the Gun of Tri",
+          "description": "Once you no longer receive the latent effect bonus, head back to Metalworks and trade the Gun of Trials to Cid, who takes the weapon from you and gives you a Map to the Annals of Truth and instructions to head to the Boyahda Tree.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-shoot-first-ask-questions-later-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-shoot-first-ask-questions-later-node-4",
+          "orderIndex": 3,
+          "title": "Once in the Boyahda Tree, go to Map 3 (J-8) and click the ??? to spawn the NM named Beet Leafhopper.",
+          "description": "Once in the Boyahda Tree, go to Map 3 (J-8) and click the ??? to spawn the NM named Beet Leafhopper.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-shoot-first-ask-questions-later-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-shoot-first-ask-questions-later-node-5",
+          "orderIndex": 4,
+          "title": "Once the NM is dead, reexamine the ??? to obtain the Annals of Truth.",
+          "description": "Once the NM is dead, reexamine the ??? to obtain the Annals of Truth.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-shoot-first-ask-questions-later-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-shoot-first-ask-questions-later-node-6",
+          "orderIndex": 5,
+          "title": "Return to Cid for your reward.",
+          "description": "Return to Cid for your reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-shoot-first-ask-questions-later-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-silence-of-the-rams",
+      "title": "Silence of the Rams",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Silence_of_the_Rams",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-silence-of-the-rams-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Paujean on the bottom floor of Warehouse 2 (Bastok).",
+          "description": "Talk to Paujean on the bottom floor of Warehouse 2 (Bastok).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-silence-of-the-rams-node-2",
+          "orderIndex": 1,
+          "title": "Trade Paujean a Rampaging Horn and a Lumbering Horn to complete the quest.",
+          "description": "Trade Paujean a Rampaging Horn and a Lumbering Horn to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-silence-of-the-rams-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-smoke-on-the-mountain",
+      "title": "Smoke on the Mountain",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Smoke_on_the_Mountain",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-smoke-on-the-mountain-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Hungry Wolf in the eatery; he's dissatisfied with the food and wants you to bring him a Galk",
+          "description": "Talk to Hungry Wolf in the eatery; he's dissatisfied with the food and wants you to bring him a Galkan Sausage. He mentions that his friend Offa might have more information.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-smoke-on-the-mountain-node-2",
+          "orderIndex": 1,
+          "title": "(Optional) Talk to Offa to learn how to make the sausage.",
+          "description": "(Optional) Talk to Offa to learn how to make the sausage.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-smoke-on-the-mountain-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-smoke-on-the-mountain-node-3",
+          "orderIndex": 2,
+          "title": "Obtain a Galkan Sausage either from the Auction House or by following the recipe: Obtain a piece of ",
+          "description": "Obtain a Galkan Sausage either from the Auction House or by following the recipe: Obtain a piece of Giant Sheep Meat. Go to South Gustaberg and follow the path starting in the northeast corner of K-10 to a goblin camp at the top of a small hill. (See the map.) Trade the sheep meat to the ??? in the campfire. Wait one minute (Earth time) for the sausage to cook. Examine the fire to get your sausage.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-smoke-on-the-mountain-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-stamp-hunt",
+      "title": "Stamp Hunt",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Stamp_Hunt",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-stamp-hunt-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Arawn; he and Emrys are stamp collectors and he gives you a blank Stamp Sheet so you can hel",
+          "description": "Talk to Arawn; he and Emrys are stamp collectors and he gives you a blank Stamp Sheet so you can help him collect stamps.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-stamp-hunt-node-2",
+          "orderIndex": 1,
+          "title": "Obtain the stamps by talking to 7 guards spread out all over Bastok.",
+          "description": "Obtain the stamps by talking to 7 guards spread out all over Bastok. You can get the locations, sort of, by examining the stamp sheet.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-stamp-hunt-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-stamp-hunt-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Arawn again to complete the quest.",
+          "description": "Talk to Arawn again to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-stamp-hunt-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-stamp-hunt-node-4",
+          "orderIndex": 3,
+          "title": "Try to get the Moogle Exit Upgrade.",
+          "description": "Try to get the Moogle Exit Upgrade. It really makes this time-consuming quest easier and less time consuming!",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-stamp-hunt-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-stardust",
+      "title": "Stardust",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Stardust",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-stardust-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Baldric on the lower level of the Metalworks in the Darksteel Forge.",
+          "description": "Talk to Baldric on the lower level of the Metalworks in the Darksteel Forge.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-stardust-node-2",
+          "orderIndex": 1,
+          "title": "Trade a a pinch of Valkurm Sunsand to Baldric to complete the quest.",
+          "description": "Trade a a pinch of Valkurm Sunsand to Baldric to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-stardust-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-synergistic-pursuits",
+      "title": "Synergistic Pursuits",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Synergistic_Pursuits",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-synergistic-pursuits-node-1",
+          "orderIndex": 0,
+          "title": "Head to Metalworks in Bastok and speak to Hildolf (F-8 ground floor), who asks for an Earth Crystal,",
+          "description": "Head to Metalworks in Bastok and speak to Hildolf (F-8 ground floor), who asks for an Earth Crystal, a Flint Stone, an onz of Mythril Sand, and a Brass Tank.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-synergistic-pursuits-node-2",
+          "orderIndex": 1,
+          "title": "Trade Hildolf the four items to obtain a Synergy crucible.",
+          "description": "Trade Hildolf the four items to obtain a Synergy crucible.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-synergistic-pursuits-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-synergistic-pursuits-node-3",
+          "orderIndex": 2,
+          "title": "Congratulations! You are now a certified Synergist!.",
+          "description": "Congratulations! You are now a certified Synergist!",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-synergistic-pursuits-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-synergistic-support",
+      "title": "Synergistic Support",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Synergistic_Support",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-synergistic-support-node-1",
+          "orderIndex": 0,
+          "title": "Head to Metalworks in Bastok and simply speak with Hildolf (F-8 ground floor) for cutscene.",
+          "description": "Head to Metalworks in Bastok and simply speak with Hildolf (F-8 ground floor) for cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-synergistic-support-node-2",
+          "orderIndex": 1,
+          "title": "After giving you some tips on how to make your own fewell, Hildolf offers you three free Fewell of y",
+          "description": "After giving you some tips on how to make your own fewell, Hildolf offers you three free Fewell of your choice. After making your selection, this quest is immediately added to your completed quests. Hildolf may request Slime Oil if the crucible is obtained without doing the previous quest. In that case trading it to him will bring you to the Fewell selection.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-synergistic-support-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-teak-me-to-the-stars",
+      "title": "Teak Me to the Stars",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Teak_Me_to_the_Stars",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-teak-me-to-the-stars-node-1",
+          "orderIndex": 0,
+          "title": "Raibaht needs some Garhada Teak Lumber for an airship Cid is working on.",
+          "description": "Raibaht needs some Garhada Teak Lumber for an airship Cid is working on. Garhada Teak Lumber is dropped by enemies on the Phanauet Channel barge, both randomly spawned (Giant Pugil and Ooze) and fished up (Fishtrap); it is not dropped by Flytraps. The barge can be boarded from various stops along Carpenter's Landing. It is also dropped by the Fishtraps that are fished up in Carpenter's Landing. The dock by the Survival Guide is a good place, but be warned that some fish that can break rods, such as Dark Bass, are fished up there.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-teak-me-to-the-stars-node-2",
+          "orderIndex": 1,
+          "title": "Trade one piece of the Garhada Teak Lumber to Raibaht to complete the quest and receive your reward.",
+          "description": "Trade one piece of the Garhada Teak Lumber to Raibaht to complete the quest and receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-teak-me-to-the-stars-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-bare-bones",
+      "title": "The Bare Bones",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Bare_Bones",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-bare-bones-node-1",
+          "orderIndex": 0,
+          "title": "(Optional) Talk to Degenhard; he talks about a vitality formula but won't tell you any more until yo",
+          "description": "(Optional) Talk to Degenhard; he talks about a vitality formula but won't tell you any more until you bring him his secret ingredient. Unfortunately, he doesn't tell you what the ingredient is.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-bare-bones-node-2",
+          "orderIndex": 1,
+          "title": "(Optional) Talk to Biggorf nearby; he says that he's seen people giving Degenhard Bone Chips.",
+          "description": "(Optional) Talk to Biggorf nearby; he says that he's seen people giving Degenhard Bone Chips. This only happens if you talk to Biggorf after talking to Degenhard.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-bare-bones-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-bare-bones-node-3",
+          "orderIndex": 2,
+          "title": "Obtain a Bone Chip and trade it to Degenhard to complete the quest.",
+          "description": "Obtain a Bone Chip and trade it to Degenhard to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-bare-bones-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-bare-bones-node-4",
+          "orderIndex": 3,
+          "title": "If you already bought the map, you will just receive the 2,000 experience points.",
+          "description": "If you already bought the map, you will just receive the 2,000 experience points.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-bare-bones-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-cold-light-of-day",
+      "title": "The Cold Light of Day",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Cold_Light_of_Day",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-cold-light-of-day-node-1",
+          "orderIndex": 0,
+          "title": "NOTE: Steam Clock, which is needed to finish this quest, may be available at the Auction House.",
+          "description": "NOTE: Steam Clock, which is needed to finish this quest, may be available at the Auction House",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-cold-light-of-day-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Malene; a monster stole a parcel she was expecting and she asks you to find it for her.",
+          "description": "Talk to Malene; a monster stole a parcel she was expecting and she asks you to find it for her. The problem is that monster who stole it is hiding near the lighthouse and won't come out. She mentions another adventurer named Dalzakk who might know how to lure the monster out. Dalzakk lives in a house on Kulatz Bridge.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-cold-light-of-day-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-cold-light-of-day-node-3",
+          "orderIndex": 2,
+          "title": "(Optional) Go to Dalzakk's house, he isn't home so talk to Gwill.",
+          "description": "(Optional) Go to Dalzakk's house, he isn't home so talk to Gwill. Gwill gives you the hint about the monster, put a Quus behind the lighthouse.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-cold-light-of-day-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-cold-light-of-day-node-4",
+          "orderIndex": 3,
+          "title": "Obtain a Quus.",
+          "description": "Obtain a Quus.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-cold-light-of-day-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-cold-light-of-day-node-5",
+          "orderIndex": 4,
+          "title": "Find the ??? behind the lighthouse at M-10 in South Gustaberg and trade the Quus to it.",
+          "description": "Find the ??? behind the lighthouse at M-10 in South Gustaberg and trade the Quus to it. You may have to wait a bit for the monster (Bubbly Bernie) to appear.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-cold-light-of-day-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-cold-light-of-day-node-6",
+          "orderIndex": 5,
+          "title": "Kill Bubbly Bernie to obtain a Steam Clock.",
+          "description": "Kill Bubbly Bernie to obtain a Steam Clock.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-cold-light-of-day-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-curse-collector",
+      "title": "The Curse Collector",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Curse_Collector",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-curse-collector-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Zon-Fobun and receive a Cursepaper (key item).",
+          "description": "Talk to Zon-Fobun and receive a Cursepaper (key item).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-curse-collector-node-2",
+          "orderIndex": 1,
+          "title": "Go to Beadeaux and proceed to one of the sets of machines: you need to visit an Afflictor (which Cur",
+          "description": "Go to Beadeaux and proceed to one of the sets of machines: you need to visit an Afflictor (which Curses whoever comes near it, unless they are currently Silenced) and Mute (which Silences whoever touches it). So it is important to get cursed first, by coming near the Afflictor, and then touch the Mute to become silenced.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-curse-collector-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-darksmith",
+      "title": "The Darksmith",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Darksmith",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-darksmith-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Mighty Fist.",
+          "description": "Talk to Mighty Fist.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-darksmith-node-2",
+          "orderIndex": 1,
+          "title": "Trade two Darksteel Ore to Mighty Fist to complete the quest.",
+          "description": "Trade two Darksteel Ore to Mighty Fist to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-darksmith-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-doorman",
+      "title": "The Doorman",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Doorman",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-doorman-node-1",
+          "orderIndex": 0,
+          "title": "Phara, an elderly Hume woman at (J-9) in Bastok Mines will ask you for some Sword Grip Material (key",
+          "description": "Phara, an elderly Hume woman at (J-9) in Bastok Mines will ask you for some Sword Grip Material (key item) from Davoi. Your job no longer needs to be Warrior.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-doorman-node-2",
+          "orderIndex": 1,
+          "title": "Enter Davoi and head almost directly south to a small open area, down to a short, narrow path until ",
+          "description": "Enter Davoi and head almost directly south to a small open area, down to a short, narrow path until you reach the wide-open area of (K-9) and (K-10).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-doorman-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-eleventh-s-hour",
+      "title": "The Eleventh's Hour",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Eleventh%27s_Hour",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-eleventh-s-hour-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Elki.",
+          "description": "Talk to Elki. (You must zone between this quest and Hearts of Mythril.)",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-eleventh-s-hour-node-2",
+          "orderIndex": 1,
+          "title": "Go to Palborough Mines and take the elevator at I-8 to the third floor.",
+          "description": "Go to Palborough Mines and take the elevator at I-8 to the third floor.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-eleventh-s-hour-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-eleventh-s-hour-node-3",
+          "orderIndex": 2,
+          "title": "Make your way to the LEFT side of the split chamber to the west.",
+          "description": "Make your way to the LEFT side of the split chamber to the west. But you can't just go west. That would be too easy. See map, to notice how you have to thread your way through an obscene amount of dead ends.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-eleventh-s-hour-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-eleventh-s-hour-node-4",
+          "orderIndex": 3,
+          "title": "At the line between H-7 and H-8 examine the Old Toolbox and obtain the Old Toolbox (key item).",
+          "description": "At the line between H-7 and H-8 examine the Old Toolbox and obtain the Old Toolbox (key item).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-eleventh-s-hour-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-eleventh-s-hour-node-5",
+          "orderIndex": 4,
+          "title": "Return to Bastok and talk to Elki.",
+          "description": "Return to Bastok and talk to Elki. (Quickest way back, is to take the one-way boat, near top of elevator. Again, see inset map on this page).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-eleventh-s-hour-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-eleventh-s-hour-node-6",
+          "orderIndex": 5,
+          "title": "Talk to Babenn at (J-6) to receive the reward of a Small Sword.",
+          "description": "Talk to Babenn at (J-6) to receive the reward of a Small Sword.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-eleventh-s-hour-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-eleventh-s-hour-node-7",
+          "orderIndex": 6,
+          "title": "(Optional) After completing Beauty and the Galka, return to Parraggoh for additional dialoge.",
+          "description": "(Optional) After completing Beauty and the Galka, return to Parraggoh for additional dialoge.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-eleventh-s-hour-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-elvaan-goldsmith",
+      "title": "The Elvaan Goldsmith",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Elvaan_Goldsmith",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-elvaan-goldsmith-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Michea.",
+          "description": "Talk to Michea.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-elvaan-goldsmith-node-2",
+          "orderIndex": 1,
+          "title": "Trade a Copper Ingot to Michea.",
+          "description": "Trade a Copper Ingot to Michea.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-elvaan-goldsmith-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-first-meeting",
+      "title": "The First Meeting",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_First_Meeting",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-first-meeting-node-1",
+          "orderIndex": 0,
+          "title": "NOTE: You must zone after obtaining your artifact weapon (Beat Cesti) to flag this quest.",
+          "description": "NOTE: You must zone after obtaining your artifact weapon (Beat Cesti) to flag this quest. If you changed jobs to complete Ghosts of the Past you must change your main job back to Monk.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-first-meeting-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Oggbi in Port Bastok inside the Steaming Sheep Restaurant located at (E-6).",
+          "description": "Talk to Oggbi in Port Bastok inside the Steaming Sheep Restaurant located at (E-6). He will ask you to travel to Fei'Yin to meet Dalzakk. Once the quest shows up in your quest log, you may feel free to change jobs to continue the quest with another job (preferably a higher leveled job).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-first-meeting-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-first-meeting-node-3",
+          "orderIndex": 2,
+          "title": "Zone into Qu'Bia Arena and upon exiting back into Fei'Yin you will trigger a cutscene and receive Le",
+          "description": "Zone into Qu'Bia Arena and upon exiting back into Fei'Yin you will trigger a cutscene and receive Letter from Dalzakk (key item). You will not trigger the cutscene zoning into Fei'Yin from Beaucedine Glacier. The cutscene will only trigger from an exit from Qu'Bia Arena. Fei'Yin Home Point #1 is next to Qu'Bia Arena.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-first-meeting-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-first-meeting-node-4",
+          "orderIndex": 3,
+          "title": "After that, head to Davoi and look for a 'Hide Flap' on one of the tents at (F-7).",
+          "description": "After that, head to Davoi and look for a 'Hide Flap' on one of the tents at (F-7). Clear the area of any Orcs wandering around the area as they will link to the NMs once they are spawned, This can spell disaster, even for a job at level 75.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-first-meeting-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-first-meeting-node-5",
+          "orderIndex": 4,
+          "title": "Interact with the Hide Flap to trigger two NM Orcs to spawn: Bilopdop (MNK) and Deloknok (PLD).",
+          "description": "Interact with the Hide Flap to trigger two NM Orcs to spawn: Bilopdop (MNK) and Deloknok (PLD). Bilopdop is immune to sleep. See also: Testimonials.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-first-meeting-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-first-meeting-node-6",
+          "orderIndex": 5,
+          "title": "Kill them and investigate the 'Hide Flap' on the tent again to receive the San d'Orian Martial Arts ",
+          "description": "Kill them and investigate the 'Hide Flap' on the tent again to receive the San d'Orian Martial Arts Scroll (Key Item). If you are doing this quest as a party, each member will have to pop a new set of NMs before obtaining the Key Item. The cooldown timer seems to be about 4 minutes since the last party member got his KI.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-first-meeting-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-gustaberg-tour",
+      "title": "The Gustaberg Tour",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Gustaberg_Tour",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-gustaberg-tour-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Izabele to begin the quest.",
+          "description": "Talk to Izabele to begin the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-gustaberg-tour-node-2",
+          "orderIndex": 1,
+          "title": "Pair up with somebody else.",
+          "description": "Pair up with somebody else.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-gustaberg-tour-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-gustaberg-tour-node-3",
+          "orderIndex": 2,
+          "title": "One of you must be level 10-15 if you want to use Level Sync to meet the level requirement.",
+          "description": "One of you must be level 10-15 if you want to use Level Sync to meet the level requirement. Remember that Level Sync does not work if the sync designee is below level 10. Alternatively, all party members can naturally be levels 1-15.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-gustaberg-tour-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-gustaberg-tour-node-4",
+          "orderIndex": 3,
+          "title": "When everyone has the quest, go to North Gustaberg (west section) and talk to Hunting Bear near the ",
+          "description": "When everyone has the quest, go to North Gustaberg (west section) and talk to Hunting Bear near the falls to get a short cutscene that completes the quest. There is some chance of aggro on the way to the falls, but it is easily killed if either of you are level 8+. To actually complete the quest, Alter Egos won't work. The quest requires a real party member. However, after completing this quest, you can rewatch the cutscene with Hunting Bear at the Goblin Footprint in North Gustaberg. If you summon Alter Egos with Trust Magic and then rewatch this quest's cutscene, you can see your summoned Alter Egos in the cutscene.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-gustaberg-tour-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-naming-game",
+      "title": "The Naming Game",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Naming_Game",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-naming-game-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Raibaht to start the quest.",
+          "description": "Talk to Raibaht to start the quest. You do not need to zone after completing the previous quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-naming-game-node-2",
+          "orderIndex": 1,
+          "title": "Obtain an Ordrynite from a Cryptonberry Plaguer or Cryptonberry Stalker in Pso'Xja.",
+          "description": "Obtain an Ordrynite from a Cryptonberry Plaguer or Cryptonberry Stalker in Pso'Xja. These mobs can be found in both the (G-9) and (I-7) entrances from Beaucedine Glacier, but (G-9) is recommended over (I-7) since it has more spawns. Alternatively, the Ordrynite is obtainable through digging in Beaucedine Glacier as of June 2016 update.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-naming-game-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-naming-game-node-3",
+          "orderIndex": 2,
+          "title": "Trade the Ordrynite to Raibaht for a cutscene and your rewards.",
+          "description": "Trade the Ordrynite to Raibaht for a cutscene and your rewards. You can rename the airship by trading another Ordrynite. You are initially allowed to pick three words, and the last word will be C.I.D. Example: If Mighty, Morphing, and Power are chosen, the name will be Mighty Morphing Power C.I.D.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-naming-game-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-naming-game-node-4",
+          "orderIndex": 3,
+          "title": "After repeating the quest ten times, you can choose a different name than C.I.D.",
+          "description": "After repeating the quest ten times, you can choose a different name than C.I.D. for the fourth option.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-naming-game-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-quadav-s-curse",
+      "title": "The Quadav's Curse",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Quadav%27s_Curse",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-quadav-s-curse-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Corann inside the house at (K-6).",
+          "description": "Talk to Corann inside the house at (K-6). He's got a phobia about going outside, but he thinks that if you brought him something large to hide in it would help.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-quadav-s-curse-node-2",
+          "orderIndex": 1,
+          "title": "Taking a hint from the name of the quest, obtain a Quadav Backplate and trade it to Corann to comple",
+          "description": "Taking a hint from the name of the quest, obtain a Quadav Backplate and trade it to Corann to complete the quest. The nearest drops for Quadav Backplate are from Amethyst Quadav in North Gustaberg and Palborough Mines.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-quadav-s-curse-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-return-of-the-adventurer",
+      "title": "The Return of the Adventurer",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Return_of_the_Adventurer",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-return-of-the-adventurer-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Gwill.",
+          "description": "Talk to Gwill.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-return-of-the-adventurer-node-2",
+          "orderIndex": 1,
+          "title": "Trade a Cinnamon to Gwill.",
+          "description": "Trade a Cinnamon to Gwill.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-return-of-the-adventurer-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-signpost-marks-the-spot",
+      "title": "The Signpost Marks the Spot",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Signpost_Marks_the_Spot",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-signpost-marks-the-spot-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Nbu Latteh.",
+          "description": "Talk to Nbu Latteh. Note: If you have not zoned from the prior quest, Mom, the Adventurer? Nbu will just chat with you about her work.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-signpost-marks-the-spot-node-2",
+          "orderIndex": 1,
+          "title": "Go to Konschtat Highlands and select the signpost at G-5 to receive the Painting of a Windmill (key ",
+          "description": "Go to Konschtat Highlands and select the signpost at G-5 to receive the Painting of a Windmill (key item).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-signpost-marks-the-spot-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-signpost-marks-the-spot-node-3",
+          "orderIndex": 2,
+          "title": "Return to Bastok, and talk to Roh Latteh in Bastok Mines to complete the quest and receive the Linen",
+          "description": "Return to Bastok, and talk to Roh Latteh in Bastok Mines to complete the quest and receive the Linen Robe reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-signpost-marks-the-spot-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-siren-s-tear",
+      "title": "The Siren's Tear",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Siren%27s_Tear",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-siren-s-tear-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Wahid in Bastok Mines (Home Point #1); he's a collector of precious gems and is looking for ",
+          "description": "Talk to Wahid in Bastok Mines (Home Point #1); he's a collector of precious gems and is looking for a Siren's Tear. He says they can be found near the rivers of the Gustaberg Mountains but will slip through your fingers unless they are handled in a special way. Also, there is a bard in a tavern somewhere who has advice on how to get the jewel.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-siren-s-tear-node-2",
+          "orderIndex": 1,
+          "title": "(Optional) Talk to Otto at the Steaming Sheep in Port Bastok (E-6); he will point to the bard mentio",
+          "description": "(Optional) Talk to Otto at the Steaming Sheep in Port Bastok (E-6); he will point to the bard mentioned above, Carmelo.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-siren-s-tear-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-siren-s-tear-node-3",
+          "orderIndex": 2,
+          "title": "(Optional) Talk to Carmelo; he sings a cryptic song explaining how to get the tear and he explains i",
+          "description": "(Optional) Talk to Carmelo; he sings a cryptic song explaining how to get the tear and he explains its meaning.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-siren-s-tear-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-siren-s-tear-node-4",
+          "orderIndex": 3,
+          "title": "Go to North Gustaberg (east section) and locate the ??? along the river at J-8 and J-9.",
+          "description": "Go to North Gustaberg (east section) and locate the ??? along the river at J-8 and J-9. (You can avoid aggro by going via Port Bastok Home Point #1.) The ??? will move around the shore line, so it's not always in the same spot. A good strategy is to check one side of the river, then the other until you find the ???.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-siren-s-tear-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-siren-s-tear-node-5",
+          "orderIndex": 4,
+          "title": "Unequip your weapon and shield and examine the ??? to pick up the Siren's Tear.",
+          "description": "Unequip your weapon and shield and examine the ??? to pick up the Siren's Tear.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-siren-s-tear-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-siren-s-tear-node-6",
+          "orderIndex": 5,
+          "title": "Trade the tear to Wahid to complete the quest.",
+          "description": "Trade the tear to Wahid to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-siren-s-tear-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-stars-of-ifrit",
+      "title": "The Stars of Ifrit",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Stars_of_Ifrit",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-stars-of-ifrit-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Agapito, who is outside the air travel agency in Port Bastok.",
+          "description": "Talk to Agapito, who is outside the air travel agency in Port Bastok.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-stars-of-ifrit-node-2",
+          "orderIndex": 1,
+          "title": "Next you have to ride the San d'Oria-Jeuno Airship under the right conditions, which are nighttime a",
+          "description": "Next you have to ride the San d'Oria-Jeuno Airship under the right conditions, which are nighttime and Full Moon (19:40 - 06:00 and moon ≥ 90%). Either direction will work. Do not board in Port Bastok; you cannot receive the item on this route.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-stars-of-ifrit-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-stars-of-ifrit-node-3",
+          "orderIndex": 2,
+          "title": "Search the rail of the ship for a ??? and check it to obtain a Carrier Pigeon Letter.",
+          "description": "Search the rail of the ship for a ??? and check it to obtain a Carrier Pigeon Letter.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-stars-of-ifrit-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-stars-of-ifrit-node-4",
+          "orderIndex": 3,
+          "title": "Return to Agapito with the letter to receive your reward.",
+          "description": "Return to Agapito with the letter to receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-stars-of-ifrit-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-talekeeper-s-gift",
+      "title": "The Talekeeper's Gift",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Talekeeper%27s_Gift",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-talekeeper-s-gift-node-1",
+          "orderIndex": 0,
+          "title": "After receiving your Fighter's Calligae, wait until the following game day, then speak to Deidogg as",
+          "description": "After receiving your Fighter's Calligae, wait until the following game day, then speak to Deidogg as a Warrior.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-talekeeper-s-gift-node-2",
+          "orderIndex": 1,
+          "title": "Head around the corner to the small Galka child, Detzo, who will tell you Deidogg secretly likes Gin",
+          "description": "Head around the corner to the small Galka child, Detzo, who will tell you Deidogg secretly likes Ginger Cookies. You can buy Ginger Cookies from Valeriano, who is located in whichever is currently ranked 1st, or from a Curio Vendor Moogle provided you have unlocked it.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-talekeeper-s-gift-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-talekeeper-s-gift-node-3",
+          "orderIndex": 2,
+          "title": "Trade a Ginger Cookie to Deidogg for the quest to register on your quest log.",
+          "description": "Trade a Ginger Cookie to Deidogg for the quest to register on your quest log.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-talekeeper-s-gift-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-talekeeper-s-truth",
+      "title": "The Talekeeper's Truth",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Talekeeper%27s_Truth",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-talekeeper-s-truth-node-1",
+          "orderIndex": 0,
+          "title": "Phara, at (J-9) in the Bastok Mines tells you about the Galka Deidogg at (H-6) in the Bastok Mines.",
+          "description": "Phara, at (J-9) in the Bastok Mines tells you about the Galka Deidogg at (H-6) in the Bastok Mines.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-talekeeper-s-truth-node-2",
+          "orderIndex": 1,
+          "title": "You will need to speak with Deidogg twice with Warrior set as your main job to receive the cutscene ",
+          "description": "You will need to speak with Deidogg twice with Warrior set as your main job to receive the cutscene where he will ask you for a Mottled Quadav Egg dropped by Ni'Ghu Nestfender in Palborough Mines.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-talekeeper-s-truth-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-talekeeper-s-truth-node-3",
+          "orderIndex": 2,
+          "title": "If you have it unlocked, it is a short run from the Palborough Mines Home Point #1 to the spawn poin",
+          "description": "If you have it unlocked, it is a short run from the Palborough Mines Home Point #1 to the spawn point. Otherwise: From the first map in Palborough Mines, take the elevator at I-8 up to the Third Floor. Ni'Ghu Nestfender spawns from a ??? located in G-10. Nothing here will be high enough to aggro you, and the room is usually empty, but if some Quadav have wandered in, of course, clear the area beforehand.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-talekeeper-s-truth-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-usual",
+      "title": "The Usual",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Usual",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-usual-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Hilda.",
+          "description": "Talk to Hilda.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-usual-node-2",
+          "orderIndex": 1,
+          "title": "Trade a King Truffle to Hilda and she will give you the key item Steaming Sheep Invitation.",
+          "description": "Trade a King Truffle to Hilda and she will give you the key item Steaming Sheep Invitation.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-usual-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-usual-node-3",
+          "orderIndex": 2,
+          "title": "Go to the Metalworks and talk to Raibaht in Cid's Lab.",
+          "description": "Go to the Metalworks and talk to Raibaht in Cid's Lab.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-usual-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-walls-of-your-mind",
+      "title": "The Walls of Your Mind",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Walls_of_Your_Mind",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-walls-of-your-mind-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Oggbi in Port Bastok as a Monk or Puppetmaster level 71 minimum with 250 Hand-to-Hand skill ",
+          "description": "Talk to Oggbi in Port Bastok as a Monk or Puppetmaster level 71 minimum with 250 Hand-to-Hand skill minimum (merit bonuses do not count for beginning the quest) to obtain the Knuckles of Trials and a Weapon Training Guide. You cannot begin this quest if you have any other quest involving the Weapon Training Guide active. You must be level 71 minimum to begin the quest, but after beginning the quest, deleveling to 70 does not affect the quest progress in any way.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-walls-of-your-mind-node-2",
+          "orderIndex": 1,
+          "title": "Perform weapon skills with the Knuckles of Trials until the latent effect disappears.",
+          "description": "Perform weapon skills with the Knuckles of Trials until the latent effect disappears. You must accumulate 300 Weapon Skill Points on experience-yielding monsters. Weapon Skills in Campaign Battles and Besieged do not count. Weapon Skills performed while under Level Sync do count. Your latent effect may disappear when level sync is applied due to equipment adjustment. Remove sync to ensure the weapon is broken. Weapon Skills in Reives do count. You receive 5 points for opening/soloing a weapon skill, 7 points for closing a Lv.1 skillchain, 9 points for closing a Lv.2 skillchain, and 11 points for closing a level 3 skillchain. Wheeling Thrust (DRG, Spear)--> Dragon's Kick (H2H) Light Skillchain. To check to see if the latent effect has disappeared, simply check your equipment page for the elemental resistance bonuses, and if you do not have the bonus stats anymore, you are done.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-walls-of-your-mind-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-walls-of-your-mind-node-3",
+          "orderIndex": 2,
+          "title": "Once you no longer receive the latent effect bonus, head back to Port Bastok and trade the Knuckles ",
+          "description": "Once you no longer receive the latent effect bonus, head back to Port Bastok and trade the Knuckles of Trials back to Oggbi, who takes the weapon from you and gives you a Map to the Annals of Truth, telling you to head to Bostaunieux Oubliette.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-walls-of-your-mind-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-walls-of-your-mind-node-4",
+          "orderIndex": 3,
+          "title": "Once in Bostaunieux Oubliette, follow the path south, then turn west into a long corridor.",
+          "description": "Once in Bostaunieux Oubliette, follow the path south, then turn west into a long corridor. Go through the Wooden Door at the end of the corridor and talk to the NPC there to access the trap door, which takes you to the lower level with monsters.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-walls-of-your-mind-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-walls-of-your-mind-node-5",
+          "orderIndex": 4,
+          "title": "Make your way to the small room at (I-8) on the third map, clear the room of leeches, rest up, and c",
+          "description": "Make your way to the small room at (I-8) on the third map, clear the room of leeches, rest up, and click the ??? in the center of the room to spawn the NM warrior skeleton Bodach. You can spawn Bodach on any job. Bodach uses Blood Saber, Hell Slash, and Horror Cloud; possesses very high HP and higher-than-average evasion.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-walls-of-your-mind-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-walls-of-your-mind-node-6",
+          "orderIndex": 5,
+          "title": "Once the NM is dead, reexamine the ??? to obtain the Annals of Truth.",
+          "description": "Once the NM is dead, reexamine the ??? to obtain the Annals of Truth.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-walls-of-your-mind-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-walls-of-your-mind-node-7",
+          "orderIndex": 6,
+          "title": "Return to Oggbi for your reward.",
+          "description": "Return to Oggbi for your reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-walls-of-your-mind-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-weight-of-your-limits",
+      "title": "The Weight of Your Limits",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Weight_of_Your_Limits",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-weight-of-your-limits-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Iron Eater in Metalworks who will give you the Axe of Trials and the Weapon Training Guide.",
+          "description": "Talk to Iron Eater in Metalworks who will give you the Axe of Trials and the Weapon Training Guide.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-weight-of-your-limits-node-2",
+          "orderIndex": 1,
+          "title": "Use the Axe of Trials until the latent effect disappears.",
+          "description": "Use the Axe of Trials until the latent effect disappears.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-weight-of-your-limits-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-wisdom-of-elders",
+      "title": "The Wisdom of Elders",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Wisdom_of_Elders",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-wisdom-of-elders-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Benita; she's having problems cleaning her chimney but says her mother-in-law has a secret f",
+          "description": "Talk to Benita; she's having problems cleaning her chimney but says her mother-in-law has a secret for doing it easily.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-wisdom-of-elders-node-2",
+          "orderIndex": 1,
+          "title": "Talk to the mother-in-law (outside at [I-5]), Tete, to find out about Bomb Ash.",
+          "description": "Talk to the mother-in-law (outside at [I-5]), Tete, to find out about Bomb Ash.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-wisdom-of-elders-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-wisdom-of-elders-node-3",
+          "orderIndex": 2,
+          "title": "Trade a Bomb Ash to Benita to complete the quest.",
+          "description": "Trade a Bomb Ash to Benita to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-wisdom-of-elders-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-the-wondrous-whatchamacallit",
+      "title": "The Wondrous Whatchamacallit",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Wondrous_Whatchamacallit",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-the-wondrous-whatchamacallit-node-1",
+          "orderIndex": 0,
+          "title": "Obtain Synergy skill level 5.",
+          "description": "Obtain Synergy skill level 5. A useful strategy is to gather the six stones below needed for the quest and feed Fire Fewell, Dark Fewell, and Light Fewell to receive skill-ups, but not allowing the Synergy process to reach completion. The Synergy skill of Astral Matter caps exactly at level 5, making it a perfect beginning skill-up recipe. These stones can be gathered without the quest flagged.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-wondrous-whatchamacallit-node-2",
+          "orderIndex": 1,
+          "title": "After obtaining Synergy skill level 5, head down to the entrance of the Alchemists' Guild and speak ",
+          "description": "After obtaining Synergy skill level 5, head down to the entrance of the Alchemists' Guild and speak with Selliste.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-wondrous-whatchamacallit-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-wondrous-whatchamacallit-node-3",
+          "orderIndex": 2,
+          "title": "She asks for the following stones, which can be found at the Cloisters where the Protocrystals resid",
+          "description": "She asks for the following stones, which can be found at the Cloisters where the Protocrystals reside: Flamestone Froststone Galestone Tremorstone Stormstone Tidestone You can buy these from a player's Bazaar but it is not possible to buy or sell these stones at the Auction House. Easy for Summoners with the Mini Fork Warp, it lets them teleport directly to the Avatar's Cloisters and get the required items. For additional information on the mini fork warp method, refer to Trial-Size Avatar Guide. Another way to the Cloisters: a Home Point has been placed at each.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-wondrous-whatchamacallit-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-wondrous-whatchamacallit-node-4",
+          "orderIndex": 3,
+          "title": "Once all the stones are in your possession, you will need to synergize them into an Astral Matter at",
+          "description": "Once all the stones are in your possession, you will need to synergize them into an Astral Matter at a Synergy Furnace. There is no need to actually trade Selliste the stones, you can synergize them into Astral Matter as soon as you have the stones (to save space).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-wondrous-whatchamacallit-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-wondrous-whatchamacallit-node-5",
+          "orderIndex": 4,
+          "title": "Return to Selliste and trade her the Astral Matter.",
+          "description": "Return to Selliste and trade her the Astral Matter.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-wondrous-whatchamacallit-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-wondrous-whatchamacallit-node-6",
+          "orderIndex": 5,
+          "title": "Once the CS ends, she will reward you with a Portafurnace.",
+          "description": "Once the CS ends, she will reward you with a Portafurnace.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-wondrous-whatchamacallit-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-the-wondrous-whatchamacallit-node-7",
+          "orderIndex": 6,
+          "title": "Once you have this quest complete, you can always get a new Portafurnace if you dropped your old one",
+          "description": "Once you have this quest complete, you can always get a new Portafurnace if you dropped your old one, all you need to do is just talk to Selliste again, you don't need to collect the stones anymore.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-the-wondrous-whatchamacallit-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-till-death-do-us-part",
+      "title": "Till Death Do Us Part",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Till_Death_Do_Us_Part",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-till-death-do-us-part-node-1",
+          "orderIndex": 0,
+          "title": "Zone after Forever to Hold quest.",
+          "description": "Zone after Forever to Hold quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-till-death-do-us-part-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Romilda.",
+          "description": "Talk to Romilda.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-till-death-do-us-part-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-till-death-do-us-part-node-3",
+          "orderIndex": 2,
+          "title": "Trade some Cotton Gloves to Romilda to complete the quest and receive your reward.",
+          "description": "Trade some Cotton Gloves to Romilda to complete the quest and receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-till-death-do-us-part-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-too-many-chefs",
+      "title": "Too Many Chefs",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Too_Many_Chefs",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-too-many-chefs-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Ferghus in the Craftsmen's Eatery at G-9 in Metalworks.",
+          "description": "Talk to Ferghus in the Craftsmen's Eatery at G-9 in Metalworks.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-too-many-chefs-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Leonhardt in the Craftsmen's Eatery (same room) at H-9.",
+          "description": "Talk to Leonhardt in the Craftsmen's Eatery (same room) at H-9.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-too-many-chefs-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-too-many-chefs-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Raginmund at L-10 in Bastok Markets (S).",
+          "description": "Talk to Raginmund at L-10 in Bastok Markets (S).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-too-many-chefs-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-too-many-chefs-node-4",
+          "orderIndex": 3,
+          "title": "Kill Quadav for a Red Oven Mitt.",
+          "description": "Kill Quadav for a Red Oven Mitt.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-too-many-chefs-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-too-many-chefs-node-5",
+          "orderIndex": 4,
+          "title": "Trade the Red Oven Mitt to Leonhardt.",
+          "description": "Trade the Red Oven Mitt to Leonhardt.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-too-many-chefs-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-too-many-chefs-node-6",
+          "orderIndex": 5,
+          "title": "Talk to Ferghus.",
+          "description": "Talk to Ferghus",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-too-many-chefs-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-too-many-chefs-node-7",
+          "orderIndex": 6,
+          "title": "Talk to Umberto in Bastok Markets L-10 to complete the quest.",
+          "description": "Talk to Umberto in Bastok Markets L-10 to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-too-many-chefs-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-trial-by-earth",
+      "title": "Trial by Earth",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Trial_by_Earth",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-trial-by-earth-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Juroro in Port Bastok, located at I-8 (near the drawbridge).",
+          "description": "Speak to Juroro in Port Bastok, located at I-8 (near the drawbridge). If you have sufficient fame, she will give you a Tuning fork of earth after accepting her request.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-trial-size-trial-by-earth",
+      "title": "Trial Size Trial by Earth",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Trial_Size_Trial_by_Earth",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-trial-size-trial-by-earth-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Ferrol in Port Bastok, located at I-8 near the drawbridge.",
+          "description": "Speak to Ferrol in Port Bastok, located at I-8 near the drawbridge. You must speak to Ferrol as a Summoner.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-true-strength",
+      "title": "True Strength",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/True_Strength",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-true-strength-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Ayame in the top level of the Metalworks at K-7.",
+          "description": "Talk to Ayame in the top level of the Metalworks at K-7.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-true-strength-node-2",
+          "orderIndex": 1,
+          "title": "She asks you to defeat a powerful Yagudo, Huu Xalmo the Savage, in Castle Oztroja and recover the Xa",
+          "description": "She asks you to defeat a powerful Yagudo, Huu Xalmo the Savage, in Castle Oztroja and recover the Xalmo Feather as proof. Note: Once you have talked to Ayame, the quest will show up in your quest log, at this point you may switch to another job to complete the quest. You do not have to fight Huu Xalmo the Savage as a MNK.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-true-strength-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-true-strength-node-3",
+          "orderIndex": 2,
+          "title": "You will need to trade a Yagudo Drink to a ??? on map 5 H-8 of Castle Oztroja to spawn Huu Xalmo the",
+          "description": "You will need to trade a Yagudo Drink to a ??? on map 5 H-8 of Castle Oztroja to spawn Huu Xalmo the Savage. Note: If more than one person needs the feather you will need to spawn the NM multiple times. There is a cooldown (approx 5-15 mins) on the ???, which will result in a \"But nothing happens.\" message after a trade. Wait and try again.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-true-strength-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-true-strength-node-4",
+          "orderIndex": 3,
+          "title": "Return to Ayame and trade the Xalmo Feather to receive the Temple Hose.",
+          "description": "Return to Ayame and trade the Xalmo Feather to receive the Temple Hose.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-true-strength-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-trust-bastok",
+      "title": "Trust: Bastok",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Trust:_Bastok",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-trust-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Travel to (K-7) Port Bastok and speak to Clarion Star to activate quest and receive a Blue institute",
+          "description": "Travel to (K-7) Port Bastok and speak to Clarion Star to activate quest and receive a Blue institute card.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-trust-bastok-node-2",
+          "orderIndex": 1,
+          "title": "Travel to (J-8) in the Metalworks and speak with Naji for a cutscene and Trust: Naji.",
+          "description": "Travel to (J-8) in the Metalworks and speak with Naji for a cutscene and Trust: Naji. If this is not your first Trust spell, you will also receive the Bastok Trust permit and complete the quest at this point. If this is your first Trust spell, cast Trust: Naji in either North Gustaberg or South Gustaberg, then return to Naji in the Metalworks to complete the quest and receive the Bastok Trust permit",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-trust-bastok-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-vengeful-wrath",
+      "title": "Vengeful Wrath",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Vengeful_Wrath",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-vengeful-wrath-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Goraow.",
+          "description": "Talk to Goraow.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-vengeful-wrath-node-2",
+          "orderIndex": 1,
+          "title": "Obtain a Quadav Helm and trade it to Goraow to receive your reward.",
+          "description": "Obtain a Quadav Helm and trade it to Goraow to receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-vengeful-wrath-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-vengeful-wrath-node-3",
+          "orderIndex": 2,
+          "title": "Quadav Helm are dropped from Old Quadav in Pashhow Marshlands and Beadeaux as well as Darksteel Quad",
+          "description": "Quadav Helm are dropped from Old Quadav in Pashhow Marshlands and Beadeaux as well as Darksteel Quadav in Beadeaux and Qulun Dome",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-vengeful-wrath-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-welcome-to-bastok",
+      "title": "Welcome to Bastok",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Welcome_to_Bastok",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-welcome-to-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Powhatan; he's foolishly told someone coming into the port that he'll meet him wearing a she",
+          "description": "Talk to Powhatan; he's foolishly told someone coming into the port that he'll meet him wearing a shell shield when he doesn't have one.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-welcome-to-bastok-node-2",
+          "orderIndex": 1,
+          "title": "Obtain a Shell Shield and equip it.",
+          "description": "Obtain a Shell Shield and equip it.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-welcome-to-bastok-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-welcome-to-bastok-node-3",
+          "orderIndex": 2,
+          "title": "Talk with the clerk Bartolomeo in the Arrivals section of the Air Travel Agency with the Shell Shiel",
+          "description": "Talk with the clerk Bartolomeo in the Arrivals section of the Air Travel Agency with the Shell Shield equipped. This triggers a cutscene where an NPC named Evrain appears. You exchange greetings and then he finds his own way to the tavern where Powhatan is waiting.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-welcome-to-bastok-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-welcome-to-bastok-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Powhatan again to complete the quest.",
+          "description": "Talk to Powhatan again to complete the quest. You keep the Shell Shield.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-welcome-to-bastok-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests-wish-upon-a-star",
+      "title": "Wish Upon a Star",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Wish_Upon_a_Star",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-bastok-quests-wish-upon-a-star-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Zacc near the fountain in Bastok Markets (G-9) and watch a cut scene.",
+          "description": "Talk to Zacc near the fountain in Bastok Markets (G-9) and watch a cut scene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-wish-upon-a-star-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Malene at Bastok Markets (I-5).",
+          "description": "Talk to Malene at Bastok Markets (I-5).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-wish-upon-a-star-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-wish-upon-a-star-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Enu at Bastok Markets (G-9) and watch another cut scene, where she will ask you to find a Fa",
+          "description": "Talk to Enu at Bastok Markets (G-9) and watch another cut scene, where she will ask you to find a Fallen Star to help her father. This logs the quest in your quest log.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-wish-upon-a-star-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-wish-upon-a-star-node-4",
+          "orderIndex": 3,
+          "title": "Bring a hatchet to Yuhtunga Jungle or Yhoator Jungle and use it on a Logging Point to receive the Fa",
+          "description": "Bring a hatchet to Yuhtunga Jungle or Yhoator Jungle and use it on a Logging Point to receive the Fallen Star (Rare/Ex).",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-wish-upon-a-star-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-bastok-quests-wish-upon-a-star-node-5",
+          "orderIndex": 4,
+          "title": "Return to Bastok Markets and trade the fallen star to Enu on a clear starry night (20:00 - 4:00) for",
+          "description": "Return to Bastok Markets and trade the fallen star to Enu on a clear starry night (20:00 - 4:00) for your reward.",
+          "dependencies": [
+            "ffxiclopedia-bastok-quests-wish-upon-a-star-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    }
+  ]
+}

@@ -1,0 +1,1442 @@
+{
+  "id": "ffxiclopedia-rhapsodies",
+  "name": "FFXIclopedia - Rhapsodies of Vana'diel Missions",
+  "category": "expansion",
+  "source": "FFXIclopedia",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Rhapsodies_of_Vana%27diel_Missions",
+  "lastScraped": "2025-12-29T17:29:36.925Z",
+  "lastKnownUpdate": "2025-12-29T17:29:36.925Z",
+  "totalMissions": 64,
+  "missions": [
+    {
+      "id": "ffxiclopedia-rhapsodies-resonance",
+      "title": "Resonance",
+      "number": "1-1-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Resonance",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-resonance-node-1",
+          "orderIndex": 0,
+          "title": "Zone into any area connecting to a Mog House in San d'Oria, Windurst, or Bastok for a cutscene.",
+          "description": "Zone into any area connecting to a Mog House in San d'Oria, Windurst, or Bastok for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-resonance-node-2",
+          "orderIndex": 1,
+          "title": "After the cutscene, zone into Mhaura or Selbina for another cutscene that will trigger the next miss",
+          "description": "After the cutscene, zone into Mhaura or Selbina for another cutscene that will trigger the next mission.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-resonance-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-emissary-from-the-seas",
+      "title": "Emissary from the Seas",
+      "number": "1-1-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Emissary_from_the_Seas",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-emissary-from-the-seas-node-1",
+          "orderIndex": 0,
+          "title": "After receiving the cutscene from the previous mission, zone into Mhaura or Selbina for a cutscene.",
+          "description": "After receiving the cutscene from the previous mission, zone into Mhaura or Selbina for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-emissary-from-the-seas-node-2",
+          "orderIndex": 1,
+          "title": "Note: The path you choose will change what you have to do next.",
+          "description": "Note: The path you choose will change what you have to do next. Once you zone into either area, it will not be possible to flag the mission in the other one. Selbina Path: Go to the Mayor's Residence and talk to Naillina (F-9) Choose the first option from the dialogue; \"Did you want an adventurer?\" This will trigger a cutscene in which Abelard asks you to bring 3 clumps of Bee Pollen, which is dropped by Huge Wasps in Konschtat Highlands and La Theine Plateau, or can be bought in the Auction House under Miscellaneous Items. This will trigger the next mission in the storyline, Set Free. Mhaura Path: Go to the Governor's Residence and talk to Numi Adaligo (F-9). Choose the first option from the dialogue; \"You're searching for an adventurer?\" This will trigger a cutscene in which Ekokoko will ask you to bring 3 Mandragora Dewdrops, which are dropped by Pygmaiois in Tahrongi Canyon, or can be bought in the Auction House under Miscellaneous Items. This will trigger the next mission, Set Free.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-emissary-from-the-seas-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-set-free",
+      "title": "Set Free",
+      "number": "1-1-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Set_Free",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-set-free-node-1",
+          "orderIndex": 0,
+          "title": "Trade Abelard three clumps of Bee Pollen, which drop from Huge Wasps in La Theine Plateau and Konsch",
+          "description": "Trade Abelard three clumps of Bee Pollen, which drop from Huge Wasps in La Theine Plateau and Konschtat Highlands, to receive a cutscene and your reward, and trigger the next mission, The Beginning.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-the-beginning",
+      "title": "The Beginning",
+      "number": "1-1-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Beginning",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-beginning-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Pacomart (H-10 by boat) in Selbina and choose \"Yes\" for a cutscene.",
+          "description": "Talk to Pacomart (H-10 by boat) in Selbina and choose \"Yes\" for a cutscene.",
+          "dependencies": []
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-beginning-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-rhapsodies-the-beginning-node-1",
+          "requirement": "Rise of the Zilart",
+          "description": "Rise of the Zilart"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-flames-of-prayer",
+      "title": "Flames of Prayer",
+      "number": "1-1-5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Flames_of_Prayer",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-flames-of-prayer-node-1",
+          "orderIndex": 0,
+          "title": "Click on the Oaken Door at (K-8) in Norg for a cutscene and the Rhapsody in White.",
+          "description": "Click on the Oaken Door at (K-8) in Norg for a cutscene and the Rhapsody in White. Checking the door twice is necessary if you're trying to do this chapter portion before completing the previous one, The Beginning. This key item grants the following benefits: Experience and Skill Gains 30% bonus to experience and limit point gains. 100% increase to combat skill gains. Alter Egos Allows an additional alter ego to be called forth at once. Home Points 80% reduction in gil consumed by home points. Vendors Addition of items for sale by Curio Vendor Moogles located in the three nations. Fields of Valor / Grounds of Valor Reduces the amount of gil and tabs consumed by Survival Guides Reduces the amount of tabs required for the following effects: Homing instinct: From 50 to 25 Repatriation: From 50 to 10 White magic: Reraise: from 10 to 5 White magic: Reraise II: from 20 to 10 White magic: Reraise III: from 30 to 15 White magic: Regen: from 20 to 10 White magic: Refresh: from 20 to 10 White magic: Protect: from 15 to 5 White magic: Shell: from 15 to 5 White magic: Haste: From 20 to 10 Field Recipe: Dried Meat: from 50 to 25 Field Recipe: Salted Fish: from 50 to 25 Field Recipe: Hard Cooke: from 50 to 25 Field Recipe: Instant Noodles: from 50 to 25 Field Recipe: Dried Agaricus: from 50 to 25 Field Recipe: Instant Rice: From 50 to 25",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-the-path-untraveled",
+      "title": "The Path Untraveled",
+      "number": "1-2-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Path_Untraveled",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-path-untraveled-node-1",
+          "orderIndex": 0,
+          "title": "Go to either the Crag of Mea, Crag of Holla, or Crag of Dem and click on the Shattered Telepoint for",
+          "description": "Go to either the Crag of Mea, Crag of Holla, or Crag of Dem and click on the Shattered Telepoint for a cutscene. You will need to come back to a crag numerous times throughout the missions. If you're level 65+ and don't have access to a teleport spell, it's strongly recommended you buy a Dem Ring. You can get Holla Ring or Mea Ring instead, but they are comparatively rare. If you're below level 65 or do not wish to purchase a ring, the fastest method is to warp to the Maze of Shakhrami Survival Guide or via Atmacite Refiner. La Theine Plateau Survival Guide is also a very quick method and doesn't require the need to zone after the initial teleport.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-the-path-untraveled-node-2",
+          "orderIndex": 1,
+          "title": "When prompted, choose Qufim Island.",
+          "description": "When prompted, choose Qufim Island.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-the-path-untraveled-node-1"
+          ]
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-path-untraveled-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-rhapsodies-the-path-untraveled-node-1",
+          "requirement": "Rank 3 in home nation",
+          "description": "Rank 3 in home nation"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-the-lion-s-roar",
+      "title": "The Lion's Roar",
+      "number": "1-2-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Lion%27s_Roar",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-lion-s-roar-node-1",
+          "orderIndex": 0,
+          "title": "Summon your trust companions first.",
+          "description": "Summon your trust companions first.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-the-lion-s-roar-node-2",
+          "orderIndex": 1,
+          "title": "Click on the Undulating Confluence again to spawn Ophiotaurus, an Yztarg NM.",
+          "description": "Click on the Undulating Confluence again to spawn Ophiotaurus, an Yztarg NM. Up to 4 Trusts can be used for this fight thanks to the permanent key item you recently obtained before this mission. This fight can be soloed with Alter Egos (see testimonials). Recommended level 50+ if solo.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-the-lion-s-roar-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-fate-s-call",
+      "title": "Fate's Call",
+      "number": "1-3-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Fate%27s_Call",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-fate-s-call-node-1",
+          "orderIndex": 0,
+          "title": "Zone into any beginning city area connected to the Mog House for a cutscene (optional for people who",
+          "description": "Zone into any beginning city area connected to the Mog House for a cutscene (optional for people who have rank 6 or higher). You need to have defeated The Shadow Lord in order to get this cutscene. If you warp back to your home town after defeating him, this cutscene activates automatically, before you can claim Rank 6. If you are already Rank 6, you can skip this and head straight to Norg. Depending on nation, it will take approximately 3-4 hours to finish missions up to rank 6. Follow the Magicite link for your nation.",
+          "dependencies": []
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-rhapsodies-fate-s-call-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-rhapsodies-fate-s-call-node-1",
+          "requirement": "Rank 6 in home nation",
+          "description": "Rank 6 in home nation"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-what-lies-beyond",
+      "title": "What Lies Beyond",
+      "number": "1-3-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/What_Lies_Beyond",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-what-lies-beyond-node-1",
+          "orderIndex": 0,
+          "title": "Click on the Oaken Door in Norg for a cutscene.",
+          "description": "Click on the Oaken Door in Norg for a cutscene.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-the-ties-that-bind",
+      "title": "The Ties that Bind",
+      "number": "1-3-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Ties_that_Bind",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-ties-that-bind-node-1",
+          "orderIndex": 0,
+          "title": "Go to (J-12), near the pond, in Sea Serpent Grotto and click on the ??? for a cutscene.",
+          "description": "Go to (J-12), near the pond, in Sea Serpent Grotto and click on the ??? for a cutscene. Do not go through the Ornamented Door at (J-11). ??? is down below. Unity Warp (Content Level 125, Sea Serpent Grotto) drops you very close to the ???",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-the-ties-that-bind-node-2",
+          "orderIndex": 1,
+          "title": "After viewing the cutscene there is no indication to move to the next mission, simply proceed to Yuh",
+          "description": "After viewing the cutscene there is no indication to move to the next mission, simply proceed to Yuhtunga Jungle as indicated in the Impurity walkthrough. It's faster if you use Escape, alternatively you can warp back to an Unity NPC then use Unity Warp to Yuhtunga Jungle for the next mission to speed it up as well if you have no means to cast Escape.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-the-ties-that-bind-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-impurity",
+      "title": "Impurity",
+      "number": "1-3-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Impurity",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-impurity-node-1",
+          "orderIndex": 0,
+          "title": "Click the ??? at (F-11) in Yuhtunga Jungle for a cutscene.",
+          "description": "Click the ??? at (F-11) in Yuhtunga Jungle for a cutscene. Escaping or running to northeast to the exit will take you just outside to E-11 in Yuhtunga Jungle. Unity Warp Yuhtunga Jungle teleports you very close to the ???. Alternatively, Home Point to Norg and rent a Chocobo to be placed nearby as well.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-the-lost-avatar",
+      "title": "The Lost Avatar",
+      "number": "1-3-5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Lost_Avatar",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-lost-avatar-node-1",
+          "orderIndex": 0,
+          "title": "Click the ??? near the water at (F-11) in Yuhtunga Jungle to view a cutscene with Zeid and Siren.",
+          "description": "Click the ??? near the water at (F-11) in Yuhtunga Jungle to view a cutscene with Zeid and Siren. After the cutscene, you will have time to buff and call Alter Egos.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-the-lost-avatar-node-2",
+          "orderIndex": 1,
+          "title": "Click the ??? a second time for the fight with Siren.",
+          "description": "Click the ??? a second time for the fight with Siren. She has very high defense, and poor resistance to magic. She is healed by wind elemental damage. Weak to piercing damage. Uses Entice, a frontal cone Charm. This does not affect Trust NPCs, but they will be dismissed if charm takes effect on a soloing player. As a result, if you are soloing with Trusts, have at least one of them be the tank to turn Siren's attention away from you. Uses Lunatic Voice throughout fight, make sure to bring a way to remove silence. Uses Clarsach Call at 25% HP, an Astral Flow-like ability which does 900-1100 damage over a large area. Be prepared to mitigate this. Recommended level of 90+ if solo (including with Trusts). If you have a consistent source of magic damage, you should have only moderate difficulty at level 75 (or possibly earlier). Can be won as a 81 RDM/DNC with 4 trusts. Note that Alter Egos will prioritize wind spells due to an error in their AI, causing them to heal Siren. Reverberation and Light skillchains will also cause Siren to be healed. Can be won in extremis (14 minutes) as a 75 DRG/SAM with wyvern, 4 trusts (Trion, Teodor, Apururu, and Koru-Moru) and a 75 adventuring fellow (fierce attacker style). Artifact armor, best polearm, strength-boosting items and food, high merits, and constant use of certain abilities/skills as soon as they're available (Deep Breathing, Hasso, Jump, High Jump, Meditate, and Impulse Drive) should work, but you might have to retry several times (if things get out of hand, run to the nearby Grotto and zone, heal with your wyvern and fellow, and come back). Despawns after 15 minutes.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-the-lost-avatar-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-the-lost-avatar-node-3",
+          "orderIndex": 2,
+          "title": "Once Siren is defeated, click the ??? again for a cutscene and your reward.",
+          "description": "Once Siren is defeated, click the ??? again for a cutscene and your reward.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-the-lost-avatar-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-volto-oscuro",
+      "title": "Volto Oscuro",
+      "number": "1-3-6",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Volto_Oscuro",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-volto-oscuro-node-1",
+          "orderIndex": 0,
+          "title": "Click on the Oaken Door at (K-8) in Norg.",
+          "description": "Click on the Oaken Door at (K-8) in Norg.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-ring-my-bell",
+      "title": "Ring My Bell",
+      "number": "1-3-7",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Ring_My_Bell",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-ring-my-bell-node-1",
+          "orderIndex": 0,
+          "title": "Automatically started upon completion of Volto Oscuro.",
+          "description": "Automatically started upon completion of Volto Oscuro.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-ring-my-bell-node-2",
+          "orderIndex": 1,
+          "title": "Examine the Oaken Door in Norg for a cutscene with Gilgamesh, Aldo, Tenzen, Zeid, Kagero, and Prishe",
+          "description": "Examine the Oaken Door in Norg for a cutscene with Gilgamesh, Aldo, Tenzen, Zeid, Kagero, and Prishe. You can get this cutscene with no Chains of Promathia progress.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-ring-my-bell-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-spirits-awoken",
+      "title": "Spirits Awoken",
+      "number": "2-1-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Spirits_Awoken",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-spirits-awoken-node-1",
+          "orderIndex": 0,
+          "title": "Automatically started upon completing Ring My Bell.",
+          "description": "Automatically started upon completing Ring My Bell.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-numbering-days",
+      "title": "Numbering Days",
+      "number": "2-2-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Numbering_Days",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-numbering-days-node-1",
+          "orderIndex": 0,
+          "title": "Examine the door to the Marble Bridge (F-7) in Upper Jeuno for a cutscene.",
+          "description": "Examine the door to the Marble Bridge (F-7) in Upper Jeuno for a cutscene. You no longer need Prishe and thus can resume Chains of Promathia without it impacting your progress except for a few missions. Tenzen is locked for the entirety of Desires of Emptiness and once you flag The Warrior's Path, you must finish the remaining missions including the final cutscene of Dawn. As such, you should either finish up to Both Paths Taken or, ideally, all of Rhapsodies of Vana'diel before going full-in on Chains of Promathia.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-inescapable-binds",
+      "title": "Inescapable Binds",
+      "number": "2-2-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Inescapable_Binds",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-inescapable-binds-node-1",
+          "orderIndex": 0,
+          "title": "Obtain a Boarding Permit from the Tenshodo at Neptune's Spire in Lower Jeuno.",
+          "description": "Obtain a Boarding Permit from the Tenshodo at Neptune's Spire in Lower Jeuno. Talk with Faursel Select the 3rd blank option Talk with Faursel again Select the option \"Where is Tenzen\" to get the Boarding Permit for free",
+          "dependencies": []
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-rhapsodies-inescapable-binds-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-rhapsodies-inescapable-binds-node-1",
+          "requirement": "Treasures of Aht Urhgan",
+          "description": "Treasures of Aht Urhgan"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-ever-forward",
+      "title": "Ever Forward",
+      "number": "2 - 3 - 1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Ever_Forward",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-ever-forward-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Imperial Whitegate at Aht Urhgan Whitegate L-8 & L-9 for a cutscene.",
+          "description": "Examine the Imperial Whitegate at Aht Urhgan Whitegate L-8 & L-9 for a cutscene. If you have already completed all Treasures of Aht Urhgan Missions through ToAU 46, you will receive a cutscene with Arzizah, Nashmeira, Mnejing, and Ovjang, after which you will proceed to The Endless Sky and then Aphmau's Light and finally Reunited. If you haven't completed all Treasures of Aht Urhgan Missions, do the missions until you flag Aht Urhgan Mission 12: Royal Puppeteer after which you can proceed to examine the Whitegate and then continue to Reunited. NOTE: Numerous Aht Urhgan missions lock you from finishing this mission. Consult this list. Once you get this cutscene, it's strongly recommended you finish up to Uncertain Destinations before continuing Treasures of Aht Urhgan. If you have only just started Treasures of Aht Urhgan, it will take approximately 1.5 to 2 hours to get up to mission 12, most of it being cutscenes with only one long travel section. Some users report that despite having completed the Aht Urhgan Missions, no cut scene triggered when returning to their home nation. Tested with all home nations.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-the-endless-sky",
+      "title": "The Endless Sky",
+      "number": "2 - 3 - 2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Endless_Sky",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-endless-sky-node-1",
+          "orderIndex": 0,
+          "title": "Enter your home nation for a cutscene and to move on to Aphmau's Light.",
+          "description": "Enter your home nation for a cutscene and to move on to Aphmau's Light.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-reunited",
+      "title": "Reunited",
+      "number": "2 - 3 - 4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Reunited",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-reunited-node-1",
+          "orderIndex": 0,
+          "title": "Enter the Walahra Temple (K-7) in Aht Urhgan Whitegate and talk to Nadeey for a cutscene with Nashme",
+          "description": "Enter the Walahra Temple (K-7) in Aht Urhgan Whitegate and talk to Nadeey for a cutscene with Nashmeira, Tenzen, Volto Oscuro, Dahaeel, Kagero, and Balamor.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-take-wing",
+      "title": "Take Wing",
+      "number": "2 - 4 - 1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Take_Wing",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-take-wing-node-1",
+          "orderIndex": 0,
+          "title": "Enter the Shararat Teahouse (J / K-12) in Aht Urhgan Whitegate for another cutscene with Tenzen.",
+          "description": "Enter the Shararat Teahouse (J / K-12) in Aht Urhgan Whitegate for another cutscene with Tenzen.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-prime-number",
+      "title": "Prime Number",
+      "number": "2 - 4 - 2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Prime_Number",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-prime-number-node-1",
+          "orderIndex": 0,
+          "title": "Enter the Alzadaal Undersea Ruins for a cutscene with Nashmeira, Tenzen, Alexander, and Iroha.",
+          "description": "Enter the Alzadaal Undersea Ruins for a cutscene with Nashmeira, Tenzen, Alexander, and Iroha. The fastest way is taking the Runic Portal to the Nyzul Isle Staging Point. If you're low on Imperial Standing, you can either use a Copper Voucher at a Sparks of Eminence NPC or you can register Nyzul Isle Investigation at the counter with Sorrowful Sage at the Commissions Agency for a free teleport. Make sure you receive an Imperial Army I.D. Tag from Rytaal before visiting Sorrowful Sage. If you do not have the above method, go to Bhaflau Thicket (F-6) from Al Zahbi or the Wajaom Woodlands and pay the guard a Silver Piece.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-from-the-ruins",
+      "title": "From the Ruins",
+      "number": "RoV 2 - 4 - 3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/From_the_Ruins",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-from-the-ruins-node-1",
+          "orderIndex": 0,
+          "title": "Click on the Imperial Whitegate at L-8/9 in Aht Urhgan Whitegate for a cutscene with Nashmeira and I",
+          "description": "Click on the Imperial Whitegate at L-8/9 in Aht Urhgan Whitegate for a cutscene with Nashmeira and Iroha that grants the Rhapsody in Crimson.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-uncertain-destinations",
+      "title": "Uncertain Destinations",
+      "number": "2 - 5 - 2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Uncertain_Destinations",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-uncertain-destinations-node-1",
+          "orderIndex": 0,
+          "title": "Examine the ??? next to a Cavernous Maw in Batallia Downs, Rolanberry Fields or Sauromugue Champaign",
+          "description": "Examine the ??? next to a Cavernous Maw in Batallia Downs, Rolanberry Fields or Sauromugue Champaign in the present, or in Batallia Downs (S), Rolanberry Fields (S) or Sauromugue Champaign (S) in the past.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-ganged-up-on",
+      "title": "Ganged Up On",
+      "number": "2 - 5 - 3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Ganged_Up_On",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-ganged-up-on-node-1",
+          "orderIndex": 0,
+          "title": "Simply examine the ??? by the maws in Batallia Downs, Rolanberry Fields, or Sauromugue Champaign for",
+          "description": "Simply examine the ??? by the maws in Batallia Downs, Rolanberry Fields, or Sauromugue Champaign for a cutscene, your reward, and transportation to the Walk of Echoes. You can do this immediately after completing Cauterize. Simply re-examine the same ???. No zoning is required.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-sacrifice-mission",
+      "title": "Sacrifice (Mission)",
+      "number": "2 - 5 - 4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Sacrifice_(Mission)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-sacrifice-mission-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Ornate Door at the top of the stairs in Walk of Echoes for a cutscene with Lilisette, Ca",
+          "description": "Examine the Ornate Door at the top of the stairs in Walk of Echoes for a cutscene with Lilisette, Cait Sith, Atomos, and Volto Oscuro. You can complete this after being zoned by the previous mission's cutscene. If you leave, you must reenter Walk of Echoes from Pashhow Marshlands (S) or Grauberg (S). You cannot use the Xarcabard (S) entry point. In 2016, an easier way to reenter Walk of Echoes from the correct point became going to any of the Cavernous Maws in Rolanberry, Batallia, or Sauromugue. Once at the maw, click the ??? on the ground. It sparkles blue. You will be asked to raise your Lightsworm. Remember that Rolanberry is the only Maw that is always unlocked, so might as well just head there for everything if you are rushing Rhapsodies content.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-sacrifice-mission-node-2",
+          "orderIndex": 1,
+          "title": "After the cutscene, you will be transported to Grauberg (S) and you will automatically proceed to th",
+          "description": "After the cutscene, you will be transported to Grauberg (S) and you will automatically proceed to the next mission.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-sacrifice-mission-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-somber-dreams",
+      "title": "Somber Dreams",
+      "number": "2-5-5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Somber_Dreams",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-somber-dreams-node-1",
+          "orderIndex": 0,
+          "title": "After the previous cutscene, you will return to Grauberg (S) at (F-5) and stand before a ???, but do",
+          "description": "After the previous cutscene, you will return to Grauberg (S) at (F-5) and stand before a ???, but do not examine until ready for the battle. It is recommended that you get your Trust NPCs out before clicking the ???.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-somber-dreams-node-2",
+          "orderIndex": 1,
+          "title": "Examine the ??? in front of you in Grauberg (S) to spawn Cetus, a Pteraketos.",
+          "description": "Examine the ??? in front of you in Grauberg (S) to spawn Cetus, a Pteraketos. Recommend being 90+ for this fight, with ranged damage trusts to avoid dread spikes.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-somber-dreams-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-somber-dreams-node-3",
+          "orderIndex": 2,
+          "title": "After the fight, examine the ??? again to obtain a very short cutscene.",
+          "description": "After the fight, examine the ??? again to obtain a very short cutscene.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-somber-dreams-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-somber-dreams-node-4",
+          "orderIndex": 3,
+          "title": "Proceed to the Walk of Echoes using the ??? next to the Veridical Conflux in front of you for anothe",
+          "description": "Proceed to the Walk of Echoes using the ??? next to the Veridical Conflux in front of you for another cutscene with Cait Sith and Lilisette.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-somber-dreams-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-of-light-and-darkness",
+      "title": "Of Light and Darkness",
+      "number": "2-5-6",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Of_Light_and_Darkness",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-of-light-and-darkness-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Oaken Door in Norg for a cutscene with Gilgamesh.",
+          "description": "Examine the Oaken Door in Norg for a cutscene with Gilgamesh. After this cutscene, you no longer need Lilisette and can continue Wings of the Goddess up until Lest We Forget before it conflicts with Rhapsodies of Vana'diel again.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-temporary-farewells",
+      "title": "Temporary Farewells",
+      "number": "2-6-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Temporary_Farewells",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-temporary-farewells-node-1",
+          "orderIndex": 0,
+          "title": "To avoid unnecessary travel, read ahead to the next mission for which item you may wish to have befo",
+          "description": "To avoid unnecessary travel, read ahead to the next mission for which item you may wish to have before going to the Misareaux Coast",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-temporary-farewells-node-2",
+          "orderIndex": 1,
+          "title": "Examine the ??? next to the Undulating Confluence in Misareaux Coast at (G-5) for a cutscene with Ir",
+          "description": "Examine the ??? next to the Undulating Confluence in Misareaux Coast at (G-5) for a cutscene with Iroha. (Note: There is a Home Point crystal directly west to the Undulating Confluence in Misareaux Coast at (G-5))",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-temporary-farewells-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-keep-on-giving",
+      "title": "Keep On Giving",
+      "number": "2-6-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Keep_On_Giving",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-keep-on-giving-node-1",
+          "orderIndex": 0,
+          "title": "Trade the requested items to the ??? near the Undulating Confluence in Misareaux Coast at (G-5) for ",
+          "description": "Trade the requested items to the ??? near the Undulating Confluence in Misareaux Coast at (G-5) for a cutscene with Iroha.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-keep-on-giving-node-2",
+          "orderIndex": 1,
+          "title": "The items are as follows: strength training: a Beef Stewpot; endurance training: a serving of Zaru S",
+          "description": "The items are as follows: strength training: a Beef Stewpot; endurance training: a serving of Zaru Soba; style training: 30 Spicy Crackers. All of these items are now sold by Curio Vendor Moogles due to your Rhapsodies.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-keep-on-giving-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-keep-on-giving-node-3",
+          "orderIndex": 2,
+          "title": "The cutscene will end when you choose the option about Altana's help after the final question.",
+          "description": "The cutscene will end when you choose the option about Altana's help after the final question. You can select the two preceding options if you wish for more dialogue.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-keep-on-giving-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-past-imperfect",
+      "title": "Past Imperfect",
+      "number": "2-6-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Past_Imperfect",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-past-imperfect-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Oaken Door in Norg for a cutscene with Tenzen, Iroha, and Gilgamesh.",
+          "description": "Examine the Oaken Door in Norg for a cutscene with Tenzen, Iroha, and Gilgamesh. If you view a cutscene with Gilgamesh, Lion, and Aldo, and Gilgamesh says \"Arrrg, make sure you stop by Kazham and visit the Chieftainness, Jakoh Wahcondalo, before heading to the Temple of Uggalepih\", you are viewing the cutscene for Welcome t'Norg (Rise of the Zilart - Mission 2). Check the door again to receive the correct cutscene for this mission.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-the-cursed-temple",
+      "title": "The Cursed Temple",
+      "number": "2-6-5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Cursed_Temple",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-cursed-temple-node-1",
+          "orderIndex": 0,
+          "title": "You must finish Zilart Mission 4: The Temple of Uggalepih.",
+          "description": "You must finish Zilart Mission 4: The Temple of Uggalepih. If you have not started Rise of the Zilart, it will take approximately 30-45 minutes. You'll be able to go straight back to this mission after.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-the-cursed-temple-node-2",
+          "orderIndex": 1,
+          "title": "Enter the Temple of Uggalepih for a cutscene.",
+          "description": "Enter the Temple of Uggalepih for a cutscene. If previously activated, you can simply take the Survival Guide from Norg (H-9, on the dock) to the Temple of Uggalepih. The Atmacite Refiner in Norg can also teleport you depending on Voidwatch progress.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-the-cursed-temple-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-wisdom-of-our-forefathers",
+      "title": "Wisdom of Our Forefathers",
+      "number": "2-6-6",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Wisdom_of_Our_Forefathers",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-wisdom-of-our-forefathers-node-1",
+          "orderIndex": 0,
+          "title": "Final portion of The Cursed Temple: head to J-6 on Map 1 of the Temple of Uggalepih, and take the pa",
+          "description": "Final portion of The Cursed Temple: head to J-6 on Map 1 of the Temple of Uggalepih, and take the path hidden on the in-game map. Exit to Yhoator Jungle to be on the balcony of the temple. Take a hard right (no stairs needed) to loop back into a different hallway, allowing you to reenter the temple through the other door available on this balcony. Then proceed to the Granite Door at (J-6) on Map 3[1] in the temple. Examine it for a scene with Tenzen, Iroha, Grav'iton. This completes both The Cursed Temple and Wisdom of Our Forefathers, and flags Where Divinities Collide.",
+          "dependencies": []
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-rhapsodies-wisdom-of-our-forefathers-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-rhapsodies-wisdom-of-our-forefathers-node-1",
+          "requirement": "ZM4: The Temple of Uggalepih complete",
+          "description": "ZM4: The Temple of Uggalepih complete"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-where-divinities-collide",
+      "title": "Where Divinities Collide",
+      "number": "2-6-7",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Where_Divinities_Collide",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-where-divinities-collide-node-1",
+          "orderIndex": 0,
+          "title": "Head to a Shattered Telepoint at any one of the Holla/Mea/Dem Crags to zone into a Hall of Transfere",
+          "description": "Head to a Shattered Telepoint at any one of the Holla/Mea/Dem Crags to zone into a Hall of Transference You will obtain a cutscene with Tenzen, Iroha, Selh'teus, Fenrir, Odin, Atomos, Diabolos, Balamor, and Volto Oscuro.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-visions-of-dread",
+      "title": "Visions of Dread",
+      "number": "2-6-8",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Visions_of_Dread",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-visions-of-dread-node-1",
+          "orderIndex": 0,
+          "title": "Completed at the same time as Where Divinities Collide.",
+          "description": "Completed at the same time as Where Divinities Collide. Proceed to the next mission.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-to-the-skies",
+      "title": "To the Skies",
+      "number": "2-6-9",
+      "url": "https://ffxiclopedia.fandom.com/wiki/To_the_Skies",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-to-the-skies-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Oaken Door in Norg for a cutscene with Zeid, Gilgamesh, and Atori-Tutori.",
+          "description": "Examine the Oaken Door in Norg for a cutscene with Zeid, Gilgamesh, and Atori-Tutori.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-escha-ru-aun-mission",
+      "title": "Escha - Ru'Aun (Mission)",
+      "number": "2-6-10",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Escha_-_Ru%27Aun_(Mission)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-escha-ru-aun-mission-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Undulating Confluence in Misareaux Coast at (G-5) for a cutscene with Tenzen and Kagero.",
+          "description": "Examine the Undulating Confluence in Misareaux Coast at (G-5) for a cutscene with Tenzen and Kagero. If you have it, the fastest way is to use the homepoint crystal. It is right next to the Undulating Confluence.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-escha-ru-aun-mission-node-2",
+          "orderIndex": 1,
+          "title": "Examine the Undulating Confluence again to enter Escha - Ru'Aun and trigger a cutscene with Tenzen a",
+          "description": "Examine the Undulating Confluence again to enter Escha - Ru'Aun and trigger a cutscene with Tenzen and Siren.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-escha-ru-aun-mission-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-the-decisive-heroine",
+      "title": "The Decisive Heroine",
+      "number": "2-6-11",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Decisive_Heroine",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-decisive-heroine-node-1",
+          "orderIndex": 0,
+          "title": "Examine the ??? at (H-10 - SW corner) in Escha - Ru'Aun for a cutscene with Tenzen, Iroha, Kagero, S",
+          "description": "Examine the ??? at (H-10 - SW corner) in Escha - Ru'Aun for a cutscene with Tenzen, Iroha, Kagero, Siren, and Balamor. To locate the ??? just head up the ramp and take a left. The ??? is about 50 feet in front of you, at the top of a staircase heading downstairs.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-the-decisive-heroine-node-2",
+          "orderIndex": 1,
+          "title": "After the scene, you receive Siren's plume and a Rhapsody in Emerald.",
+          "description": "After the scene, you receive Siren's plume and a Rhapsody in Emerald.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-the-decisive-heroine-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-fall-from-grace",
+      "title": "Fall from Grace",
+      "number": "2-7-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Fall_from_Grace",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-fall-from-grace-node-1",
+          "orderIndex": 0,
+          "title": "Examine any Shattered Telepoint for a cutscene with Selh'teus and Iroha.",
+          "description": "Examine any Shattered Telepoint for a cutscene with Selh'teus and Iroha.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-over-the-rainbow",
+      "title": "Over the Rainbow",
+      "number": "2-7-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Over_the_Rainbow",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-over-the-rainbow-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Shantotto in Windurst Walls (K-7) for a cutscene with her, Tenzen, Yoran-Oran, and Koru-Moru",
+          "description": "Talk to Shantotto in Windurst Walls (K-7) for a cutscene with her, Tenzen, Yoran-Oran, and Koru-Moru.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-pretender-to-the-throne",
+      "title": "Pretender to the Throne",
+      "number": "2-8-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Pretender_to_the_Throne",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-pretender-to-the-throne-node-1",
+          "orderIndex": 0,
+          "title": "Select the ??? at Eschan Portal #15 to fight Balamor.",
+          "description": "Select the ??? at Eschan Portal #15 to fight Balamor. Spawning him replaces your Most curious curio with an ineffective Most confounding curio. The fight is NOT a battlefield fight, but occurs immediately after clicking the ???. You need to call your Trusts before clicking the ???. Uses powerful AoE attacks and inflicts a strong Bio status. Can be soloed with five Trusts. Not too difficult for high item level players, but not a total pushover, either. Use a healer and a strong melee to tank, at least. If you fail to defeat Balamor, zone back into Escha - Ru'Aun to reconvert Most confounding curio back into Most curious curio and try again. There may be a glitch where if someone defeats Balamor, other people can join the party after the fight, click the ???, and still get the next cutscene and credit for the win, without fighting.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-pretender-to-the-throne-node-2",
+          "orderIndex": 1,
+          "title": "After the fight, select the ??? again for a cutscene with Balamor and Selh'teus that awards a Cipher",
+          "description": "After the fight, select the ??? again for a cutscene with Balamor and Selh'teus that awards a Cipher: Balamor. Optionally, after the cutscene, select the ??? near Eschan Portal #15 to find another clump of Eschan Droplets, which can be used to to get from Portal #15 back to Portal #1. You do NOT need to do the fight to gain access to Eschan Portal #15 and to Eschan Portal #1 from #15. All you need to do is find the ???, click on it, and proceed to Eschan Portal #1 without starting the fight.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-pretender-to-the-throne-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-the-man-behind-the-mask",
+      "title": "The Man Behind the Mask",
+      "number": "2-9-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Man_Behind_the_Mask",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-man-behind-the-mask-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Oaken Door in Norg for a cutscene with Gilgamesh, Prishe, and Nashmeira.",
+          "description": "Examine the Oaken Door in Norg for a cutscene with Gilgamesh, Prishe, and Nashmeira.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-uncertain-futures",
+      "title": "Uncertain Futures",
+      "number": "2-9-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Uncertain_Futures",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-uncertain-futures-node-1",
+          "orderIndex": 0,
+          "title": "Go to any area with a Mog House entrance in San d'Oria, Bastok, or Windurst for a cutscene and the S",
+          "description": "Go to any area with a Mog House entrance in San d'Oria, Bastok, or Windurst for a cutscene and the Song of hope. This scene completes Uncertain Futures and begins Darkness Beckons.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-the-brewing-storm",
+      "title": "The Brewing Storm",
+      "number": "3-2-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Brewing_Storm",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-brewing-storm-node-1",
+          "orderIndex": 0,
+          "title": "Click on the Etched Rock at (K-9) to receive a cutscene.",
+          "description": "Click on the Etched Rock at (K-9) to receive a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-the-brewing-storm-node-2",
+          "orderIndex": 1,
+          "title": "Defeat 3 Perfervid Narakas that spawn near the Etched Rock at (K-9) during the hours of 20:00-4:00.",
+          "description": "Defeat 3 Perfervid Narakas that spawn near the Etched Rock at (K-9) during the hours of 20:00-4:00. The enemies are several levels above level 120 when you check their strength, but once engaged during this quest they lower in level to Easy Prey. They are from the strong Naraka family. They are level ~125 prior to engaging, level ~107 once pulled with a party member on this quest. They aggro sound and low HP, but do not link, making it possible to pull them one at a time using ranged attacks or magic. Make sure you do not wander too close to the black pixies that also roam around the area. They aggro and will not be weakened by the Rhapsody in Mauve (they will not cure you either, and defeating them does not affect pixie hate). You cannot zone before killing all three or the counter will reset. The door doesn't track your progress; it always says you must defeat three when you examine the door. Note: on 03/14/21 time ran out at 0400 and I'd only killed 2 Narkuuls. I logged off by the Etched Rock and came bak about 2100 the same V. Day. The counter did not reset as expected. I killed one of what I thought would be 3 Narkuuls needed and the battle was normal. But then I killed a second one and the Rhapsody in Mauve did not reset its level downward and it was a tough fight. Having killed 2 previously counted and clicking on the Etched Rock completed the Mission. So I did not need 3 more after logging. Just the one I was lacking. It's a good idea to not kill more than 3.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-the-brewing-storm-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-the-river-runs-red",
+      "title": "The River Runs Red",
+      "number": "3-2-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_River_Runs_Red",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-river-runs-red-node-1",
+          "orderIndex": 0,
+          "title": "This mission is automatically flagged after defeating the three Perfervid Narakas.",
+          "description": "This mission is automatically flagged after defeating the three Perfervid Narakas.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-the-river-runs-red-node-2",
+          "orderIndex": 1,
+          "title": "Examine the Etched Rock at (K-9) to enter Reisenjima Sanctorium for a cutscene.",
+          "description": "Examine the Etched Rock at (K-9) to enter Reisenjima Sanctorium for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-the-river-runs-red-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-the-crucible",
+      "title": "The Crucible",
+      "number": "3-2-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Crucible",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-crucible-node-1",
+          "orderIndex": 0,
+          "title": "You must complete The Geomagnetron to have access to Adoulin in order to proceed.",
+          "description": "You must complete The Geomagnetron to have access to Adoulin in order to proceed. You receive a Geomagnetron at the completion of the previous mission, and only need to speak with Darcia (H-7 - Lower Jueno) to activate it. (I had all expansions at this point. Not having the relevant expansion may affect the outcome.) If you have not started or completed the mission Rumors from the West, it is now automatically marked as complete. Skip directly to The Geomagnetron.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-the-crucible-node-2",
+          "orderIndex": 1,
+          "title": "(Optional) Go to a starting nation for a brief cutscene pointing you toward your next stop.",
+          "description": "(Optional) Go to a starting nation for a brief cutscene pointing you toward your next stop.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-the-crucible-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-the-crucible-node-3",
+          "orderIndex": 2,
+          "title": "Enter Ceizak Battlegrounds for a cutscene that ends this mission and begins either 3-3-1 Forward Thi",
+          "description": "Enter Ceizak Battlegrounds for a cutscene that ends this mission and begins either 3-3-1 Forward Thinking or 3-3-2 Tears of the Generals, depending on your progress in Seekers of Adoulin Missions. Requires finishing Seekers of Adoulin Mission 1-7 before the cut scene will start. If you want to finish all required Seekers of Adoulin mission requirements for Rhapsodies before continuing, you need to get up to 2-7-1 Behind the Sluices and pick up the Waterway facility crank from the storage container at H-6.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-the-crucible-node-2"
+          ]
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-crucible-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-rhapsodies-the-crucible-node-1",
+          "requirement": "Seekers of Adoulin registered and installedAdoulinian charter permitCompleted Seekers of Adoulin Mission 1-7, Meeting of the Minds",
+          "description": "Seekers of Adoulin registered and installedAdoulinian charter permitCompleted Seekers of Adoulin Mission 1-7, Meeting of the Minds"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-forward-thinking",
+      "title": "Forward Thinking",
+      "number": "3-3-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Forward_Thinking",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-forward-thinking-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Forward Thinking",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-tears-of-the-generals",
+      "title": "Tears of the Generals",
+      "number": "3-3-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Tears_of_the_Generals",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-tears-of-the-generals-node-1",
+          "orderIndex": 0,
+          "title": "After completing Adoulin Mission 2-2-1, Ortharsyne, speak to Ploh Trishbahk near Castle Adoulin in E",
+          "description": "After completing Adoulin Mission 2-2-1, Ortharsyne, speak to Ploh Trishbahk near Castle Adoulin in Eastern Adoulin for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-tears-of-the-generals-node-2",
+          "orderIndex": 1,
+          "title": "The Drained orb is received at the beginning of this mission.",
+          "description": "The Drained orb is received at the beginning of this mission. If you have not completed An Aimless Journey, Ploh Trishbahk will merely state that she hasn't heard of a \"demon jester\" before. You must complete the aforementioned mission to receive the cutscene.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-tears-of-the-generals-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-tears-of-the-generals-node-3",
+          "orderIndex": 2,
+          "title": "If you are on the Adoulin mission 3-6-1 Kumhau, the Flashfrost Naakual, you will not be able to get ",
+          "description": "If you are on the Adoulin mission 3-6-1 Kumhau, the Flashfrost Naakual, you will not be able to get the CS from Ploh Trishbahk.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-tears-of-the-generals-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-tears-of-the-generals-node-4",
+          "orderIndex": 3,
+          "title": "If you are on the Adoulin 3-6-3 Stonewalled, you won't be able to get a CS from Ploh Trishbahk, you ",
+          "description": "If you are on the Adoulin 3-6-3 Stonewalled, you won't be able to get a CS from Ploh Trishbahk, you need to win the battle and get the CS from Adoulin 3-6-4 Salvation first, and then you can get the CS.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-tears-of-the-generals-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-tears-of-the-generals-node-5",
+          "orderIndex": 4,
+          "title": "It would seem if you are on Adoulin 4-4, after the scene with Meive, you won't be able to get the CS",
+          "description": "It would seem if you are on Adoulin 4-4, after the scene with Meive, you won't be able to get the CS from Ploh Trishbahk either. She only mentions that the Orders have their hands full with other things.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-tears-of-the-generals-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-tears-of-the-generals-node-6",
+          "orderIndex": 5,
+          "title": "If you are on Adoulin 5-5, you won't be able to get the CS from Ploh Trishbahk.",
+          "description": "If you are on Adoulin 5-5, you won't be able to get the CS from Ploh Trishbahk.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-tears-of-the-generals-node-5"
+          ]
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-rhapsodies-tears-of-the-generals-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-rhapsodies-tears-of-the-generals-node-1",
+          "requirement": "Ortharsyne",
+          "description": "Ortharsyne"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-what-he-left-behind",
+      "title": "What He Left Behind",
+      "number": "3-4-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/What_He_Left_Behind",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-what-he-left-behind-node-1",
+          "orderIndex": 0,
+          "title": "Examine the glowing ??? at Rala Waterways at the southwest corner of (C-6).",
+          "description": "Examine the glowing ??? at Rala Waterways at the southwest corner of (C-6). Use the Waypoints in Adoulin and select \"Enigmatic Device, Rala Waterways\". Or, enter Rala Waterways from (F-5) in Western Adoulin, if you have not acquired the waypoint. You will need to go through the Sluice Gate, east, then south, and back west to get there. The walls shift, so it may be the first junction or second junction after the Sluice Gate to get through. Note: The mobs in this zone aggro at 99; use sneak/invis. The ??? will be just up the tiny bridge and slightly right. Examine it for a cutscene & Cipher: Arciela II. You must obtain this Cipher to continue.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-gone-but-not-forgotten",
+      "title": "Gone but Not Forgotten",
+      "number": "3-4-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gone_but_Not_Forgotten",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-gone-but-not-forgotten-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Sluice Gate at (C-6) in Rala Waterways near the exit to Western Adoulin for a short cuts",
+          "description": "Examine the Sluice Gate at (C-6) in Rala Waterways near the exit to Western Adoulin for a short cutscene. Note: You need to have completed Seekers of Adoulin Mission 2-7 Predators and Prey and flagged 2-7-1 Behind the Sluices as well as have the Waterway facility crank from the storage container at H-6 which allows you access into the hideout.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-gone-but-not-forgotten-node-2",
+          "orderIndex": 1,
+          "title": "Examine the Sluice Gate again to enter the secret hideout.",
+          "description": "Examine the Sluice Gate again to enter the secret hideout.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-gone-but-not-forgotten-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-gone-but-not-forgotten-node-3",
+          "orderIndex": 2,
+          "title": "Examine the Inconspicuous Barrel to receive the Founder king's orb to complete this mission.",
+          "description": "Examine the Inconspicuous Barrel to receive the Founder king's orb to complete this mission.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-gone-but-not-forgotten-node-2"
+          ]
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-rhapsodies-gone-but-not-forgotten-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-rhapsodies-gone-but-not-forgotten-node-1",
+          "requirement": "Adoulin Mission 2-7 Predators and Prey complete",
+          "description": "Adoulin Mission 2-7 Predators and Prey complete"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-solemnity",
+      "title": "Solemnity",
+      "number": "3-4-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Solemnity",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-solemnity-node-1",
+          "orderIndex": 0,
+          "title": "Enter Celennia Memorial Library for a cutscene.",
+          "description": "Enter Celennia Memorial Library for a cutscene. Via Eppel-Treppel (F-10 Eastern Adoulin, Scouts' Coalition).",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-eyes-on-you",
+      "title": "Eyes on You",
+      "number": "3-4-5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Eyes_on_You",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-eyes-on-you-node-1",
+          "orderIndex": 0,
+          "title": "Enter the Hall of the Gods by any method for a cutscene.",
+          "description": "Enter the Hall of the Gods by any method for a cutscene. Quickest Method: Survival Guide to Ro'Maeve (Li'Telor region) or Ru'Aun Gardens (Tu'Lia Region) and zone south. Alternatively, use a Unity Concord NPC's level 125 warp to Ro'Maeve.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-exploring-the-ruins",
+      "title": "Exploring the Ruins",
+      "number": "3-5-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Exploring_the_Ruins",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-exploring-the-ruins-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Cermet Grate in Hall of the Gods for a cutscene.",
+          "description": "Examine the Cermet Grate in Hall of the Gods for a cutscene. After this mission you can trade in ciphers for the Ark Angels.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-unshakable-nightmares",
+      "title": "Unshakable Nightmares",
+      "number": "3-6-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Unshakable_Nightmares",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-unshakable-nightmares-node-1",
+          "orderIndex": 0,
+          "title": "Enter Walk of Echoes in the present day.",
+          "description": "Enter Walk of Echoes in the present day. Warping from the \"???\" next to the Cavernous Maws in Batallia Downs, Rolanberry Fields, and Sauromugue Champaign will give you this cutscene. You can get the cutscene from the entrance at Xarcabard (S), but it's the wrong section for the next mission.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-what-remains-of-hope",
+      "title": "What Remains of Hope",
+      "number": "3-7-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/What_Remains_of_Hope",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-what-remains-of-hope-node-1",
+          "orderIndex": 0,
+          "title": "Examine the ??? to the northeast of the Veridical Conflux to get a cutscene and Cait Sith's whisker,",
+          "description": "Examine the ??? to the northeast of the Veridical Conflux to get a cutscene and Cait Sith's whisker, and to be teleported to Desuetia - Empyreal Paradox. Important to note that if you enter from Xarcabard (S) you will get the cutscene but you will be in the wrong Walk of Echoes. The blue ???s next to the Cavernous Maws in Batallia Downs, Rolanberry Fields, and Sauromugue Champaign. Requires the Lightsworm, acquired during WoTG 2, Back to the Beginning, or during the early RoV mission line. This depends on if the player completed Back to the Beginning before August 2015. This Key Item was introduced in the August 2015 Version Update Changes.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-no-time-like-the-future",
+      "title": "No Time Like the Future",
+      "number": "3-7-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/No_Time_Like_the_Future",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-no-time-like-the-future-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Transcendental Radiance in Desuetia - Empyreal Paradox to enter the battlefield against ",
+          "description": "Examine the Transcendental Radiance in Desuetia - Empyreal Paradox to enter the battlefield against Sempurne. If you lose, obtain another Cait Sith's whisker by speaking to Cait Sith outside of the BCNM.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-no-time-like-the-future-node-2",
+          "orderIndex": 1,
+          "title": "Upon victory, the next mission is flagged.",
+          "description": "Upon victory, the next mission is flagged.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-no-time-like-the-future-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-sin-mission",
+      "title": "Sin (Mission)",
+      "number": "3-7-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Sin_(Mission)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-sin-mission-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Transcendental Radiance in Desuetia - Empyreal Paradox for a cutscene.",
+          "description": "Examine the Transcendental Radiance in Desuetia - Empyreal Paradox for a cutscene. This cutscene takes at least ten minutes.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-tackling-the-problem",
+      "title": "Tackling the Problem",
+      "number": "3-9-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Tackling_the_Problem",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-tackling-the-problem-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Reisen Crystal in Reisenjima Sanctorium for a long cutscene.",
+          "description": "Examine the Reisen Crystal in Reisenjima Sanctorium for a long cutscene.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-way-to-divinity",
+      "title": "Way to Divinity",
+      "number": "3-9-5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Way_to_Divinity",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-way-to-divinity-node-1",
+          "orderIndex": 0,
+          "title": "Automatically completed during the sequence of cutscenes from the previous mission.",
+          "description": "Automatically completed during the sequence of cutscenes from the previous mission.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-way-to-divinity-node-2",
+          "orderIndex": 1,
+          "title": "You will now appear in Empyreal Paradox.",
+          "description": "You will now appear in Empyreal Paradox.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-way-to-divinity-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-the-winds-of-time",
+      "title": "The Winds of Time",
+      "number": "3-10-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Winds_of_Time",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-winds-of-time-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Transcendental Radiance in Empyreal Paradox and enter the battlefield \"The Winds of Time",
+          "description": "Examine the Transcendental Radiance in Empyreal Paradox and enter the battlefield \"The Winds of Time\".",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-the-winds-of-time-node-2",
+          "orderIndex": 1,
+          "title": "Defeat Metus.",
+          "description": "Defeat Metus. Has approximately 100,000 HP. Metus uses Promathia's TP moves, such as Bastion of Twilight, Wheel of Impregnability, Infernal Deliverance, and Empty Salvation, as well as unique moves Osmotic Wave and Censure. Casts Meteor. A balance of magical and physical damage trusts and item level equipment is recommended. See the talk page for testimonials.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-the-winds-of-time-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-the-winds-of-time-node-3",
+          "orderIndex": 2,
+          "title": "After winning the battle, another long cutscene will start along with the next mission.",
+          "description": "After winning the battle, another long cutscene will start along with the next mission.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-the-winds-of-time-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-the-winds-of-time-node-4",
+          "orderIndex": 3,
+          "title": "If you fail, exit the Empyreal Paradox and reenter through Reisenjima Sanctorium crystal to obtain a",
+          "description": "If you fail, exit the Empyreal Paradox and reenter through Reisenjima Sanctorium crystal to obtain a new KI. Use the Dimensional Portal at the Empyreal Paradox and select Reisenjima Sanctorium for a new Key Item and a teleport back to the Empyreal Paradox. If you are KO'ed then Home Point, port back to Empyreal Paradox to use the Dimensional Portal. Fast way to get to Reisenjima Sanctorium is to use The Garden of Ru'Hmet Home Point #1, descend the nearby elevator, and use the Dimensional Portal.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-the-winds-of-time-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-nary-a-cloud-in-sight",
+      "title": "Nary a Cloud in Sight",
+      "number": "3-10-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Nary_a_Cloud_in_Sight",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-nary-a-cloud-in-sight-node-1",
+          "orderIndex": 0,
+          "title": "Automatically completed in the sequence of cutscenes following Metus' defeat.",
+          "description": "Automatically completed in the sequence of cutscenes following Metus' defeat.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-nary-a-cloud-in-sight-node-2",
+          "orderIndex": 1,
+          "title": "You must be able to receive Cipher: Iroha before you can continue the mission line.",
+          "description": "You must be able to receive Cipher: Iroha before you can continue the mission line. If your bags were full or you were disconnected by the server prior to receiving the cipher, click on the Mystic Retriever just outside the Etched Rock in Reisenjima (K-9) to receive the cipher.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-nary-a-cloud-in-sight-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-guardians",
+      "title": "Guardians",
+      "number": "3-11-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Guardians",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-guardians-node-1",
+          "orderIndex": 0,
+          "title": "Examine the ??? in the Stone Circle at La Theine Plateau (G-6) for a cutscene and the Breath of the ",
+          "description": "Examine the ??? in the Stone Circle at La Theine Plateau (G-6) for a cutscene and the Breath of the avatars. A fast travel option is to use the Unity Concord warp (Lv. 99 and below) to La Theine Plateau.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-iroha-in-distress",
+      "title": "Iroha in Distress",
+      "number": "3-11-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Iroha_in_Distress",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-iroha-in-distress-node-1",
+          "orderIndex": 0,
+          "title": "Enter Reisenjima Sanctorium for a cutscene.",
+          "description": "Enter Reisenjima Sanctorium for a cutscene.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies-the-orb-s-radiance",
+      "title": "The Orb's Radiance",
+      "number": "3-12-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Orb%27s_Radiance",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-orb-s-radiance-node-1",
+          "orderIndex": 0,
+          "title": "Touch the Reisen Crystal in Reisenjima Sanctorium again to enter a battlefield against the Cloud of ",
+          "description": "Touch the Reisen Crystal in Reisenjima Sanctorium again to enter a battlefield against the Cloud of Darkness. If you fail, return to the Stone Circle in La Theine Plateau (G-6) for another Breath of the avatars.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-the-orb-s-radiance-node-2",
+          "orderIndex": 1,
+          "title": "Note: in the coming battle, Alter egos may be used, but only highly skilled and geared tank-like job",
+          "description": "Note: in the coming battle, Alter egos may be used, but only highly skilled and geared tank-like jobs can solo the Cloud of Darkness with just Alter egos.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-the-orb-s-radiance-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-rhapsodies-the-orb-s-radiance-node-3",
+          "orderIndex": 2,
+          "title": "After the battle, enjoy the final cutscenes and congratulations! The cutscenes and credits take appr",
+          "description": "After the battle, enjoy the final cutscenes and congratulations! The cutscenes and credits take approximately 15-20 minutes on top of how long it takes to defeat Cloud of Darkness, so plan accordingly.",
+          "dependencies": [
+            "ffxiclopedia-rhapsodies-the-orb-s-radiance-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    }
+  ]
+}

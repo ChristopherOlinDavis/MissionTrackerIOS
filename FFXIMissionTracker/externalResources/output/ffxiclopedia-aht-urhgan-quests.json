@@ -1,0 +1,3223 @@
+{
+  "id": "ffxiclopedia-aht-urhgan-quests",
+  "name": "FFXIclopedia - Aht Urhgan Quests",
+  "category": "quest",
+  "source": "FFXIclopedia",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Aht_Urhgan_Quests",
+  "lastScraped": "2025-12-29T17:29:38.192Z",
+  "lastKnownUpdate": "2025-12-29T17:29:38.192Z",
+  "totalMissions": 64,
+  "missions": [
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-coming-full-circle",
+      "title": "Coming Full Circle",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Coming_Full_Circle",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-coming-full-circle-node-1",
+          "orderIndex": 0,
+          "title": "Return to Caedarva Mire's cemetery at (E-10) and examine it with the mythic weapon equipped for a cu",
+          "description": "Return to Caedarva Mire's cemetery at (E-10) and examine it with the mythic weapon equipped for a cutscene with the Balrahn Eidolon.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-coming-full-circle-node-2",
+          "orderIndex": 1,
+          "title": "Trade the Mythic Weapon to the gravestone to fully unlock it.",
+          "description": "Trade the Mythic Weapon to the gravestone to fully unlock it. To upgrade your Mythic Weapon to higher levels and eventually Item Level 119, Magian Trials are required.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-coming-full-circle-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-coming-full-circle-node-3",
+          "orderIndex": 2,
+          "title": "After receiving the unlocked weapon check the Imperial Whitegate with no weapons equipped for anothe",
+          "description": "After receiving the unlocked weapon check the Imperial Whitegate with no weapons equipped for another cutscene with Ovjang, Mnejing, Nashmeira, Raubahn, and Bharifhal.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-coming-full-circle-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-coming-full-circle-node-4",
+          "orderIndex": 3,
+          "title": "Walk up the first ramp inside Salaheem's Sentinels for a cutscene with Abquhbah and Naja Salaheem an",
+          "description": "Walk up the first ramp inside Salaheem's Sentinels for a cutscene with Abquhbah and Naja Salaheem and a reward of 3 Imperial Silver Pieces.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-coming-full-circle-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-cook-a-roon",
+      "title": "Cook-a-roon?",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Cook-a-roon%3F",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-cook-a-roon-node-1",
+          "orderIndex": 0,
+          "title": "Ququroon wants the following fish: Istavrit Istakoz Mercanbaligi Ahtapot Istiridye.",
+          "description": "Ququroon wants the following fish: Istavrit Istakoz Mercanbaligi Ahtapot Istiridye",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-cook-a-roon-node-2",
+          "orderIndex": 1,
+          "title": "If you are unable to fish up these fish, then they are only available from the Auction House, or pos",
+          "description": "If you are unable to fish up these fish, then they are only available from the Auction House, or possibly the Fishing Guild Merchant, Wahnid.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-cook-a-roon-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-delivering-the-goods",
+      "title": "Delivering the Goods",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Delivering_the_Goods",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-delivering-the-goods-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Fochacha (I-9) to start the quest.",
+          "description": "Speak to Fochacha (I-9) to start the quest. She asks you to help Topok-Hippok track down a bandit.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-delivering-the-goods-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Qutiba or Ulamaal (K-12) in the Shararat Teahouse for a cutscene.",
+          "description": "Talk to Qutiba or Ulamaal (K-12) in the Shararat Teahouse for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-delivering-the-goods-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-delivering-the-goods-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Fochacha (I-9) again to complete the quest and receive 3 Imperial Bronze Pieces.",
+          "description": "Talk to Fochacha (I-9) again to complete the quest and receive 3 Imperial Bronze Pieces.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-delivering-the-goods-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-divine-interference",
+      "title": "Divine Interference",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Divine_Interference",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-divine-interference-node-1",
+          "orderIndex": 0,
+          "title": "Wait until Japanese Midnight has passed and enter Salaheem's Sentinels.",
+          "description": "Wait until Japanese Midnight has passed and enter Salaheem's Sentinels. The cutscene for Divine Interference begins automatically as you get near/pass Abquhbah. Talking to Naja Salaheem can also start the Unwavering Resolve quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-divine-interference-node-2",
+          "orderIndex": 1,
+          "title": "Examine the Imperial Whitegate door (L-9) for a cutscene.",
+          "description": "Examine the Imperial Whitegate door (L-9) for a cutscene. If you get a cutscene for an Odin Prime quest, recheck the Imperial Whitegate. After checking the Imperial Whitegate for this quest and accepting it, you can recheck the Imperial Whitegate to start Unwavering Resolve. Quest does not appear in your log until you complete this step.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-divine-interference-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-divine-interference-node-3",
+          "orderIndex": 2,
+          "title": "From here on, this quest is similar to Waking the Colossus without the three nations part.",
+          "description": "From here on, this quest is similar to Waking the Colossus without the three nations part. Go to Mount Zhayolm for a cutscene at the Acid-Eaten Door (I-9) far south on the second floor of the Cerberus spawn area. Get some pickaxes and mine 3 slabs of Plumbago in Mount Zhayolm or Halvung. Plumbago also drops from Troll Ironworker and Troll Lapidarist in Halvung. Plumbago also drops from Hilltroll Warrior and Hilltroll Dark Knight in Mount Zhayolm. Auction House: Materials > Smithing.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-divine-interference-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-divine-interference-node-4",
+          "orderIndex": 3,
+          "title": "Check the Acid-Eaten Door for a cutscene.",
+          "description": "Check the Acid-Eaten Door for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-divine-interference-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-divine-interference-node-5",
+          "orderIndex": 4,
+          "title": "Trade 3 slabs of Plumbago to the Acid-Eaten Door to receive a Lightning Cell.",
+          "description": "Trade 3 slabs of Plumbago to the Acid-Eaten Door to receive a Lightning Cell.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-divine-interference-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-divine-interference-node-6",
+          "orderIndex": 5,
+          "title": "Receive a cutscene at the lamp in Alzadaal Undersea Ruins.",
+          "description": "Receive a cutscene at the lamp in Alzadaal Undersea Ruins.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-divine-interference-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-divine-interference-node-7",
+          "orderIndex": 6,
+          "title": "With the Lightning Cell, enter the BCNM with Alexander at the Nyzul Isle assault door.",
+          "description": "With the Lightning Cell, enter the BCNM with Alexander at the Nyzul Isle assault door. Buffs and TP are lost upon entering.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-divine-interference-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-divine-interference-node-8",
+          "orderIndex": 7,
+          "title": "After winning the fight, return to Naja Salaheem with the Whisper of radiance to claim your reward.",
+          "description": "After winning the fight, return to Naja Salaheem with the Whisper of radiance to claim your reward. If you lose the fight, you must collect 3 more slabs of Plumbago and receive a new Lightning Cell.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-divine-interference-node-7"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-duties-tasks-and-deeds",
+      "title": "Duties, Tasks, and Deeds",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Duties,_Tasks,_and_Deeds",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-duties-tasks-and-deeds-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Paparoon (G-7) in Nashmau and select every option.",
+          "description": "Talk to Paparoon (G-7) in Nashmau and select every option. Upon asking about Assault Memoires, you will receive 5 items. If you do not have 5 open spaces in your Gobbiebag, the cutscene will be cancelled.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-duties-tasks-and-deeds-node-2",
+          "orderIndex": 1,
+          "title": "Trade the following items to Paparoon to complete the quest: Balrahn's Eyepatch: Purchased from Kilu",
+          "description": "Trade the following items to Paparoon to complete the quest: Balrahn's Eyepatch: Purchased from Kilusha (H-7) in Nashmau for 100,000 Ampoules of Therion Ichor. Wyrmseeker Areuhat: Purchased from Zasshal (K-9) in Aht Urhgan Whitegate for 150,000 Nyzul Isle Tokens. Fully-marked Mamool Ja Journal, Lebros Chronicle, Leujaoam Log, Periqia Diary and Ilrusi Ledger. 30,000 Alexandrite or Cat's Eye. Cat's Eye can be obtained as a rank 2 prize in Mog Bonanza, or from the Special Dial 50 points Gobbie Mystery Box.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-duties-tasks-and-deeds-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-duties-tasks-and-deeds-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Paparoon again.",
+          "description": "Talk to Paparoon again. You will receive a brief cutscene and Paparoon's sealed invitation.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-duties-tasks-and-deeds-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-embers-of-his-past",
+      "title": "Embers of His Past",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Embers_of_His_Past",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-embers-of-his-past-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Fari-Wari at Shararat Teahouse for first cutscene.",
+          "description": "Talk to Fari-Wari at Shararat Teahouse for first cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-embers-of-his-past-node-2",
+          "orderIndex": 1,
+          "title": "Obtain a Hydrangea.",
+          "description": "Obtain a Hydrangea. It can be obtained via the Auction House: Materials > Alchemy. Dropped by Hilltrolls in Mount Zhayolm. You will need to pass through either of the Gates of Halvung to access them. Passing through the gates requires checking the gate first, remaining in the zone, and then finding a Cast Metal Plate to pass through. See the map for spawn locations. So far it has only been confirmed that Hilltroll Warrior, Hilltroll Red Mage and Hilltroll Dark Knight can drop the Hydrangea.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-embers-of-his-past-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-embers-of-his-past-node-3",
+          "orderIndex": 2,
+          "title": "Go to Mount Zhayolm and click on Sprightly Footsteps near the zone to Halvung (L-7) (between 18:00-0",
+          "description": "Go to Mount Zhayolm and click on Sprightly Footsteps near the zone to Halvung (L-7) (between 18:00-06:00). You can use the Runic Portal to go to the Halvung Staging Point.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-embers-of-his-past-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-embers-of-his-past-node-4",
+          "orderIndex": 3,
+          "title": "Now go to the cliff nearby and click on Withered Petals (L-6) just north-east of the unnamed target ",
+          "description": "Now go to the cliff nearby and click on Withered Petals (L-6) just north-east of the unnamed target for Rock Bottom (between 18:00-06:00). Long cutscene (at least 4m:30s).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-embers-of-his-past-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-embers-of-his-past-node-5",
+          "orderIndex": 4,
+          "title": "After the cutscene you'll end up in Aht Urhgan Whitegate.",
+          "description": "After the cutscene you'll end up in Aht Urhgan Whitegate.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-embers-of-his-past-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-embers-of-his-past-node-6",
+          "orderIndex": 5,
+          "title": "Trade the Hydrangea to Fari-Wari for another cutscene (minimum 2m:00s).",
+          "description": "Trade the Hydrangea to Fari-Wari for another cutscene (minimum 2m:00s). After the cutscene he will return the Hydrangea to you.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-embers-of-his-past-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-embers-of-his-past-node-7",
+          "orderIndex": 6,
+          "title": "Head back to Mount Zhayolm and trade the Hydrangea to the Withered Petals (L-6), again a long cutsce",
+          "description": "Head back to Mount Zhayolm and trade the Hydrangea to the Withered Petals (L-6), again a long cutscene (minimum 8m:00s).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-embers-of-his-past-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-embers-of-his-past-node-8",
+          "orderIndex": 7,
+          "title": "Return to Fari-Wari for final cutscene (minimum 3m:00s) and reward.",
+          "description": "Return to Fari-Wari for final cutscene (minimum 3m:00s) and reward.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-embers-of-his-past-node-7"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-equipped-for-all-occasions",
+      "title": "Equipped for All Occasions",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Equipped_for_All_Occasions",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-equipped-for-all-occasions-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Ratihb at Aht Urhgan Whitegate (J-12) at the Shararat Teahouse.",
+          "description": "Talk to Ratihb at Aht Urhgan Whitegate (J-12) at the Shararat Teahouse. Note: In the previous quest it was suggested that a final optional step was to go back to Ratihb for a cutscene. If you talk with Ratihb and his response is to welcome you and revitalize with tea, you probably already did that step.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-equipped-for-all-occasions-node-2",
+          "orderIndex": 1,
+          "title": "Head to the ??? at Arrapago Reef (H-10) on the first map of Arrapago Reef (the same ??? on the ruine",
+          "description": "Head to the ??? at Arrapago Reef (H-10) on the first map of Arrapago Reef (the same ??? on the ruined ship used in Luck of the Draw) as Corsair, level 40 or higher (go to the 2nd boat at the very top of (H-10), not the first one outside the cave from the survival guide). You can warp right to the entrance using an Atmacite Refiner if you've started the Aht Urhgan Voidwatch path. You can also warp to the entrance if you've activated the Survival Guide at the entrance. You will need a Lamian Fang Key (or a Thief) to open an Iron Gate inside Arrapago Reef. You may farm this key either in Caedarva Mire or Arrapago Reef, or can obtain one by checking a ??? in Caedarva Mire (I-7), on a small ledge behind a Jnun. A character can obtain a free Lamian Fang Key once per Vana'diel day (resets at 0:00 game time) and they can be sent between characters on the same PlayOnline account. [Note: you will technically need TWO Lamian Fang Keys (or use the other option), one to flag and one to \"finish\"]. You do not need a Lamian Fang Key to get to the ???. Using the Ilrusi Atoll Staging Point will get you to Map 2. From there, go to point A to get to Map 1. Then go to the tunnels using point m. That puts you at the same spot as if you used the Lamian Fang Key with the method above. Exit using the lower left Iron Gate to get to the ???. (Note: There are Soulflayers along this route that are True Hearing. There are also Heraldic Imps in the cave right next to the staging point that are True Sight. Going this way is NOT ideal for your level 40 Corsair and you would be wise to have reraise.) Another somewhat faster and safer way if the Voidwatch warp isn't available is to bring someone along with escape to Ilrusi Atoll Staging Point. From there cast Escape and you'll end up near the entrance to Arrapago Reef in Caedarva Mire. You still need to get a Lamian Fang Key, but you skip walking past the True Sight mobs.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-equipped-for-all-occasions-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-equipped-for-all-occasions-node-3",
+          "orderIndex": 2,
+          "title": "Examine the ??? for a cutscene during which Aznahf will present you with three choices: Maze of Shak",
+          "description": "Examine the ??? for a cutscene during which Aznahf will present you with three choices: Maze of Shakhrami, Gusgen Mines, or Ordelle's Caves. Choose the Maze of Shakhrami (the only correct choice). Note: Even if you make the wrong choice, you will still be able to pop the Lost Soul (NM) in the Maze of Shakhrami.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-equipped-for-all-occasions-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-equipped-for-all-occasions-node-4",
+          "orderIndex": 3,
+          "title": "Your objective is (K-9) in the Maze of Shakhrami.",
+          "description": "Your objective is (K-9) in the Maze of Shakhrami.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-equipped-for-all-occasions-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-fear-of-the-dark-ii",
+      "title": "Fear of the Dark II",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Fear_of_the_Dark_II",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-fear-of-the-dark-ii-node-1",
+          "orderIndex": 0,
+          "title": "Trade Suldiran 2 Imp Wings for your reward.",
+          "description": "Trade Suldiran 2 Imp Wings for your reward",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-finding-faults",
+      "title": "Finding Faults",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Finding_Faults",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-finding-faults-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Hishahma for a cutscene.",
+          "description": "Talk to Hishahma for a cutscene. You must choose a beastman type to investigate. You are to report two of the beastmen's weaknesses.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-finding-faults-node-2",
+          "orderIndex": 1,
+          "title": "Pop the appropriate NM and fight it to see what its weaknesses are.",
+          "description": "Pop the appropriate NM and fight it to see what its weaknesses are. Weaknesses change weekly. When you fight the notorious monster, if it gets intimidated, that's a weakness. While the weaknesses themselves may not change, the exact details of how they work (i.e. which angle the WS is performed at, which WS) may change with each pop. Apparently, you and everyone in your party with the quest active will only get that one opportunity to discover both of its weaknesses; zoning or waiting doesn't allow any of you to repop the NM.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-finding-faults-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-finding-faults-node-3",
+          "orderIndex": 2,
+          "title": "Return to Hishahma and report the weaknesses you found.",
+          "description": "Return to Hishahma and report the weaknesses you found.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-finding-faults-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-finding-faults-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Hishahma again after Japanese midnight and zoning for your reward.",
+          "description": "Talk to Hishahma again after Japanese midnight and zoning for your reward. In July 2014 Update you no longer need to wait for midnight, max wait time is now 1 minute (earth time). If you get one weakness right, you get 200 Imperial Standing. If you get both right, you get a ??? Box.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-finding-faults-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-finding-faults-node-5",
+          "orderIndex": 4,
+          "title": "Note: You do not have to discover the weakness in your battle against the NM.",
+          "description": "Note: You do not have to discover the weakness in your battle against the NM. If you end up killing the NM without intimidating it, you still get two guesses at its weakness when you report back the the NPC. Example: No element intimidated the Mamool Ja NM. The peculiar bud scent did not intimidate him. Dropping off the ledge did not intimidate him. Eventually, he died, never getting intimidated. So I guessed that the weaknesses were: 1) a weapon skill from a certain angle, because solo, trying weapon skills from different angles was very difficult, and I only managed two different angles during the fight. 2) a specific weapon skill, because I obviously did not use every weapon skill in the game against him. I wasn't even able to use all my sword skills. I got the first weakness correct (certain angle), completing the quest, and receiving 200 Imperial Standing. I was wrong about the second weakness: I suspect that Shining Blade was not considered light element damage, or that the bud scent or dropping off the cliff didn't work out for some reason.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-finding-faults-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-fist-of-the-people",
+      "title": "Fist of the People",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Fist_of_the_People",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-fist-of-the-people-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Talhaal in Al Zahbi at (H-6).",
+          "description": "Talk to Talhaal in Al Zahbi at (H-6). He will tell you to meet him at the Shararat Teahouse later.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-fist-of-the-people-node-2",
+          "orderIndex": 1,
+          "title": "Head back the Shararat Teahouse in Aht Urhgan Whitegate and talk to Fari-Wari again.",
+          "description": "Head back the Shararat Teahouse in Aht Urhgan Whitegate and talk to Fari-Wari again. Talhaal will show up to tell you the story of Zazarg. (This cutscene will run at least 3m:30s.)",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-fist-of-the-people-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-fist-of-the-people-node-3",
+          "orderIndex": 2,
+          "title": "For the rest of his story he tells you to find the general himself.",
+          "description": "For the rest of his story he tells you to find the general himself.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-fist-of-the-people-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-fist-of-the-people-node-4",
+          "orderIndex": 3,
+          "title": "Obtain a Rusty Medal from a Wajaom Tiger in Wajaom Woodlands or Bhaflau Thickets.",
+          "description": "Obtain a Rusty Medal from a Wajaom Tiger in Wajaom Woodlands or Bhaflau Thickets. The Rusty Medal may also be purchased on the Auction House under: Others > Misc.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-fist-of-the-people-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-fist-of-the-people-node-5",
+          "orderIndex": 4,
+          "title": "Trade it to the Leypoint in Wajaom Woodlands at (G-8) for the final cutscene.",
+          "description": "Trade it to the Leypoint in Wajaom Woodlands at (G-8) for the final cutscene. (This cutscene is at least 5m:55s long.)",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-fist-of-the-people-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-five-seconds-of-fame",
+      "title": "Five Seconds of Fame",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Five_Seconds_of_Fame",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-five-seconds-of-fame-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Balakaf to start the quest and receive the key item Photopticator.",
+          "description": "Talk to Balakaf to start the quest and receive the key item Photopticator.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-five-seconds-of-fame-node-2",
+          "orderIndex": 1,
+          "title": "Complete the 5 Parts of the storyline.",
+          "description": "Complete the 5 Parts of the storyline. Parts can be done in any order. You can do all of these in a single day if you are quick enough. If you fail a particular recording, you can get the film replaced and move onto another part without zoning. To try a part you failed you will have to zone out and back before you can try that particular scene again. This also means if you talk to an NPC at a time different from when indicated, you may have to zone in order for you to get the cutscene at the correct time. If you record at the wrong time, when you talk to Balakaf he will say he can't see what you recorded because it's too blurry.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-five-seconds-of-fame-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-forging-a-new-myth",
+      "title": "Forging a New Myth",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Forging_a_New_Myth",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-forging-a-new-myth-node-1",
+          "orderIndex": 0,
+          "title": "After completing Duties, Tasks, and Deeds, examine the Imperial Palace in Aht Urhgan Whitegate for a",
+          "description": "After completing Duties, Tasks, and Deeds, examine the Imperial Palace in Aht Urhgan Whitegate for a cutscene with Nashmeira, Ovjang, Mnejing, Bharifhal, and Raubahn. During the cutscene you will receive an Imperial Gold Piece. Upon completion of the cutscene you will receive your Mythic Weapon, with Aftermath locked.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-forging-a-new-myth-node-2",
+          "orderIndex": 1,
+          "title": "Obtain Tinnin's Fang, Sarameya's Hide, and Tyger's Tail through the Zeni NM system.",
+          "description": "Obtain Tinnin's Fang, Sarameya's Hide, and Tyger's Tail through the Zeni NM system.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-forging-a-new-myth-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-get-the-picture",
+      "title": "Get the Picture",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Get_the_Picture",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-get-the-picture-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Balakaf.",
+          "description": "Talk to Balakaf. He will give you the Image Recorder and send you to take a picture that fits his description. After returning to Balakaf with the correct picture, you will receive an Imperial Silver Piece. Then you must zone and wait until JST midnight to continue. If he tells you it is the wrong picture, you must zone, talk to him again, and then trade him an Ahriman Lens. Then you must zone and wait until JST midnight to try again. If you use an Aurora Crystal instead of a Light Crystal, you will get an alternate cutscene where he appears satisfied, until he notices your name written on the photograph. He will then reject it.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-get-the-picture-node-2",
+          "orderIndex": 1,
+          "title": "If the picture must be taken during a particular weather effect or at a certain time, you will be un",
+          "description": "If the picture must be taken during a particular weather effect or at a certain time, you will be unable to take the picture until the conditions are met.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-get-the-picture-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-give-peace-a-chance",
+      "title": "Give Peace a Chance",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Give_Peace_a_Chance",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-give-peace-a-chance-node-1",
+          "orderIndex": 0,
+          "title": "Aht Urhgan Whitegate: Talk to Mishhar (H-8), 2nd floor for first cutscene.",
+          "description": "Aht Urhgan Whitegate: Talk to Mishhar (H-8), 2nd floor for first cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-give-peace-a-chance-node-2",
+          "orderIndex": 1,
+          "title": "Wajaom Woodlands: Go to (K-7) in at night and click on the ??? (After 20:00 game time) for another c",
+          "description": "Wajaom Woodlands: Go to (K-7) in at night and click on the ??? (After 20:00 game time) for another cutscene. (NOTE: The ??? is located at the bottom-center of the (K-7) grid box and take care not to aggro the fomors.)",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-give-peace-a-chance-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-give-peace-a-chance-node-3",
+          "orderIndex": 2,
+          "title": "Aht Urhgan Whitegate: Go back to Mishhar (H-8) and you will get another cutscene.",
+          "description": "Aht Urhgan Whitegate: Go back to Mishhar (H-8) and you will get another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-give-peace-a-chance-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-give-peace-a-chance-node-4",
+          "orderIndex": 3,
+          "title": "Wajaom Woodlands: Travel to (E-12) and zone to Mamook.",
+          "description": "Wajaom Woodlands: Travel to (E-12) and zone to Mamook.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-give-peace-a-chance-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-give-peace-a-chance-node-5",
+          "orderIndex": 4,
+          "title": "Mamook (M-9): >>Caution!<< Mamool Ja detect by sight.",
+          "description": "Mamook (M-9): >>Caution!<< Mamool Ja detect by sight. At least two of them are in the vicinity of the ???; one in the tunnel and one just outside. Use Invisible spell or powder to approach the ???. The ??? is located at the end of the tunnel (L-9). You must drop Invisible effect and click on the ??? to view the cutscene. You can't be attacked while you view the cutscene (so enjoy it) and it is a matter of luck whether the Mamool Ja will be facing you after the cutscene is finished.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-give-peace-a-chance-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-give-peace-a-chance-node-6",
+          "orderIndex": 5,
+          "title": "Aht Urhgan Whitegate: Return to Mishhar for final cutscene and reward.",
+          "description": "Aht Urhgan Whitegate: Return to Mishhar for final cutscene and reward.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-give-peace-a-chance-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-got-it-all",
+      "title": "Got It All",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Got_It_All",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-got-it-all-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Tehf Kimasnahya (F-8) for a cutscene.",
+          "description": "Talk to Tehf Kimasnahya (F-8) for a cutscene. She will ask for a Vial of Luminous Water (Key Item).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-got-it-all-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Ekhu Pesshyadha (H-6) once for a cutscene, then a second time.",
+          "description": "Talk to Ekhu Pesshyadha (H-6) once for a cutscene, then a second time.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-got-it-all-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-got-it-all-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Zabahf (F-8).",
+          "description": "Talk to Zabahf (F-8).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-got-it-all-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-got-it-all-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Ekhu Pesshyadha again for the Vial of Luminous Water (Key Item).",
+          "description": "Talk to Ekhu Pesshyadha again for the Vial of Luminous Water (Key Item).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-got-it-all-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-got-it-all-node-5",
+          "orderIndex": 4,
+          "title": "Talk to Tehf Kimasnahya again for a cutscene.",
+          "description": "Talk to Tehf Kimasnahya again for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-got-it-all-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-got-it-all-node-6",
+          "orderIndex": 5,
+          "title": "Walk through the archway on the ground floor in (J-10) next to Hajaom for a cutscene.",
+          "description": "Walk through the archway on the ground floor in (J-10) next to Hajaom for a cutscene. The cutscene mentions fresh Orc livers and venom dust (Cantarella).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-got-it-all-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-got-it-all-node-7",
+          "orderIndex": 6,
+          "title": "Talk to Tehf Kimasnahya again for a cutscene.",
+          "description": "Talk to Tehf Kimasnahya again for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-got-it-all-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-got-it-all-node-8",
+          "orderIndex": 7,
+          "title": "After zoning (logging out and back in does not count), talk to Tehf Kimasnahya one last time for a f",
+          "description": "After zoning (logging out and back in does not count), talk to Tehf Kimasnahya one last time for a final cutscene to finish the quest. In an Era before it was changed, it was required to wait for JP midnight to pass. Zoning to Al Zahbi may not work. In that case try zoning to outside the city.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-got-it-all-node-7"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-keeping-notes",
+      "title": "Keeping Notes",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Keeping_Notes",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-keeping-notes-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Ahkk Jharcham.",
+          "description": "Speak with Ahkk Jharcham.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-keeping-notes-node-2",
+          "orderIndex": 1,
+          "title": "Trade a Sheet of Parchment and a Jar of Black Ink to her for a cutscene and your reward.",
+          "description": "Trade a Sheet of Parchment and a Jar of Black Ink to her for a cutscene and your reward.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-keeping-notes-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-led-astray",
+      "title": "Led Astray",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Led_Astray",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-led-astray-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Mhasbaf in Aht Urhgan Whitegate at J-8.",
+          "description": "Talk to Mhasbaf in Aht Urhgan Whitegate at J-8.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-led-astray-node-2",
+          "orderIndex": 1,
+          "title": "Head to the lower section of J-8 and approach the pillar for a cutscene.",
+          "description": "Head to the lower section of J-8 and approach the pillar for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-led-astray-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-led-astray-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Tohka Telposkha at I-8 for a cutscene; tell the Galka to go to Port Ephramad.",
+          "description": "Talk to Tohka Telposkha at I-8 for a cutscene; tell the Galka to go to Port Ephramad.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-led-astray-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-luck-of-the-draw",
+      "title": "Luck of the Draw",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Luck_of_the_Draw",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-luck-of-the-draw-node-1",
+          "orderIndex": 0,
+          "title": "(Aht Urhgan Whitegate J-12) As a level 30+ job, talk to Ratihb, second floor, at the Shararat Teahou",
+          "description": "(Aht Urhgan Whitegate J-12) As a level 30+ job, talk to Ratihb, second floor, at the Shararat Teahouse for a cutscene. Note: This cutscene must deal with Corsair quest, not The Die Is Cast quest that deals with throwing dice.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-luck-of-the-draw-node-2",
+          "orderIndex": 1,
+          "title": "(Aht Urhgan Whitegate L-9)Talk to Mafwahb by the Imperial Whitegate for another cutscene.",
+          "description": "(Aht Urhgan Whitegate L-9)Talk to Mafwahb by the Imperial Whitegate for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-luck-of-the-draw-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-luck-of-the-draw-node-3",
+          "orderIndex": 2,
+          "title": "Travel to Arrapago Reef This can be achieved by taking the Ferry from Port Ephramad to Nashmau or Na",
+          "description": "Travel to Arrapago Reef This can be achieved by taking the Ferry from Port Ephramad to Nashmau or Nashmau Survival Guide, taking the North exit into Caedarva Mire and heading to the tunnel at (I-6) into Arrapago Reef. (Aht Urghan Whitegate I-5) Take the ferry to Nashmau. (Nashmau H-6) Take the North exit to Caedarva Mire (Caedarva Mire I-6) Zone into Arrapago Reef Keep Sneak and Invisible up due to the Chigoes and Treants in the Mire. Use caution around the imps as they have True Sight. If you want to avoid a few mobs, it is recommended doing this during the day as the Jnun in Caedarva Mire are asleep during this time (although can also be avoided easily during the day). Alternatively, use the Arrapago Reef Survival Guide. Or, Runic Portal to the Azouph Isle Staging Point and head to the tunnel at (I-6) into Arrapago Reef. You can also use the Atmacite Refiner if you've started the Aht Urhgan Voidwatch path.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-luck-of-the-draw-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-moment-of-truth",
+      "title": "Moment of Truth",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Moment_of_Truth",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-moment-of-truth-node-1",
+          "orderIndex": 0,
+          "title": "Aht Urhgan Whitegate:.",
+          "description": "Aht Urhgan Whitegate:",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-navigating-the-unfriendly-seas",
+      "title": "Navigating the Unfriendly Seas",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Navigating_the_Unfriendly_Seas",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-navigating-the-unfriendly-seas-node-1",
+          "orderIndex": 0,
+          "title": "After completing Equipped for All Occasions, return to Arrapago Reef's ??? (Note: This is H-10 on ma",
+          "description": "After completing Equipped for All Occasions, return to Arrapago Reef's ??? (Note: This is H-10 on map 1) as Corsair 50+. If you head out from Nashmau, you may want to set your home point there, so you can warp out of Arrapago Reef and complete the next necessary steps in Nashmau. You need a Lamian Fang Key if traveling from Nashmau or using an Atmacite Refiner's teleportation service to Arrapago Reef. You can obtain a free Lamian Fang Key once per Vana'diel day (resetting at 0:00 game time) from a ??? in Caedarva Mire (H/I-7), in a small crevice behind a Jnun. You can use the Ilrusi Atoll Staging Point to bypass the need for a Lamian Fang Key, but now that the key is so readily available at the ???, using the Ilrusi Atoll Staging Point is unnecessarily time-consuming.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-navigating-the-unfriendly-seas-node-2",
+          "orderIndex": 1,
+          "title": "Examine the ??? for a cutscene during which you are told to find a Hydrogauge.",
+          "description": "Examine the ??? for a cutscene during which you are told to find a Hydrogauge. You cannot fish up the Hydrogauge before this point.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-navigating-the-unfriendly-seas-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-navigating-the-unfriendly-seas-node-3",
+          "orderIndex": 2,
+          "title": "From this point on, Corsair does not need to be your main job.",
+          "description": "From this point on, Corsair does not need to be your main job.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-navigating-the-unfriendly-seas-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-navigating-the-unfriendly-seas-node-4",
+          "orderIndex": 3,
+          "title": "Fish up a Hydrogauge.",
+          "description": "Fish up a Hydrogauge. It will behave like any fished item, giving the message \"You feel something pulling at your line.\" It can be fished up from Aht Urhgan Whitegate, Al Zahbi, Nashmau, and Silver Sea route to Al Zahbi, with any rod and any bait. Aht Urhgan Whitegate has the fewest fish to interfere with Hydrogauge fishing attempts. You can use any rod and Insect Ball, purchasable at Wahnid (H-11).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-navigating-the-unfriendly-seas-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-navigating-the-unfriendly-seas-node-5",
+          "orderIndex": 4,
+          "title": "After fishing up your Hydrogauge, trade it to Leleroon at Nashmau (G-7), bottom floor.",
+          "description": "After fishing up your Hydrogauge, trade it to Leleroon at Nashmau (G-7), bottom floor.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-navigating-the-unfriendly-seas-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-navigating-the-unfriendly-seas-node-6",
+          "orderIndex": 5,
+          "title": "Next, head to the Leypoint in Wajaom Woodlands at (G-8), and trade the Hydrogauge to the Leypoint fo",
+          "description": "Next, head to the Leypoint in Wajaom Woodlands at (G-8), and trade the Hydrogauge to the Leypoint for the message \"You set the Hydrogauge in the glowing trench.\" You don't need to trade this as a Corsair, so the Leypoint can be conveniently warped to by any 60+ job using an Olduum Ring.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-navigating-the-unfriendly-seas-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-navigating-the-unfriendly-seas-node-7",
+          "orderIndex": 6,
+          "title": "Wait one minute (Earth time) and reexamine the Leypoint for a cutscene.",
+          "description": "Wait one minute (Earth time) and reexamine the Leypoint for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-navigating-the-unfriendly-seas-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-navigating-the-unfriendly-seas-node-8",
+          "orderIndex": 7,
+          "title": "Return to Arrapago Reef and check the ??? for a cutscene with Zweeha and your reward.",
+          "description": "Return to Arrapago Reef and check the ??? for a cutscene with Zweeha and your reward.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-navigating-the-unfriendly-seas-node-7"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-no-strings-attached",
+      "title": "No Strings Attached",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/No_Strings_Attached",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-no-strings-attached-node-1",
+          "orderIndex": 0,
+          "title": "{ Bastok Markets F-9 }Talk to Shamarhaan near the fountain as a level 30+ job.",
+          "description": "{ Bastok Markets F-9 }Talk to Shamarhaan near the fountain as a level 30+ job.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-no-strings-attached-node-2",
+          "orderIndex": 1,
+          "title": "{ Aht Urhgan Whitegate K-9 }Talk to Iruki-Waraki (top floor).",
+          "description": "{ Aht Urhgan Whitegate K-9 }Talk to Iruki-Waraki (top floor).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-no-strings-attached-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-no-strings-attached-node-3",
+          "orderIndex": 2,
+          "title": "{ Aht Urhgan Whitegate I-7 }Talk to Ghatsad in the Automaton Workshop (top floor).",
+          "description": "{ Aht Urhgan Whitegate I-7 }Talk to Ghatsad in the Automaton Workshop (top floor). Take the ferry from Port Ephramad to Nashmau. Your next goal destination is Arrapago Reef. If you have it: use the Survival Guide in Aht Urhgan Whitegate to teleport to the Survival Guide at the entrance of Arrapago Reef Or if you have it: use the Runic Portal to the Azouph Isle Staging Point, and head to the tunnel at (I-6) into Arrapago Reef.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-no-strings-attached-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-no-strings-attached-node-4",
+          "orderIndex": 3,
+          "title": "{ Nashmau H-6 } Use the North exit into Caedarva Mire.",
+          "description": "{ Nashmau H-6 } Use the North exit into Caedarva Mire. Beware of Imps (true sight aggro) and chigoes (can't see their nameplates until they aggro you). You may want to consider also picking up a Lamia Key. It is a ??? just south of the zone into Arrapago, in a dry spot behind a lake (sound aggro). It is useful for unlocking COR, among other things.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-no-strings-attached-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-no-strings-attached-node-5",
+          "orderIndex": 4,
+          "title": "{ Caedarva Mire I-6 } Zone into Arrapago Reef Map 1 (bottom).",
+          "description": "{ Caedarva Mire I-6 } Zone into Arrapago Reef Map 1 (bottom). Recommended to use a mount while going through the mire. Chigoes and Treants aggro sight and sound respectively and Imps have True Sight. If you have a Black Mage main or subjob high enough to cast Escape and the Ilrusi Atoll Staging Point, you can simply warp to the Ilrusi Atoll Staging Point and cast Escape. You will appear right where the Arrapago zone is (I-6 on Caedarva Mire map). You do NOT need a Lamian Fang Key for this quest, but you do for the Corsair quest Luck of the Draw (if you do not use the Ilrusi Atoll Staging Point).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-no-strings-attached-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-no-strings-attached-node-6",
+          "orderIndex": 5,
+          "title": "{ Arrapago Reef - Map 1 - H-10 } Receive an Antique automaton from the ???.",
+          "description": "{ Arrapago Reef - Map 1 - H-10 } Receive an Antique automaton from the ???. It is hidden beneath the stairs on the south/first boat. The skeletons (H) and Lamiae (S) are aggressive, so be careful when examining the ???. You must not be invisible to examine the ??? which means Lamia may aggro you before/after the cutscene (it is a short cutscene). The Skeletons and Lamiae by the ??? will agro level 99 characters. You will shortly encounter the Survival Guide after zoning into Arrapago. Make sure to pick it up.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-no-strings-attached-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-no-strings-attached-node-7",
+          "orderIndex": 6,
+          "title": "{ Aht Urhgan Whitegate I-7 } Return to Ghatsad (I-7).",
+          "description": "{ Aht Urhgan Whitegate I-7 } Return to Ghatsad (I-7). Talk to give him the Antique automaton.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-no-strings-attached-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-no-strings-attached-node-8",
+          "orderIndex": 7,
+          "title": "{ Aht Urhgan Whitegate I-7 } Wait for the next game day and talk to him again.",
+          "description": "{ Aht Urhgan Whitegate I-7 } Wait for the next game day and talk to him again.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-no-strings-attached-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-no-strings-attached-node-9",
+          "orderIndex": 8,
+          "title": "{ Aht Urhgan Whitegate K-9 }Return to Iruki-Waraki to receive your Animator and complete the quest.",
+          "description": "{ Aht Urhgan Whitegate K-9 }Return to Iruki-Waraki to receive your Animator and complete the quest. You will also be given a chance to pick your Automaton's name from a list.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-no-strings-attached-node-8"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-not-meant-to-be",
+      "title": "Not Meant to Be",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Not_Meant_to_Be",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-not-meant-to-be-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Fhe Maksojha at (H-6) for a cutscene about a mother who is looking for her son.",
+          "description": "Talk to Fhe Maksojha at (H-6) for a cutscene about a mother who is looking for her son.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-ode-to-the-serpents",
+      "title": "Ode to the Serpents",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Ode_to_the_Serpents",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-ode-to-the-serpents-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Fari-Wari at the teahouse for another cutscene.",
+          "description": "Talk to Fari-Wari at the teahouse for another cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-ode-to-the-serpents-node-2",
+          "orderIndex": 1,
+          "title": "Afterwards, you will obtain Biyaada's Letter.",
+          "description": "Afterwards, you will obtain Biyaada's Letter. This will unlock the two subquests that must be completed to proceed: When the Bow Breaks Fist of the People",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-ode-to-the-serpents-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-ode-to-the-serpents-node-3",
+          "orderIndex": 2,
+          "title": "After completing both quests, return to Fari-Wari for a short cutscene and your reward.",
+          "description": "After completing both quests, return to Fari-Wari for a short cutscene and your reward.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-ode-to-the-serpents-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-olduum",
+      "title": "Olduum",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Olduum",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-olduum-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Dkhaaya at (G-9) in Aht Urhgan Whitegate for a cutscene and to obtain Dkhaaya's Research Jou",
+          "description": "Talk to Dkhaaya at (G-9) in Aht Urhgan Whitegate for a cutscene and to obtain Dkhaaya's Research Journal (key item).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-olduum-node-2",
+          "orderIndex": 1,
+          "title": "Pick up some Pickaxes.",
+          "description": "Pick up some Pickaxes. (Kahah Hobichai in Al Zahbi (J-7) sells them). You will want a few because they can break very easily (up to eight in a row have broken, and bringing a stack of pickaxes is recommended).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-olduum-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-olduum-node-3",
+          "orderIndex": 2,
+          "title": "Head to Bhaflau Thickets to (H-7).",
+          "description": "Head to Bhaflau Thickets to (H-7). Head down the tunnel behind Sajahb Port Ephramad in Aht Urhgan Whitegate (the north exit) and zone out. Or take a chocobo from Al Zahbi through Wajaom Woodlands to Bhaflau Thickets.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-olduum-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-olduum-node-4",
+          "orderIndex": 3,
+          "title": "Enter the cave at (I-7) to zone into Aydeewa Subterrane.",
+          "description": "Enter the cave at (I-7) to zone into Aydeewa Subterrane. The Ameretats can aggro to sound at level 75. Follow the path to a room with columns, (I-8). Drop off a ledge North-West into a room with Aydeewa Diremites (they aggro level 75's - use Sneak to avoid aggro). Go down the ramp immediately to the left (H-8), that leads south and down to a room with leeches and a large pool in the center that looks like a Teleporter (H-9). Note: This is the same room that is involved in the Blue Mage flag quest An Empty Vessel. If you are doing both quests at the same time, make sure you get the key item for this quest before starting the Blue Mage cutscene, as it will teleport you back to Whitegate automatically after the scene has finished.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-olduum-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-olduum-node-5",
+          "orderIndex": 4,
+          "title": "Find the Excavation Site and mine it to get one of three key items: Electrocell, Electropot, or Elec",
+          "description": "Find the Excavation Site and mine it to get one of three key items: Electrocell, Electropot, or Electrolocomotive (G-9).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-olduum-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-olduum-node-6",
+          "orderIndex": 5,
+          "title": "Return to Dkhaaya; he rewards you with a Lightning Band.",
+          "description": "Return to Dkhaaya; he rewards you with a Lightning Band.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-olduum-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-olduum-node-7",
+          "orderIndex": 6,
+          "title": "At this point, the quest is gone from the log and technically complete, but the real reward is to tr",
+          "description": "At this point, the quest is gone from the log and technically complete, but the real reward is to trade the Lightning Band to the Leypoint in Wajaom Woodlands (G-8) to obtain the Olduum Ring. If you drop your ring, this quest is repeatable by talking with Dkhaaya.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-olduum-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-omens",
+      "title": "Omens",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Omens",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-omens-node-1",
+          "orderIndex": 0,
+          "title": "Wait one ingame day after completing Beginnings.",
+          "description": "Wait one ingame day after completing Beginnings. Also be sure to zone or you will just get divination again.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-omens-node-2",
+          "orderIndex": 1,
+          "title": "Speak to Waoud as a blue mage for a cut scene.",
+          "description": "Speak to Waoud as a blue mage for a cut scene. You do not need to be a Blue Mage to fight the Immortal Flan.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-omens-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-operation-teatime",
+      "title": "Operation Teatime",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Operation_Teatime",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-operation-teatime-node-1",
+          "orderIndex": 0,
+          "title": "You must zone after completing the previous quest in order to get this quest.",
+          "description": "You must zone after completing the previous quest in order to get this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-operation-teatime-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Iruki-Waraki at (K-9) in Aht Urhgan Whitegate (second floor of the Way of the Devout) for a ",
+          "description": "Talk to Iruki-Waraki at (K-9) in Aht Urhgan Whitegate (second floor of the Way of the Devout) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-operation-teatime-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-operation-teatime-node-3",
+          "orderIndex": 2,
+          "title": "You can be on any job from here on.",
+          "description": "You can be on any job from here on.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-operation-teatime-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-operation-teatime-node-4",
+          "orderIndex": 3,
+          "title": "Trade Iruki-Waraki a Sleeping Potion and a Chai for a cutscene.",
+          "description": "Trade Iruki-Waraki a Sleeping Potion and a Chai for a cutscene. Sleeping Potion can be bought from the auction house and Chai from the Shararat Teahouse (K/J-12) in southern Whitegate. You can have the potion and tea before you start the quest and just trade to him after the first cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-operation-teatime-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-operation-teatime-node-5",
+          "orderIndex": 4,
+          "title": "Travel to Nashmau and speak with Dnegan at (H-6) on the second floor for a cutscene.",
+          "description": "Travel to Nashmau and speak with Dnegan at (H-6) on the second floor for a cutscene. During the cutscene you will be asked three questions. On the first question choose either \"Ask how to get around Nashmau\" or \"Shall we go out for tea?\". Selecting \"Ask about the automaton\" ends the cutscene and you must return another game day to complete the quest. On the second question, choosing either Chai or Coffee will work. If you chose \"I'll pass, thanks.\", Yafahb also declines to order and you must wait to try again. Just talk with Dnegan again the next game day to restart the quest. On the third question, \"the cup with a suspicious VAPOR\" is the correct choice.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-operation-teatime-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-operation-teatime-node-6",
+          "orderIndex": 5,
+          "title": "Exit Nashmau by the north gate to enter Caedarva Mire.",
+          "description": "Exit Nashmau by the north gate to enter Caedarva Mire. Get the Lamian Fang Key at (I-7) on a small ledge behind a Jnun (can be obtained once per game day, only one needed for whole party) and enter Arrapago Reef at (I-6).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-operation-teatime-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-operation-teatime-node-7",
+          "orderIndex": 6,
+          "title": "Run to the Iron Gate at (J-10) and open it up with the Lamian Fang Key and continue running directly",
+          "description": "Run to the Iron Gate at (J-10) and open it up with the Lamian Fang Key and continue running directly north through the area to (H-7). Open the door there and go through. From there, go north and find the tunnel entrance at (I-6). Go east and then take the fork going south in the tunnel back to Caedarva Mire.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-operation-teatime-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-operation-teatime-node-8",
+          "orderIndex": 7,
+          "title": "Shortly after you exit, click on the ??? for a cutscene.",
+          "description": "Shortly after you exit, click on the ??? for a cutscene. Do not drop down or you must walk through Arrapago Reef again.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-operation-teatime-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-operation-teatime-node-9",
+          "orderIndex": 8,
+          "title": "After the cutscene, Iruki-Waraki rewards you.",
+          "description": "After the cutscene, Iruki-Waraki rewards you.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-operation-teatime-node-8"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-promotion-captain",
+      "title": "Promotion: Captain",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Promotion:_Captain",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-captain-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Abquhbah for a Cutscene..",
+          "description": "Talk to Abquhbah for a Cutscene... ... after you have completed all Treasures of Aht Urhgan Missions. ... after you have completed all 50 Assault missions.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-promotion-chief-sergeant",
+      "title": "Promotion: Chief Sergeant",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Promotion:_Chief_Sergeant",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-chief-sergeant-node-1",
+          "orderIndex": 0,
+          "title": "Begin the quest by talking to Abquhbah.",
+          "description": "Begin the quest by talking to Abquhbah.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-chief-sergeant-node-2",
+          "orderIndex": 1,
+          "title": "Talk to the weapon shop owner, Hagakoff at (K-10), for another cutscene.",
+          "description": "Talk to the weapon shop owner, Hagakoff at (K-10), for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-chief-sergeant-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-chief-sergeant-node-3",
+          "orderIndex": 2,
+          "title": "Go back to Abquhbah for another cutscene.",
+          "description": "Go back to Abquhbah for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-chief-sergeant-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-chief-sergeant-node-4",
+          "orderIndex": 3,
+          "title": "Go back to Hagakoff for yet another cutscene.",
+          "description": "Go back to Hagakoff for yet another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-chief-sergeant-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-chief-sergeant-node-5",
+          "orderIndex": 4,
+          "title": "Enter Aydeewa Subterrane from the entrance in Wajaom Woodlands (I-10).",
+          "description": "Enter Aydeewa Subterrane from the entrance in Wajaom Woodlands (I-10). You can warp here via the Aydeewa Subterrane Survival Guide",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-chief-sergeant-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-chief-sergeant-node-6",
+          "orderIndex": 5,
+          "title": "Look for a scourshroom as noted below.",
+          "description": "Look for a scourshroom as noted below. Plant it in a mushroom patch nearby to get a young young scourshroom the next game day AFTER zoning.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-chief-sergeant-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-promotion-corporal",
+      "title": "Promotion: Corporal",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Promotion:_Corporal",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-corporal-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Naja and she will give you a Quartz transmitter.",
+          "description": "Talk to Naja and she will give you a Quartz transmitter",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-corporal-node-2",
+          "orderIndex": 1,
+          "title": "Find and examine the Warhorse Hoofprint.",
+          "description": "Find and examine the Warhorse Hoofprint. Note: The Warhorse Hoofprint now appears on Wide Scan as of the June 25, 2015 update.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-corporal-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-corporal-node-3",
+          "orderIndex": 2,
+          "title": "Return to Naja for your promotion.",
+          "description": "Return to Naja for your promotion.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-corporal-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-promotion-first-lieutenant",
+      "title": "Promotion: First Lieutenant",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Promotion:_First_Lieutenant",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-first-lieutenant-node-1",
+          "orderIndex": 0,
+          "title": "Begin the quest by walking into the Salaheem's Sentinels office.",
+          "description": "Begin the quest by walking into the Salaheem's Sentinels office.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-first-lieutenant-node-2",
+          "orderIndex": 1,
+          "title": "After the cutscene, Abquhbah will ask for 5 Imperial Gold Pieces.",
+          "description": "After the cutscene, Abquhbah will ask for 5 Imperial Gold Pieces. Trade these to him and enjoy the next cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-first-lieutenant-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-first-lieutenant-node-3",
+          "orderIndex": 2,
+          "title": "You will be required to wait until the next Vana'diel day to continue.",
+          "description": "You will be required to wait until the next Vana'diel day to continue.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-first-lieutenant-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-first-lieutenant-node-4",
+          "orderIndex": 3,
+          "title": "Note: If there are a lot of shouts in Whitegate, you should turn on the chat filter for /sh to make ",
+          "description": "Note: If there are a lot of shouts in Whitegate, you should turn on the chat filter for /sh to make the games easier to play!",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-first-lieutenant-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-promotion-lance-corporal",
+      "title": "Promotion: Lance Corporal",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Promotion:_Lance_Corporal",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-lance-corporal-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Abquhbah for a cutscene that starts the quest.",
+          "description": "Talk to Abquhbah for a cutscene that starts the quest. Talking to Abquhbah also triggers Waking the Colossus, if Naja sends you to the palace, talk to Abquhbah again.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-lance-corporal-node-2",
+          "orderIndex": 1,
+          "title": "Then talk to Nafiwaa in the Alchemist's guild in Aht Urhgan Whitegate (G-5) for another cutscene.",
+          "description": "Then talk to Nafiwaa in the Alchemist's guild in Aht Urhgan Whitegate (G-5) for another cutscene. She will hand you 5 test tubes:",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-lance-corporal-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-promotion-private-first-class",
+      "title": "Promotion: Private First Class",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Promotion:_Private_First_Class",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-private-first-class-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Naja Salaheem for a cutscene that starts the quest.",
+          "description": "Talk to Naja Salaheem for a cutscene that starts the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-private-first-class-node-2",
+          "orderIndex": 1,
+          "title": "Trade Naja an Imp Wing for a cutscene and your promotion.",
+          "description": "Trade Naja an Imp Wing for a cutscene and your promotion.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-private-first-class-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-promotion-second-lieutenant",
+      "title": "Promotion: Second Lieutenant",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Promotion:_Second_Lieutenant",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-second-lieutenant-node-1",
+          "orderIndex": 0,
+          "title": "Begin the quest by walking into the Salaheem's Sentinels office.",
+          "description": "Begin the quest by walking into the Salaheem's Sentinels office.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-second-lieutenant-node-2",
+          "orderIndex": 1,
+          "title": "After a cutscene, trade three Imperial Gold Pieces to Abquhbah for another cutscene.",
+          "description": "After a cutscene, trade three Imperial Gold Pieces to Abquhbah for another cutscene. You will receive the key item Officer Academy Manual. If during any of the following mini-games you think you will fail, simply force a disconnection and try again.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-second-lieutenant-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-promotion-sergeant",
+      "title": "Promotion: Sergeant",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Promotion:_Sergeant",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-sergeant-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Naja Salaheem.",
+          "description": "Talk to Naja Salaheem. When given three options of where to start searching, choose the top option: \"Balrahn Way.\"",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-sergeant-node-2",
+          "orderIndex": 1,
+          "title": "Go to central area of Balrahn Way in Whitegate for a cutscene.",
+          "description": "Go to central area of Balrahn Way in Whitegate for a cutscene. Choose the top option \"Where have you been?\". You will be directed to Nashmau.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-sergeant-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-sergeant-node-3",
+          "orderIndex": 2,
+          "title": "Purchase a Sutlac from Yafaaf (J-12) in the Shararat Teahouse, then you have a few options for getti",
+          "description": "Purchase a Sutlac from Yafaaf (J-12) in the Shararat Teahouse, then you have a few options for getting to Nashmau: ride the boat, take the Voidwatch teleport to Caedarva Mire to be right by the zone into the city, or use the Azouph Isle Staging Point Runic Portal to run there.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-sergeant-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-sergeant-node-4",
+          "orderIndex": 3,
+          "title": "If you travel to Nashmau by boat, exit the dock area for a cutscene with Totoroon.",
+          "description": "If you travel to Nashmau by boat, exit the dock area for a cutscene with Totoroon. Otherwise, walk to H-9 in Nashmau to receive the cutscene. Choose the top option, \"No, let's keep trying!\" If you pick the bottom option by accident, you don't have to warp back to Whitegate to restart the event. Stay in Nashmau until next game day and return to the dock area, and you will have another chance to choose the top option. Choose the top option, \"Leave it to me!\" Once again, if you accidentally pick the wrong answer, wait one game day and try again.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-sergeant-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-sergeant-node-5",
+          "orderIndex": 4,
+          "title": "Trade Totoroon (G-8, by Home point crystal) the Sutlac and he will direct you to Caedarva Mire.",
+          "description": "Trade Totoroon (G-8, by Home point crystal) the Sutlac and he will direct you to Caedarva Mire.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-sergeant-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-sergeant-node-6",
+          "orderIndex": 5,
+          "title": "Take the east exit from Nashmau and investigate the ??? on the east coast of the pond.",
+          "description": "Take the east exit from Nashmau and investigate the ??? on the east coast of the pond. It's in shallow water by the shore at I-10 in Caedarva Mire, and there is no aggro on the way.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-sergeant-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-promotion-sergeant-major",
+      "title": "Promotion: Sergeant Major",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Promotion:_Sergeant_Major",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-sergeant-major-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Naja Salaheem to start the first of 3 mini-games.",
+          "description": "Talk to Naja Salaheem to start the first of 3 mini-games. It is no longer required to wait an entire day for a new attempt at any of the 3 mini-games (nor any other part of this quest). It is possible to give them another try after one Earth minute.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-promotion-superior-private",
+      "title": "Promotion: Superior Private",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Promotion:_Superior_Private",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-superior-private-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Naja Salaheem for a cutscene that starts the quest.",
+          "description": "Talk to Naja Salaheem for a cutscene that starts the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-superior-private-node-2",
+          "orderIndex": 1,
+          "title": "Look for the Warhorse Hoofprint in Aht Urhgan areas.",
+          "description": "Look for the Warhorse Hoofprint in Aht Urhgan areas. Note: The Warhorse Hoofprint does appear on Wide Scan as of June 25, 2015. Check the Warhorse Hoofprint to obtain a Dark Rider Hoofprint",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-superior-private-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-promotion-superior-private-node-3",
+          "orderIndex": 2,
+          "title": "Return to Naja for a cutscene and your promotion.",
+          "description": "Return to Naja for a cutscene and your promotion.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-promotion-superior-private-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues",
+      "title": "Puppetmaster Blues",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Puppetmaster_Blues",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Iruki-Waraki at (K-9) in Aht Urhgan Whitegate (second floor of the Way of the Devout) for a ",
+          "description": "Talk to Iruki-Waraki at (K-9) in Aht Urhgan Whitegate (second floor of the Way of the Devout) for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-2",
+          "orderIndex": 1,
+          "title": "You can be any job from here on.",
+          "description": "You can be any job from here on.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-3",
+          "orderIndex": 2,
+          "title": "Speak to Shamarhaan at (F-9) in Bastok Markets for a cutscene and Valkeng's Memory Chip.",
+          "description": "Speak to Shamarhaan at (F-9) in Bastok Markets for a cutscene and Valkeng's Memory Chip.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-4",
+          "orderIndex": 3,
+          "title": "Go to Mount Zhayolm, (L-8), and click a ??? near the cliff edge on a flat, circular vent to receive ",
+          "description": "Go to Mount Zhayolm, (L-8), and click a ??? near the cliff edge on a flat, circular vent to receive a Toggle Switch. Mount Zhayolm can be accessed by using the Halvung Staging Point in Aht Urhgan Whitegate.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-5",
+          "orderIndex": 4,
+          "title": "Go to Talacca Cove for the BCNM.",
+          "description": "Go to Talacca Cove for the BCNM. Fastest way: Use Home Point #1 in Caedarva Mire. It is just outside the Talacca Cove entrance. Second Fastest ways: Teleport to either the Nashmau Home Point or Survival Guide. Take the west exit. In Caedarva Mire head West, then North. The Talacca Cove entrance is at E-9. Use any Atmacite Refiner NPC to teleport directly to Caedarva Mire. Taking their teleport will put you in Caedarva Mire right outside of Nashmau. Enter Nashmau and take the west exit. In Caedarva Mire head West, then North. The Talacca Cove entrance is at E-9. Use the Runic Portal to the Azouph Isle Staging Point and head westerly to Nashmau. Enter Nashmau and take the west exit. In Caedarva Mire head West, then North. The Talacca Cove entrance is at E-9. Use the Alzadaal Undersea Ruins (NE portal to \"D\" then left side portal to \"J\" finally left side portal to \"K\" to exit 4 which is just east of Nashmau). Enter Nashmau and take the west exit. In Caedarva Mire head West, then North. The Talacca Cove entrance is at E-9. Longest way: Take the ferry from Aht Urhgan Whitegate to Nashmau. Go upstairs and take the west exit. In Caedarva Mire head West, then North. The Talacca Cove entrance is at E-9.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-6",
+          "orderIndex": 5,
+          "title": "Once in Talacca Cove follow the left wall.",
+          "description": "Once in Talacca Cove follow the left wall. The entrance to the battle is the \"Rock Slab\" in the northwest corner of the area (at F-6 of the player-created map). <a href=\"https://static.wikia.nocookie.net/ffxi/images/3/33/TalaccaCove.PNG/revision/latest?cb=20060524185221\" class=\"mw-file-description image\"><img alt=\"Talacca Cove\" src=\"https://static.wikia.nocookie.net/ffxi/images/3/33/TalaccaCove.PNG/revision/latest/scale-to-width-down/150?cb=20060524185221\" decoding=\"async\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"thumbimage\" data-image-name=\"TalaccaCove.PNG\" data-image-key=\"TalaccaCove.PNG\" data-relevant=\"1\" data-src=\"https://static.wikia.nocookie.net/ffxi/images/3/33/TalaccaCove.PNG/revision/latest/scale-to-width-down/150?cb=20060524185221\" /></a> Talacca Cove",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-7",
+          "orderIndex": 6,
+          "title": "Click on the \"Rock Slab\" to enter the battlefield \"Puppetmaster Blues\".",
+          "description": "Click on the \"Rock Slab\" to enter the battlefield \"Puppetmaster Blues\". Entering the battlefield will have the Level Restriction applied. Magical Buffs will wear and Trusts disappear if applied before entering. Trusts can be called once inside.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-8",
+          "orderIndex": 7,
+          "title": "After the fight is over, you will be asked a question; your answer does not matter.",
+          "description": "After the fight is over, you will be asked a question; your answer does not matter. If you don't have a way to warp or teleport out, exit the cave and keep the lake to your right. After you turn west, there is a ramp to your left. That leads to the exit cave. If you fail, you maintain possession of the two Temporary Key Items so you can redo the fight.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-9",
+          "orderIndex": 8,
+          "title": "Return to Bastok Markets for another cutscene with Shamarhaan in which he'll ask the same question a",
+          "description": "Return to Bastok Markets for another cutscene with Shamarhaan in which he'll ask the same question as in the previous cutscene. As before, it doesn't matter which answer is chosen.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-10",
+          "orderIndex": 9,
+          "title": "Return to Aht Urhgan Whitegate for another cutscene with Iruki-Waraki.",
+          "description": "Return to Aht Urhgan Whitegate for another cutscene with Iruki-Waraki.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-9"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-11",
+          "orderIndex": 10,
+          "title": "Go to Nashmau (H-9) and speak with Sajhra, located at the Nashmau Pier exit, for a cutscene.",
+          "description": "Go to Nashmau (H-9) and speak with Sajhra, located at the Nashmau Pier exit, for a cutscene. Sajhra cannot be targeted from outside the pier fence; you'll have to pay the 100 gil boarding fee at the pier entrance and go around the building to reach this NPC.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-10"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-12",
+          "orderIndex": 11,
+          "title": "Finally, return to Aht Urhgan Whitegate and speak with Iruki-Waraki for the final cutscene, after wh",
+          "description": "Finally, return to Aht Urhgan Whitegate and speak with Iruki-Waraki for the final cutscene, after which you receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-puppetmaster-blues-node-11"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-rat-race",
+      "title": "Rat Race",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Rat_Race",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-rat-race-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Kakkaroon in Nashmau (Port, near Karakul) at (H-8) to start quest.",
+          "description": "Talk to Kakkaroon in Nashmau (Port, near Karakul) at (H-8) to start quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-rat-race-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Nadee Periyaha in Aht Urhgan Whitegate (H-9) Serpentking Square.",
+          "description": "Talk to Nadee Periyaha in Aht Urhgan Whitegate (H-9) Serpentking Square.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-rat-race-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-rat-race-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Cacaroon in Aht Urhgan Whitegate at (G-11).",
+          "description": "Talk to Cacaroon in Aht Urhgan Whitegate at (G-11).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-rat-race-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-rat-race-node-4",
+          "orderIndex": 3,
+          "title": "Trade Cacaroon one Imperial Bronze Piece.",
+          "description": "Trade Cacaroon one Imperial Bronze Piece.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-rat-race-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-rat-race-node-5",
+          "orderIndex": 4,
+          "title": "Return to Nashmau and speak to Ququroon at (H-6).",
+          "description": "Return to Nashmau and speak to Ququroon at (H-6).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-rat-race-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-rat-race-node-6",
+          "orderIndex": 5,
+          "title": "Ququroon will make you a bowl of Nashmau Stew, but needs the following fish to make it: Ahtapot Ista",
+          "description": "Ququroon will make you a bowl of Nashmau Stew, but needs the following fish to make it: Ahtapot Istakoz Istavrit Istiridye Mercanbaligi",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-rat-race-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-rock-bottom",
+      "title": "Rock Bottom",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Rock_Bottom",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-rock-bottom-node-1",
+          "orderIndex": 0,
+          "title": "Travel to Mount Zhayolm via the Halvung Staging Point (exiting through the staging point requires th",
+          "description": "Travel to Mount Zhayolm via the Halvung Staging Point (exiting through the staging point requires the use of Invisible and sneak in tunnel). Alternatively, travel to (F-8) of Bhaflau Thickets, enter Halvung and use Escape. This will take you to (L-7) of Mount Zhayolm (does not require the use of Sneak). With the addition of Voidwatch, using the Voidwatch warp to Mount Zhayolm will take you right to the Halvung zone where the quest takes place.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-rock-bottom-node-2",
+          "orderIndex": 1,
+          "title": "Go to (L-7) and find what looks like a manhole cover.",
+          "description": "Go to (L-7) and find what looks like a manhole cover. There is an unnamed targetable point on this object (you should not need Sneak or Invisible in this immediate area).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-rock-bottom-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-rock-bottom-node-3",
+          "orderIndex": 2,
+          "title": "Check the target for a cutscene with a Zurtermor (Troll) and Warsowok (Moblin) which starts the ques",
+          "description": "Check the target for a cutscene with a Zurtermor (Troll) and Warsowok (Moblin) which starts the quest.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-rock-bottom-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-rock-bottom-node-4",
+          "orderIndex": 3,
+          "title": "Trade a Pickaxe to the unnamed point for another cutscene.",
+          "description": "Trade a Pickaxe to the unnamed point for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-rock-bottom-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-rock-bottom-node-5",
+          "orderIndex": 4,
+          "title": "Enter Halvung (just a short distance to the south) and come back to trade a Mythril Pick to the unna",
+          "description": "Enter Halvung (just a short distance to the south) and come back to trade a Mythril Pick to the unnamed point for a final cutscene and reward. The Mythril Pick is used up by the quest, but you keep the Pickaxe. The Mythril Pick can be purchased from a Sparks vendor. You can also use a Mythril Pick +1. When you leave and re-enter after the first cutscene, if nothing happens at the target when you trade the Mythril Pick, trade the pickaxe to it again. A second part to the first cutscene will start. When it's done, change area again and then trade the Mythril Pick to it.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-rock-bottom-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-royal-painter-escort",
+      "title": "Royal Painter Escort",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Royal_Painter_Escort",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-royal-painter-escort-node-1",
+          "orderIndex": 0,
+          "title": "Trade an Imperial Silver Piece to Halshaob (H-10) in the southeast corner of the Nashmau Port to beg",
+          "description": "Trade an Imperial Silver Piece to Halshaob (H-10) in the southeast corner of the Nashmau Port to begin the quest. Shares a once per day Earth timer with Scouting the Ashu Talif.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-royal-painter-escort-node-2",
+          "orderIndex": 1,
+          "title": "Go to the Cutter in Arrapago Reef, and enter when ready.",
+          "description": "Go to the Cutter in Arrapago Reef, and enter when ready. Buffs wear upon entering.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-royal-painter-escort-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-royal-painter-escort-node-3",
+          "orderIndex": 2,
+          "title": "Once inside, the NPC Faluuya will request you open a door to the ship's hold to continue.",
+          "description": "Once inside, the NPC Faluuya will request you open a door to the ship's hold to continue. Make sure you are buffed before opening the door for her.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-royal-painter-escort-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-royal-painter-escort-node-4",
+          "orderIndex": 3,
+          "title": "Once inside the hold, several Ashu Talif Crew spawn and attempt to attack Faluuya.",
+          "description": "Once inside the hold, several Ashu Talif Crew spawn and attempt to attack Faluuya. These enemies will attack Faluuya regardless of whether they are provoked or not. It seems the only way to draw their attention away from her is to damage them. They are no more difficult than the Ashu Talif crew of the previous quest.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-royal-painter-escort-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-royal-painter-escort-node-5",
+          "orderIndex": 4,
+          "title": "If she should become damaged (a likely occurrence) she will Flee to the rear of the ship.",
+          "description": "If she should become damaged (a likely occurrence) she will Flee to the rear of the ship. Fight off whatever Ashu Talif crew are on her, and also the Ashu Talif Marines which spawn. The Marines are more difficult than their crew mates. Don't forget to cure Faluuya if she takes damage.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-royal-painter-escort-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-royal-painter-escort-node-6",
+          "orderIndex": 5,
+          "title": "An NM crewman, Black Bartholomew, stands on the other side of the hold.",
+          "description": "An NM crewman, Black Bartholomew, stands on the other side of the hold. If this crewman is defeated, all crew on board will vanish, and Faluuya will be able to sketch in peace. For this reason, you should aim to defeat it, although you should not neglect Faluuya while you are completing this task. IMPORTANT NOTE: Black Bartholomew is NOT there at start. After killing a few crew and/or marines, the NM is spawned.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-royal-painter-escort-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-royal-painter-escort-node-7",
+          "orderIndex": 6,
+          "title": "Once Faluuya completes her work, treasure chests appear on deck.",
+          "description": "Once Faluuya completes her work, treasure chests appear on deck. One will appear for completing the BCNM, another for killing Black Bartholomew, and a third if Faluuya took no damage. Open them, and click on the Life Raft to finish the mission.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-royal-painter-escort-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-saga-of-the-skyserpent",
+      "title": "Saga of the Skyserpent",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Saga_of_the_Skyserpent",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-saga-of-the-skyserpent-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Fari-Wari in Aht Urhgan Whitegate to start quest (K-12).",
+          "description": "Talk to Fari-Wari in Aht Urhgan Whitegate to start quest (K-12).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-saga-of-the-skyserpent-node-2",
+          "orderIndex": 1,
+          "title": "Enter Halvung from the (C-8) Wajaom Woodlands entrance.",
+          "description": "Enter Halvung from the (C-8) Wajaom Woodlands entrance. The Wajaom Woodlands Survival Guide is at this point.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-saga-of-the-skyserpent-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-saga-of-the-skyserpent-node-3",
+          "orderIndex": 2,
+          "title": "Go North to H-11, through the Cast Bronze Gate.",
+          "description": "Go North to H-11, through the Cast Bronze Gate.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-saga-of-the-skyserpent-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-scouting-the-ashu-talif",
+      "title": "Scouting the Ashu Talif",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Scouting_the_Ashu_Talif",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-scouting-the-ashu-talif-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Halshaob (H-10) in the southeast corner of Nashmau for a cutscene.",
+          "description": "Talk to Halshaob (H-10) in the southeast corner of Nashmau for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-scouting-the-ashu-talif-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Halshaob again and ask for details on the quest he wishes you to perform.",
+          "description": "Talk to Halshaob again and ask for details on the quest he wishes you to perform.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-scouting-the-ashu-talif-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-scouting-the-ashu-talif-node-3",
+          "orderIndex": 2,
+          "title": "To accept the quest, trade him the amount of currency that he specifies.",
+          "description": "To accept the quest, trade him the amount of currency that he specifies. To accept this quest, you will first have to trade him 3 Imperial Bronze Pieces. You may start the quest once every Earth day. It is possible to go twice in one day if you have started the quest on a different day than you failed. You must come back and restart the quest every time you want to attempt it, win or lose.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-scouting-the-ashu-talif-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-scouting-the-ashu-talif-node-4",
+          "orderIndex": 3,
+          "title": "Arrapago Reef Assault Entrance Go to the Assault entrance of the Black Coffin (the Cutter at H-8 in ",
+          "description": "Arrapago Reef Assault Entrance Go to the Assault entrance of the Black Coffin (the Cutter at H-8 in the Arrapago Reef). The easiest way to get there is either via the Dvucca Isle Staging Point, or alternatively, walking through the Alzadaal Undersea Ruins just to the west of Nashmau, which will deposit you close to the Dvucca Isle Staging Point exit (you need an Imperial Silver Piece, Captain Wildcat Badge, or Remnants Permit to get past the guard if you choose to pass through Alzadaal Undersea Ruins).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-scouting-the-ashu-talif-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-soothing-waters",
+      "title": "Soothing Waters",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Soothing_Waters",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-soothing-waters-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Fari-Wari at Shararat Teahouse for the first cutscene.",
+          "description": "Talk to Fari-Wari at Shararat Teahouse for the first cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-soothing-waters-node-2",
+          "orderIndex": 1,
+          "title": "Go to (G-9) and talk to Eunheem.",
+          "description": "Go to (G-9) and talk to Eunheem.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-soothing-waters-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-soothing-waters-node-3",
+          "orderIndex": 2,
+          "title": "Head east and talk to Nadeey at (K-7), inside the Walahra Temple.",
+          "description": "Head east and talk to Nadeey at (K-7), inside the Walahra Temple.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-soothing-waters-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-soothing-waters-node-4",
+          "orderIndex": 3,
+          "title": "Go to Al Zahbi and talk to Mihli Aliapoh at (H-7).",
+          "description": "Go to Al Zahbi and talk to Mihli Aliapoh at (H-7).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-soothing-waters-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-soothing-waters-node-5",
+          "orderIndex": 4,
+          "title": "Take the North exit out of Al Zahbi.",
+          "description": "Take the North exit out of Al Zahbi. Proceed to Aydeewa Subterrane, entering from Bhaflau Thickets at (I-7) (preferred) or (G-7). The (I-7) point is nearer to Aht Urhgan Whitegate and Al Zahbi, closer to the target ??? and closer to where the Colorful Hair drops . If you chose the Bhaflau Thickets (I-7) entry: In the first room, take the exit to the West-Northwest and drop into the next room. You'll be in a room with Slime Eaters. Hug the left wall and take the ramp down going South, where you will enter a large room. If you chose the Bhaflau Thickets (G-7) entry: Proceed South, ignoring any turns at intersections, until you are forced to turn east. Go East past the next intersection until you enter a large room.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-soothing-waters-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-soothing-waters-node-6",
+          "orderIndex": 5,
+          "title": "If you don't have the Colorful Hair: Go across this room and take the South-East exit at (I-9).",
+          "description": "If you don't have the Colorful Hair: Go across this room and take the South-East exit at (I-9). Turn North at the intersection in (I-10). Kill Aydeewa Diremite in the next room until you get a Colorful Hair. Exit the room using the Down ramp in the West wall. If this area is being camped, the Colorful Hair also drops from Aydeewa Diremite in map 2 of Aydeewa Subterrane. Enter from Wajaom Woodlands at (I-10), you can Unity warp directly there (\"Level 135 content\" category), and proceed to the large room at (I-9/J-9). Exit by going north to (I-6).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-soothing-waters-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-soothing-waters-node-7",
+          "orderIndex": 6,
+          "title": "The ??? is located at the S/W corner of (H-8), a few steps N/W from the platform for the Blue Mage q",
+          "description": "The ??? is located at the S/W corner of (H-8), a few steps N/W from the platform for the Blue Mage quest.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-soothing-waters-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-soothing-waters-node-8",
+          "orderIndex": 7,
+          "title": "Trade a Colorful Hair to the ??? for a long cutscene.",
+          "description": "Trade a Colorful Hair to the ??? for a long cutscene. Plan on viewing the cutscene for at least 6:20.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-soothing-waters-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-soothing-waters-node-9",
+          "orderIndex": 8,
+          "title": "Return to Fari-Wari for the final cutscene.",
+          "description": "Return to Fari-Wari for the final cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-soothing-waters-node-8"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-striking-a-balance",
+      "title": "Striking a Balance",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Striking_a_Balance",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Wazyih (F-11) : Upper level, center of (F-11).",
+          "description": "Talk to Wazyih (F-11) : Upper level, center of (F-11).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Saliyahf (G-7) : Lower level, next to the stairs for a cutscene.",
+          "description": "Talk to Saliyahf (G-7) : Lower level, next to the stairs for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Wazyih (F-11) : Upper level, center of (F-11).",
+          "description": "Talk to Wazyih (F-11) : Upper level, center of (F-11).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-4",
+          "orderIndex": 3,
+          "title": "Approach the boxes @ (F-9) : Behind the west tent for a cutscene.",
+          "description": "Approach the boxes @ (F-9) : Behind the west tent for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-5",
+          "orderIndex": 4,
+          "title": "Talk to Saliyahf (G-7) : Lower level, next to the stairs for a cutscene.",
+          "description": "Talk to Saliyahf (G-7) : Lower level, next to the stairs for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-6",
+          "orderIndex": 5,
+          "title": "Talk to Wazyih (F-11) : Upper level, center of (F-11) for a cutscene.",
+          "description": "Talk to Wazyih (F-11) : Upper level, center of (F-11) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-7",
+          "orderIndex": 6,
+          "title": "Find a blank target (like a ??? or mining point, but blank) in Al Zahbi to obtain the Munahda's Pack",
+          "description": "Find a blank target (like a ??? or mining point, but blank) in Al Zahbi to obtain the Munahda's Package key item.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-8",
+          "orderIndex": 7,
+          "title": "Zone into Aht Urhgan Whitegate after you find the package for a cutscene.",
+          "description": "Zone into Aht Urhgan Whitegate after you find the package for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-9",
+          "orderIndex": 8,
+          "title": "Talk to Wazyih (F-11) : Upper level, center of (F-11).",
+          "description": "Talk to Wazyih (F-11) : Upper level, center of (F-11).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-10",
+          "orderIndex": 9,
+          "title": "Talk to Saliyahf (G-7) : Lower level, next to the stairs for a cutscene and the reward of 3 Imperial",
+          "description": "Talk to Saliyahf (G-7) : Lower level, next to the stairs for a cutscene and the reward of 3 Imperial Bronze Pieces.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-striking-a-balance-node-9"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-such-sweet-sorrow",
+      "title": "Such Sweet Sorrow",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Such_Sweet_Sorrow",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-such-sweet-sorrow-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Such Sweet Sorrow",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-targeting-the-captain",
+      "title": "Targeting the Captain",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Targeting_the_Captain",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-1",
+          "orderIndex": 0,
+          "title": "Trade an Imperial Mythril Piece to Halshaob (H-10) in the south-east corner of the Nashmau Port.",
+          "description": "Trade an Imperial Mythril Piece to Halshaob (H-10) in the south-east corner of the Nashmau Port. Shares a once per day Earth timer with Royal Painter Escort.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-2",
+          "orderIndex": 1,
+          "title": "Go to the Black Coffin assault entrance, and enter when ready.",
+          "description": "Go to the Black Coffin assault entrance, and enter when ready. Buffs wear upon entering.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-3",
+          "orderIndex": 2,
+          "title": "Buff up and walk to the rear of the ship's hold.",
+          "description": "Buff up and walk to the rear of the ship's hold.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-4",
+          "orderIndex": 3,
+          "title": "There are 2 Windjammer Imps in the room where the NM spawned from the previous quest, kill those and",
+          "description": "There are 2 Windjammer Imps in the room where the NM spawned from the previous quest, kill those and proceed up the stairs.(Note: The Windjammer imps must be agroed from behind in order to keep Bubbly's route in a linear path. If you use a sneak attack on the imps without them seeing you he will walk back and forth instead of around the cabin when you attack the Captain. Ranged attacks as well as any ranged blue magic spell can be used to induce a \"sneak attack\" on the Imps.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-5",
+          "orderIndex": 4,
+          "title": "Behind the door is Cutthroat Kabsalah (Corsair) and his pet Opo-opo, Bubbly.",
+          "description": "Behind the door is Cutthroat Kabsalah (Corsair) and his pet Opo-opo, Bubbly. An ideal strategy is to kite Cutthroat Kabsalah while you focus your attention on taking down Bubbly. Bubbly uses all the regular Opo-opo TP moves (beware of Spinning Claw).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-6",
+          "orderIndex": 5,
+          "title": "It is possible to pull Bubbly without getting aggro from Cutthroat Kabsalah.",
+          "description": "It is possible to pull Bubbly without getting aggro from Cutthroat Kabsalah. However, even if you do get Cutthroat Kabsalah's attention, he moves very slowly and it is reported that you can evade him long enough to lose hate.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-7",
+          "orderIndex": 6,
+          "title": "If you wish to trigger the ??? Gloves chest, you must successfully initiate a surprise attack on the",
+          "description": "If you wish to trigger the ??? Gloves chest, you must successfully initiate a surprise attack on the captain. In order to do this, you must land an attack on him when he is facing away from the doorway, without garnering Bubbly's attention. You must not miss the attack nor hit for 0. Upon attack, he will say something to the effect of being surprised [Ugh, What??], and Bubbly will link with him. If you have successfully landed a surprise attack, and if you lose aggro, you still get the ??? Gloves chest as long as you reaggro him with a spell (he won't say [Ugh, What??] when aggroed that way).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-8",
+          "orderIndex": 7,
+          "title": "The ??? Gloves are not a 100% drop from the box even if you get a surprise attack on the Captain, th",
+          "description": "The ??? Gloves are not a 100% drop from the box even if you get a surprise attack on the Captain, the chances are very high but not 100%. Have occasionally gotten two ??? Boxes even though a successful surprise attack was done.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-9",
+          "orderIndex": 8,
+          "title": "Cutthroat Kabsalah double attacks extremely frequently (100%?) and can use a ranged attack, as well ",
+          "description": "Cutthroat Kabsalah double attacks extremely frequently (100%?) and can use a ranged attack, as well as all the standard Fomor TP moves. He will also use the Corsair 2hr job ability Wild Card, bringing his TP to 300% and immediately using one of his TP moves.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-10",
+          "orderIndex": 9,
+          "title": "Three chests can appear.",
+          "description": "Three chests can appear. The first chest appears for successfully killing the captain (killing the opo-opo is not needed). The second chest appears for successfully landing a surprise attack and contains either ??? Gloves or ??? Box. The third chest appears for killing the opo-opo and always contains a ??? Box.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-targeting-the-captain-node-9"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-the-art-of-war",
+      "title": "The Art of War",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Art_of_War",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-art-of-war-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Hishahma for a cutscene.",
+          "description": "Talk to Hishahma for a cutscene. You MUST have cleared all three variations of Finding Faults, either by guessing one or both of the weaknesses for each NM. The Japanese midnight after you finish your final NM for Finding Faults, you will be able to flag this quest. Hishahma will also give you the option of repeating Finding Faults if you wish. Choose The Art of War to being this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-art-of-war-node-2",
+          "orderIndex": 1,
+          "title": "You must choose a beast type to investigate.",
+          "description": "You must choose a beast type to investigate. You are to report the strategy needed to kill the beast.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-art-of-war-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-art-of-war-node-3",
+          "orderIndex": 2,
+          "title": "Pop the appropriate NM and fight it to see what its weakness is.",
+          "description": "Pop the appropriate NM and fight it to see what its weakness is. Weaknesses change weekly.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-art-of-war-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-art-of-war-node-4",
+          "orderIndex": 3,
+          "title": "Return to Hishahma and report the strategy you found.",
+          "description": "Return to Hishahma and report the strategy you found.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-art-of-war-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-art-of-war-node-5",
+          "orderIndex": 4,
+          "title": "Talk to Hishahma again after Japanese midnight for your reward.",
+          "description": "Talk to Hishahma again after Japanese midnight for your reward. If you repoted the correct strategy, you will receive a ??? Box and the quest will be considered complete.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-art-of-war-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-the-beast-within",
+      "title": "The Beast Within",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Beast_Within",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-beast-within-node-1",
+          "orderIndex": 0,
+          "title": "You must wait one minute (Earth time) after completing Transformations to receive this quest.",
+          "description": "You must wait one minute (Earth time) after completing Transformations to receive this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-beast-within-node-2",
+          "orderIndex": 1,
+          "title": "Obtain a Blue Mage's Testimony from Mamool Ja Mimickers in either Wajaom Woodlands or Mamook.",
+          "description": "Obtain a Blue Mage's Testimony from Mamool Ja Mimickers in either Wajaom Woodlands or Mamook. It seems like many Mamool Ja drop the testimony in and around Mamook.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-beast-within-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-beast-within-node-3",
+          "orderIndex": 2,
+          "title": "Make all necessary preparations in advance.",
+          "description": "Make all necessary preparations in advance. If the Astral Candescence is in Al Zahbi, the Refresh (Status Effect) effect from Sanction will help to restore some MP during the course of the battle. Suggested foods include a rice dish (for HP boost), an \"Au Lait\" drink (for Regen), and a juice (for Refresh). Suggested medicines include an Icarus Wing, Echo Drops, and Sleeping Potions if used in conjunction with an Opo-opo Necklace (4 will be necessary to gain 100% TP). HP/MP restorative medicines are not recommended unless they have near-instant usage timers. Vile Elixir is useful, but not essential.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-beast-within-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-beast-within-node-4",
+          "orderIndex": 3,
+          "title": "Speak to Waoud in Whitegate.",
+          "description": "Speak to Waoud in Whitegate.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-beast-within-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-beast-within-node-5",
+          "orderIndex": 4,
+          "title": "Trade the testimony to the Imperial Whitegate in Aht Urhgan Whitegate.",
+          "description": "Trade the testimony to the Imperial Whitegate in Aht Urhgan Whitegate. You will be transported to the Jade Sepulcher.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-beast-within-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-beast-within-node-6",
+          "orderIndex": 5,
+          "title": "Use any food items except drinks prior to entering.",
+          "description": "Use any food items except drinks prior to entering. The effect will not wear upon entry.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-beast-within-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-beast-within-node-7",
+          "orderIndex": 6,
+          "title": "Trade the testimony to the door.",
+          "description": "Trade the testimony to the door.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-beast-within-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-the-die-is-cast",
+      "title": "The Die Is Cast",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Die_Is_Cast",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-die-is-cast-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Ratihb for a cutscene Balajaha and Yadhiwa (after starting the Luck of the Draw quest).",
+          "description": "Talk to Ratihb for a cutscene Balajaha and Yadhiwa (after starting the Luck of the Draw quest).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-die-is-cast-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Ekhu Pesshyadha in H-6 for another cutscene with Yadhiwa.",
+          "description": "Talk to Ekhu Pesshyadha in H-6 for another cutscene with Yadhiwa. You can choose to gamble with Yadhiwa or not. If you do, you can wager Love, Dreams or Hope, but she always wins.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-die-is-cast-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-die-is-cast-node-3",
+          "orderIndex": 2,
+          "title": "Go to Nashmau.",
+          "description": "Go to Nashmau. How you get there doesn't matter You can take the Silver Sea route to Nashmau ferry or use the Nashmau Home Point.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-die-is-cast-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-the-prankster",
+      "title": "The Prankster",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Prankster",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-prankster-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Ahaadah (G-6) (upper level) for a cutscene.",
+          "description": "Talk to Ahaadah (G-6) (upper level) for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-prankster-node-2",
+          "orderIndex": 1,
+          "title": "Go to (I-11), down the ramp and by 2 baskets under a platform for the next cutscene.",
+          "description": "Go to (I-11), down the ramp and by 2 baskets under a platform for the next cutscene. (Stand under the shelter on the east side of the dock, on the right of the two baskets as if you were a third basket.)",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-prankster-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-prankster-node-3",
+          "orderIndex": 2,
+          "title": "Go to (I-12), upper level, at the end of the walk for another cutscene.",
+          "description": "Go to (I-12), upper level, at the end of the walk for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-prankster-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-prankster-node-4",
+          "orderIndex": 3,
+          "title": "Take the (H-7) exit to Bhaflau Thickets.",
+          "description": "Take the (H-7) exit to Bhaflau Thickets",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-prankster-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-prankster-node-5",
+          "orderIndex": 4,
+          "title": "Find an ??? in the bushes in (I-8), and, when ready, check it to spawn the Plague Chigoe (NM).",
+          "description": "Find an ??? in the bushes in (I-8), and, when ready, check it to spawn the Plague Chigoe (NM). Caution! Plague Chigoe (NM) has an added effect of Aspir (1% of Max MP/hit) and is approximately a level 75 mob who hits hard and very, very fast. It seems to have a very high rate of Triple Attack, to a degree to seem like it has constant Hundred Fists. Additional effect: MP drain is based on your maximum MP. This NM is deceptively strong and can kill even level 99 players if not careful. Hits for around 50 a hit Has approximately 5000 HP.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-prankster-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-prankster-node-6",
+          "orderIndex": 5,
+          "title": "Defeat it and check the ??? again for a cutscene and the Map of Caedarva Mire.",
+          "description": "Defeat it and check the ??? again for a cutscene and the Map of Caedarva Mire.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-prankster-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-prankster-node-7",
+          "orderIndex": 6,
+          "title": "Note: You only have to kill it once for all party members.",
+          "description": "Note: You only have to kill it once for all party members.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-prankster-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-prankster-node-8",
+          "orderIndex": 7,
+          "title": "The Plague Chigoe will not despawn immediately if you zone into Whitegate through the back entrance.",
+          "description": "The Plague Chigoe will not despawn immediately if you zone into Whitegate through the back entrance",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-prankster-node-7"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-the-prince-and-the-hopper",
+      "title": "The Prince and the Hopper",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Prince_and_the_Hopper",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-prince-and-the-hopper-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Maudaal in E-9 of Aht Urhgan Whitegate to start this quest.",
+          "description": "Talk to Maudaal in E-9 of Aht Urhgan Whitegate to start this quest. You will receive a lengthy cutscene upon doing so.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-prince-and-the-hopper-node-2",
+          "orderIndex": 1,
+          "title": "After, you are directed to head to the \"secret entrance\" to Wajaom Woodlands, G-10/H-10 of Aht Urhga",
+          "description": "After, you are directed to head to the \"secret entrance\" to Wajaom Woodlands, G-10/H-10 of Aht Urhgan. Upon zoning, you receive another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-prince-and-the-hopper-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-prince-and-the-hopper-node-3",
+          "orderIndex": 2,
+          "title": "Reach Mamook by entering the cave at D-12 on the Wajaom Woodlands map.",
+          "description": "Reach Mamook by entering the cave at D-12 on the Wajaom Woodlands map. Once you've entered, you will find a \"Toad's Footprint (J-7),\" click it for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-prince-and-the-hopper-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-prince-and-the-hopper-node-4",
+          "orderIndex": 3,
+          "title": "You must then travel to a small lake inside Mamook, the hallway in the southern part of G-7/H-7 (see",
+          "description": "You must then travel to a small lake inside Mamook, the hallway in the southern part of G-7/H-7 (see below for an easy to follow route).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-prince-and-the-hopper-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-prince-and-the-hopper-node-5",
+          "orderIndex": 4,
+          "title": "Check the tracks here once for a cutscene.",
+          "description": "Check the tracks here once for a cutscene. Check them a second time for a fight.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-prince-and-the-hopper-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-prince-and-the-hopper-node-6",
+          "orderIndex": 5,
+          "title": "You will spawn a Poroggo Casanova, assisted by Mikiruru‎, Mikiluru‎, Mikirulu‎, Nikilulu, and Mikilu",
+          "description": "You will spawn a Poroggo Casanova, assisted by Mikiruru‎, Mikiluru‎, Mikirulu‎, Nikilulu, and Mikilulu‎. They are unable to be slept, even with Elemental Seal. The helpers are ordinary frog enemies and have very weak attack power and accuracy, but the Casanova may use all normal Poroggo spells/abilities, including Sleepga, Tier IV and Ancient magic, and \"Frog Song\". Killing the Casanova will cause all other frogs to disappear and the battle will end.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-prince-and-the-hopper-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-the-rider-cometh",
+      "title": "The Rider Cometh",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Rider_Cometh",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-1",
+          "orderIndex": 0,
+          "title": "Enter Walahra Temple (J-7) in Aht Urhgan Whitegate for a cutscene.",
+          "description": "Enter Walahra Temple (J-7) in Aht Urhgan Whitegate for a cutscene. The quest won't show in log so if you're not getting the cutscene proceed to the next step.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-2",
+          "orderIndex": 1,
+          "title": "Purchase a Sutlac and Irmik Helvasi from the Shararat Teahouse (K-12).",
+          "description": "Purchase a Sutlac and Irmik Helvasi from the Shararat Teahouse (K-12). If you are planning to complete A Stygian Pact, it is recommended to purchase 12-14 of each. The items do not stack.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-3",
+          "orderIndex": 2,
+          "title": "Obtain a Timeworn Talisman.",
+          "description": "Obtain a Timeworn Talisman. They are and are dropped by Ephramadian Shades in Dvucca Isle. Travel to the Dvucca Isle Staging Point. The shades are located at (G-9/10) and in Arrapago Reef by the Cutter or G-10 in Caedarva Mire. To stockpile multiple Timeworn Talismans, you can send them to yourself via Delivery Box.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Yoyoroon (G-6) in Nashmau.",
+          "description": "Talk to Yoyoroon (G-6) in Nashmau. You will receive the Message from Yoyoroon. Yoyoroon will not talk to you if your main job is Blue Mage.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-5",
+          "orderIndex": 4,
+          "title": "Trade Yoyoroon a Timeworn Talisman and at least one Sutlac or Irmik Helvasi, but preferably both.",
+          "description": "Trade Yoyoroon a Timeworn Talisman and at least one Sutlac or Irmik Helvasi, but preferably both. On occasion he will determine that the talisman is too dirty. This chance greatly drops if you give him both desserts. you will know the talisman is a good one when Yoyoroon's eye light up and you get a cut scene with him dancing around.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-6",
+          "orderIndex": 5,
+          "title": "Zone, then talk to Yoyoroon again to receive Talisman of the Rebel gods.",
+          "description": "Zone, then talk to Yoyoroon again to receive Talisman of the Rebel gods.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-7",
+          "orderIndex": 6,
+          "title": "Enter Walahra Temple to obtain Talisman key after a lengthily cutscene with Ovjang, Mnejing and Nash",
+          "description": "Enter Walahra Temple to obtain Talisman key after a lengthily cutscene with Ovjang, Mnejing and Nashmeira leading you to Hazhalm Testing Grounds. The quest will appear in your quest log at this point.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-8",
+          "orderIndex": 7,
+          "title": "Enter Hazhalm Testing Grounds and check the Entry Gate for a cutscene.",
+          "description": "Enter Hazhalm Testing Grounds and check the Entry Gate for a cutscene. Hazhalm Testing Grounds is most easily accessed from Caedarva Mire Home Point #1 outside of Talacca Cove, or from the west exit out of Nashmau.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-9",
+          "orderIndex": 8,
+          "title": "Check the Entry Gate again to enter the uncapped 6-person battlefield \"The Rider Cometh\".",
+          "description": "Check the Entry Gate again to enter the uncapped 6-person battlefield \"The Rider Cometh\". You will lose your Talisman key. Each participant must bring a Talisman key. Upon failure, you must obtain a new Talisman of the Rebel gods from Yoyoroon, then check the Imperial Whitegate (K-9) in Aht Urhgan Whitegate for a new Talisman key.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-10",
+          "orderIndex": 9,
+          "title": "After defeating Odin Prime, you will be offered a choice of rewards.",
+          "description": "After defeating Odin Prime, you will be offered a choice of rewards. Odin Prime can be fought repeatedly in the next quest.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-9"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-11",
+          "orderIndex": 10,
+          "title": "Check the Imperial Whitegate (L-9) in Aht Urhgan Whitegate for another cutscene to complete the ques",
+          "description": "Check the Imperial Whitegate (L-9) in Aht Urhgan Whitegate for another cutscene to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-rider-cometh-node-10"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-the-wayward-automaton",
+      "title": "The Wayward Automaton",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Wayward_Automaton",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-wayward-automaton-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Iruki-Waraki in Aht Urhgan Whitegate (K-9, second floor).",
+          "description": "Talk to Iruki-Waraki in Aht Urhgan Whitegate (K-9, second floor). He tells you to go to Nashmau to find an automaton thief.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-wayward-automaton-node-2",
+          "orderIndex": 1,
+          "title": "Go to Nashmau and talk to Dnegan (H-6, second floor).",
+          "description": "Go to Nashmau and talk to Dnegan (H-6, second floor). From this point forward you can be on any job to finish this quest. Change jobs in Nashmau before spawning the monster if you wish.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-wayward-automaton-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-wayward-automaton-node-3",
+          "orderIndex": 2,
+          "title": "Exit through the east gate of Nashmau.",
+          "description": "Exit through the east gate of Nashmau. Head to the east side of the lake at (I-10) and cross over lily pads to reach an island with a ???. Click on the ??? to spawn a notorious monster called Caedarva Toad.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-wayward-automaton-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-wayward-automaton-node-4",
+          "orderIndex": 3,
+          "title": "Defeat it and check the ??? again for a cutscene.",
+          "description": "Defeat it and check the ??? again for a cutscene. If you zone before checking the ??? for the cutscene you must fight the NM again.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-wayward-automaton-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-the-wayward-automaton-node-5",
+          "orderIndex": 4,
+          "title": "Go back to Iruki-Waraki in Aht Urhgan Whitegate to receive your Turbo Animator.",
+          "description": "Go back to Iruki-Waraki in Aht Urhgan Whitegate to receive your Turbo Animator.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-the-wayward-automaton-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-three-men-and-a-closet",
+      "title": "Three Men and a Closet",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Three_Men_and_a_Closet",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-three-men-and-a-closet-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Kubhe Ijyuhla (Aht Urhgan Whitegate (I-8)) for a cutscene.",
+          "description": "Talk to Kubhe Ijyuhla (Aht Urhgan Whitegate (I-8)) for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-three-men-and-a-closet-node-2",
+          "orderIndex": 1,
+          "title": "Exit from Aht Urhgan Whitegate to Wajaom Woodlands through the Ironbound Gate at (H-10), receive a c",
+          "description": "Exit from Aht Urhgan Whitegate to Wajaom Woodlands through the Ironbound Gate at (H-10), receive a cutscene, and return to Whitegate.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-three-men-and-a-closet-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-three-men-and-a-closet-node-3",
+          "orderIndex": 2,
+          "title": "Speak to Kubhe Ijyuhla for another cutscene.",
+          "description": "Speak to Kubhe Ijyuhla for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-three-men-and-a-closet-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-three-men-and-a-closet-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Ratihb at the Shararat Teahouse for a cutscene.",
+          "description": "Talk to Ratihb at the Shararat Teahouse for a cutscene. If the cutscene does not involve Foudeel and Wahboud, speak to him again for the correct cutscene related to this quest.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-three-men-and-a-closet-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-three-men-and-a-closet-node-5",
+          "orderIndex": 4,
+          "title": "Talk to Tehf Kimasnahya at (F-8) for a cutscene.",
+          "description": "Talk to Tehf Kimasnahya at (F-8) for a cutscene. Choose the \"you look nice\" option.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-three-men-and-a-closet-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-three-men-and-a-closet-node-6",
+          "orderIndex": 5,
+          "title": "Return to Kubhe Ijyuhla for a final cutscene and a reward of 1 bronze piece.",
+          "description": "Return to Kubhe Ijyuhla for a final cutscene and a reward of 1 bronze piece.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-three-men-and-a-closet-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-totoroon-s-treasure-hunt",
+      "title": "Totoroon's Treasure Hunt",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Totoroon%27s_Treasure_Hunt",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-totoroon-s-treasure-hunt-node-1",
+          "orderIndex": 0,
+          "title": "Totoroon (near Nashmau Home Point #1) asks you to bring him \"Sweets, with shooogary taste.\".",
+          "description": "Totoroon (near Nashmau Home Point #1) asks you to bring him \"Sweets, with shooogary taste.\"",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-totoroon-s-treasure-hunt-node-2",
+          "orderIndex": 1,
+          "title": "Trade Totoroon a Date, Pamamas or Kazham Pineapple.",
+          "description": "Trade Totoroon a Date, Pamamas or Kazham Pineapple.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-totoroon-s-treasure-hunt-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-totoroon-s-treasure-hunt-node-3",
+          "orderIndex": 2,
+          "title": "He will send you to one of four places: Bhaflau Thickets, Wajaom Woodlands, Caedarva Mire or Mount Z",
+          "description": "He will send you to one of four places: Bhaflau Thickets, Wajaom Woodlands, Caedarva Mire or Mount Zhayolm. You will be sent to Bhaflau Thickets or Wajaom Woodlands for trading a Date. You will be sent to Wajaom Woodlands or Bhaflau Thickets for trading Pamamas. You will be sent to Mount Zhayolm or Caedarva Mire for trading a Kazham Pineapple.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-totoroon-s-treasure-hunt-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-totoroon-s-treasure-hunt-node-4",
+          "orderIndex": 3,
+          "title": "Once you obtain the item, speak to Totoroon to complete the quest.",
+          "description": "Once you obtain the item, speak to Totoroon to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-totoroon-s-treasure-hunt-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-transformations",
+      "title": "Transformations",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Transformations",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-transformations-node-1",
+          "orderIndex": 0,
+          "title": "Note: You must zone and wait one minute (Earth time) upon completion of Omens to trigger this quest.",
+          "description": "Note: You must zone and wait one minute (Earth time) upon completion of Omens to trigger this quest.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-two-horn-the-savage",
+      "title": "Two Horn the Savage",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Two_Horn_the_Savage",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-two-horn-the-savage-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Milazahn for Cut Scene.",
+          "description": "Talk to Milazahn for Cut Scene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-two-horn-the-savage-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Cacaroon (G-11) in Aht Urhgan Whitegate for cutscene.",
+          "description": "Talk to Cacaroon (G-11) in Aht Urhgan Whitegate for cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-two-horn-the-savage-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-two-horn-the-savage-node-3",
+          "orderIndex": 2,
+          "title": "Trade 1000g for an additional cutscene.",
+          "description": "Trade 1000g for an additional cutscene. If you have Started the quest Rat Race and not traded Cacaroon and Imperial Bronze Piece yet, you will have to before he will accept the trade of 1000g.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-two-horn-the-savage-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-two-horn-the-savage-node-4",
+          "orderIndex": 3,
+          "title": "Go to Wajaom Woodlands (D-12) and zone into Mamook.",
+          "description": "Go to Wajaom Woodlands (D-12) and zone into Mamook.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-two-horn-the-savage-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-two-horn-the-savage-node-5",
+          "orderIndex": 4,
+          "title": "Go to (E-8) and check the Viscous Liquid for a cutscene.",
+          "description": "Go to (E-8) and check the Viscous Liquid for a cutscene. Note that the Poroggo are true sound aggro. You can tag the Viscous Liquid that's on the way to (E-8) for a costume that will keep the Poroggos from aggroing you, but you will still need Sneak up to avoid Suhur Mas, which aggro by sound and aren't fooled by the costume.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-two-horn-the-savage-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-two-horn-the-savage-node-6",
+          "orderIndex": 5,
+          "title": "Check the Viscous Liquid at (E-8) again to spawn Mamool Ja (NM).",
+          "description": "Check the Viscous Liquid at (E-8) again to spawn Mamool Ja (NM). Mamool Ja (NM) has about 4400 Hit Points.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-two-horn-the-savage-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-two-horn-the-savage-node-7",
+          "orderIndex": 6,
+          "title": "Kill it and examine the Viscous Liquid again for another cutscene.",
+          "description": "Kill it and examine the Viscous Liquid again for another cutscene. (If you don't examine the Viscous Liquid again after killing the NM, you will have to start the battle over after zoning..)",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-two-horn-the-savage-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-two-horn-the-savage-node-8",
+          "orderIndex": 7,
+          "title": "Return to Milazahn in Aht Urhgan Whitegate for the final cutscene.",
+          "description": "Return to Milazahn in Aht Urhgan Whitegate for the final cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-two-horn-the-savage-node-7"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-unwavering-resolve",
+      "title": "Unwavering Resolve",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Unwavering_Resolve",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-unwavering-resolve-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Naja Salaheem at Aht Urhgan Whitegate (I-10) upstairs for a cut scene.",
+          "description": "Talk to Naja Salaheem at Aht Urhgan Whitegate (I-10) upstairs for a cut scene. This cutscene is lower priority than that of a Mercenary rank promotion quest and may be lower priority than that of Waking the Colossus.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-unwavering-resolve-node-2",
+          "orderIndex": 1,
+          "title": "Check the Imperial Whitegate at Aht Urhgan Whitegate (L-9) for another cut scene.",
+          "description": "Check the Imperial Whitegate at Aht Urhgan Whitegate (L-9) for another cut scene. This cutscene is also pre-empted by those of Waking the Colossus. The quest \"Unwavering Resolve\" will appear in your quest log at this point.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-unwavering-resolve-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-vanishing-act",
+      "title": "Vanishing Act",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Vanishing_Act",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-vanishing-act-node-1",
+          "orderIndex": 0,
+          "title": "You must zone after completing the previous quest - Delivering the Goods .",
+          "description": "You must zone after completing the previous quest - Delivering the Goods . Originally, you needed to wait until after JP midnight to proceed. You no longer need to wait for JP midnight.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-vanishing-act-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Qutiba or Ulamaal (K-12) in the Shararat Teahouse for a cutscene.",
+          "description": "Talk to Qutiba or Ulamaal (K-12) in the Shararat Teahouse for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-vanishing-act-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-vanishing-act-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Fochacha in the Serpentking Square (I-9) for another cutscene.",
+          "description": "Talk to Fochacha in the Serpentking Square (I-9) for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-vanishing-act-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-vanishing-act-node-4",
+          "orderIndex": 3,
+          "title": "Visit the Alchemy Guild (F-5) for a cutscene with Fochacha's son, Topok-Hippok.",
+          "description": "Visit the Alchemy Guild (F-5) for a cutscene with Fochacha's son, Topok-Hippok.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-vanishing-act-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-vanishing-act-node-5",
+          "orderIndex": 4,
+          "title": "Obtain a few Sickles (in case of breaks) and head out to Wajaom Woodlands.",
+          "description": "Obtain a few Sickles (in case of breaks) and head out to Wajaom Woodlands. Locate a Harvesting Point and harvest from the point until you get a Rainbow Berry. Some Harvesting Points can be found at (E-8/9, H-10 and H-13) Don't restrict your search to this location. You may want to take a chocobo. You must drop Invisible to harvest. Take care around sight aggro monsters. A useful strategy is to harvest with your inventory full so that the harvesting point doesn't get used up, but you can still harvest the key item.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-vanishing-act-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-vanishing-act-node-6",
+          "orderIndex": 5,
+          "title": "Return to the Shararat Teahouse.",
+          "description": "Return to the Shararat Teahouse. Be sure to make room in your inventory now to get the reward.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-vanishing-act-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-vanishing-act-node-7",
+          "orderIndex": 6,
+          "title": "Speak with Ulamaal or Qutiba for a cutscene and an Imperial Silver Piece.",
+          "description": "Speak with Ulamaal or Qutiba for a cutscene and an Imperial Silver Piece.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-vanishing-act-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-vw-op-050-aht-urhgan-assault",
+      "title": "VW Op. 050: Aht Urhgan Assault",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/VW_Op._050:_Aht_Urhgan_Assault",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-vw-op-050-aht-urhgan-assault-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Camille in Wajaom Woodlands (M-7) for a cutscene.",
+          "description": "Speak with Camille in Wajaom Woodlands (M-7) for a cutscene. Use the Whitegate exit under the south stairs at (H-10).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-vw-op-050-aht-urhgan-assault-node-2",
+          "orderIndex": 1,
+          "title": "Choose to participate in Voidwatch operations to receive Amber Stratum Abyssite.",
+          "description": "Choose to participate in Voidwatch operations to receive Amber Stratum Abyssite.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-vw-op-050-aht-urhgan-assault-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-vw-op-050-aht-urhgan-assault-node-3",
+          "orderIndex": 2,
+          "title": "Defeat the 4 monsters: Dimgruzub in Arrapago Reef, Map 1 (I-10), (G-8), or (G-10) Atmacite Refiner t",
+          "description": "Defeat the 4 monsters: Dimgruzub in Arrapago Reef, Map 1 (I-10), (G-8), or (G-10) Atmacite Refiner teleports you to Caedarva Mire (I-6) for entrance to map 1. Brekekekex in Caedarva Mire (I-11), (I-9) or (F-11) Atmacite Refiner teleports you to Caedarva Mire (H-10) next to Nashmau. Yalungur in Mamook (J-8), (L-8) or (?-?) Atmacite Refiner teleports you to Wajaom Woodlands (E-12) for entrance to map 1. Vanasarvik in Mount Zhayolm (M-6), (J-8), or (L-8) Atmacite Refiner teleports you to Mount Zhayolm (L-7).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-vw-op-050-aht-urhgan-assault-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-vw-op-050-aht-urhgan-assault-node-4",
+          "orderIndex": 3,
+          "title": "Return to Camille to finish this quest, upgrade to Amber Stratum Abyssite II, and automatically begi",
+          "description": "Return to Camille to finish this quest, upgrade to Amber Stratum Abyssite II, and automatically begin the next quest.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-vw-op-050-aht-urhgan-assault-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-vw-op-068-subterranean-skirmish",
+      "title": "VW Op. 068: Subterranean Skirmish",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/VW_Op._068:_Subterranean_Skirmish",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-vw-op-068-subterranean-skirmish-node-1",
+          "orderIndex": 0,
+          "title": "Speaking with Camille in Wajaom Woodlands (M-7) at the end of the previous quest automatically start",
+          "description": "Speaking with Camille in Wajaom Woodlands (M-7) at the end of the previous quest automatically starts this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-vw-op-068-subterranean-skirmish-node-2",
+          "orderIndex": 1,
+          "title": "Defeat the following monsters: Morta in Aydeewa Subterrane at (G-8) or (I-8) on Map 1, or (F-8) on M",
+          "description": "Defeat the following monsters: Morta in Aydeewa Subterrane at (G-8) or (I-8) on Map 1, or (F-8) on Map 2 Atmacite Refiner teleports you to Bhaflau Thickets (I-7) for entrance to map 1.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-vw-op-068-subterranean-skirmish-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-vw-op-068-subterranean-skirmish-node-3",
+          "orderIndex": 2,
+          "title": "Return to Camille to finish this quest.",
+          "description": "Return to Camille to finish this quest.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-vw-op-068-subterranean-skirmish-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-waking-the-colossus",
+      "title": "Waking the Colossus",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Waking_the_Colossus",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-1",
+          "orderIndex": 0,
+          "title": "Enter Salaheem's Sentinels in Aht Urhgan Whitegate (I-10), upstairs.",
+          "description": "Enter Salaheem's Sentinels in Aht Urhgan Whitegate (I-10), upstairs. She directs you to the Imperial Whitegate. If you do not get the cutscene then proceed to next step at the Imperial Whitegate at (L-9)",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-2",
+          "orderIndex": 1,
+          "title": "Click the Imperial Whitegate door at (L-9) for a cutscene and an Imperial Missive.",
+          "description": "Click the Imperial Whitegate door at (L-9) for a cutscene and an Imperial Missive. The quest is marked as active when this step is completed.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-3",
+          "orderIndex": 2,
+          "title": "Make your way to Ru'Lude Gardens and check the Door: Audience Chamber at (H-6) for a cutscene.",
+          "description": "Make your way to Ru'Lude Gardens and check the Door: Audience Chamber at (H-6) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-4",
+          "orderIndex": 3,
+          "title": "Go speak with the three nations' leaders: Speak with Iron Eater at (J-8) in the Metalworks to receiv",
+          "description": "Go speak with the three nations' leaders: Speak with Iron Eater at (J-8) in the Metalworks to receive the Bastokan approval letter. Speak with Kupipi inside the Clerical Chambers of Heavens Tower to receive the Windurstian approval letter. Speak with Halver at (I-9) within the Chateau d'Oraguille to receive the San d'Orian approval letter.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-5",
+          "orderIndex": 4,
+          "title": "Return to Ru'Lude Gardens and click the Door: Audience Chamber to receive the Jeunoan approval lette",
+          "description": "Return to Ru'Lude Gardens and click the Door: Audience Chamber to receive the Jeunoan approval letter.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-6",
+          "orderIndex": 5,
+          "title": "Go back to the Imperial Whitegate door at (L-9) for a cutscene and a Present for Megomak.",
+          "description": "Go back to the Imperial Whitegate door at (L-9) for a cutscene and a Present for Megomak. Get some pickaxes and mine three Slabs of Plumbago in Mount Zhayolm or Halvung. Slabs of Plumbago can also be acquired from the Auction House. (Materials/Smithing) Slabs of Plumbago also drop from Troll Ironworkers and Troll Lapidarists in Halvung. Slabs of Plumbago also drop from Woodtroll Warriors and Woodtroll Dark Knights in Wajaom Woodlands. Slabs of Plumbago also drop from Hilltroll Warriors and Hilltroll Dark Knights in Mount Zhayolm.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-7",
+          "orderIndex": 6,
+          "title": "Go to Mount Zhayolm and check the Acid-Eaten Door at the top sliver of (I-9) for a cutscene with Meg",
+          "description": "Go to Mount Zhayolm and check the Acid-Eaten Door at the top sliver of (I-9) for a cutscene with Megomak. It's on the second floor of the Cerberus spawn area, in the troll ruins. He gives you Megomak's Shopping List.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-8",
+          "orderIndex": 7,
+          "title": "(Megomak's precise location as seen in the attached picture, along with the fastest route there via ",
+          "description": "(Megomak's precise location as seen in the attached picture, along with the fastest route there via Halvung Staging Point) <a href=\"https://static.wikia.nocookie.net/ffxi/images/8/8c/MM01.png/revision/latest?cb=20200418214735\" class=\"mw-file-description image\"><img alt=\"MM01\" src=\"https://static.wikia.nocookie.net/ffxi/images/8/8c/MM01.png/revision/latest/scale-to-width-down/220?cb=20200418214735\" decoding=\"async\" loading=\"lazy\" width=\"220\" height=\"317\" class=\"thumbimage\" data-image-name=\"MM01.png\" data-image-key=\"MM01.png\" data-relevant=\"1\" data-src=\"https://static.wikia.nocookie.net/ffxi/images/8/8c/MM01.png/revision/latest/scale-to-width-down/220?cb=20200418214735\" /></a>",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-9",
+          "orderIndex": 8,
+          "title": "Trade the three Slabs of Plumbago to the Acid-Eaten Door to receive a Lightning Cell from Megomak.",
+          "description": "Trade the three Slabs of Plumbago to the Acid-Eaten Door to receive a Lightning Cell from Megomak.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-10",
+          "orderIndex": 9,
+          "title": "Go to Nyzul Isle Staging Point and check the lamp for a cutscene.",
+          "description": "Go to Nyzul Isle Staging Point and check the lamp for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-9"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-11",
+          "orderIndex": 10,
+          "title": "Check the runic door to enter the battlefield with Alexander (like AU44 fight).",
+          "description": "Check the runic door to enter the battlefield with Alexander (like AU44 fight). You have 15 minutes to complete the fight. Buffs and TP are lost upon entering. Unlike in Nashmeira's Plea, Alexander is not stationary. Spawns Alexander Images during the fight. If you fail, you need to trade three Slabs of Plumbago to Megomak again.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-10"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-12",
+          "orderIndex": 11,
+          "title": "Upon winning you receive the Whisper of radiance.",
+          "description": "Upon winning you receive the Whisper of radiance.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-11"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-13",
+          "orderIndex": 12,
+          "title": "Return to the Imperial Whitegate door again for a CS.",
+          "description": "Return to the Imperial Whitegate door again for a CS.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-12"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-14",
+          "orderIndex": 13,
+          "title": "Head to Naja Salaheem to pick your reward.",
+          "description": "Head to Naja Salaheem to pick your reward.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-waking-the-colossus-node-13"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-what-friends-are-for",
+      "title": "What Friends Are For",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/What_Friends_Are_For",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-what-friends-are-for-node-1",
+          "orderIndex": 0,
+          "title": "Visit Aydeewa Subterrane, Map 3 (G-10).",
+          "description": "Visit Aydeewa Subterrane, Map 3 (G-10). The easiest way to get to Map 3 (G-10) is to enter Aydeewa Subterrane from Wajaom Woodlands (E-10) (marked as entrance 8 on the map). Once inside, follow the path south until you come to a ledge with some worms on the bottom. Drop and keep heading south. Take the first turn west and keep heading west to the ???. (Note: The ledge you drop off is at H-9, head West for only a short time and take the first path South - if you see a room with tigers then you're in the right place. Keep right as much as possible to help avoid aggro.)",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-what-friends-are-for-node-2",
+          "orderIndex": 1,
+          "title": "Run through into the middle of the room and approach the stairs ruins (G-10) for a very short cutsce",
+          "description": "Run through into the middle of the room and approach the stairs ruins (G-10) for a very short cutscene with NPC Wawaroon. The cutscene will start before you reach the base of the stairs. The cutscene WILL drop your Invisible effect, the moment the cutscene ends the level 64-68 chigoes nearby might aggro you. Recommend Blink and Stoneskin (if possible) before entering the room with the stairs if that represents a threat to the player.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-what-friends-are-for-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests-when-the-bow-breaks",
+      "title": "When the Bow Breaks",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/When_the_Bow_Breaks",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-when-the-bow-breaks-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Gaweesh in Al Zahbi at G-8, who will tell you to speak with Najelith in Wajaom Woodlands dur",
+          "description": "Talk to Gaweesh in Al Zahbi at G-8, who will tell you to speak with Najelith in Wajaom Woodlands during her off-duty hours.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-when-the-bow-breaks-node-2",
+          "orderIndex": 1,
+          "title": "Obtain the Frayed Arrow by killing Aht Urhgan Attercops in Wajaom Woodlands or Bhaflau Thickets (rec",
+          "description": "Obtain the Frayed Arrow by killing Aht Urhgan Attercops in Wajaom Woodlands or Bhaflau Thickets (recommended places: Wajaom's F-5 and F-6, which are near the next step). It may also be found under Auction House Category: Others > Misc.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-when-the-bow-breaks-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-quests-when-the-bow-breaks-node-3",
+          "orderIndex": 2,
+          "title": "Head to the Giwahb Watchtower at F-5 in Wajaom Woodlands and trade the Frayed Arrow to the door ther",
+          "description": "Head to the Giwahb Watchtower at F-5 in Wajaom Woodlands and trade the Frayed Arrow to the door there for a cutscene to complete this sidequest. Be prepared to spend about 7 minutes or so in the cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-quests-when-the-bow-breaks-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    }
+  ]
+}

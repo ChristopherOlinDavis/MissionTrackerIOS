@@ -1,0 +1,438 @@
+{
+  "id": "ffxiclopedia-seekers-adoulin",
+  "name": "FFXIclopedia - Seekers of Adoulin Missions",
+  "category": "expansion",
+  "source": "FFXIclopedia",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Seekers_of_Adoulin_Missions",
+  "lastScraped": "2025-12-29T17:29:37.001Z",
+  "lastKnownUpdate": "2025-12-29T17:29:37.001Z",
+  "totalMissions": 21,
+  "missions": [
+    {
+      "id": "ffxiclopedia-seekers-adoulin-rumors-from-the-west",
+      "title": "Rumors from the West",
+      "number": "1-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Rumors_from_the_West",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-rumors-from-the-west-node-1",
+          "orderIndex": 0,
+          "title": "Optional: Go to Northern San d'Oria, Bastok Markets or Windurst Woods to trigger a cutscene about pi",
+          "description": "Optional: Go to Northern San d'Oria, Bastok Markets or Windurst Woods to trigger a cutscene about pioneering in Adoulin. The optional cutscenes can all be viewed from the following bards regardless of whether or not you received them: Northern San d'Oria: Durogg (J-10) Bastok Markets: Lamepaue (I-8) Windurst Woods: Sevah Kummekihn (J-10) -- cutscene with Soni-Muni and Gottah Maporushanoh",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-seekers-adoulin-rumors-from-the-west-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Darcia (Lower Jeuno (H-7) inside Chamber of Commerce and Industry) and choose the option \"I ",
+          "description": "Talk to Darcia (Lower Jeuno (H-7) inside Chamber of Commerce and Industry) and choose the option \"I would like to apply\" to begin the next mission.",
+          "dependencies": [
+            "ffxiclopedia-seekers-adoulin-rumors-from-the-west-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-the-geomagnetron",
+      "title": "The Geomagnetron",
+      "number": "1-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Geomagnetron",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-the-geomagnetron-node-1",
+          "orderIndex": 0,
+          "title": "Note: If you have completed the Rhapsodies of Vana'diel mission The River Runs Red, you have already",
+          "description": "Note: If you have completed the Rhapsodies of Vana'diel mission The River Runs Red, you have already received a Geomagnetron and therefore do not need to walk through this mission. Just speak with Darcia for a cutscene to complete the mission and receive your Adoulinian charter permit.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-onward-to-adoulin",
+      "title": "Onward to Adoulin",
+      "number": "1-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Onward_to_Adoulin",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-onward-to-adoulin-node-1",
+          "orderIndex": 0,
+          "title": "Activate the Waypoint at (H-7) in Lower Jeuno to be teleported to Ceizak Battlegrounds for a cutscen",
+          "description": "Activate the Waypoint at (H-7) in Lower Jeuno to be teleported to Ceizak Battlegrounds for a cutscene with Arciela, Tiana, and some Heartwings.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-heartwings-and-the-kindhearted",
+      "title": "Heartwings and the Kindhearted",
+      "number": "1-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Heartwings_and_the_Kindhearted",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-heartwings-and-the-kindhearted-node-1",
+          "orderIndex": 0,
+          "title": "Head to (L-7) in Ceizak Battlegrounds and enter Western Adoulin for a cutscene with Tiana and Brenna",
+          "description": "Head to (L-7) in Ceizak Battlegrounds and enter Western Adoulin for a cutscene with Tiana and Brenna. There are no aggressive mobs on the way, at least not during daytime (assuming you don't get lost), and you can also use mounts to avoid aggro completely. On the way to Western Adoulin you will pass by the Ceizak Battlegrounds Frontier Station. Activate the Waypoint there. Waypoints are a method of teleportation in the Seekers of Adoulin areas, similar to Survival Guides in other areas. Make sure to interact with each new one you come across to activate it. After you have arrived in Western Adoulin and received the cutscene, there is a Home Point right nearby. Make sure you activate it for easier access next time you wish to come.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-pioneer-registration",
+      "title": "Pioneer Registration",
+      "number": "1-5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Pioneer_Registration",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-pioneer-registration-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Brenton (E-8) in Western Adoulin at the Pioneers' Coalition.",
+          "description": "Speak with Brenton (E-8) in Western Adoulin at the Pioneers' Coalition. To reach him head east until the intersection, then go north past Nikkhail and Barenngo.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-life-on-the-frontier",
+      "title": "Life on the Frontier",
+      "number": "1-6",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Life_on_the_Frontier",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-life-on-the-frontier-node-1",
+          "orderIndex": 0,
+          "title": "Spend four imprimaturs on completed Coalition Assignments.",
+          "description": "Spend four imprimaturs on completed Coalition Assignments. See Coalition Assignments for a full list of options for this mission. The number of imprimaturs required decreases the higher your level of fame in Adoulin. It's strongly recommended to do Adoulin Quests as well as assignments. At max fame, this quest can be flagged after completing just one Coalition Assignment.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-seekers-adoulin-life-on-the-frontier-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Brenton at the Pioneers' Coalition in Western Adoulin (E-8) for a Dinner invitation.",
+          "description": "Talk to Brenton at the Pioneers' Coalition in Western Adoulin (E-8) for a Dinner invitation.",
+          "dependencies": [
+            "ffxiclopedia-seekers-adoulin-life-on-the-frontier-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-meeting-of-the-minds",
+      "title": "Meeting of the Minds",
+      "number": "1-7",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Meeting_of_the_Minds",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-meeting-of-the-minds-node-1",
+          "orderIndex": 0,
+          "title": "Give your Dinner invitation to Ploh Trishbahk in Eastern Adoulin (K-9) near the gates of Castle Adou",
+          "description": "Give your Dinner invitation to Ploh Trishbahk in Eastern Adoulin (K-9) near the gates of Castle Adoulin between 15:00 - 22:00.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-the-twin-world-trees",
+      "title": "The Twin World Trees",
+      "number": "2-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Twin_World_Trees",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-the-twin-world-trees-node-1",
+          "orderIndex": 0,
+          "title": "Wait until the next in-game day after completion of the previous mission, then approach Oscairn at (",
+          "description": "Wait until the next in-game day after completion of the previous mission, then approach Oscairn at (G-7) in Eastern Adoulin for a cutscene that begins the next mission. Scene will also trigger if you are standing next to Oscairn at midnight. He's close to the Peacekeeper Coalition, quickly accessed from Statue of the Goddess or Peacekeeper Coalition Waypoints, or Eastern Adoulin Home Point 1.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-honor-and-audacity",
+      "title": "Honor and Audacity",
+      "number": "2-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Honor_and_Audacity",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-honor-and-audacity-node-1",
+          "orderIndex": 0,
+          "title": "Enter Rala Waterways for a cutscene that begins the next mission.",
+          "description": "Enter Rala Waterways for a cutscene that begins the next mission. Entering Rala Waterways from Eastern Adoulin (F-7) is the quickest route.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-friction-and-fissures",
+      "title": "Friction and Fissures",
+      "number": "2-5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Friction_and_Fissures",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-friction-and-fissures-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Friction and Fissures",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-predators-and-prey",
+      "title": "Predators and Prey",
+      "number": "2-7",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Predators_and_Prey",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-predators-and-prey-node-1",
+          "orderIndex": 0,
+          "title": "Return to and click on the Sluice Gate (C-6) again in Rala Waterways for a cutscene.",
+          "description": "Return to and click on the Sluice Gate (C-6) again in Rala Waterways for a cutscene. Most easily accessed via Western Adoulin F-5 i.e. the northern entrance (Closest waypoint is Adoulin Waterfront). Or, if you accessed the Augural Conveyor in Rala Waterways (B-6) in past mission, you can use it instead. While the distance is about the same, it will save you a zoning, at cost of the Kinetic Units though. By doing this, you can also check the glowing blue point to complete the RoV Mission What He Left Behind if you are at that point already. Plus, the extra trust is another alternative to the upcoming fight.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-return-of-the-exorcist",
+      "title": "Return of the Exorcist",
+      "number": "3-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Return_of_the_Exorcist",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-return-of-the-exorcist-node-1",
+          "orderIndex": 0,
+          "title": "Walk or teleport via Waypoint (waypoint 8) to the Airship Docks in Western Adoulin at (H-4) for a cu",
+          "description": "Walk or teleport via Waypoint (waypoint 8) to the Airship Docks in Western Adoulin at (H-4) for a cutscene with Ingrid that ends this mission and begins the next.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-the-princess-s-dilemma",
+      "title": "The Princess's Dilemma",
+      "number": "3-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Princess%27s_Dilemma",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-the-princess-s-dilemma-node-1",
+          "orderIndex": 0,
+          "title": "Go to Scout's Coalition Waypoint in Eastern Adoulin and talk to Eppel-Treppel to enter the Celennia ",
+          "description": "Go to Scout's Coalition Waypoint in Eastern Adoulin and talk to Eppel-Treppel to enter the Celennia Memorial Library for a cutscene with Arciela and Andreine that completes this mission and begins the next. Select the option \"What sweets do you like?\" to progress the cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-seekers-adoulin-the-princess-s-dilemma-node-2",
+          "orderIndex": 1,
+          "title": "In case you are doing at same time both this mission and RoV's Solemnity, the latter takes precedenc",
+          "description": "In case you are doing at same time both this mission and RoV's Solemnity, the latter takes precedence, so you gonna need to watch RoV's mission cutscene first, zone out then come back to watch this mission cutscene.",
+          "dependencies": [
+            "ffxiclopedia-seekers-adoulin-the-princess-s-dilemma-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-summoned-by-spirits",
+      "title": "Summoned by Spirits",
+      "number": "3-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Summoned_by_Spirits",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-summoned-by-spirits-node-1",
+          "orderIndex": 0,
+          "title": "Enter the Celennia Memorial Library in East Adoulin by speaking to Eppel-Treppel for a cutscene with",
+          "description": "Enter the Celennia Memorial Library in East Adoulin by speaking to Eppel-Treppel for a cutscene with Andreine and Arciela that ends this mission and begins the next.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-the-man-in-black",
+      "title": "The Man in Black",
+      "number": "3-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Man_in_Black",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-the-man-in-black-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: The Man in Black",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-lighting-the-way",
+      "title": "Lighting the Way",
+      "number": "4-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Lighting_the_Way",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-lighting-the-way-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Alpine Trail at (H-5) in Kamihr Drifts and select yes to enter Mount Kamihr and receive ",
+          "description": "Examine the Alpine Trail at (H-5) in Kamihr Drifts and select yes to enter Mount Kamihr and receive a scene with Arciela and Sajj'aka. The fastest way there is to warp to Frontier Bivouac #3, then take the north tunnel and follow the left wall. Taking Kamihr Drifts Home Point #1 is an equally quick option.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-seekers-adoulin-lighting-the-way-node-2",
+          "orderIndex": 1,
+          "title": "After the cutscene, you will be immediately ejected to Kamihr Drifts.",
+          "description": "After the cutscene, you will be immediately ejected to Kamihr Drifts. You cannot reenter Mount Kamihr for the time being.",
+          "dependencies": [
+            "ffxiclopedia-seekers-adoulin-lighting-the-way-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-the-gates",
+      "title": "The Gates",
+      "number": "4-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Gates",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-the-gates-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Darkened Crevice at (G-8) in Woh Gates.",
+          "description": "Examine the Darkened Crevice at (G-8) in Woh Gates. Party members must either possess a Tuft of golden fur or have already beaten the mission. It is possible to enter solo, and Alter Egos can be summoned in the coming battle. The battle starts automatically after about 60 seconds, so summon Alter egos quickly. It's possible to resummon them if you do not have hate.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-seekers-adoulin-the-gates-node-2",
+          "orderIndex": 1,
+          "title": "Enter Cirdas Caverns (U) from the Darkened Crevice to battle several waves of Pustulous Umbrils.",
+          "description": "Enter Cirdas Caverns (U) from the Darkened Crevice to battle several waves of Pustulous Umbrils. The Tuft of golden fur is lost upon entry. It must be re-obtained by examining the Large Animal Track near Yorcia Weald exit (K-8/9) in Woh Gates if you fail.",
+          "dependencies": [
+            "ffxiclopedia-seekers-adoulin-the-gates-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-yggdrasil-beckons",
+      "title": "Yggdrasil Beckons",
+      "number": "5-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Yggdrasil_Beckons",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-yggdrasil-beckons-node-1",
+          "orderIndex": 0,
+          "title": "This mission splits into two paths, with two BCNM fights.",
+          "description": "This mission splits into two paths, with two BCNM fights. You can complete these in either order.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-seekers-adoulin-yggdrasil-beckons-node-2",
+          "orderIndex": 1,
+          "title": "Both NMs only need to be brought down to around 10% HP to win.",
+          "description": "Both NMs only need to be brought down to around 10% HP to win.",
+          "dependencies": [
+            "ffxiclopedia-seekers-adoulin-yggdrasil-beckons-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-teodor-s-summons",
+      "title": "Teodor's Summons",
+      "number": "5-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Teodor%27s_Summons",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-teodor-s-summons-node-1",
+          "orderIndex": 0,
+          "title": "Enter Mount Kamihr from the Alpine Trail at (H-5) in Kamihr Drifts for a cutscene that completes thi",
+          "description": "Enter Mount Kamihr from the Alpine Trail at (H-5) in Kamihr Drifts for a cutscene that completes this mission and begins the next. You should receive the key item Ash Runic board for the next fight.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-reckoning",
+      "title": "Reckoning",
+      "number": "5-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Reckoning",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-reckoning-node-1",
+          "orderIndex": 0,
+          "title": "Click on the Ominous Postern to enter the fight against Hades.",
+          "description": "Click on the Ominous Postern to enter the fight against Hades. Buffs wear on entry. Time limit is 30 minutes. Hades has ~200k HP. Alter Egos can be summoned. Fight is automatically lost if Arciela dies.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-seekers-adoulin-reckoning-node-2",
+          "orderIndex": 1,
+          "title": "You are assisted by Arciela.",
+          "description": "You are assisted by Arciela. She will start attacking once someone engages the enemy. Do not engage until you're finished buffing.",
+          "dependencies": [
+            "ffxiclopedia-seekers-adoulin-reckoning-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-seekers-adoulin-reckoning-node-3",
+          "orderIndex": 2,
+          "title": "If you brought meds, save them for the second fight if you can.",
+          "description": "If you brought meds, save them for the second fight if you can.",
+          "dependencies": [
+            "ffxiclopedia-seekers-adoulin-reckoning-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-seekers-adoulin-reckoning-node-4",
+          "orderIndex": 3,
+          "title": "Upon victory, there is a cutscene and the next mission is automatically flagged.",
+          "description": "Upon victory, there is a cutscene and the next mission is automatically flagged.",
+          "dependencies": [
+            "ffxiclopedia-seekers-adoulin-reckoning-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin-undying-light",
+      "title": "Undying Light",
+      "number": "5-5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Undying_Light",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-seekers-adoulin-undying-light-node-1",
+          "orderIndex": 0,
+          "title": "Enter Western Adoulin from Ceizak Battlegrounds for a cutscene.",
+          "description": "Enter Western Adoulin from Ceizak Battlegrounds for a cutscene. Warping in any way will not work. If you reach Western Adoulin by any other means, zone out to Ceizak Battlegrounds and zone back.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-seekers-adoulin-undying-light-node-2",
+          "orderIndex": 1,
+          "title": "After the cutscene, talk to Ploh Trishbahk at the castle gates in Eastern Adoulin for a cutscene.",
+          "description": "After the cutscene, talk to Ploh Trishbahk at the castle gates in Eastern Adoulin for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-seekers-adoulin-undying-light-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    }
+  ]
+}

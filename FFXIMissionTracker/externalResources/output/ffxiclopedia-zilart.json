@@ -1,0 +1,510 @@
+{
+  "id": "ffxiclopedia-zilart",
+  "name": "FFXIclopedia - Rise of the Zilart Missions",
+  "category": "expansion",
+  "source": "FFXIclopedia",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Rise_of_the_Zilart_Missions",
+  "lastScraped": "2025-12-29T17:29:37.025Z",
+  "lastKnownUpdate": "2025-12-29T17:29:37.025Z",
+  "totalMissions": 15,
+  "missions": [
+    {
+      "id": "ffxiclopedia-zilart-the-new-frontier",
+      "title": "The New Frontier",
+      "number": "ZM1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_New_Frontier",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-zilart-the-new-frontier-node-1",
+          "orderIndex": 0,
+          "title": "After defeating the Shadow Lord for nation mission 5-2, enter Norg to receive a cutscene and a Map o",
+          "description": "After defeating the Shadow Lord for nation mission 5-2, enter Norg to receive a cutscene and a Map of Norg.",
+          "dependencies": []
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-zilart-the-new-frontier-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-zilart-the-new-frontier-node-1",
+          "requirement": "Rank 6 in your home nation",
+          "description": "Rank 6 in your home nation"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-zilart-welcome-t-norg",
+      "title": "Welcome t'Norg",
+      "number": "ZM2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Welcome_t%27Norg",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-zilart-welcome-t-norg-node-1",
+          "orderIndex": 0,
+          "title": "Click on the \"Oaken Door\" at (K-8) in Norg for a cutscene with Gilgamesh.",
+          "description": "Click on the \"Oaken Door\" at (K-8) in Norg for a cutscene with Gilgamesh. The dialog will ask if you want to open the door, choose Yes. If you are on one of the numerous Rhapsodies Missions where you click on the door, you will get that cutscene first. Just touch the door again.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-zilart-kazham-s-chieftainess",
+      "title": "Kazham's Chieftainess",
+      "number": "ZM3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Kazham%27s_Chieftainess",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-zilart-kazham-s-chieftainess-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Jakoh Wahcondalo at (J-9) in Kazham (Home Point #1) to obtain the Sacrificial Chamber Key, w",
+          "description": "Talk to Jakoh Wahcondalo at (J-9) in Kazham (Home Point #1) to obtain the Sacrificial Chamber Key, which is required to enter the deeper areas of the Temple of Uggalepih.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-zilart-the-temple-of-uggalepih",
+      "title": "The Temple of Uggalepih",
+      "number": "ZM4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Temple_of_Uggalepih",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-zilart-the-temple-of-uggalepih-node-1",
+          "orderIndex": 0,
+          "title": "Unity Concord Teleportation:If you are signed up to Unity Concord, talking to a Unity Concord NPC an",
+          "description": "Unity Concord Teleportation:If you are signed up to Unity Concord, talking to a Unity Concord NPC and selecting the option Bring me to Wanted encounter area will enable you to choose Den of Rancor from the list of Level 128 encounter areas.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-zilart-headstone-pilgrimage",
+      "title": "Headstone Pilgrimage",
+      "number": "ZM5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Headstone_Pilgrimage",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-zilart-headstone-pilgrimage-node-1",
+          "orderIndex": 0,
+          "title": "If you're doing this for the Rhapsodies of Vana'diel prerequisite, you do not need to do the followi",
+          "description": "If you're doing this for the Rhapsodies of Vana'diel prerequisite, you do not need to do the following and can now continue past The Cursed Temple. You do not need any further Zilart progress to finish Rhapsodies. Rise of the Zilart will not block Rhapsodies progress, so you can continue Zilart without worry.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-zilart-headstone-pilgrimage-node-2",
+          "orderIndex": 1,
+          "title": "After completing The Temple of Uggalepih, Grav'iton tells you that you need to collect eight differe",
+          "description": "After completing The Temple of Uggalepih, Grav'iton tells you that you need to collect eight different fragments from across Vana'diel. The Dark Fragment was obtained from completion of the previous mission.",
+          "dependencies": [
+            "ffxiclopedia-zilart-headstone-pilgrimage-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-headstone-pilgrimage-node-3",
+          "orderIndex": 2,
+          "title": "To obtain one, examine a headstone and choose to remove the fragment.",
+          "description": "To obtain one, examine a headstone and choose to remove the fragment. Only one fight is required per party/alliance requiring the key item. It is a good idea to check your list of Temporary Key Items to ensure you have obtained the fragment.",
+          "dependencies": [
+            "ffxiclopedia-zilart-headstone-pilgrimage-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-headstone-pilgrimage-node-4",
+          "orderIndex": 3,
+          "title": "Upon obtaining your final fragment, the mission is complete and you receive the message, \"You now ha",
+          "description": "Upon obtaining your final fragment, the mission is complete and you receive the message, \"You now have all 8 fragments of light!\"",
+          "dependencies": [
+            "ffxiclopedia-zilart-headstone-pilgrimage-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-headstone-pilgrimage-node-5",
+          "orderIndex": 4,
+          "title": "See the Discussion page for Testimonials and Strategies.",
+          "description": "See the Discussion page for Testimonials and Strategies.",
+          "dependencies": [
+            "ffxiclopedia-zilart-headstone-pilgrimage-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-zilart-through-the-quicksand-caves",
+      "title": "Through the Quicksand Caves",
+      "number": "ZM6",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Through_the_Quicksand_Caves",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-zilart-through-the-quicksand-caves-node-1",
+          "orderIndex": 0,
+          "title": "Here are the quick ways to the battlefield.",
+          "description": "Here are the quick ways to the battlefield. The fastest way to reach the fight is via Home Point #1 of Quicksand Caves which warps you to the entrance of the Chamber of Oracles. Another fast option is having a friend with the HP access, ask him to teleport there and exit to Western Altepa Desert going to west. Then, you can use Nexus Cape and walk back to Chamber of Oracles. Lastly, if you got the Quicksand Caves Geomagnetic Fount during the quest Further Founts, the Waypoint puts you at (F-7), where you can drop down for a short run to the Chamber of Oracles. Skip to the next section for the fight.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-zilart-through-the-quicksand-caves-node-2",
+          "orderIndex": 1,
+          "title": "Otherwise, here is the long way.",
+          "description": "Otherwise, here is the long way. You will want to start on a Chocobo, because it is a very.... Very.. long way. Head to (C-11) of Western Altepa Desert. There's a small area on the map that leads into a tunnel (D-11) through to a hidden area. Head down the ramp to (D-12) into Quicksand Caves. You need some form of Sneak to avoid aggro from the Antica and Sabotenders in the caves. There is a Grounds Tome at the entrance where you can get Circumspection. Travel towards (I-9) and step on the circular pad to open door. This pad requires a total weight value of 3 to open or a Loadstone. Weight values are as follows: Galka = 3 weight units, Hume/Mithra/Elvaan = 2 units, Tarutaru = 1 weight unit. Possession of the key item Loadstone will also open weight-triggered doors in Quicksand Caves. Head west and step on the pad at (H-7) to open next door. Enter the next room and drop down the hole in the floor at (F-7). This drops you into a hidden area. Hug the left wall with Sneak up until you reach the Chamber of Oracles zone at (D-4).",
+          "dependencies": [
+            "ffxiclopedia-zilart-through-the-quicksand-caves-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-through-the-quicksand-caves-node-3",
+          "orderIndex": 2,
+          "title": "When ready, examine the Shimmering Circle to enter the fight.",
+          "description": "When ready, examine the Shimmering Circle to enter the fight.",
+          "dependencies": [
+            "ffxiclopedia-zilart-through-the-quicksand-caves-node-2"
+          ]
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-zilart-through-the-quicksand-caves-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-zilart-through-the-quicksand-caves-node-1",
+          "requirement": "Loadstone or minimum one Galka, three Tarutarus, or two of any other race combination.",
+          "description": "Loadstone or minimum one Galka, three Tarutarus, or two of any other race combination."
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-zilart-the-chamber-of-oracles",
+      "title": "The Chamber of Oracles",
+      "number": "ZM7",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Chamber_of_Oracles",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-zilart-the-chamber-of-oracles-node-1",
+          "orderIndex": 0,
+          "title": "After winning the battle for Through the Quicksand Caves, you are put in a room with a large device.",
+          "description": "After winning the battle for Through the Quicksand Caves, you are put in a room with a large device.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-chamber-of-oracles-node-2",
+          "orderIndex": 1,
+          "title": "Touch all 8 parts of this device to insert your shards from Headstone Pilgrimage.",
+          "description": "Touch all 8 parts of this device to insert your shards from Headstone Pilgrimage.",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-chamber-of-oracles-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-chamber-of-oracles-node-3",
+          "orderIndex": 2,
+          "title": "After all shards are inserted, you receive a cutscene.",
+          "description": "After all shards are inserted, you receive a cutscene. If the cutscene does not start, touch a pedestal again.",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-chamber-of-oracles-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-zilart-return-to-delkfutt-s-tower",
+      "title": "Return to Delkfutt's Tower",
+      "number": "ZM8",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Return_to_Delkfutt%27s_Tower",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-zilart-return-to-delkfutt-s-tower-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Return to Delkfutt's Tower",
+          "dependencies": []
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-zilart-return-to-delkfutt-s-tower-gate-1",
+          "type": "other",
+          "afterNodeId": null,
+          "requirement": "Zilart Rank 7",
+          "description": "Zilart Rank 7"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-zilart-ro-maeve-mission",
+      "title": "Ro'Maeve (Mission)",
+      "number": "ZM9",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Ro%27Maeve_(Mission)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-zilart-ro-maeve-mission-node-1",
+          "orderIndex": 0,
+          "title": "Optional: Talk to Aldo in the Tenshodo Headquarters inside the Neptune's Spire in Lower Jeuno (Home ",
+          "description": "Optional: Talk to Aldo in the Tenshodo Headquarters inside the Neptune's Spire in Lower Jeuno (Home Point #2) to find out the fate of Verena in a short cutscene.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-zilart-the-temple-of-desolation",
+      "title": "The Temple of Desolation",
+      "number": "ZM10",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Temple_of_Desolation",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-zilart-the-temple-of-desolation-node-1",
+          "orderIndex": 0,
+          "title": "Head to Ro'Maeve and zone into the Hall of the Gods at H-5.",
+          "description": "Head to Ro'Maeve and zone into the Hall of the Gods at H-5. You can now ride Mounts in Ro'Maeve avoiding aggro entirely. You will need sneak for everything, but be careful as there is sometimes a golem or bomb near the entrance to Hall of the Gods. Everything in Ro'Maeve aggros to magic, so Silent Oils/Prism Powders, Ninjutsu or Spectral Jig is recommended.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-temple-of-desolation-node-2",
+          "orderIndex": 1,
+          "title": "Observe the gate at the other end of Hall of the Gods and your mission log will update.",
+          "description": "Observe the gate at the other end of Hall of the Gods and your mission log will update.",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-temple-of-desolation-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-zilart-the-hall-of-the-gods",
+      "title": "The Hall of the Gods",
+      "number": "ZM11",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Hall_of_the_Gods",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-zilart-the-hall-of-the-gods-node-1",
+          "orderIndex": 0,
+          "title": "Since you cannot seem to go any further in the Hall of the Gods, go back to Norg and talk to Gilgame",
+          "description": "Since you cannot seem to go any further in the Hall of the Gods, go back to Norg and talk to Gilgamesh (behind the oaken door at K-8). He will tell you to find a \"Mithra named Mary or Maroo or somethin' like that,\" who is actually Maryoh Comyujah, Rabao (G-7), who was trying to sell a crystal once.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-zilart-the-mithra-and-the-crystal",
+      "title": "The Mithra and the Crystal",
+      "number": "ZM12",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Mithra_and_the_Crystal",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-zilart-the-mithra-and-the-crystal-node-1",
+          "orderIndex": 0,
+          "title": "Go to Rabao (Home Point #2) and talk to Maryoh Comyujah, who's standing in front of the windmill at ",
+          "description": "Go to Rabao (Home Point #2) and talk to Maryoh Comyujah, who's standing in front of the windmill at G-7. She will ask you to do something for her.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-mithra-and-the-crystal-node-2",
+          "orderIndex": 1,
+          "title": "Travel to D-12 in Western Altepa Desert and head into Quicksand Caves (4).",
+          "description": "Travel to D-12 in Western Altepa Desert and head into Quicksand Caves (4).",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-mithra-and-the-crystal-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-mithra-and-the-crystal-node-3",
+          "orderIndex": 2,
+          "title": "There are a few options to navigate through Quicksand Caves, with your objective to reach I-8 in Qui",
+          "description": "There are a few options to navigate through Quicksand Caves, with your objective to reach I-8 in Quicksand Caves map 7. To get there, you will pass through map 4. The fastest way to reach K-8 is via Proto-Waypoint to Quicksand Caves if you registered it during the quest Further Founts. Otherwise, warp to Quicksand Caves Home Point #1, navigate through the hidden parts of the map to H-4, then zone out to Western Altepa. After exiting Quicksand Caves, drop from the ledge and climb out of the pit that you are currently in, up to the ground level of the desert. This saves the time spent running to D-12 from Rabao. Head to an unmapped pathway at the canyon walls in Western Altepa Desert at the SW corner of D-11, which will lead you to an open area with an entrance to Quicksand Caves. The entrance is located in the trench at D-12. Head to K-8 and stand on the pressure plate to open the door to the east. Exit through D on the map, which is on L-8. The weight sensor requires 1 Galka, 3 Tarutaru, or 2 of any other combination to trigger. Alternatively, any single character with a Loadstone can enter. On the next map, go through the weight sensor door at G-8. Walk through the door and fall down into the pit at I-8. Touch the ??? on a pillar right where you landed at I-8 and select Yes to spawn the Ancient Vessel (See testimonials for further notes.) Once the Ancient Vessel is killed, inspect the ??? again to dig out the Scrap of Papyrus. If you zone after killing the Ancient Vessel without obtaining the Scrap of Papyrus, you must redo the fight to obtain the Scrap of Papyrus. If someone has recently completed this, or you fail and come right back, you may get a \"You sense faint traces of magic force\" error. There will be a delay before you can fight it again.",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-mithra-and-the-crystal-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-zilart-the-gate-of-the-gods",
+      "title": "The Gate of the Gods",
+      "number": "ZM13",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Gate_of_the_Gods",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-zilart-the-gate-of-the-gods-node-1",
+          "orderIndex": 0,
+          "title": "Follow the path to Tu'Lia.",
+          "description": "Follow the path to Tu'Lia.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-zilart-the-sealed-shrine",
+      "title": "The Sealed Shrine",
+      "number": "ZM15",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Sealed_Shrine",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-zilart-the-sealed-shrine-node-1",
+          "orderIndex": 0,
+          "title": "Note: After completing the Quest Divine Might, if you have not received your rare/ex earring, enter ",
+          "description": "Note: After completing the Quest Divine Might, if you have not received your rare/ex earring, enter Shrine of Ru'Avitau from H-8/9 in Ru'Aun Gardens.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-sealed-shrine-node-2",
+          "orderIndex": 1,
+          "title": "After completing ZM14 Ark Angels, go to Norg (Home Point #1) and talk to Gilgamesh (L-8).",
+          "description": "After completing ZM14 Ark Angels, go to Norg (Home Point #1) and talk to Gilgamesh (L-8).",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-sealed-shrine-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-sealed-shrine-node-3",
+          "orderIndex": 2,
+          "title": "Optional: Then go to Lower Jeuno (Home Point #2) and talk to Aldo in Tenshodo HQ J-8 for a cutscene.",
+          "description": "Optional: Then go to Lower Jeuno (Home Point #2) and talk to Aldo in Tenshodo HQ J-8 for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-sealed-shrine-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-sealed-shrine-node-4",
+          "orderIndex": 3,
+          "title": "Go back to Ru'Aun Gardens.",
+          "description": "Go back to Ru'Aun Gardens.",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-sealed-shrine-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-sealed-shrine-node-5",
+          "orderIndex": 4,
+          "title": "Enter Shrine of Ru'Avitau again for a cutscene.",
+          "description": "Enter Shrine of Ru'Avitau again for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-sealed-shrine-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-zilart-the-celestial-nexus",
+      "title": "The Celestial Nexus",
+      "number": "ZM16",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Celestial_Nexus",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-zilart-the-celestial-nexus-node-1",
+          "orderIndex": 0,
+          "title": "GOAL: Find your way to H-9 in The Shrine of Ru'Avitau Map #2 (Marked \"q\"), descend downstairs, and e",
+          "description": "GOAL: Find your way to H-9 in The Shrine of Ru'Avitau Map #2 (Marked \"q\"), descend downstairs, and enter The Celestial Nexus. NOTE: The Yellow Doors will need to be opened.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-celestial-nexus-node-2",
+          "orderIndex": 1,
+          "title": "Route to The Celestial Nexus below:.",
+          "description": "Route to The Celestial Nexus below:",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-celestial-nexus-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-celestial-nexus-node-3",
+          "orderIndex": 2,
+          "title": "Head to I-6 in Ru'Aun Gardens (near Genbu's island); home point #1 is the quickest way there.",
+          "description": "Head to I-6 in Ru'Aun Gardens (near Genbu's island); home point #1 is the quickest way there. Enter the Shrine of Ru'Avitau Map 2.",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-celestial-nexus-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-celestial-nexus-node-4",
+          "orderIndex": 3,
+          "title": "Sneak up here.",
+          "description": "Sneak up here.",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-celestial-nexus-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-celestial-nexus-node-5",
+          "orderIndex": 4,
+          "title": "Head south and follow the path to J-7 past the first yellow door.",
+          "description": "Head south and follow the path to J-7 past the first yellow door. It is highly possible the door will be closed. If so, you will need someone to open it beforehand (February 2025, you can activate it by yourself en run all the way to The Celestial Nexus, no need to bring someon to help). The simplest yellow Monolith to reach to open this yellow door is at H-10 of map 2 of the Shrine of Ru'Avitau, accessed from the \"main\" entrance from Ru'Aun Gardens (straight north from entrance from Hall of the Gods).",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-celestial-nexus-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-celestial-nexus-node-6",
+          "orderIndex": 5,
+          "title": "Then head west past the second yellow door to the control room with 2 Monoliths at H-7.",
+          "description": "Then head west past the second yellow door to the control room with 2 Monoliths at H-7.",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-celestial-nexus-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-celestial-nexus-node-7",
+          "orderIndex": 6,
+          "title": "Use Silent Oils and head south to a room with 2 Dark Elementals.",
+          "description": "Use Silent Oils and head south to a room with 2 Dark Elementals.",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-celestial-nexus-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-celestial-nexus-node-8",
+          "orderIndex": 7,
+          "title": "You no longer need Sneak from here.",
+          "description": "You no longer need Sneak from here. But you will need Invisible for the Golems (Aura Statues) all the rest of the way.",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-celestial-nexus-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-celestial-nexus-node-9",
+          "orderIndex": 8,
+          "title": "Head either east or west and follow the corridor till you come to another room with 2 Dark Elemental",
+          "description": "Head either east or west and follow the corridor till you come to another room with 2 Dark Elementals at H-10.",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-celestial-nexus-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-celestial-nexus-node-10",
+          "orderIndex": 9,
+          "title": "Head north and then down the stairs to the Celestial Nexus at H-9.",
+          "description": "Head north and then down the stairs to the Celestial Nexus at H-9. There are 4 total gates in the Celestial Nexus, all with the same name, Celestial Gate, one after another. The fourth gate is the final one and leads into the BC. Do not open this (the fourth gate with the sirens in the room) until you are ready to begin the BC. There is no actual Burning Circle to stand on to enter.",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-celestial-nexus-node-9"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-celestial-nexus-node-11",
+          "orderIndex": 10,
+          "title": "Group up with your party if you have not already and enter the battlefield.",
+          "description": "Group up with your party if you have not already and enter the battlefield. Once you enter, you cannot flee from the battle. If you do need to leave, just die. After being kicked from the BC, you will reappear at the entrance of the Celestial Nexus. If you wipe, you will not go to Hall of the Gods. Buffs WILL wear off upon entry.",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-celestial-nexus-node-10"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-zilart-the-celestial-nexus-node-12",
+          "orderIndex": 11,
+          "title": "Watch the final cutscene and prepare to battle Eald'narche, who has two forms.",
+          "description": "Watch the final cutscene and prepare to battle Eald'narche, who has two forms.",
+          "dependencies": [
+            "ffxiclopedia-zilart-the-celestial-nexus-node-11"
+          ]
+        }
+      ],
+      "gates": []
+    }
+  ]
+}

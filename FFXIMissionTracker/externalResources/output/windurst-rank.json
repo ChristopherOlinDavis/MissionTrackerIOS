@@ -1,0 +1,881 @@
+{
+  "id": "windurst-rank",
+  "name": "Windurst Rank Missions",
+  "category": "nation",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Windurst_Missions",
+  "lastScraped": "2025-12-29T17:46:07.646Z",
+  "missions": [
+    {
+      "id": "windurst-rank-the-final-seal",
+      "title": "The Final Seal",
+      "number": "5-1",
+      "nodes": [
+        {
+          "id": "windurst-rank-the-final-seal-node-1",
+          "orderIndex": 0,
+          "title": "Note on Tracking: Initially, this mission will not appear in any mission tracking dialog",
+          "description": "Note on Tracking: Initially, this mission will not appear in any mission tracking dialog. Talking to gate guards will disallow you to take any mission, nor will they give you any information about what you are currently doing for a nation mission.",
+          "dependencies": [],
+          "location": {
+            "zone": "any mission tracking dialog",
+            "npc": "NPCs"
+          }
+        },
+        {
+          "id": "windurst-rank-the-final-seal-node-2",
+          "orderIndex": 1,
+          "title": "Note: Players from different nations currently on Mission 5-1 can join in the battlefield, as it is the same for all 3 nations",
+          "description": "Note: Players from different nations currently on Mission 5-1 can join in the battlefield, as it is the same for all 3 nations.",
+          "dependencies": [
+            "windurst-rank-the-final-seal-node-1"
+          ],
+          "location": {
+            "zone": "in the battlefield"
+          }
+        },
+        {
+          "id": "windurst-rank-the-final-seal-node-3",
+          "orderIndex": 2,
+          "title": "Proceed to Heavens Tower in Windurst Walls and up the stairs to the Star Sibyl's \"Vestal Chamber\" on the highest floor",
+          "description": "Proceed to Heavens Tower in Windurst Walls and up the stairs to the Star Sibyl's \"Vestal Chamber\" on the highest floor. There she will issue you your mission as well as give you the New Fei'Yin Seal.",
+          "dependencies": [
+            "windurst-rank-the-final-seal-node-2"
+          ],
+          "location": {
+            "zone": "Seal"
+          }
+        },
+        {
+          "id": "windurst-rank-the-final-seal-node-4",
+          "orderIndex": 3,
+          "title": "Enter Fei'Yin for a cut-scene and proceed to Qu'Bia Arena.",
+          "description": "Enter Fei'Yin for a cut-scene and proceed to Qu'Bia Arena..",
+          "dependencies": [
+            "windurst-rank-the-final-seal-node-3"
+          ],
+          "location": {
+            "zone": "for a cut-scene and proceed to Qu'Bia Arena"
+          }
+        },
+        {
+          "id": "windurst-rank-the-final-seal-node-5",
+          "orderIndex": 4,
+          "title": "Enter the Burning Circle",
+          "description": "Enter the Burning Circle. The boss is a skeleton named Archlich Taber'quoan, assisted by several minions.",
+          "dependencies": [
+            "windurst-rank-the-final-seal-node-4"
+          ]
+        }
+      ],
+      "metadata": {
+        "category": "nation",
+        "missionSet": "windurst-rank",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "windurst-rank-full-moon-fountain-mission",
+      "title": "Full Moon Fountain (Mission)",
+      "number": "6-1",
+      "nodes": [
+        {
+          "id": "windurst-rank-full-moon-fountain-mission-node-1",
+          "orderIndex": 0,
+          "title": "WARNING: If you have not gotten Trust: Ajido-Marujido yet, get him before you start this mission",
+          "description": "WARNING: If you have not gotten Trust: Ajido-Marujido yet, get him before you start this mission. If you start without him, you will not be able to get him until rank 10.",
+          "dependencies": [],
+          "location": {
+            "zone": "get him until rank 10"
+          }
+        },
+        {
+          "id": "windurst-rank-full-moon-fountain-mission-node-2",
+          "orderIndex": 1,
+          "title": "Go to any Windurst Gate Guard to start the mission.",
+          "description": "Go to any Windurst Gate Guard to start the mission..",
+          "dependencies": [
+            "windurst-rank-full-moon-fountain-mission-node-1"
+          ],
+          "location": {
+            "zone": "any Windurst Gate Guard to start the mission"
+          }
+        },
+        {
+          "id": "windurst-rank-full-moon-fountain-mission-node-3",
+          "orderIndex": 2,
+          "title": "Once you accept the mission you are told to go to the Orastery in Port Windurst right away.",
+          "description": "Once you accept the mission you are told to go to the Orastery in Port Windurst right away..",
+          "dependencies": [
+            "windurst-rank-full-moon-fountain-mission-node-2"
+          ],
+          "location": {
+            "zone": "go to the Orastery in Port Windurst right away"
+          }
+        },
+        {
+          "id": "windurst-rank-full-moon-fountain-mission-node-4",
+          "orderIndex": 3,
+          "title": "When you arrive at the Orastery, talk to Hakkuru-Rinkuru for a cutscene with Ajido-Marujido who tells you to go to the southwestern tower in West...",
+          "description": "When you arrive at the Orastery, talk to Hakkuru-Rinkuru for a cutscene with Ajido-Marujido who tells you to go to the southwestern tower in West Sarutabaruta, and to press the switch in the laboratory to activate the magic towers.",
+          "dependencies": [
+            "windurst-rank-full-moon-fountain-mission-node-3"
+          ],
+          "location": {
+            "zone": "Hakkuru-Rinkuru for a cutscene with Ajido-Marujido who tells you to go to the southwestern tower in West Sarutabaruta",
+            "npc": "Hakkuru-Rinkuru for a cutscene with Ajido-Marujido who tells you to go to the southwestern tower"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "nation",
+        "missionSet": "windurst-rank",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "windurst-rank-the-heart-of-the-matter",
+      "title": "The Heart of the Matter",
+      "number": "1-2",
+      "nodes": [
+        {
+          "id": "windurst-rank-the-heart-of-the-matter-node-1",
+          "orderIndex": 0,
+          "title": "Accept the mission from any Windurst Gate Guard.",
+          "description": "Accept the mission from any Windurst Gate Guard..",
+          "dependencies": []
+        },
+        {
+          "id": "windurst-rank-the-heart-of-the-matter-node-2",
+          "orderIndex": 1,
+          "title": "{Windurst Woods H-9} Manustery",
+          "description": "{Windurst Woods H-9} Manustery.",
+          "dependencies": [
+            "windurst-rank-the-heart-of-the-matter-node-1"
+          ]
+        },
+        {
+          "id": "windurst-rank-the-heart-of-the-matter-node-3",
+          "orderIndex": 2,
+          "title": "{East Sarutabaruta J-11} Marguerite Tower (#4)",
+          "description": "{East Sarutabaruta J-11} Marguerite Tower (#4).",
+          "dependencies": [
+            "windurst-rank-the-heart-of-the-matter-node-2"
+          ]
+        }
+      ],
+      "metadata": {
+        "category": "nation",
+        "missionSet": "windurst-rank",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "windurst-rank-the-horutoto-ruins-experiment",
+      "title": "The Horutoto Ruins Experiment",
+      "number": "1-1",
+      "nodes": [
+        {
+          "id": "windurst-rank-the-horutoto-ruins-experiment-node-1",
+          "orderIndex": 0,
+          "title": "Talk to any Windurst Gate Guard and accept the misson.",
+          "description": "Talk to any Windurst Gate Guard and accept the misson..",
+          "dependencies": [],
+          "location": {
+            "zone": "any Windurst Gate Guard and accept the misson"
+          }
+        },
+        {
+          "id": "windurst-rank-the-horutoto-ruins-experiment-node-2",
+          "orderIndex": 1,
+          "title": "{Port Windurst E-7}",
+          "description": "{Port Windurst E-7}.",
+          "dependencies": [
+            "windurst-rank-the-horutoto-ruins-experiment-node-1"
+          ]
+        },
+        {
+          "id": "windurst-rank-the-horutoto-ruins-experiment-node-3",
+          "orderIndex": 2,
+          "title": "{East Sarutabaruta J-7}",
+          "description": "{East Sarutabaruta J-7}.",
+          "dependencies": [
+            "windurst-rank-the-horutoto-ruins-experiment-node-2"
+          ]
+        },
+        {
+          "id": "windurst-rank-the-horutoto-ruins-experiment-node-4",
+          "orderIndex": 3,
+          "title": "{Inner Horutoto Ruins Lily Tower I-10} Map#1 - Click Gate (cs) -> Click Ancient GIzmos until get Cracked Mana Orb.",
+          "description": "{Inner Horutoto Ruins Lily Tower I-10} Map#1 - Click Gate (cs) -> Click Ancient GIzmos until get Cracked Mana Orb..",
+          "dependencies": [
+            "windurst-rank-the-horutoto-ruins-experiment-node-3"
+          ]
+        },
+        {
+          "id": "windurst-rank-the-horutoto-ruins-experiment-node-5",
+          "orderIndex": 4,
+          "title": "{Port Windurst E-7}",
+          "description": "{Port Windurst E-7}.",
+          "dependencies": [
+            "windurst-rank-the-horutoto-ruins-experiment-node-4"
+          ]
+        }
+      ],
+      "metadata": {
+        "category": "nation",
+        "missionSet": "windurst-rank",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "windurst-rank-lost-for-words",
+      "title": "Lost for Words",
+      "number": "2-1",
+      "nodes": [
+        {
+          "id": "windurst-rank-lost-for-words-node-1",
+          "orderIndex": 0,
+          "title": "Accept the mission from any Windurst Gate Guard.",
+          "description": "Accept the mission from any Windurst Gate Guard..",
+          "dependencies": []
+        },
+        {
+          "id": "windurst-rank-lost-for-words-node-2",
+          "orderIndex": 1,
+          "title": "(Windurst Waters) Talk to Tosuka-Porika in the Optistery at Windurst Waters, North (G-8) (Home Point #1)",
+          "description": "(Windurst Waters) Talk to Tosuka-Porika in the Optistery at Windurst Waters, North (G-8) (Home Point #1).",
+          "dependencies": [
+            "windurst-rank-lost-for-words-node-1"
+          ],
+          "location": {
+            "coordinates": "G-8",
+            "zone": "Windurst Waters"
+          }
+        },
+        {
+          "id": "windurst-rank-lost-for-words-node-3",
+          "orderIndex": 2,
+          "title": "(Windurst Woods) Talk to Nanaa Mihgo at the very north of Windurst Woods (J-3) and obtain the Key Item: Lapis Monocle.",
+          "description": "(Windurst Woods) Talk to Nanaa Mihgo at the very north of Windurst Woods (J-3) and obtain the Key Item: Lapis Monocle..",
+          "dependencies": [
+            "windurst-rank-lost-for-words-node-2"
+          ],
+          "location": {
+            "coordinates": "J-3",
+            "zone": "Windurst Woods"
+          }
+        },
+        {
+          "id": "windurst-rank-lost-for-words-node-4",
+          "orderIndex": 3,
+          "title": "Head to Maze of Shakhrami.",
+          "description": "Head to Maze of Shakhrami..",
+          "dependencies": [
+            "windurst-rank-lost-for-words-node-3"
+          ],
+          "location": {
+            "zone": "Maze of Shakhrami"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "nation",
+        "missionSet": "windurst-rank",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "windurst-rank-magicite-windurst",
+      "title": "Magicite (Windurst)",
+      "number": "4-1",
+      "nodes": [
+        {
+          "id": "windurst-rank-magicite-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Unlike most missions, this mission is not offered by a Gate Guard.",
+          "description": "Unlike most missions, this mission is not offered by a Gate Guard..",
+          "dependencies": []
+        },
+        {
+          "id": "windurst-rank-magicite-windurst-node-2",
+          "orderIndex": 1,
+          "title": "This mission requires a certain level of Rank Bar",
+          "description": "This mission requires a certain level of Rank Bar. Complete 2 or 3 repeatable missions or trade 4 crystals to a Conquest Overseer.",
+          "dependencies": [
+            "windurst-rank-magicite-windurst-node-1"
+          ],
+          "location": {
+            "zone": "level of Rank Bar"
+          }
+        },
+        {
+          "id": "windurst-rank-magicite-windurst-node-3",
+          "orderIndex": 2,
+          "title": "Talk to your embassy's receptionist in Ru'Lude Gardens to begin the mission.",
+          "description": "Talk to your embassy's receptionist in Ru'Lude Gardens to begin the mission..",
+          "dependencies": [
+            "windurst-rank-magicite-windurst-node-2"
+          ],
+          "location": {
+            "zone": "your embassy's receptionist in Ru'Lude Gardens to begin the mission"
+          }
+        },
+        {
+          "id": "windurst-rank-magicite-windurst-node-4",
+          "orderIndex": 3,
+          "title": "Check your ambassador's office door",
+          "description": "Check your ambassador's office door. You will receive the Archducal audience permit.",
+          "dependencies": [
+            "windurst-rank-magicite-windurst-node-3"
+          ]
+        },
+        {
+          "id": "windurst-rank-magicite-windurst-node-5",
+          "orderIndex": 4,
+          "title": "Check the Audience Chamber (H-6)",
+          "description": "Check the Audience Chamber (H-6). You will receive the Letter to Aldo.",
+          "dependencies": [
+            "windurst-rank-magicite-windurst-node-4"
+          ],
+          "location": {
+            "coordinates": "H-6",
+            "zone": "Aldo"
+          }
+        },
+        {
+          "id": "windurst-rank-magicite-windurst-node-6",
+          "orderIndex": 5,
+          "title": "Talk to Aldo (J-8) in Lower Jeuno, inside Neptune's Spire Inn",
+          "description": "Talk to Aldo (J-8) in Lower Jeuno, inside Neptune's Spire Inn. You will receive a Silver bell.",
+          "dependencies": [
+            "windurst-rank-magicite-windurst-node-5"
+          ],
+          "location": {
+            "coordinates": "J-8",
+            "zone": "Aldo"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "nation",
+        "missionSet": "windurst-rank",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "windurst-rank-moon-reading",
+      "title": "Moon Reading",
+      "number": "9-2",
+      "nodes": [
+        {
+          "id": "windurst-rank-moon-reading-node-1",
+          "orderIndex": 0,
+          "title": "You need at least 90% of your Rank Points bar filled to receive this mission",
+          "description": "You need at least 90% of your Rank Points bar filled to receive this mission. Trading in 9 regular crystals or 4 light/dark crystals unlocks this mission.",
+          "dependencies": [],
+          "location": {
+            "zone": "receive this mission"
+          }
+        },
+        {
+          "id": "windurst-rank-moon-reading-node-2",
+          "orderIndex": 1,
+          "title": "Get the mission from the gate guard.",
+          "description": "Get the mission from the gate guard..",
+          "dependencies": [
+            "windurst-rank-moon-reading-node-1"
+          ]
+        },
+        {
+          "id": "windurst-rank-moon-reading-node-3",
+          "orderIndex": 2,
+          "title": "Go to the Star Sibyl's chamber in Heavens Tower for a cutscene, via 'Door: Vestal Chamber' on the top floor.",
+          "description": "Go to the Star Sibyl's chamber in Heavens Tower for a cutscene, via 'Door: Vestal Chamber' on the top floor..",
+          "dependencies": [
+            "windurst-rank-moon-reading-node-2"
+          ],
+          "location": {
+            "zone": "the Star Sibyl's chamber in Heavens Tower for a cutscene"
+          }
+        },
+        {
+          "id": "windurst-rank-moon-reading-node-4",
+          "orderIndex": 3,
+          "title": "Collect 3 song verses from Ro'Maeve, Chamber of Oracles and Temple of Uggalepih in any order.",
+          "description": "Collect 3 song verses from Ro'Maeve, Chamber of Oracles and Temple of Uggalepih in any order..",
+          "dependencies": [
+            "windurst-rank-moon-reading-node-3"
+          ],
+          "location": {
+            "zone": "any order"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "nation",
+        "missionSet": "windurst-rank",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "windurst-rank-the-price-of-peace",
+      "title": "The Price of Peace",
+      "number": "1-3",
+      "nodes": [
+        {
+          "id": "windurst-rank-the-price-of-peace-node-1",
+          "orderIndex": 0,
+          "title": "Accept the mission from any Windurst gate guard.",
+          "description": "Accept the mission from any Windurst gate guard..",
+          "dependencies": []
+        },
+        {
+          "id": "windurst-rank-the-price-of-peace-node-2",
+          "orderIndex": 1,
+          "title": "{Windurst Waters J-9} Rhinostery - In the southern portion the zone (Home Point #3), talk to Leepe-Hoppe on the roof.",
+          "description": "{Windurst Waters J-9} Rhinostery - In the southern portion the zone (Home Point #3), talk to Leepe-Hoppe on the roof..",
+          "dependencies": [
+            "windurst-rank-the-price-of-peace-node-1"
+          ],
+          "location": {
+            "zone": "the southern portion the zone"
+          }
+        },
+        {
+          "id": "windurst-rank-the-price-of-peace-node-3",
+          "orderIndex": 2,
+          "title": "{West Sarutabaruta F-8} Enter Giddeus.",
+          "description": "{West Sarutabaruta F-8} Enter Giddeus..",
+          "dependencies": [
+            "windurst-rank-the-price-of-peace-node-2"
+          ]
+        }
+      ],
+      "metadata": {
+        "category": "nation",
+        "missionSet": "windurst-rank",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "windurst-rank-saintly-invitation",
+      "title": "Saintly Invitation",
+      "number": "6-2",
+      "nodes": [
+        {
+          "id": "windurst-rank-saintly-invitation-node-1",
+          "orderIndex": 0,
+          "title": "Trading 4 elemental crystals or 2 light/dark crystals will unlock this mission.",
+          "description": "Trading 4 elemental crystals or 2 light/dark crystals will unlock this mission..",
+          "dependencies": []
+        },
+        {
+          "id": "windurst-rank-saintly-invitation-node-2",
+          "orderIndex": 1,
+          "title": "After accepting the mission, talk to Star Sibyl by interacting with the Vestal Chamber door at the very top of Heavens Tower who will give you the...",
+          "description": "After accepting the mission, talk to Star Sibyl by interacting with the Vestal Chamber door at the very top of Heavens Tower who will give you the key item Holy One's Invitation and the title: \"Hero on Behalf of Windurst.\".",
+          "dependencies": [
+            "windurst-rank-saintly-invitation-node-1"
+          ],
+          "location": {
+            "zone": "Star Sibyl by interacting with the Vestal Chamber door at the very top of Heavens Tower who will give you the key item Holy One's Invitation and the title",
+            "npc": "Star Sibyl by"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "nation",
+        "missionSet": "windurst-rank",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "windurst-rank-the-shadow-awaits",
+      "title": "The Shadow Awaits",
+      "number": "5-2",
+      "nodes": [
+        {
+          "id": "windurst-rank-the-shadow-awaits-node-1",
+          "orderIndex": 0,
+          "title": "Trading in 3 crystals will unlock this mission.",
+          "description": "Trading in 3 crystals will unlock this mission..",
+          "dependencies": [],
+          "location": {
+            "zone": "3 crystals will unlock this mission"
+          }
+        },
+        {
+          "id": "windurst-rank-the-shadow-awaits-node-2",
+          "orderIndex": 1,
+          "title": "After accepting this mission, you will receive a Star Crested Summons",
+          "description": "After accepting this mission, you will receive a Star Crested Summons. Return to Star Sibyl in Heavens Tower in Windurst Walls for a cutscene.",
+          "dependencies": [
+            "windurst-rank-the-shadow-awaits-node-1"
+          ],
+          "location": {
+            "zone": "Star Sibyl in Heavens Tower in Windurst Walls for a cutscene"
+          }
+        },
+        {
+          "id": "windurst-rank-the-shadow-awaits-node-3",
+          "orderIndex": 2,
+          "title": "A full party of level 50+ players is recommended for the fight that will take place at the Castle Zvahl Baileys in Xarcabard.",
+          "description": "A full party of level 50+ players is recommended for the fight that will take place at the Castle Zvahl Baileys in Xarcabard..",
+          "dependencies": [
+            "windurst-rank-the-shadow-awaits-node-2"
+          ],
+          "location": {
+            "zone": "Xarcabard"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "nation",
+        "missionSet": "windurst-rank",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "windurst-rank-the-sixth-ministry",
+      "title": "The Sixth Ministry",
+      "number": "7-1",
+      "nodes": [
+        {
+          "id": "windurst-rank-the-sixth-ministry-node-1",
+          "orderIndex": 0,
+          "title": "Trade 4 elemental crystals or 2 light/dark crystals to unlock this mission.",
+          "description": "Trade 4 elemental crystals or 2 light/dark crystals to unlock this mission..",
+          "dependencies": [],
+          "location": {
+            "zone": "unlock this mission"
+          }
+        },
+        {
+          "id": "windurst-rank-the-sixth-ministry-node-2",
+          "orderIndex": 1,
+          "title": "After accepting the mission from a Gate Guard, speak to Tosuka-Porika at the Optistery in Northern Windurst Waters (G-8) for a cutscene",
+          "description": "After accepting the mission from a Gate Guard, speak to Tosuka-Porika at the Optistery in Northern Windurst Waters (G-8) for a cutscene.",
+          "dependencies": [
+            "windurst-rank-the-sixth-ministry-node-1"
+          ],
+          "location": {
+            "coordinates": "G-8",
+            "zone": "Tosuka-Porika at the Optistery in Northern Windurst Waters",
+            "npc": "Tosuka-Porika"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "nation",
+        "missionSet": "windurst-rank",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "windurst-rank-the-three-kingdoms",
+      "title": "The Three Kingdoms",
+      "number": "2-3",
+      "nodes": [
+        {
+          "id": "windurst-rank-the-three-kingdoms-node-1",
+          "orderIndex": 0,
+          "title": "As soon as you accept this mission, the gate guard will tell you to go to Heavens Tower (H-6/H-7 by Windurst Walls Home Point #1",
+          "description": "As soon as you accept this mission, the gate guard will tell you to go to Heavens Tower (H-6/H-7 by Windurst Walls Home Point #1.",
+          "dependencies": [],
+          "location": {
+            "zone": "go to Heavens Tower"
+          }
+        },
+        {
+          "id": "windurst-rank-the-three-kingdoms-node-2",
+          "orderIndex": 1,
+          "title": "Go inside the Door: Clerical Chamber and talk to Kupipi behind the counter",
+          "description": "Go inside the Door: Clerical Chamber and talk to Kupipi behind the counter. She will hand you the Letter to the Consuls which you are to take to the consuls in the other two nations.",
+          "dependencies": [
+            "windurst-rank-the-three-kingdoms-node-1"
+          ],
+          "location": {
+            "zone": "Kupipi behind the counter"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "nation",
+        "missionSet": "windurst-rank",
+        "minLevel": 25,
+        "difficulty": "easy"
+      }
+    },
+    {
+      "id": "windurst-rank-to-each-his-own-right",
+      "title": "To Each His Own Right",
+      "number": "3-1",
+      "nodes": [
+        {
+          "id": "windurst-rank-to-each-his-own-right-node-1",
+          "orderIndex": 0,
+          "title": "Trading 1 crystal to a Conquest Overseer will increase your Rank Bar enough to unlock this mission",
+          "description": "Trading 1 crystal to a Conquest Overseer will increase your Rank Bar enough to unlock this mission. Alternatively, complete A Testing Time twice.",
+          "dependencies": []
+        },
+        {
+          "id": "windurst-rank-to-each-his-own-right-node-2",
+          "orderIndex": 1,
+          "title": "After accepting the mission from a Windurst Gate Guard, go to Heavens Tower in Windurst Walls and speak with Kupipi, who will give you the Key Item...",
+          "description": "After accepting the mission from a Windurst Gate Guard, go to Heavens Tower in Windurst Walls and speak with Kupipi, who will give you the Key Item Starway Stairway Bauble..",
+          "dependencies": [
+            "windurst-rank-to-each-his-own-right-node-1"
+          ],
+          "location": {
+            "npc": "Kupipi"
+          }
+        },
+        {
+          "id": "windurst-rank-to-each-his-own-right-node-3",
+          "orderIndex": 2,
+          "title": "Go through the glowing doorway to the left in the same room, which will lead you up the Starway Stairway.",
+          "description": "Go through the glowing doorway to the left in the same room, which will lead you up the Starway Stairway..",
+          "dependencies": [
+            "windurst-rank-to-each-his-own-right-node-2"
+          ],
+          "location": {
+            "zone": "the left in the same room"
+          }
+        },
+        {
+          "id": "windurst-rank-to-each-his-own-right-node-4",
+          "orderIndex": 3,
+          "title": "Speak to Rhy Epocan on the highest floor for a cutscene.",
+          "description": "Speak to Rhy Epocan on the highest floor for a cutscene..",
+          "dependencies": [
+            "windurst-rank-to-each-his-own-right-node-3"
+          ],
+          "location": {
+            "zone": "Rhy Epocan on the highest floor for a cutscene"
+          }
+        },
+        {
+          "id": "windurst-rank-to-each-his-own-right-node-5",
+          "orderIndex": 4,
+          "title": "Talk to Hakkuru-Rinkuru in Port Windurst (Home Point #1) in the Orastery (E-7)",
+          "description": "Talk to Hakkuru-Rinkuru in Port Windurst (Home Point #1) in the Orastery (E-7). He will mention that the minister has gone to Castle Oztroja.",
+          "dependencies": [
+            "windurst-rank-to-each-his-own-right-node-4"
+          ],
+          "location": {
+            "coordinates": "E-7",
+            "zone": "Hakkuru-Rinkuru in Port Windurst"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "nation",
+        "missionSet": "windurst-rank",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "windurst-rank-vain",
+      "title": "Vain",
+      "number": "8-1",
+      "nodes": [
+        {
+          "id": "windurst-rank-vain-node-1",
+          "orderIndex": 0,
+          "title": "Talk to any of the gate guards to activate this mission after filling the rank bar up approximately 30%",
+          "description": "Talk to any of the gate guards to activate this mission after filling the rank bar up approximately 30%. Trading 6 regular crystals or 3 light or dark crystals will enable you to flag the mission.",
+          "dependencies": [],
+          "location": {
+            "zone": "flag the mission"
+          }
+        },
+        {
+          "id": "windurst-rank-vain-node-2",
+          "orderIndex": 1,
+          "title": "Once accepted, go to the Aurastery in Northern Windurst Waters and speak to Moreno-Toeno at (L-6) for a cutscene and the key item Star Seeker.",
+          "description": "Once accepted, go to the Aurastery in Northern Windurst Waters and speak to Moreno-Toeno at (L-6) for a cutscene and the key item Star Seeker..",
+          "dependencies": [
+            "windurst-rank-vain-node-1"
+          ],
+          "location": {
+            "coordinates": "L-6",
+            "npc": "Moreno-Toeno"
+          }
+        },
+        {
+          "id": "windurst-rank-vain-node-3",
+          "orderIndex": 2,
+          "title": "Travel to Ro'Maeve and examine the Qu'Hau Spring at H-6 for a cutscene.",
+          "description": "Travel to Ro'Maeve and examine the Qu'Hau Spring at H-6 for a cutscene..",
+          "dependencies": [
+            "windurst-rank-vain-node-2"
+          ],
+          "location": {
+            "zone": "Ro'Maeve and examine the Qu'Hau Spring at H-6 for a cutscene"
+          }
+        },
+        {
+          "id": "windurst-rank-vain-node-4",
+          "orderIndex": 3,
+          "title": "Travel to Davoi and head through the H-11 entrance to the Monastic Cavern.",
+          "description": "Travel to Davoi and head through the H-11 entrance to the Monastic Cavern..",
+          "dependencies": [
+            "windurst-rank-vain-node-3"
+          ],
+          "location": {
+            "zone": "Davoi and head through the H-11 entrance to the Monastic Cavern"
+          }
+        },
+        {
+          "id": "windurst-rank-vain-node-5",
+          "orderIndex": 4,
+          "title": "Travel to at I-8 in he Monastic Cavern, hugging the right wall and enter back into Davoi",
+          "description": "Travel to at I-8 in he Monastic Cavern, hugging the right wall and enter back into Davoi. Speak to Sedal-Godjal at J-8.",
+          "dependencies": [
+            "windurst-rank-vain-node-4"
+          ],
+          "location": {
+            "zone": "at I-8 in he Monastic Cavern"
+          }
+        },
+        {
+          "id": "windurst-rank-vain-node-6",
+          "orderIndex": 5,
+          "title": "Use the elevator at H-8 to get to the house level.",
+          "description": "Use the elevator at H-8 to get to the house level..",
+          "dependencies": [
+            "windurst-rank-vain-node-5"
+          ],
+          "location": {
+            "zone": "get to the house level"
+          }
+        },
+        {
+          "id": "windurst-rank-vain-node-7",
+          "orderIndex": 6,
+          "title": "Through the two sets of Oak Doors of the house is a level 71 Black Mage named Dirtyhanded Gochakzuk, accompanied by 3 extra assorted orcs that link...",
+          "description": "Through the two sets of Oak Doors of the house is a level 71 Black Mage named Dirtyhanded Gochakzuk, accompanied by 3 extra assorted orcs that link when Dirtyhanded Gochakzuk is pulled..",
+          "dependencies": [
+            "windurst-rank-vain-node-6"
+          ]
+        },
+        {
+          "id": "windurst-rank-vain-node-8",
+          "orderIndex": 7,
+          "title": "Take the Curse Wand to Sedal-Godjal and trade it for a cutscene.",
+          "description": "Take the Curse Wand to Sedal-Godjal and trade it for a cutscene..",
+          "dependencies": [
+            "windurst-rank-vain-node-7"
+          ],
+          "location": {
+            "zone": "Sedal-Godjal and trade it for a cutscene"
+          }
+        },
+        {
+          "id": "windurst-rank-vain-node-9",
+          "orderIndex": 8,
+          "title": "Return to the Aurastery in Northern Windurst Waters and speak to Moreno-Toeno at (L-6) to complete the mission.",
+          "description": "Return to the Aurastery in Northern Windurst Waters and speak to Moreno-Toeno at (L-6) to complete the mission..",
+          "dependencies": [
+            "windurst-rank-vain-node-8"
+          ],
+          "location": {
+            "coordinates": "L-6",
+            "npc": "Moreno-Toeno"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "nation",
+        "missionSet": "windurst-rank",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "windurst-rank-windurst-gate-guard",
+      "title": "Windurst Gate Guard",
+      "number": null,
+      "nodes": [
+        {
+          "id": "windurst-rank-windurst-gate-guard-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Windurst Gate Guard",
+          "dependencies": []
+        }
+      ],
+      "metadata": {
+        "category": "nation",
+        "missionSet": "windurst-rank",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "windurst-rank-written-in-the-stars",
+      "title": "Written in the Stars",
+      "number": "3-2",
+      "nodes": [
+        {
+          "id": "windurst-rank-written-in-the-stars-node-1",
+          "orderIndex": 0,
+          "title": "Trading 1 crystal to a Windurstian Conquest Overseer will unlock this mission after completing the previous mission.",
+          "description": "Trading 1 crystal to a Windurstian Conquest Overseer will unlock this mission after completing the previous mission..",
+          "dependencies": []
+        },
+        {
+          "id": "windurst-rank-written-in-the-stars-node-2",
+          "orderIndex": 1,
+          "title": "This mission may be skipped by turning in a total of 3 crystals since gaining rank 3; however, if this mission is not done, you will not obtain the...",
+          "description": "This mission may be skipped by turning in a total of 3 crystals since gaining rank 3; however, if this mission is not done, you will not obtain the Portal Charm.",
+          "dependencies": [
+            "windurst-rank-written-in-the-stars-node-1"
+          ],
+          "location": {
+            "zone": "the Portal Charm"
+          }
+        },
+        {
+          "id": "windurst-rank-written-in-the-stars-node-3",
+          "orderIndex": 2,
+          "title": "Accept the Mission from the Gate Guard and then go to Heavens Tower.",
+          "description": "Accept the Mission from the Gate Guard and then go to Heavens Tower..",
+          "dependencies": [
+            "windurst-rank-written-in-the-stars-node-2"
+          ],
+          "location": {
+            "zone": "Heavens Tower"
+          }
+        },
+        {
+          "id": "windurst-rank-written-in-the-stars-node-4",
+          "orderIndex": 3,
+          "title": "Head up to the second floor and talk to Zubaba to get a necessary Charm of Light.",
+          "description": "Head up to the second floor and talk to Zubaba to get a necessary Charm of Light..",
+          "dependencies": [
+            "windurst-rank-written-in-the-stars-node-3"
+          ]
+        }
+      ],
+      "metadata": {
+        "category": "nation",
+        "missionSet": "windurst-rank",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    }
+  ]
+}

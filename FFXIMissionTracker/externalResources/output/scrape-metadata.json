@@ -1,0 +1,34 @@
+{
+  "metadata": [
+    {
+      "missionSetId": "bastok-rank",
+      "lastScraped": "2025-12-29T17:46:07.787Z",
+      "lastKnownUpdate": "2025-12-29T17:46:07.556Z",
+      "scrapeCount": 2
+    },
+    {
+      "missionSetId": "sandoria-rank",
+      "lastScraped": "2025-12-29T17:46:07.788Z",
+      "lastKnownUpdate": "2025-12-29T17:46:07.601Z",
+      "scrapeCount": 1
+    },
+    {
+      "missionSetId": "windurst-rank",
+      "lastScraped": "2025-12-29T17:46:07.788Z",
+      "lastKnownUpdate": "2025-12-29T17:46:07.646Z",
+      "scrapeCount": 1
+    },
+    {
+      "missionSetId": "zilart",
+      "lastScraped": "2025-12-29T17:46:07.789Z",
+      "lastKnownUpdate": "2025-12-29T17:46:07.675Z",
+      "scrapeCount": 1
+    },
+    {
+      "missionSetId": "promathia",
+      "lastScraped": "2025-12-29T17:46:07.789Z",
+      "lastKnownUpdate": "2025-12-29T17:46:07.724Z",
+      "scrapeCount": 1
+    }
+  ]
+}

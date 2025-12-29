@@ -1,0 +1,1111 @@
+{
+  "id": "promathia",
+  "name": "Chains of Promathia",
+  "category": "expansion",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Chains_of_Promathia_Missions",
+  "lastScraped": "2025-12-29T17:46:07.724Z",
+  "missions": [
+    {
+      "id": "promathia-the-call-of-the-wyrmking",
+      "title": "The Call of the Wyrmking",
+      "number": "PM3-1",
+      "nodes": [
+        {
+          "id": "promathia-the-call-of-the-wyrmking-node-1",
+          "orderIndex": 0,
+          "title": "Head to Port Bastok (Home Point #3) and approach the Departures Entrance to the Air Travel Agency at F-7 to receive a cutscene.",
+          "description": "Head to Port Bastok (Home Point #3) and approach the Departures Entrance to the Air Travel Agency at F-7 to receive a cutscene..",
+          "dependencies": [],
+          "location": {
+            "zone": "Port Bastok"
+          }
+        },
+        {
+          "id": "promathia-the-call-of-the-wyrmking-node-2",
+          "orderIndex": 1,
+          "title": "Then go to the Metalworks and talk to Cid (H-8).",
+          "description": "Then go to the Metalworks and talk to Cid (H-8)..",
+          "dependencies": [
+            "promathia-the-call-of-the-wyrmking-node-1"
+          ],
+          "location": {
+            "coordinates": "H-8",
+            "npc": "Cid"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-the-enduring-tumult-of-war",
+      "title": "The Enduring Tumult of War",
+      "number": "PM5-1",
+      "nodes": [
+        {
+          "id": "promathia-the-enduring-tumult-of-war-node-1",
+          "orderIndex": 0,
+          "title": "If you're not on or past Both Paths Taken of Rhapsodies of Vana'diel, it's strongly recommended you finish that before continuing",
+          "description": "If you're not on or past Both Paths Taken of Rhapsodies of Vana'diel, it's strongly recommended you finish that before continuing.",
+          "dependencies": [],
+          "location": {
+            "zone": "progress in that mission line until you flag Three Paths"
+          }
+        },
+        {
+          "id": "promathia-the-enduring-tumult-of-war-node-2",
+          "orderIndex": 1,
+          "title": "Optional: Head to the top floor of the Tavnazian Safehold and go behind the Walnut Door at (K-10) / (J-9) border and talk to Despachiaire for a...",
+          "description": "Optional: Head to the top floor of the Tavnazian Safehold and go behind the Walnut Door at (K-10) / (J-9) border and talk to Despachiaire for a cutscene..",
+          "dependencies": [
+            "promathia-the-enduring-tumult-of-war-node-1"
+          ],
+          "location": {
+            "coordinates": "K-10",
+            "zone": "the top floor of the Tavnazian Safehold and go behind the Walnut Door at"
+          }
+        },
+        {
+          "id": "promathia-the-enduring-tumult-of-war-node-3",
+          "orderIndex": 2,
+          "title": "Optional: Go to Northern San d'Oria (L-6) and talk to Chasalvige (Cathedral - Manuscript Room)",
+          "description": "Optional: Go to Northern San d'Oria (L-6) and talk to Chasalvige (Cathedral - Manuscript Room). He will have no information on events you describe and suggest to ask around at Port San d'Oria.",
+          "dependencies": [
+            "promathia-the-enduring-tumult-of-war-node-2"
+          ],
+          "location": {
+            "coordinates": "L-6",
+            "zone": "Northern San d'Oria",
+            "npc": "Chasalvige"
+          }
+        },
+        {
+          "id": "promathia-the-enduring-tumult-of-war-node-4",
+          "orderIndex": 3,
+          "title": "Optional: Go to Port San d'Oria (H-6) and talk to Anoki for a cutscene where he will have hard time believing you",
+          "description": "Optional: Go to Port San d'Oria (H-6) and talk to Anoki for a cutscene where he will have hard time believing you. Talk with him again for dialog where he suggests you ask around at the other agencies as long as you do not mind your sanity being questioned.",
+          "dependencies": [
+            "promathia-the-enduring-tumult-of-war-node-3"
+          ],
+          "location": {
+            "coordinates": "H-6",
+            "zone": "Port San d'Oria"
+          }
+        },
+        {
+          "id": "promathia-the-enduring-tumult-of-war-node-5",
+          "orderIndex": 4,
+          "title": "Go to Port Bastok for a cutscene and to start the Chapter 5 - The Return Home. (You may teleport to Port Bastok from a Home Point.)",
+          "description": "Go to Port Bastok for a cutscene and to start the Chapter 5 - The Return Home. (You may teleport to Port Bastok from a Home Point.).",
+          "dependencies": [
+            "promathia-the-enduring-tumult-of-war-node-4"
+          ],
+          "location": {
+            "zone": "Port Bastok for a cutscene and to start the Chapter 5 - The Return Home"
+          }
+        },
+        {
+          "id": "promathia-the-enduring-tumult-of-war-node-6",
+          "orderIndex": 5,
+          "title": "Talk to Cid for a cutscene at Metalworks (H-8), the second floor up.",
+          "description": "Talk to Cid for a cutscene at Metalworks (H-8), the second floor up..",
+          "dependencies": [
+            "promathia-the-enduring-tumult-of-war-node-5"
+          ],
+          "location": {
+            "coordinates": "H-8",
+            "zone": "Cid for a cutscene at Metalworks"
+          }
+        },
+        {
+          "id": "promathia-the-enduring-tumult-of-war-node-7",
+          "orderIndex": 6,
+          "title": "Enter Pso'Xja at (F-7) in Beaucedine Glacier for a cutscene.",
+          "description": "Enter Pso'Xja at (F-7) in Beaucedine Glacier for a cutscene..",
+          "dependencies": [
+            "promathia-the-enduring-tumult-of-war-node-6"
+          ],
+          "location": {
+            "coordinates": "F-7",
+            "zone": "Beaucedine Glacier for a cutscene"
+          }
+        },
+        {
+          "id": "promathia-the-enduring-tumult-of-war-node-8",
+          "orderIndex": 7,
+          "title": "Follow the path forward (you should not drop down any holes), until you find a stone door",
+          "description": "Follow the path forward (you should not drop down any holes), until you find a stone door. Check it, and the Golem named Nunyunuwi will spawn.",
+          "dependencies": [
+            "promathia-the-enduring-tumult-of-war-node-7"
+          ]
+        },
+        {
+          "id": "promathia-the-enduring-tumult-of-war-node-9",
+          "orderIndex": 8,
+          "title": "After Nunyunuwi is defeated, check the Stone Door once more to move onward.",
+          "description": "After Nunyunuwi is defeated, check the Stone Door once more to move onward..",
+          "dependencies": [
+            "promathia-the-enduring-tumult-of-war-node-8"
+          ],
+          "location": {
+            "zone": "move onward"
+          }
+        },
+        {
+          "id": "promathia-the-enduring-tumult-of-war-node-10",
+          "orderIndex": 9,
+          "title": "Once through, proceed to the elevator and use it to go to the lower level.",
+          "description": "Once through, proceed to the elevator and use it to go to the lower level..",
+          "dependencies": [
+            "promathia-the-enduring-tumult-of-war-node-9"
+          ],
+          "location": {
+            "zone": "the elevator and use it to go to the lower level"
+          }
+        },
+        {
+          "id": "promathia-the-enduring-tumult-of-war-node-11",
+          "orderIndex": 10,
+          "title": "When the elevator reaches the bottom, take the path/hallway that leads to another Stone Door.",
+          "description": "When the elevator reaches the bottom, take the path/hallway that leads to another Stone Door..",
+          "dependencies": [
+            "promathia-the-enduring-tumult-of-war-node-10"
+          ],
+          "location": {
+            "zone": "another Stone Door"
+          }
+        },
+        {
+          "id": "promathia-the-enduring-tumult-of-war-node-12",
+          "orderIndex": 11,
+          "title": "Check the Stone Door for a cutscene which will take you to Promyvion - Vahzl, where you will get another cutscene and start the next mission.",
+          "description": "Check the Stone Door for a cutscene which will take you to Promyvion - Vahzl, where you will get another cutscene and start the next mission..",
+          "dependencies": [
+            "promathia-the-enduring-tumult-of-war-node-11"
+          ],
+          "location": {
+            "zone": "Promyvion - Vahzl"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-fire-in-the-eyes-of-men",
+      "title": "Fire in the Eyes of Men",
+      "number": "PM7-3",
+      "nodes": [
+        {
+          "id": "promathia-fire-in-the-eyes-of-men-node-1",
+          "orderIndex": 0,
+          "title": "Head to Mine Shaft #2716 and check the Shaft Entrance for a cutscene.",
+          "description": "Head to Mine Shaft #2716 and check the Shaft Entrance for a cutscene..",
+          "dependencies": []
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-flames-in-the-darkness",
+      "title": "Flames in the Darkness",
+      "number": "PM7-2",
+      "nodes": [
+        {
+          "id": "promathia-flames-in-the-darkness-node-1",
+          "orderIndex": 0,
+          "title": "Head to Misareaux Coast and check the Dilapidated Gate at (F-7) for cutscene with Tenzen.",
+          "description": "Head to Misareaux Coast and check the Dilapidated Gate at (F-7) for cutscene with Tenzen..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "F-7",
+            "zone": "Misareaux Coast and check the Dilapidated Gate at"
+          }
+        },
+        {
+          "id": "promathia-flames-in-the-darkness-node-2",
+          "orderIndex": 1,
+          "title": "Head to Sealion's Den and talk to Sueleen at (H-6).",
+          "description": "Head to Sealion's Den and talk to Sueleen at (H-6)..",
+          "dependencies": [
+            "promathia-flames-in-the-darkness-node-1"
+          ],
+          "location": {
+            "coordinates": "H-6",
+            "npc": "Sueleen"
+          }
+        },
+        {
+          "id": "promathia-flames-in-the-darkness-node-3",
+          "orderIndex": 2,
+          "title": "Head to Ru'Lude Gardens (Home Point #1) and approach the Palace at (H-7).",
+          "description": "Head to Ru'Lude Gardens (Home Point #1) and approach the Palace at (H-7)..",
+          "dependencies": [
+            "promathia-flames-in-the-darkness-node-2"
+          ],
+          "location": {
+            "coordinates": "H-7",
+            "zone": "Ru'Lude Gardens"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-for-whom-the-verse-is-sung",
+      "title": "For Whom the Verse is Sung",
+      "number": "PM6-1",
+      "nodes": [
+        {
+          "id": "promathia-for-whom-the-verse-is-sung-node-1",
+          "orderIndex": 0,
+          "title": "Head to Ru'Lude Gardens (Home Point #1) and talk to Pherimociel at (G-6), inside the Guard Post of the Grand Duke Palace for a cutscene",
+          "description": "Head to Ru'Lude Gardens (Home Point #1) and talk to Pherimociel at (G-6), inside the Guard Post of the Grand Duke Palace for a cutscene.",
+          "dependencies": [],
+          "location": {
+            "coordinates": "G-6",
+            "zone": "Ru'Lude Gardens",
+            "npc": "Pherimociel"
+          }
+        },
+        {
+          "id": "promathia-for-whom-the-verse-is-sung-node-2",
+          "orderIndex": 1,
+          "title": "Head to Upper Jeuno (Home Point #1) and click on the door to the Marble Bridge Eatery at (F-7) for a cutscene.",
+          "description": "Head to Upper Jeuno (Home Point #1) and click on the door to the Marble Bridge Eatery at (F-7) for a cutscene..",
+          "dependencies": [
+            "promathia-for-whom-the-verse-is-sung-node-1"
+          ],
+          "location": {
+            "coordinates": "F-7",
+            "zone": "Upper Jeuno"
+          }
+        },
+        {
+          "id": "promathia-for-whom-the-verse-is-sung-node-3",
+          "orderIndex": 2,
+          "title": "Zone back into Ru'Lude Gardens for a cutscene. (Home Point #1 will place you closest to your next destination)",
+          "description": "Zone back into Ru'Lude Gardens for a cutscene. (Home Point #1 will place you closest to your next destination).",
+          "dependencies": [
+            "promathia-for-whom-the-verse-is-sung-node-2"
+          ],
+          "location": {
+            "zone": "Ru'Lude Gardens for a cutscene"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-garden-of-antiquity",
+      "title": "Garden of Antiquity",
+      "number": "PM8-1",
+      "nodes": [
+        {
+          "id": "promathia-garden-of-antiquity-node-1",
+          "orderIndex": 0,
+          "title": "After you arrive at Al'Taieu you will receive the title \"Seeker of the Light\" and key item Light of Al'Taieu, and your mission log changes to Chapter...",
+          "description": "After you arrive at Al'Taieu you will receive the title \"Seeker of the Light\" and key item Light of Al'Taieu, and your mission log changes to Chapter 8.",
+          "dependencies": [],
+          "location": {
+            "zone": "Chapter 8"
+          }
+        },
+        {
+          "id": "promathia-garden-of-antiquity-node-2",
+          "orderIndex": 1,
+          "title": "Head to a large bridge leading up to the Celestial Nexus and check the Crystalline Field door (H-11) for a cutscene.",
+          "description": "Head to a large bridge leading up to the Celestial Nexus and check the Crystalline Field door (H-11) for a cutscene..",
+          "dependencies": [
+            "promathia-garden-of-antiquity-node-1"
+          ],
+          "location": {
+            "coordinates": "H-11",
+            "zone": "a large bridge leading up to the Celestial Nexus and check the Crystalline Field door"
+          }
+        },
+        {
+          "id": "promathia-garden-of-antiquity-node-3",
+          "orderIndex": 2,
+          "title": "After the cutscene you need to visit three Rubious Crystals",
+          "description": "After the cutscene you need to visit three Rubious Crystals. The first crystal is located at a small tower south of the bridge with the Crystalline Field.",
+          "dependencies": [
+            "promathia-garden-of-antiquity-node-2"
+          ],
+          "location": {
+            "zone": "visit three Rubious Crystals"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-the-lost-city",
+      "title": "The Lost City",
+      "number": "PM2-2",
+      "nodes": [
+        {
+          "id": "promathia-the-lost-city-node-1",
+          "orderIndex": 0,
+          "title": "Head to the top floor of Tavnazian Safehold and pass through the Walnut Door at K-9.",
+          "description": "Head to the top floor of Tavnazian Safehold and pass through the Walnut Door at K-9..",
+          "dependencies": [],
+          "location": {
+            "zone": "the top floor of Tavnazian Safehold and pass through the Walnut Door at K-9"
+          }
+        },
+        {
+          "id": "promathia-the-lost-city-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Despachiaire at K-10 for a cutscene.",
+          "description": "Talk to Despachiaire at K-10 for a cutscene..",
+          "dependencies": [
+            "promathia-the-lost-city-node-1"
+          ],
+          "location": {
+            "zone": "Despachiaire at K-10 for a cutscene"
+          }
+        },
+        {
+          "id": "promathia-the-lost-city-node-3",
+          "orderIndex": 2,
+          "title": "Head all the way down to the basement level and examine the Sewer Entrance at I-7, at the zone to Phomiuna Aqueducts.",
+          "description": "Head all the way down to the basement level and examine the Sewer Entrance at I-7, at the zone to Phomiuna Aqueducts..",
+          "dependencies": [
+            "promathia-the-lost-city-node-2"
+          ],
+          "location": {
+            "zone": "the basement level and examine the Sewer Entrance at I-7"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-more-questions-than-answers",
+      "title": "More Questions Than Answers",
+      "number": "PM6-3",
+      "nodes": [
+        {
+          "id": "promathia-more-questions-than-answers-node-1",
+          "orderIndex": 0,
+          "title": "Head to Ru'Lude Gardens (Home Point #1) and talk to Pherimociel at (G-6) for a cutscene.",
+          "description": "Head to Ru'Lude Gardens (Home Point #1) and talk to Pherimociel at (G-6) for a cutscene..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "G-6",
+            "zone": "Ru'Lude Gardens",
+            "npc": "Pherimociel"
+          }
+        },
+        {
+          "id": "promathia-more-questions-than-answers-node-2",
+          "orderIndex": 1,
+          "title": "Check the Audience Chamber door upstairs at (H-6) for a cutscene with Prishe, Ulmia, Esha'ntarl and Louverance (you may have to click the door twice...",
+          "description": "Check the Audience Chamber door upstairs at (H-6) for a cutscene with Prishe, Ulmia, Esha'ntarl and Louverance (you may have to click the door twice if you participate in Voidwatch)..",
+          "dependencies": [
+            "promathia-more-questions-than-answers-node-1"
+          ],
+          "location": {
+            "coordinates": "H-6"
+          }
+        },
+        {
+          "id": "promathia-more-questions-than-answers-node-3",
+          "orderIndex": 2,
+          "title": "Head to Selbina and talk to Mathilde at (H-9), inside of the Weavers' Guild (inside the door closest to the Home Point, near the sheep pen), for a...",
+          "description": "Head to Selbina and talk to Mathilde at (H-9), inside of the Weavers' Guild (inside the door closest to the Home Point, near the sheep pen), for a cutscene..",
+          "dependencies": [
+            "promathia-more-questions-than-answers-node-2"
+          ],
+          "location": {
+            "coordinates": "H-9",
+            "npc": "Mathilde"
+          }
+        },
+        {
+          "id": "promathia-more-questions-than-answers-node-4",
+          "orderIndex": 3,
+          "title": "Optional: Talk to Mathilde again for more dialogue.",
+          "description": "Optional: Talk to Mathilde again for more dialogue..",
+          "dependencies": [
+            "promathia-more-questions-than-answers-node-3"
+          ],
+          "location": {
+            "zone": "Mathilde again for more dialogue"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-the-mothercrystals",
+      "title": "The Mothercrystals",
+      "number": "1-3",
+      "nodes": [
+        {
+          "id": "promathia-the-mothercrystals-node-1",
+          "orderIndex": 0,
+          "title": "Head to any of the Shattered Telepoints at Crag of Mea, Crag of Dem, Crag of Holla to enter Promyvion.",
+          "description": "Head to any of the Shattered Telepoints at Crag of Mea, Crag of Dem, Crag of Holla to enter Promyvion..",
+          "dependencies": [],
+          "location": {
+            "zone": "any of the Shattered Telepoints at Crag of Mea"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-one-to-be-feared",
+      "title": "One to be Feared",
+      "number": "PM6-4",
+      "nodes": [
+        {
+          "id": "promathia-one-to-be-feared-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Cid at Metalworks for a quick cutscene.",
+          "description": "Talk to Cid at Metalworks for a quick cutscene..",
+          "dependencies": [],
+          "location": {
+            "zone": "Cid at Metalworks for a quick cutscene"
+          }
+        },
+        {
+          "id": "promathia-one-to-be-feared-node-2",
+          "orderIndex": 1,
+          "title": "Head to the Tavnazian Safehold (Home Point #2 is the fastest option).",
+          "description": "Head to the Tavnazian Safehold (Home Point #2 is the fastest option)..",
+          "dependencies": [
+            "promathia-one-to-be-feared-node-1"
+          ],
+          "location": {
+            "zone": "the Tavnazian Safehold"
+          }
+        },
+        {
+          "id": "promathia-one-to-be-feared-node-3",
+          "orderIndex": 2,
+          "title": "Enter Sealion's Den for a quick cutscene.",
+          "description": "Enter Sealion's Den for a quick cutscene..",
+          "dependencies": [
+            "promathia-one-to-be-feared-node-2"
+          ]
+        },
+        {
+          "id": "promathia-one-to-be-feared-node-4",
+          "orderIndex": 3,
+          "title": "Click on the Iron Gate ahead for a cutscene.",
+          "description": "Click on the Iron Gate ahead for a cutscene..",
+          "dependencies": [
+            "promathia-one-to-be-feared-node-3"
+          ]
+        },
+        {
+          "id": "promathia-one-to-be-feared-node-5",
+          "orderIndex": 4,
+          "title": "Examine the Iron Gate again to enter the battlefield for One to be Feared. (see testimonials) (see strategies)",
+          "description": "Examine the Iron Gate again to enter the battlefield for One to be Feared. (see testimonials) (see strategies).",
+          "dependencies": [
+            "promathia-one-to-be-feared-node-4"
+          ],
+          "location": {
+            "zone": "to enter the battlefield for One to be Feared"
+          }
+        },
+        {
+          "id": "promathia-one-to-be-feared-node-6",
+          "orderIndex": 5,
+          "title": "After defeating Ultima, the party will be teleported to Lufaise Meadows",
+          "description": "After defeating Ultima, the party will be teleported to Lufaise Meadows. This is when the players will receive a Ducal Guard's Ring which completes the mission.",
+          "dependencies": [
+            "promathia-one-to-be-feared-node-5"
+          ],
+          "location": {
+            "zone": "Lufaise Meadows"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-past-sins-louverance-s-path",
+      "title": "Past Sins (Louverance's Path)",
+      "number": "PM5-3L",
+      "nodes": [
+        {
+          "id": "promathia-past-sins-louverance-s-path-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Despachiaire in the top-level of Tavnazian Safehold (Home Point #3) at (K-10) behind the walnut door.",
+          "description": "Talk to Despachiaire in the top-level of Tavnazian Safehold (Home Point #3) at (K-10) behind the walnut door..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "K-10",
+            "zone": "Despachiaire in the top-level of Tavnazian Safehold"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": 65,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-the-pursuit-of-paradise-tenzen-s-path",
+      "title": "The Pursuit of Paradise (Tenzen's Path)",
+      "number": "PM5-3T",
+      "nodes": [
+        {
+          "id": "promathia-the-pursuit-of-paradise-tenzen-s-path-node-1",
+          "orderIndex": 0,
+          "title": "Click the ??? at La Theine Plateau (G-6); same spot for Carbuncle in I Can Hear a Rainbow.",
+          "description": "Click the ??? at La Theine Plateau (G-6); same spot for Carbuncle in I Can Hear a Rainbow..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "G-6",
+            "zone": "I Can Hear a Rainbow"
+          }
+        },
+        {
+          "id": "promathia-the-pursuit-of-paradise-tenzen-s-path-node-2",
+          "orderIndex": 1,
+          "title": "Ensure you received the correct cutscene by examining your completed missions list and The Pursuit of Paradise has Spiral beneath it.",
+          "description": "Ensure you received the correct cutscene by examining your completed missions list and The Pursuit of Paradise has Spiral beneath it..",
+          "dependencies": [
+            "promathia-the-pursuit-of-paradise-tenzen-s-path-node-1"
+          ]
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-the-road-forks",
+      "title": "The Road Forks",
+      "number": "PM3-3",
+      "nodes": [
+        {
+          "id": "promathia-the-road-forks-node-1",
+          "orderIndex": 0,
+          "title": "It's strongly recommended you finish Rhapsodies of Vana'diel up to a minimum of Desert Winds, Both Paths Taken, or, ideally, completely finish the...",
+          "description": "It's strongly recommended you finish Rhapsodies of Vana'diel up to a minimum of Desert Winds, Both Paths Taken, or, ideally, completely finish the mission line before continuing Chains of Promathia.",
+          "dependencies": [],
+          "location": {
+            "zone": "a minimum of Desert Winds"
+          }
+        },
+        {
+          "id": "promathia-the-road-forks-node-2",
+          "orderIndex": 1,
+          "title": "This is a long mission, with a lot of legwork and two NM fights.",
+          "description": "This is a long mission, with a lot of legwork and two NM fights..",
+          "dependencies": [
+            "promathia-the-road-forks-node-1"
+          ]
+        },
+        {
+          "id": "promathia-the-road-forks-node-3",
+          "orderIndex": 2,
+          "title": "This mission is divided into 2 parts - San d'Oria route and Windurst route",
+          "description": "This mission is divided into 2 parts - San d'Oria route and Windurst route. Route details are given below.",
+          "dependencies": [
+            "promathia-the-road-forks-node-2"
+          ],
+          "location": {
+            "zone": "2 parts - San d'Oria route and Windurst route"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": 70,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-the-savage",
+      "title": "The Savage",
+      "number": "PM4-2",
+      "nodes": [
+        {
+          "id": "promathia-the-savage-node-1",
+          "orderIndex": 0,
+          "title": "Head to Riverne - Site #B01 via the Dilapidated Gate at (F-7) of Misareaux Coast for a cutscene.",
+          "description": "Head to Riverne - Site #B01 via the Dilapidated Gate at (F-7) of Misareaux Coast for a cutscene..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "F-7"
+          }
+        },
+        {
+          "id": "promathia-the-savage-node-2",
+          "orderIndex": 1,
+          "title": "Proceed to Monarch Linn.",
+          "description": "Proceed to Monarch Linn..",
+          "dependencies": [
+            "promathia-the-savage-node-1"
+          ],
+          "location": {
+            "zone": "Monarch Linn"
+          }
+        },
+        {
+          "id": "promathia-the-savage-node-3",
+          "orderIndex": 2,
+          "title": "Enter the battlefield for The Savage. (see testimonials)",
+          "description": "Enter the battlefield for The Savage. (see testimonials).",
+          "dependencies": [
+            "promathia-the-savage-node-2"
+          ]
+        },
+        {
+          "id": "promathia-the-savage-node-4",
+          "orderIndex": 3,
+          "title": "After defeating Ouryu, head to Tavnazian Safehold (Home Point #3) and talk to Justinius at (J-6) on the upper level for a cutscene.",
+          "description": "After defeating Ouryu, head to Tavnazian Safehold (Home Point #3) and talk to Justinius at (J-6) on the upper level for a cutscene..",
+          "dependencies": [
+            "promathia-the-savage-node-3"
+          ],
+          "location": {
+            "coordinates": "J-6",
+            "zone": "Tavnazian Safehold",
+            "npc": "Justinius"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-the-secrets-of-worship",
+      "title": "The Secrets of Worship",
+      "number": "PM4-3",
+      "nodes": [
+        {
+          "id": "promathia-the-secrets-of-worship-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Justinius at (J-6) on the third floor (upstairs) of Tavnazian Safehold. (Near Homepoint #3) You may get the cutscene for Uninvited Guests",
+          "description": "Speak with Justinius at (J-6) on the third floor (upstairs) of Tavnazian Safehold. (Near Homepoint #3) You may get the cutscene for Uninvited Guests.",
+          "dependencies": [],
+          "location": {
+            "coordinates": "J-6",
+            "zone": "him again"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-sheltering-doubt",
+      "title": "Sheltering Doubt",
+      "number": "PM4-1",
+      "nodes": [
+        {
+          "id": "promathia-sheltering-doubt-node-1",
+          "orderIndex": 0,
+          "title": "Return to Tavnazian Safehold for a cutscene. (Home Point #3 is closest to your next objective.)",
+          "description": "Return to Tavnazian Safehold for a cutscene. (Home Point #3 is closest to your next objective.).",
+          "dependencies": [],
+          "location": {
+            "zone": "Tavnazian Safehold for a cutscene"
+          }
+        },
+        {
+          "id": "promathia-sheltering-doubt-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Despachiaire (K-10) on the top floor, through the entrance with Fouagine beside it, and inside the Walnut door at the back",
+          "description": "Talk to Despachiaire (K-10) on the top floor, through the entrance with Fouagine beside it, and inside the Walnut door at the back.",
+          "dependencies": [
+            "promathia-sheltering-doubt-node-1"
+          ],
+          "location": {
+            "coordinates": "K-10",
+            "zone": "Despachiaire"
+          }
+        },
+        {
+          "id": "promathia-sheltering-doubt-node-3",
+          "orderIndex": 2,
+          "title": "(optional) Talk to Justinius (J-6) on the top floor.",
+          "description": "(optional) Talk to Justinius (J-6) on the top floor..",
+          "dependencies": [
+            "promathia-sheltering-doubt-node-2"
+          ],
+          "location": {
+            "coordinates": "J-6",
+            "zone": "optional"
+          }
+        },
+        {
+          "id": "promathia-sheltering-doubt-node-4",
+          "orderIndex": 3,
+          "title": "Head to Misareaux Coast (via Tavnazian Safehold Home Point #1 and then through the southwest exit at (G-6) to Misareaux Coast) and inspect the...",
+          "description": "Head to Misareaux Coast (via Tavnazian Safehold Home Point #1 and then through the southwest exit at (G-6) to Misareaux Coast) and inspect the Dilapidated Gate at (I-11) (Snowmint Point)..",
+          "dependencies": [
+            "promathia-sheltering-doubt-node-3"
+          ],
+          "location": {
+            "coordinates": "G-6",
+            "zone": "Misareaux Coast"
+          }
+        },
+        {
+          "id": "promathia-sheltering-doubt-node-5",
+          "orderIndex": 4,
+          "title": "If the cutscene appears bugged and will not allow you to continue, disable your 60 FPS plugin if you are using one and restart the game.",
+          "description": "If the cutscene appears bugged and will not allow you to continue, disable your 60 FPS plugin if you are using one and restart the game..",
+          "dependencies": [
+            "promathia-sheltering-doubt-node-4"
+          ],
+          "location": {
+            "zone": "continue"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-slanderous-utterings",
+      "title": "Slanderous Utterings",
+      "number": "PM4-4",
+      "nodes": [
+        {
+          "id": "promathia-slanderous-utterings-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Despachiaire located in Tavnazian Safehold (K-9/K-10) (Home Point #3).",
+          "description": "Talk to Despachiaire located in Tavnazian Safehold (K-9/K-10) (Home Point #3)..",
+          "dependencies": [],
+          "location": {
+            "zone": "Despachiaire located in Tavnazian Safehold"
+          }
+        },
+        {
+          "id": "promathia-slanderous-utterings-node-2",
+          "orderIndex": 1,
+          "title": "Enter Sealion's Den located in Tavnazian Safehold (H-9) (Home Point #2).",
+          "description": "Enter Sealion's Den located in Tavnazian Safehold (H-9) (Home Point #2)..",
+          "dependencies": [
+            "promathia-slanderous-utterings-node-1"
+          ],
+          "location": {
+            "coordinates": "H-9",
+            "zone": "Tavnazian Safehold"
+          }
+        },
+        {
+          "id": "promathia-slanderous-utterings-node-3",
+          "orderIndex": 2,
+          "title": "Inspect the Iron Gate in Sealion's Den (H-6).",
+          "description": "Inspect the Iron Gate in Sealion's Den (H-6)..",
+          "dependencies": [
+            "promathia-slanderous-utterings-node-2"
+          ],
+          "location": {
+            "coordinates": "H-6",
+            "zone": "Sealion's Den"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-tending-aged-wounds",
+      "title": "Tending Aged Wounds",
+      "number": "PM3-4",
+      "nodes": [
+        {
+          "id": "promathia-tending-aged-wounds-node-1",
+          "orderIndex": 0,
+          "title": "Zone into Lower Jeuno to get a cutscene.",
+          "description": "Zone into Lower Jeuno to get a cutscene..",
+          "dependencies": [],
+          "location": {
+            "zone": "Lower Jeuno to get a cutscene"
+          }
+        },
+        {
+          "id": "promathia-tending-aged-wounds-node-2",
+          "orderIndex": 1,
+          "title": "Go to Lower Jeuno (Home Point #2) and inspect the door of the Tenshodo Headquarters to receive the final cutscene of this mission.",
+          "description": "Go to Lower Jeuno (Home Point #2) and inspect the door of the Tenshodo Headquarters to receive the final cutscene of this mission..",
+          "dependencies": [
+            "promathia-tending-aged-wounds-node-1"
+          ],
+          "location": {
+            "zone": "Lower Jeuno"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-the-rites-of-life",
+      "title": "The Rites of Life",
+      "number": "PM1-1",
+      "nodes": [
+        {
+          "id": "promathia-the-rites-of-life-node-1",
+          "orderIndex": 0,
+          "title": "To start this mission, enter Lower Delkfutt's Tower for a cutscene after installing the Chains of Promathia expansion pack.",
+          "description": "To start this mission, enter Lower Delkfutt's Tower for a cutscene after installing the Chains of Promathia expansion pack..",
+          "dependencies": [],
+          "location": {
+            "zone": "start this mission"
+          }
+        },
+        {
+          "id": "promathia-the-rites-of-life-node-2",
+          "orderIndex": 1,
+          "title": "After the cutscene has finished, enter Upper Jeuno for another cutscene.",
+          "description": "After the cutscene has finished, enter Upper Jeuno for another cutscene..",
+          "dependencies": [
+            "promathia-the-rites-of-life-node-1"
+          ]
+        },
+        {
+          "id": "promathia-the-rites-of-life-node-3",
+          "orderIndex": 2,
+          "title": "After the second cutscene finishes, speak to Monberaux (G-10, inside the Infirmary) for final cutscene and a Mysterious Amulet.",
+          "description": "After the second cutscene finishes, speak to Monberaux (G-10, inside the Infirmary) for final cutscene and a Mysterious Amulet..",
+          "dependencies": [
+            "promathia-the-rites-of-life-node-2"
+          ],
+          "location": {
+            "zone": "Monberaux",
+            "npc": "Monberaux"
+          }
+        },
+        {
+          "id": "promathia-the-rites-of-life-node-4",
+          "orderIndex": 3,
+          "title": "*Important note* There are still two more people in Jeuno that you will need to speak to during the next mission.",
+          "description": "*Important note* There are still two more people in Jeuno that you will need to speak to during the next mission..",
+          "dependencies": [
+            "promathia-the-rites-of-life-node-3"
+          ]
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-three-paths",
+      "title": "Three Paths",
+      "number": "PM5-3",
+      "nodes": [
+        {
+          "id": "promathia-three-paths-node-1",
+          "orderIndex": 0,
+          "title": "Head to the Metalworks and talk to Cid (H-8) to get started.",
+          "description": "Head to the Metalworks and talk to Cid (H-8) to get started..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "H-8",
+            "npc": "Cid"
+          }
+        },
+        {
+          "id": "promathia-three-paths-node-2",
+          "orderIndex": 1,
+          "title": "Complete all three paths below to complete the mission.",
+          "description": "Complete all three paths below to complete the mission..",
+          "dependencies": [
+            "promathia-three-paths-node-1"
+          ],
+          "location": {
+            "zone": "complete the mission"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-the-warrior-s-path",
+      "title": "The Warrior's Path",
+      "number": "PM7-5",
+      "nodes": [
+        {
+          "id": "promathia-the-warrior-s-path-node-1",
+          "orderIndex": 0,
+          "title": "Head to Sealion's Den and click on the \"Iron Gate\" for a Cutscene",
+          "description": "Head to Sealion's Den and click on the \"Iron Gate\" for a Cutscene. After the Cutscene you can click the \"Iron Gate\" ones more for the airship fight, \"The Warrior's Path\".",
+          "dependencies": []
+        },
+        {
+          "id": "promathia-the-warrior-s-path-node-2",
+          "orderIndex": 1,
+          "title": "Originally uncapped, then capped at 75 in the March 2007 update, and now, uncapped again, but still with the Level Restriction effect (TP and all...",
+          "description": "Originally uncapped, then capped at 75 in the March 2007 update, and now, uncapped again, but still with the Level Restriction effect (TP and all buffs are removed upon entering the battlefield.",
+          "dependencies": [
+            "promathia-the-warrior-s-path-node-1"
+          ],
+          "location": {
+            "zone": "the March 2007 update"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-when-angels-fall",
+      "title": "When Angels Fall",
+      "number": "PM8-3",
+      "nodes": [
+        {
+          "id": "promathia-when-angels-fall-node-1",
+          "orderIndex": 0,
+          "title": "Enter The Garden of Ru'Hmet for a cutscene.",
+          "description": "Enter The Garden of Ru'Hmet for a cutscene..",
+          "dependencies": []
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    },
+    {
+      "id": "promathia-where-messengers-gather-ulmia-s-path",
+      "title": "Where Messengers Gather (Ulmia's Path)",
+      "number": "PM5-3U",
+      "nodes": [
+        {
+          "id": "promathia-where-messengers-gather-ulmia-s-path-node-1",
+          "orderIndex": 0,
+          "title": "Go to (B-6) of Southern San d'Oria (Home Point #4) and talk to Hinaree in the Count Caffaule's Manor for a cutscene.",
+          "description": "Go to (B-6) of Southern San d'Oria (Home Point #4) and talk to Hinaree in the Count Caffaule's Manor for a cutscene..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "B-6",
+            "zone": "Hinaree in the Count Caffaule's Manor for a cutscene",
+            "npc": "Hinaree"
+          }
+        },
+        {
+          "id": "promathia-where-messengers-gather-ulmia-s-path-node-2",
+          "orderIndex": 1,
+          "title": "Enter Port San d'Oria for another cutscene.",
+          "description": "Enter Port San d'Oria for another cutscene..",
+          "dependencies": [
+            "promathia-where-messengers-gather-ulmia-s-path-node-1"
+          ]
+        },
+        {
+          "id": "promathia-where-messengers-gather-ulmia-s-path-node-3",
+          "orderIndex": 2,
+          "title": "Go to the Cathedral in Northern San d'Oria (Home Point #2 or #3) and talk to Chasalvige in the manuscript room at (L-6), the first door on the left...",
+          "description": "Go to the Cathedral in Northern San d'Oria (Home Point #2 or #3) and talk to Chasalvige in the manuscript room at (L-6), the first door on the left as you enter..",
+          "dependencies": [
+            "promathia-where-messengers-gather-ulmia-s-path-node-2"
+          ],
+          "location": {
+            "coordinates": "L-6",
+            "zone": "the Cathedral in Northern San d'Oria",
+            "npc": "Chasalvige"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium"
+      }
+    }
+  ]
+}

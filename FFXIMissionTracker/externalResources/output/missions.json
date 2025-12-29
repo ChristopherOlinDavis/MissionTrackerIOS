@@ -1,0 +1,220 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2025-12-29T17:29:38.617Z",
+  "stats": {
+    "totalSets": 23,
+    "totalMissions": 1486,
+    "categories": {
+      "nation": {
+        "sets": 4,
+        "missions": 49
+      },
+      "expansion": {
+        "sets": 7,
+        "missions": 212
+      },
+      "assault": {
+        "sets": 1,
+        "missions": 0
+      },
+      "campaign": {
+        "sets": 1,
+        "missions": 197
+      },
+      "quest": {
+        "sets": 9,
+        "missions": 943
+      },
+      "coalition": {
+        "sets": 1,
+        "missions": 85
+      }
+    }
+  },
+  "missionSets": [
+    {
+      "id": "ffxiclopedia-bastok",
+      "name": "FFXIclopedia - Bastok Missions",
+      "category": "nation",
+      "source": "FFXIclopedia",
+      "totalMissions": 20,
+      "file": "ffxiclopedia-bastok.json"
+    },
+    {
+      "id": "bgwiki-bastok",
+      "name": "BG Wiki - Bastok Missions",
+      "category": "nation",
+      "source": "BG Wiki",
+      "totalMissions": 0,
+      "file": "bgwiki-bastok.json"
+    },
+    {
+      "id": "ffxiclopedia-sandoria",
+      "name": "FFXIclopedia - San d'Oria Missions",
+      "category": "nation",
+      "source": "FFXIclopedia",
+      "totalMissions": 14,
+      "file": "ffxiclopedia-sandoria.json"
+    },
+    {
+      "id": "ffxiclopedia-windurst",
+      "name": "FFXIclopedia - Windurst Missions",
+      "category": "nation",
+      "source": "FFXIclopedia",
+      "totalMissions": 15,
+      "file": "ffxiclopedia-windurst.json"
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence",
+      "name": "FFXIclopedia - The Voracious Resurgence Missions",
+      "category": "expansion",
+      "source": "FFXIclopedia",
+      "totalMissions": 45,
+      "file": "ffxiclopedia-voracious-resurgence.json"
+    },
+    {
+      "id": "ffxiclopedia-rhapsodies",
+      "name": "FFXIclopedia - Rhapsodies of Vana'diel Missions",
+      "category": "expansion",
+      "source": "FFXIclopedia",
+      "totalMissions": 64,
+      "file": "ffxiclopedia-rhapsodies.json"
+    },
+    {
+      "id": "ffxiclopedia-seekers-adoulin",
+      "name": "FFXIclopedia - Seekers of Adoulin Missions",
+      "category": "expansion",
+      "source": "FFXIclopedia",
+      "totalMissions": 21,
+      "file": "ffxiclopedia-seekers-adoulin.json"
+    },
+    {
+      "id": "ffxiclopedia-zilart",
+      "name": "FFXIclopedia - Rise of the Zilart Missions",
+      "category": "expansion",
+      "source": "FFXIclopedia",
+      "totalMissions": 15,
+      "file": "ffxiclopedia-zilart.json"
+    },
+    {
+      "id": "ffxiclopedia-promathia",
+      "name": "FFXIclopedia - Chains of Promathia Missions",
+      "category": "expansion",
+      "source": "FFXIclopedia",
+      "totalMissions": 19,
+      "file": "ffxiclopedia-promathia.json"
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan",
+      "name": "FFXIclopedia - Treasures of Aht Urhgan Missions",
+      "category": "expansion",
+      "source": "FFXIclopedia",
+      "totalMissions": 48,
+      "file": "ffxiclopedia-aht-urhgan.json"
+    },
+    {
+      "id": "ffxiclopedia-assault",
+      "name": "FFXIclopedia - Assault Missions",
+      "category": "assault",
+      "source": "FFXIclopedia",
+      "totalMissions": 0,
+      "file": "ffxiclopedia-assault.json"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess",
+      "name": "FFXIclopedia - Wings of the Goddess Missions",
+      "category": "expansion",
+      "source": "FFXIclopedia",
+      "totalMissions": 0,
+      "file": "ffxiclopedia-wings-goddess.json"
+    },
+    {
+      "id": "ffxiclopedia-campaign",
+      "name": "FFXIclopedia - Campaign Operations",
+      "category": "campaign",
+      "source": "FFXIclopedia",
+      "totalMissions": 197,
+      "file": "ffxiclopedia-campaign.json"
+    },
+    {
+      "id": "ffxiclopedia-sandoria-quests",
+      "name": "FFXIclopedia - San d'Oria Quests",
+      "category": "quest",
+      "source": "FFXIclopedia",
+      "totalMissions": 262,
+      "file": "ffxiclopedia-sandoria-quests.json"
+    },
+    {
+      "id": "ffxiclopedia-bastok-quests",
+      "name": "FFXIclopedia - Bastok Quests",
+      "category": "quest",
+      "source": "FFXIclopedia",
+      "totalMissions": 71,
+      "file": "ffxiclopedia-bastok-quests.json"
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests",
+      "name": "FFXIclopedia - Windurst Quests",
+      "category": "quest",
+      "source": "FFXIclopedia",
+      "totalMissions": 77,
+      "file": "ffxiclopedia-windurst-quests.json"
+    },
+    {
+      "id": "ffxiclopedia-jeuno-quests",
+      "name": "FFXIclopedia - Jeuno Quests",
+      "category": "quest",
+      "source": "FFXIclopedia",
+      "totalMissions": 109,
+      "file": "ffxiclopedia-jeuno-quests.json"
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests",
+      "name": "FFXIclopedia - Outlands Quests",
+      "category": "quest",
+      "source": "FFXIclopedia",
+      "totalMissions": 50,
+      "file": "ffxiclopedia-outlands-quests.json"
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-quests",
+      "name": "FFXIclopedia - Aht Urhgan Quests",
+      "category": "quest",
+      "source": "FFXIclopedia",
+      "totalMissions": 64,
+      "file": "ffxiclopedia-aht-urhgan-quests.json"
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests",
+      "name": "FFXIclopedia - Crystal War Quests",
+      "category": "quest",
+      "source": "FFXIclopedia",
+      "totalMissions": 71,
+      "file": "ffxiclopedia-crystal-war-quests.json"
+    },
+    {
+      "id": "ffxiclopedia-abyssea-quests",
+      "name": "FFXIclopedia - Abyssea Quests",
+      "category": "quest",
+      "source": "FFXIclopedia",
+      "totalMissions": 157,
+      "file": "ffxiclopedia-abyssea-quests.json"
+    },
+    {
+      "id": "ffxiclopedia-adoulin-quests",
+      "name": "FFXIclopedia - Adoulin Quests",
+      "category": "quest",
+      "source": "FFXIclopedia",
+      "totalMissions": 82,
+      "file": "ffxiclopedia-adoulin-quests.json"
+    },
+    {
+      "id": "ffxiclopedia-coalition",
+      "name": "FFXIclopedia - Coalition Assignments",
+      "category": "coalition",
+      "source": "FFXIclopedia",
+      "totalMissions": 85,
+      "file": "ffxiclopedia-coalition.json"
+    }
+  ]
+}

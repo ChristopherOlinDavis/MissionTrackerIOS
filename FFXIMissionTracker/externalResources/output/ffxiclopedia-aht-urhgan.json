@@ -1,0 +1,1190 @@
+{
+  "id": "ffxiclopedia-aht-urhgan",
+  "name": "FFXIclopedia - Treasures of Aht Urhgan Missions",
+  "category": "expansion",
+  "source": "FFXIclopedia",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Treasures_of_Aht_Urhgan_Missions",
+  "lastScraped": "2025-12-29T17:29:37.119Z",
+  "lastKnownUpdate": "2025-12-29T17:29:37.119Z",
+  "totalMissions": 48,
+  "missions": [
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-1-land-of-sacred-serpents",
+      "title": "Aht Urhgan Mission 1: Land of Sacred Serpents",
+      "number": "ToAU 1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_1:_Land_of_Sacred_Serpents",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-1-land-of-sacred-serpents-node-1",
+          "orderIndex": 0,
+          "title": "Obtain a Boarding Permit from either the quest The Road to Aht Urhgan in Lower Jeuno or the Rhapsodi",
+          "description": "Obtain a Boarding Permit from either the quest The Road to Aht Urhgan in Lower Jeuno or the Rhapsodies of Vana'diel mission Inescapable Binds.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-1-land-of-sacred-serpents-node-2",
+          "orderIndex": 1,
+          "title": "Board the ferry from Mhaura to the Empire of Aht Urhgan.",
+          "description": "Board the ferry from Mhaura to the Empire of Aht Urhgan. It is suggested to immediately buy the map from the map vendor Riyadahf, who is north of where you enter Aht Urhgan. You can bypass the boat by Unity warping to Wajaom Woodlands. Then use the Postern at M-7 to arrive below Salaheem's Sentinels. Note that you still need the Boarding Permit.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-1-land-of-sacred-serpents-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-1-land-of-sacred-serpents-node-3",
+          "orderIndex": 2,
+          "title": "Enter Salaheem's Sentinels in Aht Urhgan Whitegate (Home Point #1) (top floor of I-10) for a cutscen",
+          "description": "Enter Salaheem's Sentinels in Aht Urhgan Whitegate (Home Point #1) (top floor of I-10) for a cutscene and a Supplies Package.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-1-land-of-sacred-serpents-node-2"
+          ]
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-1-land-of-sacred-serpents-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-1-land-of-sacred-serpents-node-1",
+          "requirement": "Treasures of Aht Urhgan expansion",
+          "description": "Treasures of Aht Urhgan expansion"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-2-immortal-sentries",
+      "title": "Aht Urhgan Mission 2: Immortal Sentries",
+      "number": "ToAU 2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_2:_Immortal_Sentries",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-2-immortal-sentries-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Aht Urhgan Mission 2: Immortal Sentries",
+          "dependencies": []
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-2-immortal-sentries-gate-1",
+          "type": "other",
+          "afterNodeId": null,
+          "requirement": "Treasures of Aht Urhgan",
+          "description": "Treasures of Aht Urhgan"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-3-president-salaheem",
+      "title": "Aht Urhgan Mission 3: President Salaheem",
+      "number": "ToAU 3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_3:_President_Salaheem",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-3-president-salaheem-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Rytaal at the Commission Agency (K-10).",
+          "description": "Talk to Rytaal at the Commission Agency (K-10). You will gain access to Assault. You no longer need to do an Assault mission to progress.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-3-president-salaheem-node-2",
+          "orderIndex": 1,
+          "title": "Return to Naja Salaheem who will tell you to talk to Fubruhn (F-11).",
+          "description": "Return to Naja Salaheem who will tell you to talk to Fubruhn (F-11). (This step is optional).",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-3-president-salaheem-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-3-president-salaheem-node-3",
+          "orderIndex": 2,
+          "title": "Zone before talking to Naja again.",
+          "description": "Zone before talking to Naja again. Entering and exiting the mog house next to Fubruhn is sufficient.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-3-president-salaheem-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-3-president-salaheem-node-4",
+          "orderIndex": 3,
+          "title": "Talk with Naja Salaheem again multiple times until you get a cutscene with Raillefal.",
+          "description": "Talk with Naja Salaheem again multiple times until you get a cutscene with Raillefal",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-3-president-salaheem-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-3-president-salaheem-node-5",
+          "orderIndex": 4,
+          "title": "If you have completed RoV Mission 2-7 Ever Forward, you may talk with Abquhbah to collect Cipher: Ab",
+          "description": "If you have completed RoV Mission 2-7 Ever Forward, you may talk with Abquhbah to collect Cipher: Abquhbah.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-3-president-salaheem-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-4-knight-of-gold",
+      "title": "Aht Urhgan Mission 4: Knight of Gold",
+      "number": "ToAU 4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_4:_Knight_of_Gold",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-4-knight-of-gold-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Cacaroon at Aht Urhgan Whitegate (G-11) for a cutscene.",
+          "description": "Talk to Cacaroon at Aht Urhgan Whitegate (G-11) for a cutscene. The right cutscene opens with \"Cacaroon got cheeep info, ya?\" If you get a cutscene related to Two Horn the Savage, go back and talk to Naja Salaheem, then return to Cacaroon. If you are on the part of the quest Rat Race where you must obtain information from Cacaroon, he will not give you the cutscene for this mission until you have completed Rat Race. He may mention something about Mamook being very spooky. If he does, just talk to him again.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-4-knight-of-gold-node-2",
+          "orderIndex": 1,
+          "title": "Trade Cacaroon 1000 gil or an Imperial Bronze Piece for another cutscene.",
+          "description": "Trade Cacaroon 1000 gil or an Imperial Bronze Piece for another cutscene. If you chose to pay the gil instead of giving the coin, he won't automatically take the gil from you. You have to trade it to him.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-4-knight-of-gold-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-4-knight-of-gold-node-3",
+          "orderIndex": 2,
+          "title": "Enter the Walahra Temple at Aht Urhgan Whitegate (K-8) and a cutscene will automatically start with ",
+          "description": "Enter the Walahra Temple at Aht Urhgan Whitegate (K-8) and a cutscene will automatically start with Nadeey.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-4-knight-of-gold-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-4-knight-of-gold-node-4",
+          "orderIndex": 3,
+          "title": "Enter the Shararat Teahouse at Aht Urhgan Whitegate (K-12) second floor for a cutscene.",
+          "description": "Enter the Shararat Teahouse at Aht Urhgan Whitegate (K-12) second floor for a cutscene. You will receive Raillefal's letter. When you are asked by Raillefal \"My secret? Explain yourself?,\" choose the third answer to proceed. Choosing the other answers will return a response from Raillefal. You can still chose the third answer to proceed. When guessing his identity (the prompt is \"Raillefal is really...\"), you may choose any response. All three answers have been tested and will complete the mission.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-4-knight-of-gold-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-5-confessions-of-royalty",
+      "title": "Aht Urhgan Mission 5: Confessions of Royalty",
+      "number": "ToAU 5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_5:_Confessions_of_Royalty",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-5-confessions-of-royalty-node-1",
+          "orderIndex": 0,
+          "title": "{Chateau d'Oraguille} Talk to Halver.",
+          "description": "{Chateau d'Oraguille} Talk to Halver. If you do not have access to Chateau d'Oraguille, you may also talk to Guilerme or Bacherume (I-7) in Northern San d'Oria. If you've completed The Path Untraveled and haven't picked up his Cipher yet, you'll need to talk with him twice.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-6-easterly-winds",
+      "title": "Aht Urhgan Mission 6: Easterly Winds",
+      "number": "ToAU 6",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_6:_Easterly_Winds",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-6-easterly-winds-node-1",
+          "orderIndex": 0,
+          "title": "(Ru'Lude Gardens H-6 Upper Floor) Approach the Audience Chamber in the Grand Duke Palace for a cutsc",
+          "description": "(Ru'Lude Gardens H-6 Upper Floor) Approach the Audience Chamber in the Grand Duke Palace for a cutscene. If you choose \"Yes\" for the first question and \"That's what I'm here for!\" for the third question, you receive 10 Imperial Bronze Pieces. Both are the first option, so you don't have to worry about accidentally clicking the wrong choice.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-7-westerly-winds",
+      "title": "Aht Urhgan Mission 7: Westerly Winds",
+      "number": "ToAU 7",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_7:_Westerly_Winds",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-7-westerly-winds-node-1",
+          "orderIndex": 0,
+          "title": "{Aht Urhgan Whitegate} Visit the Shararat Teahouse (K-12) for a cutscene and one Imperial Silver Pie",
+          "description": "{Aht Urhgan Whitegate} Visit the Shararat Teahouse (K-12) for a cutscene and one Imperial Silver Piece.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-7-westerly-winds-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Naja Salaheem for a cutscene and another Imperial Silver Piece.",
+          "description": "Talk to Naja Salaheem for a cutscene and another Imperial Silver Piece.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-7-westerly-winds-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-8-a-mercenary-life",
+      "title": "Aht Urhgan Mission 8: A Mercenary Life",
+      "number": "ToAU 8",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_8:_A_Mercenary_Life",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-8-a-mercenary-life-node-1",
+          "orderIndex": 0,
+          "title": "Enter Salaheem's Sentinels for a cutscene.",
+          "description": "Enter Salaheem's Sentinels for a cutscene. If you just finished Westerly Winds, zone first. Closest zone opportunity is the Wajaom Woodlands hidden fortress gate downstairs at (H-10).",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-9-undersea-scouting",
+      "title": "Aht Urhgan Mission 9: Undersea Scouting",
+      "number": "ToAU 9",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_9:_Undersea_Scouting",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-9-undersea-scouting-node-1",
+          "orderIndex": 0,
+          "title": "If you have not activated the Nyzul Isle Staging Point: (Bhaflau Thickets F-6) Trade 1 Imperial Silv",
+          "description": "If you have not activated the Nyzul Isle Staging Point: (Bhaflau Thickets F-6) Trade 1 Imperial Silver Piece to the Immortal Kamih Mapokhalam to enter Alzadaal Undersea Ruins. For a Map of Alzadaal Undersea Ruins you can... Trade her 3 Imperial Mythril Pieces. Pay 3000 gil to various Map Vendors listed in the Map Guide, such as from Riyadahf in Aht Urhgan Whitegate (I-10). Exchange 1000 Imperial Standing credits to any Imperial Overseer. (Alzadaal Undersea Ruins G-8 Map 7) Proceed east for a cutscene and to receive the Astral Compass. The mission is over after this cutscene. To activate the staging point immediately after (recommended): (Alzadaal H-8 Map 7 Portal A) then (Alzadaal H-9 Map 10 Portal E). Basically, after the cutscene, proceed and take the left portal (north, west) twice. Be wary of Apex Archaic Cogs, which have been added in a 2021 update, right after the first door. They are level 139-142 and aggro True Sight. Stick to the left after reaching the big room to avoid aggro. (Alzadaal K-9 Map 8) Go forward south, head east until it bends south, through the door, and go east until you reach Gilded Doors. Go inside the big room and take either Runic Portal to the east back to Aht Urhgan Whitegate.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-9-undersea-scouting-node-2",
+          "orderIndex": 1,
+          "title": "If you currently have the Nyzul Isle Staging Point activated: Use it to teleport to Alzadaal Underse",
+          "description": "If you currently have the Nyzul Isle Staging Point activated: Use it to teleport to Alzadaal Undersea Ruins. Exit though the South door, then west to the room at (I-9) and use the door to the north. Go to the southeast teleport (H-9), then the east teleport, and proceed west for the cutscene to receive the Astral Compass",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-9-undersea-scouting-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-10-astral-waves",
+      "title": "Aht Urhgan Mission 10: Astral Waves",
+      "number": "ToAU 10",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_10:_Astral_Waves",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-10-astral-waves-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Naja Salaheem.",
+          "description": "Talk to Naja Salaheem.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-11-imperial-schemes",
+      "title": "Aht Urhgan Mission 11: Imperial Schemes",
+      "number": "ToAU 11",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_11:_Imperial_Schemes",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-11-imperial-schemes-node-1",
+          "orderIndex": 0,
+          "title": "Zone, wait for the next vana'diel day, and enter Salaheem's Sentinels for a cutscene.",
+          "description": "Zone, wait for the next vana'diel day, and enter Salaheem's Sentinels for a cutscene. After this, if you're doing Aht Urhgan missions for Rhapsodies of Vana'diel prerequisites, this mission should now be over, and you can now click on the Imperial Whitegate to continue that mission line. It's strongly recommended you finish up to Uncertain Destinations before resuming Treasures of Aht Urhgan. Otherwise Rhapsodies of Vana'diel will probably get blocked until you complete all of Treasures of Aht Urghan.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-12-royal-puppeteer",
+      "title": "Aht Urhgan Mission 12: Royal Puppeteer",
+      "number": "ToAU 12",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_12:_Royal_Puppeteer",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-12-royal-puppeteer-node-1",
+          "orderIndex": 0,
+          "title": "If you're doing Aht Urhgan missions for Rhapsodies of Vana'diel prerequisites, you can click on the ",
+          "description": "If you're doing Aht Urhgan missions for Rhapsodies of Vana'diel prerequisites, you can click on the Whitegate to continue that mission line without doing any of the below. It's strongly recommended you finish up to Uncertain Destinations before you continue Treasures of Aht Urhgan.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-12-royal-puppeteer-node-2",
+          "orderIndex": 1,
+          "title": "Obtain a Vial of Jody's Acid from Ameretats or Jaded Jody in Wajaom Woodlands, Bhaflau Thickets, or ",
+          "description": "Obtain a Vial of Jody's Acid from Ameretats or Jaded Jody in Wajaom Woodlands, Bhaflau Thickets, or Aydeewa Subterrane.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-12-royal-puppeteer-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-12-royal-puppeteer-node-3",
+          "orderIndex": 2,
+          "title": "Travel to Nashmau.",
+          "description": "Travel to Nashmau. This can first be reached via the northern ferry in Aht Urhgan Whitegate (I-6), or by Atmacite Refiner if you possess Amber Stratum Abyssite, or, Survival Guide or Home Point #1 in Nashmau.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-12-royal-puppeteer-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-12-royal-puppeteer-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Pyopyoroon (H-7) for a cutscene.",
+          "description": "Talk to Pyopyoroon (H-7) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-12-royal-puppeteer-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-12-royal-puppeteer-node-5",
+          "orderIndex": 4,
+          "title": "Trade the Vial of Jody's Acid to Pyopyoroon to receive the Vial of Spectral Scent.",
+          "description": "Trade the Vial of Jody's Acid to Pyopyoroon to receive the Vial of Spectral Scent.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-12-royal-puppeteer-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-13-lost-kingdom",
+      "title": "Aht Urhgan Mission 13: Lost Kingdom",
+      "number": "ToAU 13",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_13:_Lost_Kingdom",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-13-lost-kingdom-node-1",
+          "orderIndex": 0,
+          "title": "Check Jazaraat's Headstone (E-10) in Caedarva Mire for a short cutscene.",
+          "description": "Check Jazaraat's Headstone (E-10) in Caedarva Mire for a short cutscene. This can be reached from the western exit of Nashmau.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-13-lost-kingdom-node-2",
+          "orderIndex": 1,
+          "title": "Check the headstone again to spawn the NM Jazaraat.",
+          "description": "Check the headstone again to spawn the NM Jazaraat.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-13-lost-kingdom-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-13-lost-kingdom-node-3",
+          "orderIndex": 2,
+          "title": "After Jazaraat is defeated, check the headstone again for another cutscene and the Ephramadian Gold ",
+          "description": "After Jazaraat is defeated, check the headstone again for another cutscene and the Ephramadian Gold Coin",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-13-lost-kingdom-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-14-the-dolphin-crest",
+      "title": "Aht Urhgan Mission 14: The Dolphin Crest",
+      "number": "ToAU 14",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_14:_The_Dolphin_Crest",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-14-the-dolphin-crest-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Naja Salaheem.",
+          "description": "Talk to Naja Salaheem. There is a Home Point in a cave just to the northwest of the gravestone examined in Aht Urhgan Mission 13: Lost Kingdom that can be used to return to Aht Urhgan Whitegate.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-15-the-black-coffin",
+      "title": "Aht Urhgan Mission 15: The Black Coffin",
+      "number": "ToAU 15",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_15:_The_Black_Coffin",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-15-the-black-coffin-node-1",
+          "orderIndex": 0,
+          "title": "Travel to the Cutter in Arrapago Reef (H-8), and approach it for a cutscene.",
+          "description": "Travel to the Cutter in Arrapago Reef (H-8), and approach it for a cutscene. This can be reached at (G-9) on Dvucca Isle, the same map as the Dvucca Isle Staging Point. Dvucca Isle Staging Point can be reached from the Nyzul Isle Staging Point: Take the northwest teleport at (G-8), then the west teleport, and then exit. From there, travel northwest and then eastward to the staging point at (I-9). Alternatively, from Nashmau, take the west exit into Caedarva Mire, pay an Imperial Silver Piece to the Immortal (E-11) to enter Alzadaal Undersea Ruins, take the teleport, and then exit. From there, travel westward to Arrapago Reef marked as #3 entrance on Caedarva map (F-9). For the fastest route, if you already have the Caedarva Mire Survival Guide. You can use the Survival Guide and then travel South to the #4 entrance to Arrapago Reef.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-15-the-black-coffin-node-2",
+          "orderIndex": 1,
+          "title": "Examine the Cutter (H-8) and select \"The Black Coffin\" to enter an uncapped, 6-player battlefield.",
+          "description": "Examine the Cutter (H-8) and select \"The Black Coffin\" to enter an uncapped, 6-player battlefield.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-15-the-black-coffin-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-15-the-black-coffin-node-3",
+          "orderIndex": 2,
+          "title": "Upon victory, you will be transported to Nashmau for a cutscene.",
+          "description": "Upon victory, you will be transported to Nashmau for a cutscene. Participants who have already completed the mission will remain on the dock of the Cutter.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-15-the-black-coffin-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-16-ghosts-of-the-past",
+      "title": "Aht Urhgan Mission 16: Ghosts of the Past",
+      "number": "ToAU 16",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_16:_Ghosts_of_the_Past",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-16-ghosts-of-the-past-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Naja Salaheem.",
+          "description": "Talk to Naja Salaheem.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-17-guests-of-the-empire",
+      "title": "Aht Urhgan Mission 17: Guests of the Empire",
+      "number": "ToAU 17",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_17:_Guests_of_the_Empire",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-17-guests-of-the-empire-node-1",
+          "orderIndex": 0,
+          "title": "Note: You MUST have equipped: any Hands, Legs, Feet, but are required to have a Naja approved Body p",
+          "description": "Note: You MUST have equipped: any Hands, Legs, Feet, but are required to have a Naja approved Body piece; see the Confirmed Body Pieces chart below.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-17-guests-of-the-empire-node-2",
+          "orderIndex": 1,
+          "title": "Speak to Naja Salaheem to receive a cutscene.",
+          "description": "Speak to Naja Salaheem to receive a cutscene. If she does not like your equipment, she will show you samples of appropriate clothing, but its easier to just reference the chart below. Blue with Gold Trim Red with Gold Embroidery Pale Colors with Lace Deep Purple Armor Rich Crimson Cloth with a Pattern Indigo with Gold Embroidery Gorgeous Black",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-17-guests-of-the-empire-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-18-passing-glory",
+      "title": "Aht Urhgan Mission 18: Passing Glory",
+      "number": "ToAU 18",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_18:_Passing_Glory",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-18-passing-glory-node-1",
+          "orderIndex": 0,
+          "title": "NOTE: If you have a Trust permit, you can now examine the cushion in Shararat Teahouse (J-12) to obt",
+          "description": "NOTE: If you have a Trust permit, you can now examine the cushion in Shararat Teahouse (J-12) to obtain Trust: Gessho.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-18-passing-glory-node-2",
+          "orderIndex": 1,
+          "title": "Zone and wait until the next game day, then talk to Naja Salaheem.",
+          "description": "Zone and wait until the next game day, then talk to Naja Salaheem.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-18-passing-glory-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-19-sweets-for-the-soul",
+      "title": "Aht Urhgan Mission 19: Sweets for the Soul",
+      "number": "ToAU 19",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_19:_Sweets_for_the_Soul",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-19-sweets-for-the-soul-node-1",
+          "orderIndex": 0,
+          "title": "Head to the Shararat Teahouse at (K-11) for a cutscene.",
+          "description": "Head to the Shararat Teahouse at (K-11) for a cutscene. Again: If you have a Trust permit, you can now examine the cushion in Shararat Teahouse (J-12) to obtain Trust: Gessho.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-20-teahouse-tumult",
+      "title": "Aht Urhgan Mission 20: Teahouse Tumult",
+      "number": "ToAU 20",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_20:_Teahouse_Tumult",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-20-teahouse-tumult-node-1",
+          "orderIndex": 0,
+          "title": "Enter Aydeewa Subterrane from Wajaom Woodlands (G-7) for a cutscene.",
+          "description": "Enter Aydeewa Subterrane from Wajaom Woodlands (G-7) for a cutscene. Entering any area of Aydeewa Subterrane will also trigger the cutscene. If you already have the Aydeewa Subterrane Survival Guide, use that.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-20-teahouse-tumult-node-2",
+          "orderIndex": 1,
+          "title": "From map 2, take exit G at (D-8) or exit D at (E-9) to enter map 5.",
+          "description": "From map 2, take exit G at (D-8) or exit D at (E-9) to enter map 5.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-20-teahouse-tumult-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-20-teahouse-tumult-node-3",
+          "orderIndex": 2,
+          "title": "Check the blank target at (G-8) of map 5, by the tree root in the middle, for a cutscene.",
+          "description": "Check the blank target at (G-8) of map 5, by the tree root in the middle, for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-20-teahouse-tumult-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-21-finders-keepers",
+      "title": "Aht Urhgan Mission 21: Finders Keepers",
+      "number": "ToAU 21",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_21:_Finders_Keepers",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-21-finders-keepers-node-1",
+          "orderIndex": 0,
+          "title": "Return to Salaheem's Sentinels and approach the office.",
+          "description": "Return to Salaheem's Sentinels and approach the office.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-22-shield-of-diplomacy",
+      "title": "Aht Urhgan Mission 22: Shield of Diplomacy",
+      "number": "ToAU 22",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_22:_Shield_of_Diplomacy",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-22-shield-of-diplomacy-node-1",
+          "orderIndex": 0,
+          "title": "Enter Navukgo Execution Chamber for a cutscene.",
+          "description": "Enter Navukgo Execution Chamber for a cutscene. From the Nyzul Isle Staging Point, use the southwest teleport at (G-9), then the west teleport, then exit to Bhaflau Thickets (Tandjana Islet). Proceed northwest to Halvung at (F-5), continue north into Mount Zhayolm, then travel to (D-8) to enter Navukgo Execution Chamber. The Mount Zhayolm Home Point #1 is right outside the Navukgo Execution Chamber. Unity Concord Warp (128 Mount Zhayolm) is also very close.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-22-shield-of-diplomacy-node-2",
+          "orderIndex": 1,
+          "title": "Examine the Decorative Bronze Gate for a second cutscene.",
+          "description": "Examine the Decorative Bronze Gate for a second cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-22-shield-of-diplomacy-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-22-shield-of-diplomacy-node-3",
+          "orderIndex": 2,
+          "title": "Examine it one more time to enter the uncapped, 6-person battlefield \"Shield of Diplomacy\".",
+          "description": "Examine it one more time to enter the uncapped, 6-person battlefield \"Shield of Diplomacy\".",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-22-shield-of-diplomacy-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-23-social-graces",
+      "title": "Aht Urhgan Mission 23: Social Graces",
+      "number": "ToAU 23",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_23:_Social_Graces",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-23-social-graces-node-1",
+          "orderIndex": 0,
+          "title": "Return to Salaheem's Sentinels and approach the office for a cutscene.",
+          "description": "Return to Salaheem's Sentinels and approach the office for a cutscene.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-24-foiled-ambition",
+      "title": "Aht Urhgan Mission 24: Foiled Ambition",
+      "number": "ToAU 24",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_24:_Foiled_Ambition",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-24-foiled-ambition-node-1",
+          "orderIndex": 0,
+          "title": "Zone, wait until the next vana'diel day, and then return to Salaheem's Sentinels for a cutscene.",
+          "description": "Zone, wait until the next vana'diel day, and then return to Salaheem's Sentinels for a cutscene.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-25-playing-the-part",
+      "title": "Aht Urhgan Mission 25: Playing the Part",
+      "number": "ToAU 25",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_25:_Playing_the_Part",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-25-playing-the-part-node-1",
+          "orderIndex": 0,
+          "title": "Zone, wait until the next Vana'diel day, then talk to Naja Salaheem.",
+          "description": "Zone, wait until the next Vana'diel day, then talk to Naja Salaheem. Choosing \"Aphmau\" will continue the dialogue.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-26-seal-of-the-serpent",
+      "title": "Aht Urhgan Mission 26: Seal of the Serpent",
+      "number": "ToAU 26",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_26:_Seal_of_the_Serpent",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-26-seal-of-the-serpent-node-1",
+          "orderIndex": 0,
+          "title": "Remove your weapons and shield, then examine the Imperial Whitegate door at (L-9).",
+          "description": "Remove your weapons and shield, then examine the Imperial Whitegate door at (L-9).",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-27-misplaced-nobility",
+      "title": "Aht Urhgan Mission 27: Misplaced Nobility",
+      "number": "ToAU 27",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_27:_Misplaced_Nobility",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-27-misplaced-nobility-node-1",
+          "orderIndex": 0,
+          "title": "If you have the Aydeewa Subterrane Survival Guide, use that.",
+          "description": "If you have the Aydeewa Subterrane Survival Guide, use that. Otherwise, enter Aydeewa Subterrane from Wajaom Woodlands (G-7). The Survival Guide in Wajaom Woodlands is not far from this entrance.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-27-misplaced-nobility-node-2",
+          "orderIndex": 1,
+          "title": "From map 2, take exit G at (D-8) or exit D at (E-9) to enter map 5.",
+          "description": "From map 2, take exit G at (D-8) or exit D at (E-9) to enter map 5.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-27-misplaced-nobility-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-27-misplaced-nobility-node-3",
+          "orderIndex": 2,
+          "title": "Check the blank target at (G-8) of map 5, by the tree root in the middle, for a cutscene.",
+          "description": "Check the blank target at (G-8) of map 5, by the tree root in the middle, for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-27-misplaced-nobility-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-28-bastion-of-knowledge",
+      "title": "Aht Urhgan Mission 28: Bastion of Knowledge",
+      "number": "ToAU 28",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_28:_Bastion_of_Knowledge",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-28-bastion-of-knowledge-node-1",
+          "orderIndex": 0,
+          "title": "Enter Walahra Temple in Aht Urhgan Whitegate (J-7).",
+          "description": "Enter Walahra Temple in Aht Urhgan Whitegate (J-7).",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-29-puppet-in-peril",
+      "title": "Aht Urhgan Mission 29: Puppet in Peril",
+      "number": "ToAU 29",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_29:_Puppet_in_Peril",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-29-puppet-in-peril-node-1",
+          "orderIndex": 0,
+          "title": "Travel to Jade Sepulcher.",
+          "description": "Travel to Jade Sepulcher. This can be reached by traveling directly north from the Mamool Ja Staging Point. Enter by using Bhaflau Thickets Home Point #1 if you have it. Or you can use the Runic Portal in Aht Urhgan Whitegate (Home Point #2) to warp to Mamool Ja Staging Point, then head north to exit to Jade Sepulcher. If you are traveling there for the first time, to reach Mamool Ja Staging Point, first travel to Wajaom Woodlands (D-12) to enter Mamook, then exit 2 (F-10) to enter Bhaflau Thickets. The staging point is directly to the south. On your way back up to the Jade Sepulcher, make sure you grab the home point (I-9) by the entrance to it.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-29-puppet-in-peril-node-2",
+          "orderIndex": 1,
+          "title": "Examine the Ornamental Door for a cutscene.",
+          "description": "Examine the Ornamental Door for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-29-puppet-in-peril-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-29-puppet-in-peril-node-3",
+          "orderIndex": 2,
+          "title": "Examine the Ornamental Door again and select the level 99 capped 6-player battlefield \"Puppet in Per",
+          "description": "Examine the Ornamental Door again and select the level 99 capped 6-player battlefield \"Puppet in Peril\".",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-29-puppet-in-peril-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-30-prevalence-of-pirates",
+      "title": "Aht Urhgan Mission 30: Prevalence of Pirates",
+      "number": "ToAU 30",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_30:_Prevalence_of_Pirates",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-30-prevalence-of-pirates-node-1",
+          "orderIndex": 0,
+          "title": "Enter Arrapago Reef via the Dvucca Isle entrance at (F-9) for a cutscene.",
+          "description": "Enter Arrapago Reef via the Dvucca Isle entrance at (F-9) for a cutscene. This can be reached from Dvucca Isle Staging Point. Dvucca Isle Staging Point can be reached from the Nyzul Isle Staging Point: Take the northwest teleport at (G-8), then the west teleport, and then exit. From there, travel northwest and then eastward to the staging point at (I-9). Alternatively, from Nashmau, take the west exit into Caedarva Mire, pay an Imperial Silver Piece to the Immortal (E-11) to enter Alzadaal Undersea Ruins, take the teleport, and then exit. From there, travel westward to Arrapago Reef marked as #3 entrance on Caedarva map (F-9). For the fastest route, if you already have the Caedarva Mire Survival Guide. You can use the Survival Guide and then travel South to the #4 entrance to Arrapago Reef.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-30-prevalence-of-pirates-node-2",
+          "orderIndex": 1,
+          "title": "Approach the Cutter for another cutscene.",
+          "description": "Approach the Cutter for another cutscene. You will receive a Periqia Assault Area Entry Permit.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-30-prevalence-of-pirates-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-31-shades-of-vengeance",
+      "title": "Aht Urhgan Mission 31: Shades of Vengeance",
+      "number": "ToAU 31",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_31:_Shades_of_Vengeance",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-31-shades-of-vengeance-node-1",
+          "orderIndex": 0,
+          "title": "Return to the Dvucca Isle Staging Point in Caedarva Mire.",
+          "description": "Return to the Dvucca Isle Staging Point in Caedarva Mire. You can save Imperial Standing for runic portal pass by using Assault Orders for Periqia since you do not have to leave the staging point.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-31-shades-of-vengeance-node-2",
+          "orderIndex": 1,
+          "title": "Check the Runic Seal to enter the uncapped 6-person battlefield \"Shades of Vengeance\".",
+          "description": "Check the Runic Seal to enter the uncapped 6-person battlefield \"Shades of Vengeance\". Upon failure, you can obtain a new Periqia Assault Area Entry Permit from Nahshib at the staging point. Only the players who need to complete this mission need one. Nahshib will only issue one Periqia Assault Area Entry Permit per vana'diel day.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-31-shades-of-vengeance-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-32-in-the-blood",
+      "title": "Aht Urhgan Mission 32: In the Blood",
+      "number": "ToAU 32",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_32:_In_the_Blood",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-32-in-the-blood-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Naja Salaheem.",
+          "description": "Talk to Naja Salaheem.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-33-sentinels-honor",
+      "title": "Aht Urhgan Mission 33: Sentinels' Honor",
+      "number": "ToAU 33",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_33:_Sentinels%27_Honor",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-33-sentinels-honor-node-1",
+          "orderIndex": 0,
+          "title": "Zone, wait until the next Vana'diel day, then talk to Naja Salaheem.",
+          "description": "Zone, wait until the next Vana'diel day, then talk to Naja Salaheem.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-34-testing-the-waters",
+      "title": "Aht Urhgan Mission 34: Testing the Waters",
+      "number": "ToAU 34",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_34:_Testing_the_Waters",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-34-testing-the-waters-node-1",
+          "orderIndex": 0,
+          "title": "Obtain a new Ephramadian Gold Coin from Jazaraat's Headstone at Caedarva Mire (E-10), west of Nashma",
+          "description": "Obtain a new Ephramadian Gold Coin from Jazaraat's Headstone at Caedarva Mire (E-10), west of Nashmau. The headstone is also a very short walk away from Home Point #1 in Caedarva Mire",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-34-testing-the-waters-node-2",
+          "orderIndex": 1,
+          "title": "Travel to the Cutter in Arrapago Reef (H-8), and approach it for a cutscene.",
+          "description": "Travel to the Cutter in Arrapago Reef (H-8), and approach it for a cutscene. This can be reached at (G-9) on Dvucca Isle, the same map as the Dvucca Isle Staging Point. Dvucca Isle Staging Point can be reached from the Nyzul Isle Staging Point: Take the northwest teleport at (G-8), then the west teleport, and then exit. From there, travel northwest and then eastward to the staging point at (I-9). Alternatively, from Nashmau, take the west exit into Caedarva Mire, pay an Imperial Silver Piece to the Immortal (E-11) to enter Alzadaal Undersea Ruins, take the teleport, and then exit. From there, travel westward to Arrapago Reef marked as #3 entrance on Caedarva map (F-9). For the fastest route, if you already have the Caedarva Mire Survival Guide. You can use the Survival Guide and then travel South to the #4 entrance to Arrapago Reef.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-34-testing-the-waters-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-34-testing-the-waters-node-3",
+          "orderIndex": 2,
+          "title": "You will receive the Percipient Eye and be transported to Talacca Cove.",
+          "description": "You will receive the Percipient Eye and be transported to Talacca Cove.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-34-testing-the-waters-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-35-legacy-of-the-lost",
+      "title": "Aht Urhgan Mission 35: Legacy of the Lost",
+      "number": "ToAU 35",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_35:_Legacy_of_the_Lost",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-35-legacy-of-the-lost-node-1",
+          "orderIndex": 0,
+          "title": "Check the Rock Slab in Talacca Cove to enter the 6-player uncapped battlefield \"Legacy of the Lost\".",
+          "description": "Check the Rock Slab in Talacca Cove to enter the 6-player uncapped battlefield \"Legacy of the Lost\".",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-35-legacy-of-the-lost-node-2",
+          "orderIndex": 1,
+          "title": "All buffs except food will be removed upon entry.",
+          "description": "All buffs except food will be removed upon entry. Alter egos may be summoned once inside.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-35-legacy-of-the-lost-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-35-legacy-of-the-lost-node-3",
+          "orderIndex": 2,
+          "title": "Gessho uses standard Ninjutsu spells, ranged attacks, and Mijin Gakure.",
+          "description": "Gessho uses standard Ninjutsu spells, ranged attacks, and Mijin Gakure. He will periodically teleport around the arena, typically due to a shift in enmity. May spawn several weaker clones of himself, which can all use Mijin Gakure. They will despawn naturally after about 15 seconds.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-35-legacy-of-the-lost-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-35-legacy-of-the-lost-node-4",
+          "orderIndex": 3,
+          "title": "Gessho gives up around 10% health.",
+          "description": "Gessho gives up around 10% health.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-35-legacy-of-the-lost-node-3"
+          ]
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-35-legacy-of-the-lost-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-35-legacy-of-the-lost-node-1",
+          "requirement": "Percipient Eye",
+          "description": "Percipient Eye"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-36-gaze-of-the-saboteur",
+      "title": "Aht Urhgan Mission 36: Gaze of the Saboteur",
+      "number": "ToAU 36",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_36:_Gaze_of_the_Saboteur",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-36-gaze-of-the-saboteur-node-1",
+          "orderIndex": 0,
+          "title": "Travel to Hazhalm Testing Grounds for a cutscene.",
+          "description": "Travel to Hazhalm Testing Grounds for a cutscene. This can be reached at Caedarva Mire (D-10). From the battlefield for Legacy of the Lost, travel southwest to exit into Caedarva Mire, then head west. Alternatively, you can take Caedarva Mire Home Point #1, then head south through the graveyard and west to the area.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-36-gaze-of-the-saboteur-node-2",
+          "orderIndex": 1,
+          "title": "Check the Entry Gate for another cutscene.",
+          "description": "Check the Entry Gate for another cutscene. You will receive Luminian Dagger.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-36-gaze-of-the-saboteur-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-37-path-of-blood",
+      "title": "Aht Urhgan Mission 37: Path of Blood",
+      "number": "ToAU 37",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_37:_Path_of_Blood",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-37-path-of-blood-node-1",
+          "orderIndex": 0,
+          "title": "Enter Salaheem's Sentinels and approach the office for a cutscene.",
+          "description": "Enter Salaheem's Sentinels and approach the office for a cutscene.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-38-stirrings-of-war",
+      "title": "Aht Urhgan Mission 38: Stirrings of War",
+      "number": "ToAU 38",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_38:_Stirrings_of_War",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-38-stirrings-of-war-node-1",
+          "orderIndex": 0,
+          "title": "Zone, wait until the next Vana'diel day, then enter the Sharahat Teahouse.",
+          "description": "Zone, wait until the next Vana'diel day, then enter the Sharahat Teahouse. You will receive the Allied Council Summons.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-39-allied-rumblings",
+      "title": "Aht Urhgan Mission 39: Allied Rumblings",
+      "number": "ToAU 39",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_39:_Allied_Rumblings",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-39-allied-rumblings-node-1",
+          "orderIndex": 0,
+          "title": "Enter the palace in Ru'Lude Gardens for a cutscene.",
+          "description": "Enter the palace in Ru'Lude Gardens for a cutscene.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-40-unraveling-reason",
+      "title": "Aht Urhgan Mission 40: Unraveling Reason",
+      "number": "ToAU 40",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_40:_Unraveling_Reason",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-40-unraveling-reason-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Pherimociel in Ru'Lude Gardens (G-6), behind the Guard Post door.",
+          "description": "Talk to Pherimociel in Ru'Lude Gardens (G-6), behind the Guard Post door. This step is optional and will give additional dialog.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-40-unraveling-reason-node-2",
+          "orderIndex": 1,
+          "title": "Zone, wait until the next Vana'diel day, then talk to Pherimociel.",
+          "description": "Zone, wait until the next Vana'diel day, then talk to Pherimociel. If you talk to him before the day changes, or if you choose \"Not yet\", you will have to re-zone.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-40-unraveling-reason-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-40-unraveling-reason-node-3",
+          "orderIndex": 2,
+          "title": "You will be transported to the Leypoint in Wajaom Woodlands.",
+          "description": "You will be transported to the Leypoint in Wajaom Woodlands.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-40-unraveling-reason-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-41-light-of-judgment",
+      "title": "Aht Urhgan Mission 41: Light of Judgment",
+      "number": "ToAU 41",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_41:_Light_of_Judgment",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-41-light-of-judgment-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Rodin-Comidin in Aht Urhgan Whitegate (I-7), outside the Automaton Workshop.",
+          "description": "Talk to Rodin-Comidin in Aht Urhgan Whitegate (I-7), outside the Automaton Workshop. You will receive the Nyzul Isle Route.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-42-path-of-darkness",
+      "title": "Aht Urhgan Mission 42: Path of Darkness",
+      "number": "ToAU 42",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_42:_Path_of_Darkness",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-42-path-of-darkness-node-1",
+          "orderIndex": 0,
+          "title": "Enter the Nyzul Isle Staging Point and examine the blank target on the lamp directly in front of you",
+          "description": "Enter the Nyzul Isle Staging Point and examine the blank target on the lamp directly in front of you for a cutscene. At this point you will be unable to enter Salaheem's Sentinels until the mission is completed.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-42-path-of-darkness-node-2",
+          "orderIndex": 1,
+          "title": "Check the Runic Seal to the west to enter the 6-player uncapped battlefield \"Path of Darkness.\" You ",
+          "description": "Check the Runic Seal to the west to enter the 6-player uncapped battlefield \"Path of Darkness.\" You will lose your Nyzul Isle Route. Only players on this mission require a Nyzul Isle Route. Upon failure, another one can be obtained from Rodin-Comidin (I-7) at Aht Urhgan Whitegate.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-42-path-of-darkness-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-43-fangs-of-the-lion",
+      "title": "Aht Urhgan Mission 43: Fangs of the Lion",
+      "number": "ToAU 43",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_43:_Fangs_of_the_Lion",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-43-fangs-of-the-lion-node-1",
+          "orderIndex": 0,
+          "title": "Enter Salaheem's Sentinels for a cutscene.",
+          "description": "Enter Salaheem's Sentinels for a cutscene. You will receive Mythril Mirror.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-44-nashmeira-s-plea",
+      "title": "Aht Urhgan Mission 44: Nashmeira's Plea",
+      "number": "ToAU 44",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_44:_Nashmeira%27s_Plea",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-44-nashmeira-s-plea-node-1",
+          "orderIndex": 0,
+          "title": "Examine the blank target on the lamp at the Nyzul Isle Staging Point.",
+          "description": "Examine the blank target on the lamp at the Nyzul Isle Staging Point.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-44-nashmeira-s-plea-node-2",
+          "orderIndex": 1,
+          "title": "Check the Runic Seal to the west to enter the uncapped 6-player battlefield \"Nashmeira's Plea\".",
+          "description": "Check the Runic Seal to the west to enter the uncapped 6-player battlefield \"Nashmeira's Plea\". You will lose your Mythril Mirror. Only players on this mission require a Mythril Mirror. Upon failure, another one can be obtained from Naja Salaheem.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-44-nashmeira-s-plea-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-45-ragnarok",
+      "title": "Aht Urhgan Mission 45: Ragnarok",
+      "number": "ToAU 45",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_45:_Ragnarok",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-45-ragnarok-node-1",
+          "orderIndex": 0,
+          "title": "Enter Salaheem's Sentinels and approach the office.",
+          "description": "Enter Salaheem's Sentinels and approach the office.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-46-imperial-coronation",
+      "title": "Aht Urhgan Mission 46: Imperial Coronation",
+      "number": "ToAU 46",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_46:_Imperial_Coronation",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-46-imperial-coronation-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Aht Urhgan Mission 46: Imperial Coronation",
+          "dependencies": []
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-46-imperial-coronation-gate-1",
+          "type": "other",
+          "afterNodeId": null,
+          "requirement": "Treasures of Aht Urhgan",
+          "description": "Treasures of Aht Urhgan"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-47-the-empress-crowned",
+      "title": "Aht Urhgan Mission 47: The Empress Crowned",
+      "number": "ToAU 47",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_47:_The_Empress_Crowned",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-47-the-empress-crowned-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Naja Salaheem.",
+          "description": "Talk to Naja Salaheem. You will receive the Glory Crown.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-48-eternal-mercenary",
+      "title": "Aht Urhgan Mission 48: Eternal Mercenary",
+      "number": "ToAU 48",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aht_Urhgan_Mission_48:_Eternal_Mercenary",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-48-eternal-mercenary-node-1",
+          "orderIndex": 0,
+          "title": "This mission signifies the end of the Aht Urhgan storyline.",
+          "description": "This mission signifies the end of the Aht Urhgan storyline.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-aht-urhgan-aht-urhgan-mission-48-eternal-mercenary-node-2",
+          "orderIndex": 1,
+          "title": "After obtaining a Trust permit, examine the Imperial Whitegate (L-9) to learn Trust: Nashmeira.",
+          "description": "After obtaining a Trust permit, examine the Imperial Whitegate (L-9) to learn Trust: Nashmeira.",
+          "dependencies": [
+            "ffxiclopedia-aht-urhgan-aht-urhgan-mission-48-eternal-mercenary-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    }
+  ]
+}

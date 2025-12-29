@@ -1,0 +1,3641 @@
+{
+  "id": "ffxiclopedia-campaign",
+  "name": "FFXIclopedia - Campaign Operations",
+  "category": "campaign",
+  "source": "FFXIclopedia",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Campaign_Operations",
+  "lastScraped": "2025-12-29T17:29:37.433Z",
+  "lastKnownUpdate": "2025-12-29T17:29:37.433Z",
+  "totalMissions": 197,
+  "missions": [
+    {
+      "id": "ffxiclopedia-campaign-aegis-scream-i-bastok",
+      "title": "Aegis Scream I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aegis_Scream_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-aegis-scream-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Aegis Scream I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-aegis-scream-i-san-d-oria",
+      "title": "Aegis Scream I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aegis_Scream_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-aegis-scream-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Aegis Scream I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-aegis-scream-i-windurst",
+      "title": "Aegis Scream I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aegis_Scream_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-aegis-scream-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Aegis Scream I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-aegis-scream-ii-bastok",
+      "title": "Aegis Scream II (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aegis_Scream_II_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-aegis-scream-ii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Aegis Scream II (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-aegis-scream-ii-san-d-oria",
+      "title": "Aegis Scream II (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aegis_Scream_II_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-aegis-scream-ii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Aegis Scream II (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-aegis-scream-ii-windurst",
+      "title": "Aegis Scream II (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aegis_Scream_II_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-aegis-scream-ii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Aegis Scream II (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-aegis-scream-iii-bastok",
+      "title": "Aegis Scream III (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aegis_Scream_III_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-aegis-scream-iii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Aegis Scream III (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-aegis-scream-iii-san-d-oria",
+      "title": "Aegis Scream III (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aegis_Scream_III_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-aegis-scream-iii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Aegis Scream III (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-aegis-scream-iii-windurst",
+      "title": "Aegis Scream III (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aegis_Scream_III_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-aegis-scream-iii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Aegis Scream III (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-aegis-scream-iv-bastok",
+      "title": "Aegis Scream IV (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aegis_Scream_IV_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-aegis-scream-iv-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Aegis Scream IV (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-aegis-scream-iv-san-d-oria",
+      "title": "Aegis Scream IV (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aegis_Scream_IV_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-aegis-scream-iv-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Aegis Scream IV (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-aegis-scream-iv-windurst",
+      "title": "Aegis Scream IV (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aegis_Scream_IV_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-aegis-scream-iv-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Aegis Scream IV (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-aegis-scream-v-bastok",
+      "title": "Aegis Scream V (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aegis_Scream_V_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-aegis-scream-v-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Aegis Scream V (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-aegis-scream-v-san-d-oria",
+      "title": "Aegis Scream V (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aegis_Scream_V_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-aegis-scream-v-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Aegis Scream V (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-aegis-scream-v-windurst",
+      "title": "Aegis Scream V (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Aegis_Scream_V_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-aegis-scream-v-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Aegis Scream V (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-allied-ensign",
+      "title": "Allied Ensign",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Allied_Ensign",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-allied-ensign-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Allied Ensign",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-bailey-borer-bastok",
+      "title": "Bailey Borer (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Bailey_Borer_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-bailey-borer-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Travel to (F-7) or (F-9) of Castle Zvahl Baileys (S).",
+          "description": "Travel to (F-7) or (F-9) of Castle Zvahl Baileys (S).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-campaign-bailey-borer-bastok-node-2",
+          "orderIndex": 1,
+          "title": "Attack the Zvahl Fortalice located at the top of the stairs in either location.",
+          "description": "Attack the Zvahl Fortalice located at the top of the stairs in either location. It won't fight back or spawn any monsters.",
+          "dependencies": [
+            "ffxiclopedia-campaign-bailey-borer-bastok-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-bailey-borer-bastok-node-3",
+          "orderIndex": 2,
+          "title": "The mission is complete when the Fortalice is defeated.",
+          "description": "The mission is complete when the Fortalice is defeated. You will receive the EXP reward immediately.",
+          "dependencies": [
+            "ffxiclopedia-campaign-bailey-borer-bastok-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-bailey-borer-bastok-node-4",
+          "orderIndex": 3,
+          "title": "Speak with Hieronymus to complete the Ops and receive your Allied Notes.",
+          "description": "Speak with Hieronymus to complete the Ops and receive your Allied Notes.",
+          "dependencies": [
+            "ffxiclopedia-campaign-bailey-borer-bastok-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-bailey-borer-san-d-oria",
+      "title": "Bailey Borer (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Bailey_Borer_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-bailey-borer-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Travel to (F-7) or (F-9) of Castle Zvahl Baileys (S).",
+          "description": "Travel to (F-7) or (F-9) of Castle Zvahl Baileys (S).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-campaign-bailey-borer-san-d-oria-node-2",
+          "orderIndex": 1,
+          "title": "Attack the Zvahl Fortalice located at the top of the stairs in either location.",
+          "description": "Attack the Zvahl Fortalice located at the top of the stairs in either location. It won't fight back or spawn any monsters.",
+          "dependencies": [
+            "ffxiclopedia-campaign-bailey-borer-san-d-oria-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-bailey-borer-san-d-oria-node-3",
+          "orderIndex": 2,
+          "title": "The mission is complete when the Fortalice is defeated.",
+          "description": "The mission is complete when the Fortalice is defeated. You will receive the EXP reward immediately.",
+          "dependencies": [
+            "ffxiclopedia-campaign-bailey-borer-san-d-oria-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-bailey-borer-san-d-oria-node-4",
+          "orderIndex": 3,
+          "title": "Speak with Rasdinice to complete the Ops and receive your Allied Notes.",
+          "description": "Speak with Rasdinice to complete the Ops and receive your Allied Notes.",
+          "dependencies": [
+            "ffxiclopedia-campaign-bailey-borer-san-d-oria-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-bailey-borer-windurst",
+      "title": "Bailey Borer (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Bailey_Borer_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-bailey-borer-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Travel to (F-7) or (F-9) of Castle Zvahl Baileys (S).",
+          "description": "Travel to (F-7) or (F-9) of Castle Zvahl Baileys (S).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-campaign-bailey-borer-windurst-node-2",
+          "orderIndex": 1,
+          "title": "Attack the Zvahl Fortalice located at the top of the stairs in either location.",
+          "description": "Attack the Zvahl Fortalice located at the top of the stairs in either location. It won't fight back or spawn any monsters.",
+          "dependencies": [
+            "ffxiclopedia-campaign-bailey-borer-windurst-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-bailey-borer-windurst-node-3",
+          "orderIndex": 2,
+          "title": "The mission is complete when the Fortalice is defeated.",
+          "description": "The mission is complete when the Fortalice is defeated. You will receive the EXP reward immediately.",
+          "dependencies": [
+            "ffxiclopedia-campaign-bailey-borer-windurst-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-bailey-borer-windurst-node-4",
+          "orderIndex": 3,
+          "title": "Speak with Emhi Tchaoryo to complete the Op and receive your Allied Notes.",
+          "description": "Speak with Emhi Tchaoryo to complete the Op and receive your Allied Notes.",
+          "dependencies": [
+            "ffxiclopedia-campaign-bailey-borer-windurst-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-brave-dawn-i-bastok",
+      "title": "Brave Dawn I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Brave_Dawn_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-brave-dawn-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Brave Dawn I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-brave-dawn-i-san-d-oria",
+      "title": "Brave Dawn I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Brave_Dawn_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-brave-dawn-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Brave Dawn I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-brave-dawn-i-windurst",
+      "title": "Brave Dawn I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Brave_Dawn_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-brave-dawn-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Brave Dawn I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-brave-dawn-ii-bastok",
+      "title": "Brave Dawn II (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Brave_Dawn_II_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-brave-dawn-ii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Brave Dawn II (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-brave-dawn-ii-san-d-oria",
+      "title": "Brave Dawn II (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Brave_Dawn_II_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-brave-dawn-ii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Brave Dawn II (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-brave-dawn-ii-windurst",
+      "title": "Brave Dawn II (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Brave_Dawn_II_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-brave-dawn-ii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Brave Dawn II (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-brave-dawn-iii-bastok",
+      "title": "Brave Dawn III (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Brave_Dawn_III_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-brave-dawn-iii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Brave Dawn III (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-brave-dawn-iii-san-d-oria",
+      "title": "Brave Dawn III (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Brave_Dawn_III_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-brave-dawn-iii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Brave Dawn III (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-brave-dawn-iii-windurst",
+      "title": "Brave Dawn III (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Brave_Dawn_III_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-brave-dawn-iii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Brave Dawn III (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-bridge-too-far-i-bastok",
+      "title": "Bridge Too Far I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Bridge_Too_Far_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-bridge-too-far-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Bridge Too Far I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-bridge-too-far-i-san-d-oria",
+      "title": "Bridge Too Far I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Bridge_Too_Far_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-bridge-too-far-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Bridge Too Far I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-bridge-too-far-i-windurst",
+      "title": "Bridge Too Far I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Bridge_Too_Far_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-bridge-too-far-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Bridge Too Far I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-by-light-of-fire-i-bastok",
+      "title": "By Light of Fire I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/By_Light_of_Fire_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-by-light-of-fire-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: By Light of Fire I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-by-light-of-fire-i-san-d-oria",
+      "title": "By Light of Fire I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/By_Light_of_Fire_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-by-light-of-fire-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: By Light of Fire I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-by-light-of-fire-i-windurst",
+      "title": "By Light of Fire I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/By_Light_of_Fire_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-by-light-of-fire-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: By Light of Fire I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-campaign-operations-template",
+      "title": "Campaign Operations Template",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Campaign_Operations_Template",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-campaign-operations-template-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Campaign Operations Template",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-cracking-shells",
+      "title": "Cracking Shells",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Cracking_Shells",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-cracking-shells-node-1",
+          "orderIndex": 0,
+          "title": "Accept the mission from Hieronymus.",
+          "description": "Accept the mission from Hieronymus.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-campaign-cracking-shells-node-2",
+          "orderIndex": 1,
+          "title": "Travel to Beadeaux (S).",
+          "description": "Travel to Beadeaux (S).",
+          "dependencies": [
+            "ffxiclopedia-campaign-cracking-shells-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-cracking-shells-node-3",
+          "orderIndex": 2,
+          "title": "Enter a battlefield event at (L-8) on Map 2.",
+          "description": "Enter a battlefield event at (L-8) on Map 2. This is the Qulun Dome of the past, which is integrated into Beadeaux (S). Note: You need a Quadav Charm from De'Vyu Headhunter in present-day Beadeaux to pass through the gate at (I-9) of Map 1.",
+          "dependencies": [
+            "ffxiclopedia-campaign-cracking-shells-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-cracking-shells-node-4",
+          "orderIndex": 3,
+          "title": "In order to access the battlefield, all members must have a Diamond Seal, which can be dropped by an",
+          "description": "In order to access the battlefield, all members must have a Diamond Seal, which can be dropped by any Quadav in the area (excluding notorious monsters).",
+          "dependencies": [
+            "ffxiclopedia-campaign-cracking-shells-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-cracking-shells-node-5",
+          "orderIndex": 4,
+          "title": "The battle consists of four Quadav NMs: Za'Dha Adamantking (RNG) Di'Mho Platekeeper (WHM) Zi'Bhe Gau",
+          "description": "The battle consists of four Quadav NMs: Za'Dha Adamantking (RNG) Di'Mho Platekeeper (WHM) Zi'Bhe Gauntletkeeper (BLM) Zo'Bha Helmkeeper (RDM)",
+          "dependencies": [
+            "ffxiclopedia-campaign-cracking-shells-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-cracking-shells-node-6",
+          "orderIndex": 5,
+          "title": "Only Za'Dha Adamantking needs to be killed in order to win.",
+          "description": "Only Za'Dha Adamantking needs to be killed in order to win. Za'Dha Adamantking is a Ranger in this mission. He stands at a distance and throws rocks if you are out of range. Za'Dha Adamantking uses Eagle Eye Shot, dealing massive damage. The lesser NMs share hate with Za'Dha Adamantking after awakening from sleep.",
+          "dependencies": [
+            "ffxiclopedia-campaign-cracking-shells-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-cracking-shells-node-7",
+          "orderIndex": 6,
+          "title": "An Armoury Crate appears after the Adamantking is defeated.",
+          "description": "An Armoury Crate appears after the Adamantking is defeated. Contents: See below.",
+          "dependencies": [
+            "ffxiclopedia-campaign-cracking-shells-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-cracking-shells-node-8",
+          "orderIndex": 7,
+          "title": "Report to Hieronymus to complete the mission.",
+          "description": "Report to Hieronymus to complete the mission.",
+          "dependencies": [
+            "ffxiclopedia-campaign-cracking-shells-node-7"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crimson-domino-i-san-d-oria",
+      "title": "Crimson Domino I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crimson_Domino_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crimson-domino-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crimson Domino I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crimson-domino-i-windurst",
+      "title": "Crimson Domino I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crimson_Domino_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crimson-domino-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crimson Domino I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crimson-domino-ii-san-d-oria",
+      "title": "Crimson Domino II (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crimson_Domino_II_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crimson-domino-ii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crimson Domino II (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crimson-domino-ii-windurst",
+      "title": "Crimson Domino II (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crimson_Domino_II_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crimson-domino-ii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crimson Domino II (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crimson-domino-iii-san-d-oria",
+      "title": "Crimson Domino III (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crimson_Domino_III_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crimson-domino-iii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crimson Domino III (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crimson-domino-iii-windurst",
+      "title": "Crimson Domino III (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crimson_Domino_III_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crimson-domino-iii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crimson Domino III (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crimson-domino-iv-bastok",
+      "title": "Crimson Domino IV (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crimson_Domino_IV_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crimson-domino-iv-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crimson Domino IV (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crimson-domino-iv-san-d-oria",
+      "title": "Crimson Domino IV (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crimson_Domino_IV_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crimson-domino-iv-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crimson Domino IV (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crimson-domino-iv-windurst",
+      "title": "Crimson Domino IV (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crimson_Domino_IV_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crimson-domino-iv-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crimson Domino IV (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crystal-fist-i-bastok",
+      "title": "Crystal Fist I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crystal_Fist_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crystal-fist-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crystal Fist I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crystal-fist-i-san-d-oria",
+      "title": "Crystal Fist I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crystal_Fist_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crystal-fist-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crystal Fist I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crystal-fist-i-windurst",
+      "title": "Crystal Fist I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crystal_Fist_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crystal-fist-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crystal Fist I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crystal-fist-ii-bastok",
+      "title": "Crystal Fist II (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crystal_Fist_II_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crystal-fist-ii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crystal Fist II (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crystal-fist-ii-san-d-oria",
+      "title": "Crystal Fist II (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crystal_Fist_II_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crystal-fist-ii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crystal Fist II (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crystal-fist-ii-windurst",
+      "title": "Crystal Fist II (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crystal_Fist_II_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crystal-fist-ii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crystal Fist II (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crystal-fist-iii-bastok",
+      "title": "Crystal Fist III (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crystal_Fist_III_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crystal-fist-iii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crystal Fist III (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crystal-fist-iii-san-d-oria",
+      "title": "Crystal Fist III (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crystal_Fist_III_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crystal-fist-iii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crystal Fist III (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crystal-fist-iii-windurst",
+      "title": "Crystal Fist III (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crystal_Fist_III_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crystal-fist-iii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crystal Fist III (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crystal-fist-iv-bastok",
+      "title": "Crystal Fist IV (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crystal_Fist_IV_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crystal-fist-iv-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crystal Fist IV (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crystal-fist-iv-san-d-oria",
+      "title": "Crystal Fist IV (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crystal_Fist_IV_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crystal-fist-iv-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crystal Fist IV (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-crystal-fist-iv-windurst",
+      "title": "Crystal Fist IV (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crystal_Fist_IV_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-crystal-fist-iv-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Crystal Fist IV (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-cut-and-cauterize-i-bastok",
+      "title": "Cut and Cauterize I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Cut_and_Cauterize_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-cut-and-cauterize-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Cut and Cauterize I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-cut-and-cauterize-i-san-d-oria",
+      "title": "Cut and Cauterize I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Cut_and_Cauterize_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-cut-and-cauterize-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Cut and Cauterize I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-cut-and-cauterize-i-windurst",
+      "title": "Cut and Cauterize I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Cut_and_Cauterize_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-cut-and-cauterize-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Cut and Cauterize I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-cut-and-cauterize-ii-bastok",
+      "title": "Cut and Cauterize II (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Cut_and_Cauterize_II_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-cut-and-cauterize-ii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Cut and Cauterize II (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-cut-and-cauterize-ii-san-d-oria",
+      "title": "Cut and Cauterize II (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Cut_and_Cauterize_II_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-cut-and-cauterize-ii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Cut and Cauterize II (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-cut-and-cauterize-ii-windurst",
+      "title": "Cut and Cauterize II (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Cut_and_Cauterize_II_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-cut-and-cauterize-ii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Cut and Cauterize II (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-cut-and-cauterize-iii-bastok",
+      "title": "Cut and Cauterize III (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Cut_and_Cauterize_III_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-cut-and-cauterize-iii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Cut and Cauterize III (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-cut-and-cauterize-iii-san-d-oria",
+      "title": "Cut and Cauterize III (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Cut_and_Cauterize_III_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-cut-and-cauterize-iii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Cut and Cauterize III (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-cut-and-cauterize-iii-windurst",
+      "title": "Cut and Cauterize III (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Cut_and_Cauterize_III_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-cut-and-cauterize-iii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Cut and Cauterize III (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-deep-cover-i-bastok",
+      "title": "Deep Cover I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Deep_Cover_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-deep-cover-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Deep Cover I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-deep-cover-i-san-d-oria",
+      "title": "Deep Cover I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Deep_Cover_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-deep-cover-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Deep Cover I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-deep-cover-i-windurst",
+      "title": "Deep Cover I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Deep_Cover_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-deep-cover-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Deep Cover I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-deep-cover-ii-bastok",
+      "title": "Deep Cover II (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Deep_Cover_II_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-deep-cover-ii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Deep Cover II (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-deep-cover-ii-san-d-oria",
+      "title": "Deep Cover II (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Deep_Cover_II_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-deep-cover-ii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Deep Cover II (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-deep-cover-ii-windurst",
+      "title": "Deep Cover II (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Deep_Cover_II_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-deep-cover-ii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Deep Cover II (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-deep-cover-iii-bastok",
+      "title": "Deep Cover III (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Deep_Cover_III_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-deep-cover-iii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Deep Cover III (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-deep-cover-iii-san-d-oria",
+      "title": "Deep Cover III (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Deep_Cover_III_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-deep-cover-iii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Deep Cover III (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-deep-cover-iii-windurst",
+      "title": "Deep Cover III (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Deep_Cover_III_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-deep-cover-iii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Deep Cover III (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-delta-strike-i-bastok",
+      "title": "Delta Strike I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Delta_Strike_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-delta-strike-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Delta Strike I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-delta-strike-i-san-d-oria",
+      "title": "Delta Strike I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Delta_Strike_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-delta-strike-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Delta Strike I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-delta-strike-i-windurst",
+      "title": "Delta Strike I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Delta_Strike_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-delta-strike-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Delta Strike I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-delta-strike-ii-bastok",
+      "title": "Delta Strike II (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Delta_Strike_II_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-delta-strike-ii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Delta Strike II (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-delta-strike-ii-san-d-oria",
+      "title": "Delta Strike II (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Delta_Strike_II_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-delta-strike-ii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Delta Strike II (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-delta-strike-ii-windurst",
+      "title": "Delta Strike II (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Delta_Strike_II_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-delta-strike-ii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Delta Strike II (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-delta-strike-iii-bastok",
+      "title": "Delta Strike III (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Delta_Strike_III_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-delta-strike-iii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Delta Strike III (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-delta-strike-iii-san-d-oria",
+      "title": "Delta Strike III (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Delta_Strike_III_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-delta-strike-iii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Delta Strike III (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-delta-strike-iii-windurst",
+      "title": "Delta Strike III (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Delta_Strike_III_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-delta-strike-iii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Delta Strike III (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-elwynn-sandbox",
+      "title": "Elwynn/Sandbox",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/User:Elwynn/Sandbox",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-elwynn-sandbox-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Elwynn/Sandbox",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-fiat-lux",
+      "title": "Fiat Lux",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Fiat_Lux",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-fiat-lux-node-1",
+          "orderIndex": 0,
+          "title": "Travel to the Throne Room (S) via Xarcabard (S) -> Castle Zvahl Baileys (S) -> Castle Zvahl Keep (S)",
+          "description": "Travel to the Throne Room (S) via Xarcabard (S) -> Castle Zvahl Baileys (S) -> Castle Zvahl Keep (S) and enter the Battlefield (Note: there is now a Home Point #1: (G-7) (Map 4) right before the Throne Room zone (S) zone). Do note that there are multiple True Sight monsters along the way.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-campaign-fiat-lux-node-2",
+          "orderIndex": 1,
+          "title": "Defeat the Shadow Lord.",
+          "description": "Defeat the Shadow Lord.",
+          "dependencies": [
+            "ffxiclopedia-campaign-fiat-lux-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-fiat-lux-node-3",
+          "orderIndex": 2,
+          "title": "Upon success, a chest will appear with your rewards, similar to a BCNM.",
+          "description": "Upon success, a chest will appear with your rewards, similar to a BCNM.",
+          "dependencies": [
+            "ffxiclopedia-campaign-fiat-lux-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-fiat-lux-node-4",
+          "orderIndex": 3,
+          "title": "Report back to the NPC dealing with Campaign Operations for your nation.",
+          "description": "Report back to the NPC dealing with Campaign Operations for your nation.",
+          "dependencies": [
+            "ffxiclopedia-campaign-fiat-lux-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-frozen-flame-bastok",
+      "title": "Frozen Flame (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Frozen_Flame_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-frozen-flame-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Travel to either (H-9) of Beaucedine Glacier (S), down the ramp nearby the tower where the C.A.",
+          "description": "Travel to either (H-9) of Beaucedine Glacier (S), down the ramp nearby the tower where the C.A. stands when the area is under Beastmen control, or to (G-10) of Xarcabard (S) to find a ???. The area must be under Beastman control.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-campaign-frozen-flame-bastok-node-2",
+          "orderIndex": 1,
+          "title": "Examining the ??? will spawn a Frost Bomb, which will attack shortly after.",
+          "description": "Examining the ??? will spawn a Frost Bomb, which will attack shortly after. Do not attack the snoll, but be careful to not lose all enmity and render it unclaimed.",
+          "dependencies": [
+            "ffxiclopedia-campaign-frozen-flame-bastok-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-frozen-flame-bastok-node-3",
+          "orderIndex": 2,
+          "title": "Lead it to the Campaign Fortification where it will automatically use Hypothermal Combustion and dam",
+          "description": "Lead it to the Campaign Fortification where it will automatically use Hypothermal Combustion and damage the fort, and only the fort. After this, the experience points will be awarded along with the message: \"The stronghold has sustained considerable damage.\" Upon failure, the message will be: \"The bombardment failed to inflict damage on the target.\"",
+          "dependencies": [
+            "ffxiclopedia-campaign-frozen-flame-bastok-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-frozen-flame-bastok-node-4",
+          "orderIndex": 3,
+          "title": "Speak with Hieronymus to complete the Op and collect your Allied Notes.",
+          "description": "Speak with Hieronymus to complete the Op and collect your Allied Notes.",
+          "dependencies": [
+            "ffxiclopedia-campaign-frozen-flame-bastok-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-frozen-flame-san-d-oria",
+      "title": "Frozen Flame (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Frozen_Flame_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-frozen-flame-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Go to either (H-9) - at the foot of the ramp beside the C.A.'s position - of Beaucedine Glacier (S) ",
+          "description": "Go to either (H-9) - at the foot of the ramp beside the C.A.'s position - of Beaucedine Glacier (S) or (G-10) of Xarcabard (S) and find the ???.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-campaign-frozen-flame-san-d-oria-node-2",
+          "orderIndex": 1,
+          "title": "Click the ???.",
+          "description": "Click the ???. A Frost Bomb will spawn and attack immediately if you are still nearby, but will hit for fairly low damage against level 75 players. Do not attack the snoll, but be careful to not let it go unclaimed/deaggro.",
+          "dependencies": [
+            "ffxiclopedia-campaign-frozen-flame-san-d-oria-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-frozen-flame-san-d-oria-node-3",
+          "orderIndex": 2,
+          "title": "Run to the Campaign fort with the Frost Bomb in tow.",
+          "description": "Run to the Campaign fort with the Frost Bomb in tow. When you arrive, the snoll will automatically use Hypothermal Combustion and damage the fort, but it will not hurt any nearby players. You will receive the EXP award immediately. You will receive a message stating that \"The stronghold has sustained considerable damage\".",
+          "dependencies": [
+            "ffxiclopedia-campaign-frozen-flame-san-d-oria-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-frozen-flame-san-d-oria-node-4",
+          "orderIndex": 3,
+          "title": "Speak with Rasdinice to complete the Op and collect your Allied Notes.",
+          "description": "Speak with Rasdinice to complete the Op and collect your Allied Notes.",
+          "dependencies": [
+            "ffxiclopedia-campaign-frozen-flame-san-d-oria-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-frozen-flame-windurst",
+      "title": "Frozen Flame (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Frozen_Flame_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-frozen-flame-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Choose either Beaucedine Glacier (S) or Xarcabard (S).",
+          "description": "Choose either Beaucedine Glacier (S) or Xarcabard (S). Whichever area you choose must be beastmen-controlled.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-campaign-frozen-flame-windurst-node-2",
+          "orderIndex": 1,
+          "title": "Beaucedine Glacier (S): Go to (H-9), at the foot of the ramp beside the C.A.'s position and click th",
+          "description": "Beaucedine Glacier (S): Go to (H-9), at the foot of the ramp beside the C.A.'s position and click the ???. Xarcabard (S): click the ??? at (G-10).",
+          "dependencies": [
+            "ffxiclopedia-campaign-frozen-flame-windurst-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-frozen-flame-windurst-node-3",
+          "orderIndex": 2,
+          "title": "A Frost Bomb spawns and attacks immediately if you are still nearby, but hits for fairly low damage ",
+          "description": "A Frost Bomb spawns and attacks immediately if you are still nearby, but hits for fairly low damage against level 75 players. Do not attack the snoll, but be careful not to let it go unclaimed/deaggro.",
+          "dependencies": [
+            "ffxiclopedia-campaign-frozen-flame-windurst-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-frozen-flame-windurst-node-4",
+          "orderIndex": 3,
+          "title": "Run to the Campaign fort with the Frost Bomb in tow.",
+          "description": "Run to the Campaign fort with the Frost Bomb in tow. When you arrive, the snoll automatically uses Hypothermal Combustion to damage the fort, but it does not hurt any nearby players. You receive the EXP award immediately and a message stating that \"The stronghold has sustained considerable damage\".",
+          "dependencies": [
+            "ffxiclopedia-campaign-frozen-flame-windurst-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-frozen-flame-windurst-node-5",
+          "orderIndex": 4,
+          "title": "Speak with Emhi Tchaoryo to complete the Op and collect your Allied Notes.",
+          "description": "Speak with Emhi Tchaoryo to complete the Op and collect your Allied Notes.",
+          "dependencies": [
+            "ffxiclopedia-campaign-frozen-flame-windurst-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-granite-rose-i-bastok",
+      "title": "Granite Rose I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Granite_Rose_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-granite-rose-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Granite Rose I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-granite-rose-i-san-d-oria",
+      "title": "Granite Rose I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Granite_Rose_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-granite-rose-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Granite Rose I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-granite-rose-i-windurst",
+      "title": "Granite Rose I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Granite_Rose_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-granite-rose-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Granite Rose I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-granite-rose-ii-bastok",
+      "title": "Granite Rose II (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Granite_Rose_II_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-granite-rose-ii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Granite Rose II (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-granite-rose-ii-san-d-oria",
+      "title": "Granite Rose II (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Granite_Rose_II_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-granite-rose-ii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Granite Rose II (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-granite-rose-ii-windurst",
+      "title": "Granite Rose II (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Granite_Rose_II_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-granite-rose-ii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Granite Rose II (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-granite-rose-iii-bastok",
+      "title": "Granite Rose III (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Granite_Rose_III_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-granite-rose-iii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Granite Rose III (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-granite-rose-iii-san-d-oria",
+      "title": "Granite Rose III (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Granite_Rose_III_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-granite-rose-iii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Granite Rose III (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-granite-rose-iii-windurst",
+      "title": "Granite Rose III (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Granite_Rose_III_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-granite-rose-iii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Granite Rose III (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-hawk-eye-i-bastok",
+      "title": "Hawk Eye I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hawk_Eye_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Hawk Eye I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-hawk-eye-i-san-d-oria",
+      "title": "Hawk Eye I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hawk_Eye_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Hawk Eye I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-hawk-eye-i-windurst",
+      "title": "Hawk Eye I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hawk_Eye_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Gain your mission from Emhi Tchaoryo.",
+          "description": "Gain your mission from Emhi Tchaoryo.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-i-windurst-node-2",
+          "orderIndex": 1,
+          "title": "Head to any outdoor Yagudo controlled area and make your way to the Stronghold.",
+          "description": "Head to any outdoor Yagudo controlled area and make your way to the Stronghold.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-i-windurst-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-i-windurst-node-3",
+          "orderIndex": 2,
+          "title": "Examine the ??? at the Stronghold to gather the Intel.",
+          "description": "Examine the ??? at the Stronghold to gather the Intel. Gathering intel takes approximately 80 seconds. Note: There are two ??? around the Stronghold.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-i-windurst-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-i-windurst-node-4",
+          "orderIndex": 3,
+          "title": "Report back to Emhi Tchaoryo to complete the mission.",
+          "description": "Report back to Emhi Tchaoryo to complete the mission.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-i-windurst-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-hawk-eye-ii-bastok",
+      "title": "Hawk Eye II (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hawk_Eye_II_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-ii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Hawk Eye II (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-hawk-eye-ii-san-d-oria",
+      "title": "Hawk Eye II (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hawk_Eye_II_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-ii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Hawk Eye II (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-hawk-eye-ii-windurst",
+      "title": "Hawk Eye II (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hawk_Eye_II_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-ii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Gain your mission from Emhi Tchaoryo.",
+          "description": "Gain your mission from Emhi Tchaoryo.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-ii-windurst-node-2",
+          "orderIndex": 1,
+          "title": "Head to any Yagudo controlled area and make your way to the Stronghold.",
+          "description": "Head to any Yagudo controlled area and make your way to the Stronghold.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-ii-windurst-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-ii-windurst-node-3",
+          "orderIndex": 2,
+          "title": "Examine the ??? at the Stronghold to gather the Intel.",
+          "description": "Examine the ??? at the Stronghold to gather the Intel. Gathering intel takes approximately 80 seconds. Note: There are two ??? around the Stronghold.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-ii-windurst-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-ii-windurst-node-4",
+          "orderIndex": 3,
+          "title": "Report back to Emhi Tchaoryo to complete the mission.",
+          "description": "Report back to Emhi Tchaoryo to complete the mission.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-ii-windurst-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-hawk-eye-iii-bastok",
+      "title": "Hawk Eye III (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hawk_Eye_III_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Hawk Eye III (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-hawk-eye-iii-san-d-oria",
+      "title": "Hawk Eye III (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hawk_Eye_III_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Hawk Eye III (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-hawk-eye-iii-windurst",
+      "title": "Hawk Eye III (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hawk_Eye_III_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Gain your mission from Emhi Tchaoryo.",
+          "description": "Gain your mission from Emhi Tchaoryo.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iii-windurst-node-2",
+          "orderIndex": 1,
+          "title": "Head to any Yagudo controlled area and make your way to the Stronghold.",
+          "description": "Head to any Yagudo controlled area and make your way to the Stronghold.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-iii-windurst-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iii-windurst-node-3",
+          "orderIndex": 2,
+          "title": "Examine the ??? at the Stronghold to gather the Intel.",
+          "description": "Examine the ??? at the Stronghold to gather the Intel. Gathering intel takes approximately 80 seconds. Note: There are two ??? around the Stronghold.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-iii-windurst-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iii-windurst-node-4",
+          "orderIndex": 3,
+          "title": "Report back to Emhi Tchaoryo to complete the mission.",
+          "description": "Report back to Emhi Tchaoryo to complete the mission.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-iii-windurst-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-hawk-eye-iv-bastok",
+      "title": "Hawk Eye IV (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hawk_Eye_IV_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iv-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Gain your mission from Hieronymus.",
+          "description": "Gain your mission from Hieronymus.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iv-bastok-node-2",
+          "orderIndex": 1,
+          "title": "Head to any Northern area not controlled by the Allied forces and make your way to the Stronghold.",
+          "description": "Head to any Northern area not controlled by the Allied forces and make your way to the Stronghold.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-iv-bastok-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iv-bastok-node-3",
+          "orderIndex": 2,
+          "title": "Examine the ??? at the Stronghold to gather the Intel.",
+          "description": "Examine the ??? at the Stronghold to gather the Intel. Note: There are two ??? around the Stronghold.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-iv-bastok-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iv-bastok-node-4",
+          "orderIndex": 3,
+          "title": "Report back to Hieronymus to complete the mission.",
+          "description": "Report back to Hieronymus to complete the mission.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-iv-bastok-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-hawk-eye-iv-san-d-oria",
+      "title": "Hawk Eye IV (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hawk_Eye_IV_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iv-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Gain your mission from Rasdinice.",
+          "description": "Gain your mission from Rasdinice.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iv-san-d-oria-node-2",
+          "orderIndex": 1,
+          "title": "Head to any Northern area not controlled by the Allied forces and make your way to the Stronghold.",
+          "description": "Head to any Northern area not controlled by the Allied forces and make your way to the Stronghold.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-iv-san-d-oria-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iv-san-d-oria-node-3",
+          "orderIndex": 2,
+          "title": "Examine the ??? at the Stronghold to gather the Intel.",
+          "description": "Examine the ??? at the Stronghold to gather the Intel. Note: There are two ??? around the Stronghold.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-iv-san-d-oria-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iv-san-d-oria-node-4",
+          "orderIndex": 3,
+          "title": "Report back to Rasdinice to complete the mission.",
+          "description": "Report back to Rasdinice to complete the mission.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-iv-san-d-oria-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-hawk-eye-iv-windurst",
+      "title": "Hawk Eye IV (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hawk_Eye_IV_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iv-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Gain your mission from Emhi Tchaoryo.",
+          "description": "Gain your mission from Emhi Tchaoryo.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iv-windurst-node-2",
+          "orderIndex": 1,
+          "title": "Head to any Northern area not controlled by the Allied forces (only Beaucedine Glacier (S) and Xarca",
+          "description": "Head to any Northern area not controlled by the Allied forces (only Beaucedine Glacier (S) and Xarcabard (S) work for this op) and make your way to the Stronghold.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-iv-windurst-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iv-windurst-node-3",
+          "orderIndex": 2,
+          "title": "Examine the ??? at the Stronghold to gather the Intel.",
+          "description": "Examine the ??? at the Stronghold to gather the Intel. Note: There are two ??? around the Stronghold.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-iv-windurst-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-hawk-eye-iv-windurst-node-4",
+          "orderIndex": 3,
+          "title": "Report back to Emhi Tchaoryo to complete the mission.",
+          "description": "Report back to Emhi Tchaoryo to complete the mission.",
+          "dependencies": [
+            "ffxiclopedia-campaign-hawk-eye-iv-windurst-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-hazardous-materials-bastok",
+      "title": "Hazardous Materials (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hazardous_Materials_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-hazardous-materials-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Hazardous Materials (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-hazardous-materials-san-d-oria",
+      "title": "Hazardous Materials (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hazardous_Materials_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-hazardous-materials-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Hazardous Materials (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-hazardous-materials-windurst",
+      "title": "Hazardous Materials (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hazardous_Materials_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-hazardous-materials-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Hazardous Materials (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-iron-anvil-i-bastok",
+      "title": "Iron Anvil I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Iron_Anvil_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-iron-anvil-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Iron Anvil I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-iron-anvil-i-san-d-oria",
+      "title": "Iron Anvil I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Iron_Anvil_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-iron-anvil-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Iron Anvil I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-iron-anvil-i-windurst",
+      "title": "Iron Anvil I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Iron_Anvil_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-iron-anvil-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Iron Anvil I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-iron-anvil-ii-bastok",
+      "title": "Iron Anvil II (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Iron_Anvil_II_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-iron-anvil-ii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Iron Anvil II (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-iron-anvil-ii-san-d-oria",
+      "title": "Iron Anvil II (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Iron_Anvil_II_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-iron-anvil-ii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Iron Anvil II (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-iron-anvil-ii-windurst",
+      "title": "Iron Anvil II (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Iron_Anvil_II_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-iron-anvil-ii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Iron Anvil II (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-iron-anvil-iii-bastok",
+      "title": "Iron Anvil III (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Iron_Anvil_III_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-iron-anvil-iii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Iron Anvil III (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-iron-anvil-iii-san-d-oria",
+      "title": "Iron Anvil III (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Iron_Anvil_III_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-iron-anvil-iii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Iron Anvil III (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-iron-anvil-iii-windurst",
+      "title": "Iron Anvil III (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Iron_Anvil_III_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-iron-anvil-iii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Iron Anvil III (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-iron-anvil-iv-bastok",
+      "title": "Iron Anvil IV (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Iron_Anvil_IV_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-iron-anvil-iv-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Iron Anvil IV (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-iron-anvil-iv-san-d-oria",
+      "title": "Iron Anvil IV (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Iron_Anvil_IV_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-iron-anvil-iv-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Iron Anvil IV (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-iron-anvil-iv-windurst",
+      "title": "Iron Anvil IV (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Iron_Anvil_IV_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-iron-anvil-iv-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Iron Anvil IV (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-kinslayer-baileys-bastok",
+      "title": "Kinslayer: Baileys (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Kinslayer:_Baileys_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-kinslayer-baileys-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Kinslayer: Baileys (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-kinslayer-baileys-san-d-oria",
+      "title": "Kinslayer: Baileys (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Kinslayer:_Baileys_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-kinslayer-baileys-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Kinslayer: Baileys (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-kinslayer-baileys-windurst",
+      "title": "Kinslayer: Baileys (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Kinslayer:_Baileys_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-kinslayer-baileys-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Kinslayer: Baileys (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-kinslayer-keep-bastok",
+      "title": "Kinslayer: Keep (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Kinslayer:_Keep_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-kinslayer-keep-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Kinslayer: Keep (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-kinslayer-keep-san-d-oria",
+      "title": "Kinslayer: Keep (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Kinslayer:_Keep_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-kinslayer-keep-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Kinslayer: Keep (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-kinslayer-keep-windurst",
+      "title": "Kinslayer: Keep (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Kinslayer:_Keep_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-kinslayer-keep-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Kinslayer: Keep (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-magna-cache-i-bastok",
+      "title": "Magna Cache I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Magna_Cache_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-magna-cache-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Magna Cache I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-magna-cache-i-san-d-oria",
+      "title": "Magna Cache I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Magna_Cache_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-magna-cache-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Magna Cache I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-magna-cache-i-windurst",
+      "title": "Magna Cache I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Magna_Cache_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-magna-cache-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Magna Cache I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-magna-cache-ii-bastok",
+      "title": "Magna Cache II (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Magna_Cache_II_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-magna-cache-ii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Magna Cache II (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-magna-cache-ii-san-d-oria",
+      "title": "Magna Cache II (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Magna_Cache_II_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-magna-cache-ii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Magna Cache II (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-magna-cache-ii-windurst",
+      "title": "Magna Cache II (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Magna_Cache_II_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-magna-cache-ii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Magna Cache II (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-magna-cache-iii-bastok",
+      "title": "Magna Cache III (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Magna_Cache_III_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-magna-cache-iii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Magna Cache III (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-magna-cache-iii-san-d-oria",
+      "title": "Magna Cache III (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Magna_Cache_III_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-magna-cache-iii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Magna Cache III (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-magna-cache-iii-windurst",
+      "title": "Magna Cache III (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Magna_Cache_III_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-magna-cache-iii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Magna Cache III (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-materiel-storm-i-bastok",
+      "title": "Materiel Storm I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Materiel_Storm_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-materiel-storm-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Materiel Storm I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-materiel-storm-i-san-d-oria",
+      "title": "Materiel Storm I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Materiel_Storm_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-materiel-storm-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Materiel Storm I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-materiel-storm-i-windurst",
+      "title": "Materiel Storm I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Materiel_Storm_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-materiel-storm-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Materiel Storm I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-materiel-storm-ii-bastok",
+      "title": "Materiel Storm II (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Materiel_Storm_II_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-materiel-storm-ii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Materiel Storm II (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-materiel-storm-ii-san-d-oria",
+      "title": "Materiel Storm II (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Materiel_Storm_II_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-materiel-storm-ii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Materiel Storm II (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-materiel-storm-ii-windurst",
+      "title": "Materiel Storm II (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Materiel_Storm_II_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-materiel-storm-ii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Materiel Storm II (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-materiel-storm-iii-bastok",
+      "title": "Materiel Storm III (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Materiel_Storm_III_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-materiel-storm-iii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Materiel Storm III (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-materiel-storm-iii-san-d-oria",
+      "title": "Materiel Storm III (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Materiel_Storm_III_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-materiel-storm-iii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Materiel Storm III (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-materiel-storm-iii-windurst",
+      "title": "Materiel Storm III (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Materiel_Storm_III_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-materiel-storm-iii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Materiel Storm III (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-materiel-storm-iv-bastok",
+      "title": "Materiel Storm IV (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Materiel_Storm_IV_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-materiel-storm-iv-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Materiel Storm IV (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-materiel-storm-iv-san-d-oria",
+      "title": "Materiel Storm IV (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Materiel_Storm_IV_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-materiel-storm-iv-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Materiel Storm IV (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-materiel-storm-iv-windurst",
+      "title": "Materiel Storm IV (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Materiel_Storm_IV_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-materiel-storm-iv-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Materiel Storm IV (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-pit-spider-i-bastok",
+      "title": "Pit Spider I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Pit_Spider_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-pit-spider-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Pit Spider I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-pit-spider-i-san-d-oria",
+      "title": "Pit Spider I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Pit_Spider_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-pit-spider-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Pit Spider I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-pit-spider-i-windurst",
+      "title": "Pit Spider I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Pit_Spider_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-pit-spider-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Pit Spider I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-pit-spider-ii-bastok",
+      "title": "Pit Spider II (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Pit_Spider_II_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-pit-spider-ii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Pit Spider II (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-pit-spider-ii-san-d-oria",
+      "title": "Pit Spider II (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Pit_Spider_II_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-pit-spider-ii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Pit Spider II (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-pit-spider-ii-windurst",
+      "title": "Pit Spider II (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Pit_Spider_II_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-pit-spider-ii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Pit Spider II (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-pit-spider-iii-bastok",
+      "title": "Pit Spider III (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Pit_Spider_III_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-pit-spider-iii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Pit Spider III (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-pit-spider-iii-san-d-oria",
+      "title": "Pit Spider III (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Pit_Spider_III_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-pit-spider-iii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Pit Spider III (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-pit-spider-iii-windurst",
+      "title": "Pit Spider III (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Pit_Spider_III_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-pit-spider-iii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Pit Spider III (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-plucking-wings",
+      "title": "Plucking Wings",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Plucking_Wings",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-plucking-wings-node-1",
+          "orderIndex": 0,
+          "title": "Go to Castle Oztroja (S) and proceed to the Brass Gate (H-7) on the top floor.",
+          "description": "Go to Castle Oztroja (S) and proceed to the Brass Gate (H-7) on the top floor. Click the Trap Door to enter the battlefield.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-campaign-plucking-wings-node-2",
+          "orderIndex": 1,
+          "title": "In order to access the battlefield, all members must have Xicu's Rosary, which is dropped from any Y",
+          "description": "In order to access the battlefield, all members must have Xicu's Rosary, which is dropped from any Yagudo in the zone (excluding notorious monsters). Drop rate is not 100%.",
+          "dependencies": [
+            "ffxiclopedia-campaign-plucking-wings-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-plucking-wings-node-3",
+          "orderIndex": 2,
+          "title": "Soo Luma the Ascended (SCH) appears at the top of the arena; defeat him to win the battle.",
+          "description": "Soo Luma the Ascended (SCH) appears at the top of the arena; defeat him to win the battle. Roo Beju the Eulogizer (BRD), Zjaa Bao the Wrathherald (NIN), and Jii Xai the Rimebladed (SAM) spawn to fight with Soo Luma the Ascended when he is aggroed; they do not need to be defeated to win the battle. These three respawn at the top of the arena shortly if defeated and return to fight with Soo Luma the Ascended. Pulling the Yagudo to the battlefield entrance is beneficial because the respawned helpers have a greater distance to travel before they rejoin in battle.",
+          "dependencies": [
+            "ffxiclopedia-campaign-plucking-wings-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-plucking-wings-node-4",
+          "orderIndex": 3,
+          "title": "An Armoury Crate appears at the top of the arena once Soo Luma the Ascended is defeated; the remaini",
+          "description": "An Armoury Crate appears at the top of the arena once Soo Luma the Ascended is defeated; the remaining Yagudo despawn.",
+          "dependencies": [
+            "ffxiclopedia-campaign-plucking-wings-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-plucking-wings-node-5",
+          "orderIndex": 4,
+          "title": "Report back to Emhi Tchaoryo to complete the Operation.",
+          "description": "Report back to Emhi Tchaoryo to complete the Operation.",
+          "dependencies": [
+            "ffxiclopedia-campaign-plucking-wings-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-prying-eyes-i-bastok",
+      "title": "Prying Eyes I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Prying_Eyes_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-prying-eyes-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Prying Eyes I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-prying-eyes-i-san-d-oria",
+      "title": "Prying Eyes I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Prying_Eyes_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-prying-eyes-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Accept the mission from Rasdinice.",
+          "description": "Accept the mission from Rasdinice. Select Intel Gathering, then Prying Eyes.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-campaign-prying-eyes-i-san-d-oria-node-2",
+          "orderIndex": 1,
+          "title": "Travel to La Vaule (S) and find two ???.",
+          "description": "Travel to La Vaule (S) and find two ???. One is located at (K-10) at the back of a house, the other at (F-9), on what looks like a barricade archers would hide behind. Unlike Hawk Eye, the intel gathering is instantaneous, although you will still need to drop Sneak and Invisible. Both ??? are in places where you should be able to avoid aggro while clicking them.",
+          "dependencies": [
+            "ffxiclopedia-campaign-prying-eyes-i-san-d-oria-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-campaign-prying-eyes-i-san-d-oria-node-3",
+          "orderIndex": 2,
+          "title": "Report back to Rasdinice to complete the mission.",
+          "description": "Report back to Rasdinice to complete the mission.",
+          "dependencies": [
+            "ffxiclopedia-campaign-prying-eyes-i-san-d-oria-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-prying-eyes-i-windurst",
+      "title": "Prying Eyes I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Prying_Eyes_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-prying-eyes-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Prying Eyes I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-prying-eyes-ii-bastok",
+      "title": "Prying Eyes II (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Prying_Eyes_II_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-prying-eyes-ii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Prying Eyes II (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-prying-eyes-ii-san-d-oria",
+      "title": "Prying Eyes II (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Prying_Eyes_II_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-prying-eyes-ii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Prying Eyes II (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-prying-eyes-ii-windurst",
+      "title": "Prying Eyes II (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Prying_Eyes_II_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-prying-eyes-ii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Prying Eyes II (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-search-and-seizure-i-bastok",
+      "title": "Search and Seizure I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Search_and_Seizure_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-search-and-seizure-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Search and Seizure I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-search-and-seizure-i-san-d-oria",
+      "title": "Search and Seizure I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Search_and_Seizure_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-search-and-seizure-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Search and Seizure I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-search-and-seizure-i-windurst",
+      "title": "Search and Seizure I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Search_and_Seizure_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-search-and-seizure-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Search and Seizure I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-slaughterhouse-i-bastok",
+      "title": "Slaughterhouse I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Slaughterhouse_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-slaughterhouse-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Slaughterhouse I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-slaughterhouse-i-san-d-oria",
+      "title": "Slaughterhouse I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Slaughterhouse_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-slaughterhouse-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Slaughterhouse I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-slaughterhouse-i-windurst",
+      "title": "Slaughterhouse I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Slaughterhouse_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-slaughterhouse-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Slaughterhouse I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-slaughterhouse-ii-bastok",
+      "title": "Slaughterhouse II (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Slaughterhouse_II_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-slaughterhouse-ii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Slaughterhouse II (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-slaughterhouse-ii-san-d-oria",
+      "title": "Slaughterhouse II (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Slaughterhouse_II_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-slaughterhouse-ii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Slaughterhouse II (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-slaughterhouse-ii-windurst",
+      "title": "Slaughterhouse II (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Slaughterhouse_II_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-slaughterhouse-ii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Slaughterhouse II (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-slaughterhouse-iii-bastok",
+      "title": "Slaughterhouse III (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Slaughterhouse_III_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-slaughterhouse-iii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Slaughterhouse III (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-slaughterhouse-iii-san-d-oria",
+      "title": "Slaughterhouse III (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Slaughterhouse_III_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-slaughterhouse-iii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Slaughterhouse III (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-slaughterhouse-iii-windurst",
+      "title": "Slaughterhouse III (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Slaughterhouse_III_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-slaughterhouse-iii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Slaughterhouse III (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-slaughterhouse-iv-bastok",
+      "title": "Slaughterhouse IV (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Slaughterhouse_IV_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-slaughterhouse-iv-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Slaughterhouse IV (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-slaughterhouse-iv-san-d-oria",
+      "title": "Slaughterhouse IV (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Slaughterhouse_IV_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-slaughterhouse-iv-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Slaughterhouse IV (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-slaughterhouse-iv-windurst",
+      "title": "Slaughterhouse IV (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Slaughterhouse_IV_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-slaughterhouse-iv-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Slaughterhouse IV (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-smokescreen-i-bastok",
+      "title": "Smokescreen I (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Smokescreen_I_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-smokescreen-i-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Smokescreen I (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-smokescreen-i-san-d-oria",
+      "title": "Smokescreen I (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Smokescreen_I_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-smokescreen-i-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Smokescreen I (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-smokescreen-i-windurst",
+      "title": "Smokescreen I (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Smokescreen_I_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-smokescreen-i-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Smokescreen I (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-smokescreen-ii-bastok",
+      "title": "Smokescreen II (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Smokescreen_II_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-smokescreen-ii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Smokescreen II (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-smokescreen-ii-san-d-oria",
+      "title": "Smokescreen II (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Smokescreen_II_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-smokescreen-ii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Smokescreen II (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-smokescreen-ii-windurst",
+      "title": "Smokescreen II (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Smokescreen_II_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-smokescreen-ii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Smokescreen II (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-smokescreen-iii-bastok",
+      "title": "Smokescreen III (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Smokescreen_III_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-smokescreen-iii-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Smokescreen III (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-smokescreen-iii-san-d-oria",
+      "title": "Smokescreen III (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Smokescreen_III_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-smokescreen-iii-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Smokescreen III (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-smokescreen-iii-windurst",
+      "title": "Smokescreen III (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Smokescreen_III_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-smokescreen-iii-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Smokescreen III (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-smokescreen-iv-bastok",
+      "title": "Smokescreen IV (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Smokescreen_IV_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-smokescreen-iv-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Smokescreen IV (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-smokescreen-iv-san-d-oria",
+      "title": "Smokescreen IV (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Smokescreen_IV_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-smokescreen-iv-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Smokescreen IV (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-smokescreen-iv-windurst",
+      "title": "Smokescreen IV (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Smokescreen_IV_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-smokescreen-iv-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Smokescreen IV (Windurst)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-smokescreen-v-bastok",
+      "title": "Smokescreen V (Bastok)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Smokescreen_V_(Bastok)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-smokescreen-v-bastok-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Smokescreen V (Bastok)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-campaign-smokescreen-v-san-d-oria",
+      "title": "Smokescreen V (San d'Oria)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Smokescreen_V_(San_d%27Oria)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-campaign-smokescreen-v-san-d-oria-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Smokescreen V (San d'Oria)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    }
+  ]
+}

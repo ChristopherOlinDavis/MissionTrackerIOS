@@ -1,0 +1,3422 @@
+{
+  "id": "ffxiclopedia-windurst-quests",
+  "name": "FFXIclopedia - Windurst Quests",
+  "category": "quest",
+  "source": "FFXIclopedia",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Windurst_Quests",
+  "lastScraped": "2025-12-29T17:29:37.907Z",
+  "lastKnownUpdate": "2025-12-29T17:29:37.907Z",
+  "totalMissions": 77,
+  "missions": [
+    {
+      "id": "ffxiclopedia-windurst-quests-can-cardians-cry",
+      "title": "Can Cardians Cry?",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Can_Cardians_Cry%3F",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-can-cardians-cry-node-1",
+          "orderIndex": 0,
+          "title": "There is no need to zone between the previous quest \"The All-New C-3000\" and this one.",
+          "description": "There is no need to zone between the previous quest \"The All-New C-3000\" and this one.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-can-cardians-cry-node-2",
+          "orderIndex": 1,
+          "title": "Apururu beseeches that you find the Queen of Diamonds Cardian, who was sent on an expedition to fara",
+          "description": "Apururu beseeches that you find the Queen of Diamonds Cardian, who was sent on an expedition to faraway lands. Seeing that the Cardian could not make it back on her own, it's likely she's literally gone to pieces somewhere.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-can-cardians-cry-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-can-cardians-cry-node-3",
+          "orderIndex": 2,
+          "title": "The Queen of Diamonds is said to be in Xarcabard.",
+          "description": "The Queen of Diamonds is said to be in Xarcabard.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-can-cardians-cry-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-can-cardians-cry-node-4",
+          "orderIndex": 3,
+          "title": "Kill Cursed Weapons in Xarcabard until you receive a Bruised Starfruit.",
+          "description": "Kill Cursed Weapons in Xarcabard until you receive a Bruised Starfruit. It is Rare but not Ex and can be bought on the AH in category Others>Misc.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-can-cardians-cry-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-can-cardians-cry-node-5",
+          "orderIndex": 4,
+          "title": "Return the Bruised Starfruit to Apururu for a cutscene and your reward.",
+          "description": "Return the Bruised Starfruit to Apururu for a cutscene and your reward.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-can-cardians-cry-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-can-cardians-cry-node-6",
+          "orderIndex": 5,
+          "title": "Having the Jeuno quest The Kind Cardian active will prevent you from receiving this quest.",
+          "description": "Having the Jeuno quest The Kind Cardian active will prevent you from receiving this quest. Completing all of Apururu's cutscenes in the quest The Kind Cardian but still having it active, will allow you to receive this quest.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-can-cardians-cry-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-can-cardians-cry-node-7",
+          "orderIndex": 6,
+          "title": "Trading a Bruised Starfruit to Apururu after completing this quest will get you 1000 gil.",
+          "description": "Trading a Bruised Starfruit to Apururu after completing this quest will get you 1000 gil. Unclear if this is infinitely repeatable.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-can-cardians-cry-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-carbuncle-debacle",
+      "title": "Carbuncle Debacle",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Carbuncle_Debacle",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-carbuncle-debacle-node-1",
+          "orderIndex": 0,
+          "title": "Head to the House of the Hero in Windurst Walls and hear Carbuncle's cry for help.",
+          "description": "Head to the House of the Hero in Windurst Walls and hear Carbuncle's cry for help.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-catch-it-if-you-can",
+      "title": "Catch It If You Can!",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Catch_It_If_You_Can!",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-catch-it-if-you-can-node-1",
+          "orderIndex": 0,
+          "title": "Get a rare or remarkable status ailment: Mute, Bane, or Plague.",
+          "description": "Get a rare or remarkable status ailment: Mute, Bane, or Plague. These are added effect from hits from specific mobs. The normal status ailments Silence, Curse, or Disease will not work.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-catch-it-if-you-can-node-2",
+          "orderIndex": 1,
+          "title": "Many of these effects will not last long, so it is best to set your home point at HP #1 in Port Wind",
+          "description": "Many of these effects will not last long, so it is best to set your home point at HP #1 in Port Windurst, which is very close to Ohruru, and carry a scroll of Instant Warp to get there quickly once you are afflicted.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-catch-it-if-you-can-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-catch-it-if-you-can-node-3",
+          "orderIndex": 2,
+          "title": "Mute is given by Eight of Cups in the Outer Horutoto Ruins - Dahlia Tower (F-11) in West Sarutabarut",
+          "description": "Mute is given by Eight of Cups in the Outer Horutoto Ruins - Dahlia Tower (F-11) in West Sarutabaruta.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-catch-it-if-you-can-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-chasing-tales",
+      "title": "Chasing Tales",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Chasing_Tales",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-chasing-tales-node-1",
+          "orderIndex": 0,
+          "title": "Go to the East Optistery (G-8) in Windurst Waters North.",
+          "description": "Go to the East Optistery (G-8) in Windurst Waters North.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-chasing-tales-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Tosuka-Porika, then talk to Furakku-Norakku.",
+          "description": "Talk to Tosuka-Porika, then talk to Furakku-Norakku. If you have activated The Jester Who'd Be King Mission, you will not be able to activate this quest until that is complete.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-chasing-tales-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-chasing-tales-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Hae Jakkya at (I-12) in Windurst Woods.",
+          "description": "Talk to Hae Jakkya at (I-12) in Windurst Woods. Auction House employees An Shanaa and An Polaali will have some interesting dialogue after this point in the quest.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-chasing-tales-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-chasing-tales-node-4",
+          "orderIndex": 3,
+          "title": "(Optional) Return to Furakku-Norakku for some extra dialogue.",
+          "description": "(Optional) Return to Furakku-Norakku for some extra dialogue.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-chasing-tales-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-chocobilious",
+      "title": "Chocobilious",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Chocobilious",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-chocobilious-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Kuoh Rhel at (K-12) in Windurst Woods to learn that a Chocobo is sick and she needs help get",
+          "description": "Talk to Kuoh Rhel at (K-12) in Windurst Woods to learn that a Chocobo is sick and she needs help getting the medicine to cure him.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-chocobilious-node-2",
+          "orderIndex": 1,
+          "title": "Go talk to Tapoh Lihzeh at (I-8) in Windurst Woods, then trade her the Papaka Grass.",
+          "description": "Go talk to Tapoh Lihzeh at (I-8) in Windurst Woods, then trade her the Papaka Grass.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-chocobilious-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-chocobilious-node-3",
+          "orderIndex": 2,
+          "title": "Now go and talk to Kuoh Rhel again to let her know the medicine is on its way, and receive your rewa",
+          "description": "Now go and talk to Kuoh Rhel again to let her know the medicine is on its way, and receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-chocobilious-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-class-reunion",
+      "title": "Class Reunion",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Class_Reunion",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-class-reunion-node-1",
+          "orderIndex": 0,
+          "title": "Go to the House of the Hero in Windurst Walls as a SMN and obtain Carbuncle's Tear.",
+          "description": "Go to the House of the Hero in Windurst Walls as a SMN and obtain Carbuncle's Tear. You must zone if you do this straight after your AF Weapon quest or any quest involving Carbuncle. You must also be on the Summoner job to receive this quest. If not, when you click the House of the Hero it will just say \"The doors are firmly shut.\"",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-class-reunion-node-2",
+          "orderIndex": 1,
+          "title": "From this point on, this quest can be completed on any job.",
+          "description": "From this point on, this quest can be completed on any job.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-class-reunion-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-class-reunion-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Koru-Moru in Windurst Walls (E-7) who asks you to bring him 4 Astragalos.",
+          "description": "Talk to Koru-Moru in Windurst Walls (E-7) who asks you to bring him 4 Astragalos. These can be bought from the AH under Ammunition or the Boneworkers' Guild (Windurst) in Windurst Woods, if any have been sold to the Guild. If you already have the Astragalos x4 on hand, just trade them to Koru-Moru.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-class-reunion-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-creepy-crawlies",
+      "title": "Creepy Crawlies",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Creepy_Crawlies",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-creepy-crawlies-node-1",
+          "orderIndex": 0,
+          "title": "Illu Bohjaa (north of Windurst Woods Home Point #1) wants you to clear out the crawlers that have be",
+          "description": "Illu Bohjaa (north of Windurst Woods Home Point #1) wants you to clear out the crawlers that have been eating up all of her food supplies.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-creepy-crawlies-node-2",
+          "orderIndex": 1,
+          "title": "She will reward you if you bring her either 3 Silk Threads or 3 Crawler Calculi.",
+          "description": "She will reward you if you bring her either 3 Silk Threads or 3 Crawler Calculi. You can buy Silk Thread from the Weavers' Guild to the south (Windurst Woods Home Point #5) or from the one in Selbina.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-creepy-crawlies-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-creepy-crawlies-node-3",
+          "orderIndex": 2,
+          "title": "They both drop off Crawlers in Sarutabaruta.",
+          "description": "They both drop off Crawlers in Sarutabaruta.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-creepy-crawlies-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-crying-over-onions",
+      "title": "Crying Over Onions",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crying_Over_Onions",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-crying-over-onions-node-1",
+          "orderIndex": 0,
+          "title": "Kohlo-Lakolo will tell you Honoi-Gomoi wants the mana orb back.",
+          "description": "Kohlo-Lakolo will tell you Honoi-Gomoi wants the mana orb back.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-crying-over-onions-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Honoi-Gomoi in Windurst Waters, South (E-7), upstairs in the back of the house.",
+          "description": "Talk to Honoi-Gomoi in Windurst Waters, South (E-7), upstairs in the back of the house. He'll rant about the orb and Nanaa Mihgo.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-crying-over-onions-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-crying-over-onions-node-3",
+          "orderIndex": 2,
+          "title": "(optional) Talk to Nanaa Mihgo and she'll talk about the merchant, saying you should just give him t",
+          "description": "(optional) Talk to Nanaa Mihgo and she'll talk about the merchant, saying you should just give him the orb back.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-crying-over-onions-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-crying-over-onions-node-4",
+          "orderIndex": 3,
+          "title": "Find a Star Spinel and bring it to Honoi-Gomoi.",
+          "description": "Find a Star Spinel and bring it to Honoi-Gomoi. This will trigger a cutscene and you will be given your reward: a Star Necklace. Star Spinels are Rare/Exclusive items that drop from Spelunking Sabotenders in Quicksand Caves.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-crying-over-onions-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-crying-over-onions-node-5",
+          "orderIndex": 4,
+          "title": "There are two places to find these Sabotenders.",
+          "description": "There are two places to find these Sabotenders. If you have Quicksand Caves Home Point #1, one of the locations is the caves outside Chamber of Oracles. You can also take the Geomagnetic Fount and drop down the hole. If you do not have either: You will need to pass through 2 weight sensors. The weight sensors can be activated by one Galka, or three Tarutaru, or any combination of 2 individuals that are Elvaan, Hume, Mithra, or Tarutaru. You can also get through the weighted doors solo if in possession of the Loadstone. You can reach them by taking the entrance at (D-12) of Western Altepa Desert by taking the tunnel on the border of (C-11) and (D-11), which leads off the map. You can also find them in the caves outside the Chamber of Oracles. Or enter Quicksand Caves from Western Altepa Desert (G-5). You will need to pass through two weight sensors to reach the camp. The first at J-6. The second at H-7.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-crying-over-onions-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-crying-over-onions-node-6",
+          "orderIndex": 5,
+          "title": "Like all Cactuar monsters, they can and will use 1000 Needles, which can cause significant damage to",
+          "description": "Like all Cactuar monsters, they can and will use 1000 Needles, which can cause significant damage to a solo player even at level 99. Have your trusts out if attempting to solo this.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-crying-over-onions-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-crying-over-onions-node-7",
+          "orderIndex": 6,
+          "title": "Talk to Kohlo-Lakolo and then to Honoi-Gomoi to complete the quest.",
+          "description": "Talk to Kohlo-Lakolo and then to Honoi-Gomoi to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-crying-over-onions-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-curses-foiled-a-golem",
+      "title": "Curses, Foiled A-Golem!?",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Curses,_Foiled_A-Golem!%3F",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-curses-foiled-a-golem-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Shantotto, who asks a question.",
+          "description": "Speak to Shantotto, who asks a question. Choose the second option, \"Ask if you're worthy.\"",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-curses-foiled-a-golem-node-2",
+          "orderIndex": 1,
+          "title": "Shantotto then asks another question; choose the second option, \"Whatchu talkin' 'bout Shantotto?\" S",
+          "description": "Shantotto then asks another question; choose the second option, \"Whatchu talkin' 'bout Shantotto?\" Shantotto bestows you with the title \"Total Loser\" if you choose the first option, \"Yes mommy\" instead of the second option. If you do not choose this option, however, you can still get the title at the title-changing NPC after the quest has been completed. The title \"Total Loser\" is not necessary for this quest. Choosing the second option on the first question is, however. It is possible to get the title without activating the quest. Shantotto tells you to go to the Beaucedine Glacier and find Rukususu. The quest now appears in the log.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-curses-foiled-a-golem-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-curses-foiled-a-golem-node-3",
+          "orderIndex": 2,
+          "title": "Head to the tower at (I-7) in Beaucedine Glacier From the Beaucedine Glacier outpost, take the downr",
+          "description": "Head to the tower at (I-7) in Beaucedine Glacier From the Beaucedine Glacier outpost, take the downramp and turn left at the bottom. Follow this around to another downramp. Follow it and turn left at the bottom. The tower appears shortly.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-curses-foiled-a-golem-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-curses-foiled-a-golem-node-4",
+          "orderIndex": 3,
+          "title": "Speak to Torino-Samarino, who asks a question.",
+          "description": "Speak to Torino-Samarino, who asks a question. Select the first option to get Shantotto's New Spell. If you are on Desires of Emptiness, Torino-Samarino may give you optional dialogue from that mission. Simply speak with Torino-Samarino again to get the dialogue for this quest.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-curses-foiled-a-golem-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-curses-foiled-a-golem-node-5",
+          "orderIndex": 4,
+          "title": "Enter Fei'Yin and head to (F-6) on the second map.",
+          "description": "Enter Fei'Yin and head to (F-6) on the second map. Home Point #2 to reach the second map quickly.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-curses-foiled-a-golem-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-curses-foiled-a-golem-node-6",
+          "orderIndex": 5,
+          "title": "Click the first cermet door on your right (approaching from the north; Rukususu is visible through t",
+          "description": "Click the first cermet door on your right (approaching from the north; Rukususu is visible through the door) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-curses-foiled-a-golem-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-curses-foiled-a-golem-node-7",
+          "orderIndex": 6,
+          "title": "Return to Windurst Walls and talk to Shantotto for Warp II scroll and the title \"Doctor Shantotto's ",
+          "description": "Return to Windurst Walls and talk to Shantotto for Warp II scroll and the title \"Doctor Shantotto's Flavor of the Month.\"",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-curses-foiled-a-golem-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-curses-foiled-again",
+      "title": "Curses, Foiled Again!",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Curses,_Foiled_Again!",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-curses-foiled-again-node-1",
+          "orderIndex": 0,
+          "title": "NOTE: You may need to speak to Hiwon-Biwon (K-8 W.",
+          "description": "NOTE: You may need to speak to Hiwon-Biwon (K-8 W. Walls) first.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-curses-foiled-again-node-2",
+          "orderIndex": 1,
+          "title": "Trade Shantotto 1 Bomb Ash and 2 Bone Chips.",
+          "description": "Trade Shantotto 1 Bomb Ash and 2 Bone Chips. Make sure you have enough inventory space when you trade her. Both items are dropped by monsters in Inner Horutoto Ruins. The Bomb Ash is dropped by Balloons and the Bone Chips by Magicked Bones. Both items can be bought from the Auction House as well: Bomb Ash is under Materials > Alchemy, and Bone Chip is under Materials > Bonecraft. Bomb Ash can be purchased in Bastok Metalworks second floor Gunpowder Room from Olaf (G-7). Bone Chips can be purchased in Windurst Woods Boneworker's Guild from Retto-Marutto Windurst Woods (H-12) .",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-curses-foiled-again-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-curses-foiled-again",
+      "title": "Curses, Foiled...Again!?",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Curses,_Foiled...Again!%3F",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-curses-foiled-again-node-1",
+          "orderIndex": 0,
+          "title": "Wait for the next game day after the previous quest.",
+          "description": "Wait for the next game day after the previous quest. Zone into Windurst Walls and speak with Shantotto and Hiwon-Biwon. Zone out of Windurst Walls again to be able to accept this quest. Blast from the Past can prevent you from beginning this quest; you must complete the quest first if it's already active. This quest has been completed with Making Headlines active; however, Hiwon-Biwon's scoop is taken before this quest is started. A Moogle Kupo d'Etat Missions 5/6 can also block this quest: you may have to talk to Shantotto once to start Mission 6, then zone and talk to her 2 more times to continue this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-curses-foiled-again-node-2",
+          "orderIndex": 1,
+          "title": "Answer two questions when you speak with Shantotto, who accuses you of being an accomplice to her cr",
+          "description": "Answer two questions when you speak with Shantotto, who accuses you of being an accomplice to her crime and sent to jail. For the first question she asks, you can pick either option. For the second question you MUST pick 'No Way! Not on your life!' or the quest will not begin. Your title now becomes \"Tarutaru Murder Suspect\".",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-curses-foiled-again-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-curses-foiled-again-node-3",
+          "orderIndex": 2,
+          "title": "She asks for 2 Bomb Arms, a Revival Tree Root, and Hiwon's Hair.",
+          "description": "She asks for 2 Bomb Arms, a Revival Tree Root, and Hiwon's Hair.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-curses-foiled-again-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-curses-foiled-again-node-4",
+          "orderIndex": 3,
+          "title": "Speak with Hiwon-Biwon at (K-8) Windurst Walls to obtain a Hiwon's Hair.",
+          "description": "Speak with Hiwon-Biwon at (K-8) Windurst Walls to obtain a Hiwon's Hair.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-curses-foiled-again-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-curses-foiled-again-node-5",
+          "orderIndex": 4,
+          "title": "Collect the rest of the items and trade them to Shantotto for your reward.",
+          "description": "Collect the rest of the items and trade them to Shantotto for your reward. Your title now becomes \"Hexer Vexer.\"",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-curses-foiled-again-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-early-bird-catches-the-bookworm",
+      "title": "Early Bird Catches the Bookworm",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Early_Bird_Catches_the_Bookworm",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-early-bird-catches-the-bookworm-node-1",
+          "orderIndex": 0,
+          "title": "You must zone after completing the previous quest before you can start this quest.",
+          "description": "You must zone after completing the previous quest before you can start this quest. Quest cannot be started if you are currently on Lost for Words or The Sixth Ministry.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-early-bird-catches-the-bookworm-node-2",
+          "orderIndex": 1,
+          "title": "If currently on Adventure Fellow quest Past Reflections, this cut-scene may trigger first when speak",
+          "description": "If currently on Adventure Fellow quest Past Reflections, this cut-scene may trigger first when speaking with Tosuka-Porika. After the cut-scene, speak with him again to flag the quest.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-early-bird-catches-the-bookworm-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-early-bird-catches-the-bookworm-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Tosuka-Porika.",
+          "description": "Talk to Tosuka-Porika.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-early-bird-catches-the-bookworm-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-early-bird-catches-the-bookworm-node-4",
+          "orderIndex": 3,
+          "title": "After you accept the quest, talk to Furakku-Norakku, behind the counter in the same room, who gives ",
+          "description": "After you accept the quest, talk to Furakku-Norakku, behind the counter in the same room, who gives you an \"Overdue Book Notification\" (key item).",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-early-bird-catches-the-bookworm-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-early-bird-catches-the-bookworm-node-5",
+          "orderIndex": 4,
+          "title": "Orn can be found in Hostelry Room #2 above the Timbre Timbers Tavern at (F-10).",
+          "description": "Orn can be found in Hostelry Room #2 above the Timbre Timbers Tavern at (F-10). ==== Optional ==== After talking with him, return to Furakku-Norakku and speak with him.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-early-bird-catches-the-bookworm-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-early-bird-catches-the-bookworm-node-6",
+          "orderIndex": 5,
+          "title": "To save time, you may wish to purchase or obtain a Silver Beastcoin before proceeding.",
+          "description": "To save time, you may wish to purchase or obtain a Silver Beastcoin before proceeding. You may also wish to flag the quest A Crisis in the Making before heading out, as this quest also requires you to go to the Treasure Room in Giddeus.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-early-bird-catches-the-bookworm-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-early-bird-catches-the-bookworm-node-7",
+          "orderIndex": 6,
+          "title": "Head to Giddeus and go down into the cave area through a side tunnel at G-8 or I-8.",
+          "description": "Head to Giddeus and go down into the cave area through a side tunnel at G-8 or I-8. The Yagudo Mendicant and Yagudo Persecutor can drop Silver Beastcoins if you didn't purchase one earlier.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-early-bird-catches-the-bookworm-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-early-bird-catches-the-bookworm-node-8",
+          "orderIndex": 7,
+          "title": "Head to (F-7), where the storage room is (Wistaria Doors), and just walk in, even though Uu Zhoumo t",
+          "description": "Head to (F-7), where the storage room is (Wistaria Doors), and just walk in, even though Uu Zhoumo tells you to go away. Quu Bokye will be walking around, talk to him, then trade him a Silver Beastcoin, and he'll give you the book, \"Art For Everyone\".",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-early-bird-catches-the-bookworm-node-7"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-eco-warrior-windurst",
+      "title": "Eco-Warrior (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Eco-Warrior_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Lumomo who is found in the tavern in Windurst Waters.",
+          "description": "Talk to Lumomo who is found in the tavern in Windurst Waters. If you cannot get the quest Lumomo will tell you either: \"...he loves the food from Windurst and the food from other places gives him an upset stomach...\" (Either already completed Eco-Warrior this Conquest period or not enough fame) \"...Can I have a moment of your time? Oh, but you look busy...\" (Eco-Warrior from another nation is logged)",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-2",
+          "orderIndex": 1,
+          "title": "Head to the Maze of Shakhrami and immediately after entering the maze, you will see Ahko Mhalijikhar",
+          "description": "Head to the Maze of Shakhrami and immediately after entering the maze, you will see Ahko Mhalijikhari.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Ahko Mhalijikhari who will spray you with ointment and cap your level at 25.",
+          "description": "Talk to Ahko Mhalijikhari who will spray you with ointment and cap your level at 25. Buffs will not wear with the level cap. Trusts will be dismissed upon application of the level restriction, but can be resummoned (and will have the same level restriction that you do).",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-4",
+          "orderIndex": 3,
+          "title": "Hug the left wall and continue NE to (E-7), where the corridor opens up into a huge room.",
+          "description": "Hug the left wall and continue NE to (E-7), where the corridor opens up into a huge room. Continue east to the tunnel at (H-7) which will lead south to a new map.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-5",
+          "orderIndex": 4,
+          "title": "On the new map, you will reach an open area at (H-8).",
+          "description": "On the new map, you will reach an open area at (H-8).",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-6",
+          "orderIndex": 5,
+          "title": "Take the path at (I-9) that leads south from the open area and at (I-10), you'll notice the ??? whic",
+          "description": "Take the path at (I-9) that leads south from the open area and at (I-10), you'll notice the ??? which spawns the NM on a rock.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-7",
+          "orderIndex": 6,
+          "title": "Clear the room.",
+          "description": "Clear the room.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-8",
+          "orderIndex": 7,
+          "title": "When ready have one member click the ??? to spawn 3 NM Wyrmflys.",
+          "description": "When ready have one member click the ??? to spawn 3 NM Wyrmflys. Since spawning the flies causes all three to attack the person who spawned them, a Thief using Perfect Dodge or Paladin using Invincible is suggested. Because the Wyrmflies are weak against ice, having 2 summoners casting Shiva and using Diamond Dust kills all three NMs. This allows for a SMN duo to win the fight, assuming that they buffed well enough before receiving the level cap with Earthen Ward and Protect V from Light Spirit, they will be able to endure the NMs for the few seconds it takes two Shivas to use Diamond Dust.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-9",
+          "orderIndex": 8,
+          "title": "After killing the mobs, everyone must click on the ??? and receive Indigested Meat.",
+          "description": "After killing the mobs, everyone must click on the ??? and receive Indigested Meat. Those who died during the fight will need Ahko Mhalijikhari to reapply the ointment before they can receive the key item.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-10",
+          "orderIndex": 9,
+          "title": "Return to Ahko Mhalijikhari (C-9) in Shakhrami to have your Ointment/Level Reduction removed.",
+          "description": "Return to Ahko Mhalijikhari (C-9) in Shakhrami to have your Ointment/Level Reduction removed.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-9"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-11",
+          "orderIndex": 10,
+          "title": "Return to Lumomo for your reward.",
+          "description": "Return to Lumomo for your reward.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-eco-warrior-windurst-node-10"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-escort-for-hire-windurst",
+      "title": "Escort for Hire (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Escort_for_Hire_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Dehn Harzhapan in Port Windurst to activate the quest.",
+          "description": "Talk to Dehn Harzhapan in Port Windurst to activate the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-2",
+          "orderIndex": 1,
+          "title": "Zone into Garlaige Citadel.",
+          "description": "Zone into Garlaige Citadel.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-3",
+          "orderIndex": 2,
+          "title": "The first person to zone into the dungeon will get a cut scene with Wanzo-Unzozo about the quest.",
+          "description": "The first person to zone into the dungeon will get a cut scene with Wanzo-Unzozo about the quest.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-4",
+          "orderIndex": 3,
+          "title": "That person must talk to Wanzo-Unzozo to start the quest.",
+          "description": "That person must talk to Wanzo-Unzozo to start the quest. You will have 30 minutes to finish from this point.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-5",
+          "orderIndex": 4,
+          "title": "After talking to Wanzo-Unzozo, he will immediately bolt away and start towards his destination with ",
+          "description": "After talking to Wanzo-Unzozo, he will immediately bolt away and start towards his destination with no thought for aggro at all. Anyone can stop and start him, simply talk to him. He will reply \"Why have we stopped?\" This way you can safely fight mobs with him out of aggro and AoE range. To start him forward again, talk to him once more.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-6",
+          "orderIndex": 5,
+          "title": "If Wanzo-Unzozo's HP gets low (in the yellow) he will draw hate from the undead.",
+          "description": "If Wanzo-Unzozo's HP gets low (in the yellow) he will draw hate from the undead. Wanzo-Unzozo can be cured.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-7",
+          "orderIndex": 6,
+          "title": "Be warned that monsters will aggro Wanzo-Unzozo from farther away than they normally would aggro a c",
+          "description": "Be warned that monsters will aggro Wanzo-Unzozo from farther away than they normally would aggro a character.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-8",
+          "orderIndex": 7,
+          "title": "Be sure to stop Wanzo-Unzozo before the banishing gates as he has the ability to run right through t",
+          "description": "Be sure to stop Wanzo-Unzozo before the banishing gates as he has the ability to run right through them.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-9",
+          "orderIndex": 8,
+          "title": "Once he gets to his destination he will stop.",
+          "description": "Once he gets to his destination he will stop. Talk to him for yor Completion Certificate (Key Item).",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-10",
+          "orderIndex": 9,
+          "title": "Go back to Dehn Harzhapan to receive your Page from Miratete's Memoirs.",
+          "description": "Go back to Dehn Harzhapan to receive your Page from Miratete's Memoirs.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-escort-for-hire-windurst-node-9"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-fire-and-brimstone",
+      "title": "Fire and Brimstone",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Fire_and_Brimstone",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-fire-and-brimstone-node-1",
+          "orderIndex": 0,
+          "title": "You must be on the Ranger job to flag this quest.",
+          "description": "You must be on the Ranger job to flag this quest. If you have just completed Sin Hunting you must rezone.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-fire-and-brimstone-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Perih Vashai in Windurst Woods (K-7) for a cutscene.",
+          "description": "Talk to Perih Vashai in Windurst Woods (K-7) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-fire-and-brimstone-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-fire-and-brimstone-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Koh Lenbalalako inside the blacksmithing guild in Mhaura (F-9) twice for a cutscene.",
+          "description": "Talk to Koh Lenbalalako inside the blacksmithing guild in Mhaura (F-9) twice for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-fire-and-brimstone-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-fire-and-brimstone-node-4",
+          "orderIndex": 3,
+          "title": "Enter Eldieme Necropolis from Batallia Downs (J-10) for a cutscene.",
+          "description": "Enter Eldieme Necropolis from Batallia Downs (J-10) for a cutscene. You will not get the cutscene if you arrive via Survival Guide. You will need to exit and reenter The Eldieme Necropolis.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-fire-and-brimstone-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-fire-and-brimstone-node-5",
+          "orderIndex": 4,
+          "title": "Examine the gravestone in the southern chamber (G-9) for a cutscene.",
+          "description": "Examine the gravestone in the southern chamber (G-9) for a cutscene. If you do not have the Magicked astrolabe, you will need a friend to activate the gate lever for you.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-fire-and-brimstone-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-fire-and-brimstone-node-6",
+          "orderIndex": 5,
+          "title": "Return to Perih Vashai for a cutscene.",
+          "description": "Return to Perih Vashai for a cutscene. The next step requires the Ranger ability Scavenge. Ensure that Ranger is set as your main or support job.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-fire-and-brimstone-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-fire-and-brimstone-node-7",
+          "orderIndex": 6,
+          "title": "Go to Castle Oztroja, the pool at (H-9) of Map 4.",
+          "description": "Go to Castle Oztroja, the pool at (H-9) of Map 4. Yagudo along your path detect by sight and are level 20-49, and will aggro players below level 68. From the entrance, go to (I-8) of Map 1 and stand on the trapdoor. Activate one of the switches and immediately run off of the trapdoor. If the door does not open, try the other switch instead. Enter Map 3. Go to (G-8) and solve the combination lock to enter Map 4. The combination lock solution changes every game day. Today's combination can be seen in the hidden room at (I-10), or bruteforced.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-fire-and-brimstone-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-fire-and-brimstone-node-8",
+          "orderIndex": 7,
+          "title": "Use Scavenge while standing in the pool to find an Old Earring.",
+          "description": "Use Scavenge while standing in the pool to find an Old Earring. This may require several attempts.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-fire-and-brimstone-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-fire-and-brimstone-node-9",
+          "orderIndex": 8,
+          "title": "Return to Perih Vashai and trade her the Old Earring for a final cutscene and your reward.",
+          "description": "Return to Perih Vashai and trade her the Old Earring for a final cutscene and your reward.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-fire-and-brimstone-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-fire-and-brimstone-node-10",
+          "orderIndex": 9,
+          "title": "Optional: Talk to Gioh Ajihri (K-5) for additional dialogue.",
+          "description": "Optional: Talk to Gioh Ajihri (K-5) for additional dialogue.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-fire-and-brimstone-node-9"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-flower-child",
+      "title": "Flower Child",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Flower_Child",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-flower-child-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Ojha Rhawash; she's obsessed with flowers and will tell you about gardening.",
+          "description": "Talk to Ojha Rhawash; she's obsessed with flowers and will tell you about gardening. She doesn't ask for help but she'd like to have flowers to plant in her garden. (Optional) Trade a flower to her and she'll mention who likes , but what she really wants is a Lilac.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-flower-child-node-2",
+          "orderIndex": 1,
+          "title": "Give her a Lilac.",
+          "description": "Give her a Lilac.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-flower-child-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-food-for-thought",
+      "title": "Food for Thought",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Food_for_Thought",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-food-for-thought-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Ohbiru-Dohbiru in Windurst Waters, South (J-9) (Home Point #3)) (in the southern Rhinostery ",
+          "description": "Talk to Ohbiru-Dohbiru in Windurst Waters, South (J-9) (Home Point #3)) (in the southern Rhinostery building), he'll tell you that he's so hungry \"I feel like I'm starving to death...\"",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-food-for-thought-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Kerutoto in the northern Rhinostery building.",
+          "description": "Talk to Kerutoto in the northern Rhinostery building. She will tell you to go talk to Ohbiru-Dohbiru and Kenapa-Keppa in the \"higgledy-piggledy laboratory\" next door. At this point the quest may be added to your Quest log.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-food-for-thought-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-food-for-thought-node-3",
+          "orderIndex": 2,
+          "title": "Speak with Ohbiru-Dohbiru and Kenapa-Keppa, who will complain that they're out of food but can't lea",
+          "description": "Speak with Ohbiru-Dohbiru and Kenapa-Keppa, who will complain that they're out of food but can't leave their work.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-food-for-thought-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-food-for-thought-node-4",
+          "orderIndex": 3,
+          "title": "Go back to Kerutoto; she will give you her order and tell you to ask them for theirs.",
+          "description": "Go back to Kerutoto; she will give you her order and tell you to ask them for theirs. At this point the quest should be added to your Quest log. You may receive the quest Waking Dreams the first time you talk to Kerutoto. Just talk to her repeatedly until you get the correct dialog. You may need to do that more than once. You do not need to wait or zone.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-food-for-thought-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-food-for-thought-node-5",
+          "orderIndex": 4,
+          "title": "Make sure you talk to Ohbiru-Dohbiru and Kenapa-Keppa again to get their orders.",
+          "description": "Make sure you talk to Ohbiru-Dohbiru and Kenapa-Keppa again to get their orders. You will need to talk to Kenapa-Keppa a few times before he tells you what he wants.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-food-for-thought-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-from-saplings-grow",
+      "title": "From Saplings Grow",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/From_Saplings_Grow",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-from-saplings-grow-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Perih Vashai in Windurst Woods as a level 71+ Ranger with 250+ Archery skill to obtain the B",
+          "description": "Talk to Perih Vashai in Windurst Woods as a level 71+ Ranger with 250+ Archery skill to obtain the Bow of Trials and a Weapon Training Guide. Although the Archery skill cap for a level 71 Ranger is 249, if you have 250+ skill on another job, you will successfully flag the quest. Cannot be done concurrently with any other quest involving the Annals of Truth.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-from-saplings-grow-node-2",
+          "orderIndex": 1,
+          "title": "Use the Bow of Trials until the latent effect disappears.",
+          "description": "Use the Bow of Trials until the latent effect disappears.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-from-saplings-grow-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-glyph-hanger",
+      "title": "Glyph Hanger",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Glyph_Hanger",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-glyph-hanger-node-1",
+          "orderIndex": 0,
+          "title": "Accept the quest to receive a Note From Hariga-Origa.",
+          "description": "Accept the quest to receive a Note From Hariga-Origa.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-glyph-hanger-node-2",
+          "orderIndex": 1,
+          "title": "Go speak with Ipupu in West Sarutabaruta, in the tower between (I-8) and (J-8), to receive a Note Fr",
+          "description": "Go speak with Ipupu in West Sarutabaruta, in the tower between (I-8) and (J-8), to receive a Note From Ipupu. If you exit to West Sarutabaruta from Windurst Waters, the tower is right next to the exit.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-glyph-hanger-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-glyph-hanger-node-3",
+          "orderIndex": 2,
+          "title": "Return to Hariga-Origa to complete the quest.",
+          "description": "Return to Hariga-Origa to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-glyph-hanger-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-hat-in-hand",
+      "title": "Hat in Hand",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hat_in_Hand",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-hat-in-hand-node-1",
+          "orderIndex": 0,
+          "title": "Baren-Moren, in the Hat shop (South Windurst Waters), wants you to show off the New Model Hat.",
+          "description": "Baren-Moren, in the Hat shop (South Windurst Waters), wants you to show off the New Model Hat. Accept the offer and then go around and talk to the NPCs in Windurst Waters. The following NPCs say special things when you talk to them during this quest: Bondada at the hat shop (after you talk to a certain number of people) After you have talked to a minimum of 10 different NPCs, Bondada agrees to buy a hat when you talk to her again. This does not mean that you have earned the maximum reward, however. Honoi-Gomoi at Windurst Waters, South (E-7), he is in a 2-story building you must go behind and climb up the ramp to get to. Kenapa-Keppa at the Rhinostery, Windurst Waters, South (J-9). Clais near the Rarab's Tail, Windurst Waters, North (G-10). Kyume-Romeh in the Timbre Timbers Tavern, Windurst Waters, North (F-10). Tosuka-Porika in the east Optistery building, Windurst Waters, North (G-8). Pechiru-Mashiru in the east Aurastery building, Windurst Waters, North (L-6). Machitata near the residence area, Windurst Waters, North (L-11).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-hat-in-hand-node-2",
+          "orderIndex": 1,
+          "title": "You must talk to a certain number of NPCs in order to complete this quest with the maximum reward.",
+          "description": "You must talk to a certain number of NPCs in order to complete this quest with the maximum reward. The eight listed above may be mandatory but are not enough by themselves to give you any reward from the quest.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-hat-in-hand-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-hat-in-hand-node-3",
+          "orderIndex": 2,
+          "title": "Don't leave Windurst Waters before you finish.",
+          "description": "Don't leave Windurst Waters before you finish.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-hat-in-hand-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-hat-in-hand-node-4",
+          "orderIndex": 3,
+          "title": "Warning: If you haven't yet begun Babban Ny Mheillea, do NOT talk to Khoto Rokkorah during this ques",
+          "description": "Warning: If you haven't yet begun Babban Ny Mheillea, do NOT talk to Khoto Rokkorah during this quest. Doing so causes you to fail this quest. The resulting cutscene technically zones you to West Sarutabaruta and back, which counts as leaving Windurst Waters.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-hat-in-hand-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-hat-in-hand-node-5",
+          "orderIndex": 4,
+          "title": "The more NPCs you talk to, the greater your final reward, up to a maximum of 200 gil and a Windshear",
+          "description": "The more NPCs you talk to, the greater your final reward, up to a maximum of 200 gil and a Windshear Hat. <20 NPCs: You will not get credit or complete the quest 20~29 NPCs: 50 gil, no hat. 30~39 NPCs: 120 gil, no hat. 40~79 NPCs: 150 gil and a Windshear Hat. 80+ NPCS: 200 gil and a Windshear Hat.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-hat-in-hand-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-heaven-cent",
+      "title": "Heaven Cent",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Heaven_Cent",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-heaven-cent-node-1",
+          "orderIndex": 0,
+          "title": "When you talk to Ropunono, on the roof of the Optistery, you discover that the telescope lens is goi",
+          "description": "When you talk to Ropunono, on the roof of the Optistery, you discover that the telescope lens is going bad, and she needs to fix it.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-heaven-cent-node-2",
+          "orderIndex": 1,
+          "title": "So you head out to find her an Ahriman Lens first.",
+          "description": "So you head out to find her an Ahriman Lens first. Since this is an Exclusive item, you need to go farm it yourself. They drop from Ahriman in:",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-heaven-cent-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-hitting-the-marquisate",
+      "title": "Hitting the Marquisate",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hitting_the_Marquisate",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-hitting-the-marquisate-node-1",
+          "orderIndex": 0,
+          "title": "First, speak to Nanaa Mihgo in Windurst Woods at (J-3) as a Thief for a cutscene and the Cat Burglar",
+          "description": "First, speak to Nanaa Mihgo in Windurst Woods at (J-3) as a Thief for a cutscene and the Cat Burglar's note. Once the quest has been started by talking to Nanaa Mihgo, you can complete the rest of the quest on any job. You may do Hagain's and Yatniel's sections in any order.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-hoist-the-jelly-roger",
+      "title": "Hoist the Jelly, Roger",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hoist_the_Jelly,_Roger",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-hoist-the-jelly-roger-node-1",
+          "orderIndex": 0,
+          "title": "Maysoon says she'll give you one of her Super Soup Pots if you bring her a serving of Royal Jelly.",
+          "description": "Maysoon says she'll give you one of her Super Soup Pots if you bring her a serving of Royal Jelly.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-i-can-hear-a-rainbow",
+      "title": "I Can Hear a Rainbow",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/I_Can_Hear_a_Rainbow",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-i-can-hear-a-rainbow-node-1",
+          "orderIndex": 0,
+          "title": "Obtain Carbuncle's Ruby.",
+          "description": "Obtain Carbuncle's Ruby. This is a Rare/Exclusive item that may be obtained from nearly any Leech-type mob, though drop rate is incredibly low overall. Since the Escutcheon introduction, the Carbuncle's Ruby drop rate seems to have been increased quite a bit. Recommended places to farm: Bostaunieux Oubliette or Toraimarai Canal - Bloodsucker and Bouncing Ball. The drop rate can be improved if you have Thief main/support job, with Treasure Hunter job trait. Carbuncle's Ruby cannot be delivered to other same Square Enix/PlayOnline account characters and therefore must be obtained on the character that needs the drop. Optional: Activate Records of Eminence 15th Vana'versary IV objective Red Rover (W) for sparks and experience.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-i-can-hear-a-rainbow-node-2",
+          "orderIndex": 1,
+          "title": "With the Ruby in your inventory, go to the House of the Hero at (G-3) in Windurst Walls (fastest to ",
+          "description": "With the Ruby in your inventory, go to the House of the Hero at (G-3) in Windurst Walls (fastest to take Home Point #1 warp; if you don't have this, then exit Windurst Waters and go East/North). Check the front door for a cutscene, where you will be asked to find \"the seven colors\".",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-i-can-hear-a-rainbow-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-i-can-hear-a-rainbow-node-3",
+          "orderIndex": 2,
+          "title": "The \"seven colors\" that are required correspond to the colors of the rainbow.",
+          "description": "The \"seven colors\" that are required correspond to the colors of the rainbow. They are obtained by zoning into an outdoor, enemy-populated area while one of six weather effects is active—the seventh is obtained by zoning into an outdoor, enemy-populated area with no weather effect at all. To clarify: \"Outdoor\" means that you may not zone into a cave or dungeon area to obtain a color. To clarify: \"Enemy-Populated\" means that you may not zone into a town or city to obtain a color. Cannot obtain weather effects by having a Scholar cast them on you. Cannot obtain weather effects from Wings of the Goddess zones.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-i-can-hear-a-rainbow-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-i-can-hear-a-rainbow-node-4",
+          "orderIndex": 3,
+          "title": "Zoning into an area with the above requirements (that you have not yet obtained) and with the ruby i",
+          "description": "Zoning into an area with the above requirements (that you have not yet obtained) and with the ruby in either your Inventory, Mog Satchel, Mog Sack or Mog Case triggers a short cutscene upon entering the area, where Carbuncle will remark on the color of light that you have found. Note that you will not see the same cutscene again. This can be done by logging out and back into the zone. This can be done while riding a chocobo or mount. This can be done by using an outpost teleport into the zone. This can be done by using the Survival Guide teleport into the zone. This can be done by teleporting into the zone (Teleport-Dem, Nexus Cape, etc). This can be done by traveling into the zone using a Cavernous Maw. You can zone into an area under Monstrosity and still receive the weather cutscene and credit. See Odyssean Passage for a list of applicable areas. Weather Checker NPCs in each town or city can help predict when and where the weather for which you are looking will be in effect. Bear in mind, however, that these Weather Checkers are not completely accurate; some weather effects may occur on days they are not forecasted, and vice-versa. After receiving the cutscene to start the quest, the weathers can be obtained on jobs lower than level 30.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-i-can-hear-a-rainbow-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-in-a-pickle",
+      "title": "In a Pickle",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/In_a_Pickle",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-in-a-pickle-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Chamama in the Rarab Tail Hostelry at (F-10) in Windurst Waters.",
+          "description": "Speak with Chamama in the Rarab Tail Hostelry at (F-10) in Windurst Waters.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-in-a-pickle-node-2",
+          "orderIndex": 1,
+          "title": "She will ask you to find her a replacement stone.",
+          "description": "She will ask you to find her a replacement stone.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-in-a-pickle-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-in-a-pickle-node-3",
+          "orderIndex": 2,
+          "title": "Kill Crawlers in East Sarutabaruta or West Sarutabaruta until one drops a smooth stone.",
+          "description": "Kill Crawlers in East Sarutabaruta or West Sarutabaruta until one drops a smooth stone.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-in-a-pickle-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-in-a-pickle-node-4",
+          "orderIndex": 3,
+          "title": "Trade the smooth stone to Chamama.",
+          "description": "Trade the smooth stone to Chamama.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-in-a-pickle-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-in-a-pickle-node-5",
+          "orderIndex": 4,
+          "title": "One of two things may happen:.",
+          "description": "One of two things may happen:",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-in-a-pickle-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-in-a-stew",
+      "title": "In a Stew",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/In_a_Stew",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-in-a-stew-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Kuoh Rhel to learn that she needs to mask the Chocobo medicine in delicious soup.",
+          "description": "Talk to Kuoh Rhel to learn that she needs to mask the Chocobo medicine in delicious soup.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-in-a-stew-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Matata who's right next to Kuoh Rhel (K-12).",
+          "description": "Talk to Matata who's right next to Kuoh Rhel (K-12).",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-in-a-stew-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-in-a-stew-node-3",
+          "orderIndex": 2,
+          "title": "Now go to Windurst Waters and talk to Ranpi-Monpi in the Cooking Guild (D-9).",
+          "description": "Now go to Windurst Waters and talk to Ranpi-Monpi in the Cooking Guild (D-9). Then trade him the 3 Woozyshrooms that he wants. You will obtain Ranpi-Monpi's Special Stew.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-in-a-stew-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-inspector-s-gadget",
+      "title": "Inspector's Gadget!",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Inspector%27s_Gadget!",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-inspector-s-gadget-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Kohlo-Lakolo.",
+          "description": "Speak with Kohlo-Lakolo. In a cutscene he will tell you that each member of the Onion Brigade must bring one gadget from the Junior Investigator’s Toolkit.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-inspector-s-gadget-node-2",
+          "orderIndex": 1,
+          "title": "Speak with Pichichi.",
+          "description": "Speak with Pichichi. She notices your confusion and suggests that you speak with her mother, Chamama in Windurst Waters, North (F-10), inside the Rarab Tail Hostelry. (Optional) Speak with each child for additional humorous dialogue.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-inspector-s-gadget-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-inspector-s-gadget-node-3",
+          "orderIndex": 2,
+          "title": "Chamama needs you to collect 4 balls of Saruta Cotton.",
+          "description": "Chamama needs you to collect 4 balls of Saruta Cotton.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-inspector-s-gadget-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-inspector-s-gadget-node-4",
+          "orderIndex": 3,
+          "title": "Trade the 4 balls of Saruta cotton to her and she will give you a Fake Moustache to take back to Koh",
+          "description": "Trade the 4 balls of Saruta cotton to her and she will give you a Fake Moustache to take back to Kohlo-Lakolo.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-inspector-s-gadget-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-know-one-s-onions",
+      "title": "Know One's Onions",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Know_One%27s_Onions",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-know-one-s-onions-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Kohlo-Lakolo at G-5 in Port Windurst.",
+          "description": "Speak with Kohlo-Lakolo at G-5 in Port Windurst.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-know-one-s-onions-node-2",
+          "orderIndex": 1,
+          "title": "Trade Kohlo-Lakolo four Wild Onions You will receive the Scroll of Blaze Spikes.",
+          "description": "Trade Kohlo-Lakolo four Wild Onions You will receive the Scroll of Blaze Spikes.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-know-one-s-onions-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-legendary-plan-b",
+      "title": "Legendary Plan B",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Legendary_Plan_B",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-legendary-plan-b-node-1",
+          "orderIndex": 0,
+          "title": "Zoning is required to begin this quest if you complete A Greeting Cardian in the same trip.",
+          "description": "Zoning is required to begin this quest if you complete A Greeting Cardian in the same trip.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-legendary-plan-b-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Kopuro-Popuro in the Manustery at H-10.",
+          "description": "Talk to Kopuro-Popuro in the Manustery at H-10. You will receive a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-legendary-plan-b-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-legendary-plan-b-node-3",
+          "orderIndex": 2,
+          "title": "You will need to get three items: (all could be bought at the Auction House.) Luminicloth which drop",
+          "description": "You will need to get three items: (all could be bought at the Auction House.) Luminicloth which drops off Ghost family mobs. Revival Tree Root which drop off all Undead mobs. Wolf Hide which drops off Hound family mobs.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-legendary-plan-b-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-legendary-plan-b-node-4",
+          "orderIndex": 3,
+          "title": "Trade all three items to Kopuro-Popuro to receive another cutscene.",
+          "description": "Trade all three items to Kopuro-Popuro to receive another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-legendary-plan-b-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-legendary-plan-b-node-5",
+          "orderIndex": 4,
+          "title": "After the cutscene, you will receive the Scentless Armlets and 700 gil.",
+          "description": "After the cutscene, you will receive the Scentless Armlets and 700 gil.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-legendary-plan-b-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-let-sleeping-dogs-lie",
+      "title": "Let Sleeping Dogs Lie",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Let_Sleeping_Dogs_Lie",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-let-sleeping-dogs-lie-node-1",
+          "orderIndex": 0,
+          "title": "The quest Reap What You Sow, and Windurst Mission 8-1: Vain, will interfere with this quest.",
+          "description": "The quest Reap What You Sow, and Windurst Mission 8-1: Vain, will interfere with this quest. If either is active, you must complete it or both before beginning this one.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-let-sleeping-dogs-lie-node-2",
+          "orderIndex": 1,
+          "title": "Reap What You Sow is NOT required for this quest.",
+          "description": "Reap What You Sow is NOT required for this quest. In fact, if the player has the appropriate fame they won't be able to accept Reap What You Sow until they finish this quest.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-let-sleeping-dogs-lie-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-lure-of-the-wildcat-windurst",
+      "title": "Lure of the Wildcat (Windurst)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Lure_of_the_Wildcat_(Windurst)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-lure-of-the-wildcat-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Note: It no longer matters if you have the Rock Racketeer quest active.",
+          "description": "Note: It no longer matters if you have the Rock Racketeer quest active.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-lure-of-the-wildcat-windurst-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Ibwam who will give you a Green Sentinel Badge and ask you to find new recruits for a mercen",
+          "description": "Talk to Ibwam who will give you a Green Sentinel Badge and ask you to find new recruits for a mercenary group in Aht Urhgan.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-lure-of-the-wildcat-windurst-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-lure-of-the-wildcat-windurst-node-3",
+          "orderIndex": 2,
+          "title": "Check the badge to get coordinates for the people you should talk to in each area.",
+          "description": "Check the badge to get coordinates for the people you should talk to in each area.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-lure-of-the-wildcat-windurst-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-lure-of-the-wildcat-windurst-node-4",
+          "orderIndex": 3,
+          "title": "You will know you've found the right person because you get an emote message: \"[ ]'s badge flashes b",
+          "description": "You will know you've found the right person because you get an emote message: \"[ ]'s badge flashes brightly.\"",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-lure-of-the-wildcat-windurst-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-lure-of-the-wildcat-windurst-node-5",
+          "orderIndex": 4,
+          "title": "After you talk to all of the people for Windurst, return to Ibwam to receive a Green Invitation Card",
+          "description": "After you talk to all of the people for Windurst, return to Ibwam to receive a Green Invitation Card (key item). Note on teleportation: If you have not completed Aht Urhgan Mission 2: Immortal Sentries to enlist as a Mercenary, you will not be able to teleport using this NPC. If this is your first completed Lure of the Wildcat quest, you will have to turn in the Invitation Card to Naja Salaheem prior to teleport access as well.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-lure-of-the-wildcat-windurst-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-making-amends",
+      "title": "Making Amends",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Making_Amends",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-making-amends-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Hakkuru-Rinkuru in the Orastery then trade him an Animal Glue.",
+          "description": "Talk to Hakkuru-Rinkuru in the Orastery then trade him an Animal Glue. If you are on The Horutoto Ruins Experiment, you need to complete the mission before you can activate the quest. If you are on Saintly Invitation, you need to complete the BC with the Yagudo before you can activate the quest. Even if you have not started the mission, if you have completed (or possibly started) the previous mission, you will not be able to receive this quest.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-making-amens",
+      "title": "Making Amens!",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Making_Amens!",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-making-amens-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Kuroido-Moido.",
+          "description": "Speak with Kuroido-Moido.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-making-amens-node-2",
+          "orderIndex": 1,
+          "title": "Head to the Incinerator in Garlaige Citadel.",
+          "description": "Head to the Incinerator in Garlaige Citadel.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-making-amens-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-making-amens-node-3",
+          "orderIndex": 2,
+          "title": "To get to the Incinerator, each character that wishes to enter the Crematory Hatch (a door) needs a ",
+          "description": "To get to the Incinerator, each character that wishes to enter the Crematory Hatch (a door) needs a Garlaige Key (Rare/Ex), which can be obtained from the Fallen Evacuees in Garlaige Citadel. There are 3 small rooms on the first map with 2 evacuees in each. Thieves cannot use Thief's Tools or Skeleton Key to open the Crematory Hatch.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-making-amens-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-making-amens-node-4",
+          "orderIndex": 3,
+          "title": "Ensure that you have obtained the Pouch of weighted stones from the ??? at (G-8) on the first map of",
+          "description": "Ensure that you have obtained the Pouch of weighted stones from the ??? at (G-8) on the first map of the citadel unless you have least 4 characters available to open the Banishing Gates #1 and #2. Alternatively, you can use the Lycopodium (NPC)'s flower warp, but the process is long and complex, and no longer necessary with the Pouch of weighted stones.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-making-amens-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-making-headlines",
+      "title": "Making Headlines",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Making_Headlines",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-making-headlines-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Making Headlines",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-making-the-grade",
+      "title": "Making the Grade",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Making_the_Grade",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-making-the-grade-node-1",
+          "orderIndex": 0,
+          "title": "NOTE -- You cannot have the Let Sleeping Dogs Lie quest flagged while doing this one.",
+          "description": "NOTE -- You cannot have the Let Sleeping Dogs Lie quest flagged while doing this one. Also, if you have just finished that quest, you must zone before you can flag Making the Grade. You are able to pick up the quest after finishing Let Sleeping Dogs Lie",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-making-the-grade-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Fuepepe in the Aurastery, North Windurst Waters (L-6), who tells you that the students' answ",
+          "description": "Talk to Fuepepe in the Aurastery, North Windurst Waters (L-6), who tells you that the students' answer sheets from their recent written exams were stolen and that The School of Magic urgently requests that you track down the answer sheets and return them. These can be purchased off the Auction House, under Other/Misc, or hunted down yourself. Enter Inner Horutoto Ruins from East Sarutabaruta (J-7), go through one of the cracked walls at either (G-8) or (G-9). Continue through the tunnel section until you reach the Magic Door at (D-10). Follow through to next crack, keep going until you see a Sealed portal at (H-9). To open the door, you need a party of 3 mages, a WHM, a RDM, and a BLM. Or someone with a Portal Charm-permanent key item. Alternatively, you may take the path through Toraimarai Canal, however, this will require the Key Item Rhinostery Certificate obtained from the quest Toraimarai Turmoil. From the Priming Gate entrance at (H-3) in Windurst Walls, follow the stairs down, make a right, and go down the small stairs on the right-hand side.After this make a right, then a left. When you reach the Horutoto Ruins section of the canal (keep an eye out for Makara) go straight, right, left, left. You are looking for a small stairwell, take it up. Cross the small bridge and follow the path as far as it goes. Once in Inner Horutoto Ruins, go through the door marked \"Toraimarai Canal\" and fight the Wendigo to your heart's content. Head to (H-7), the tunnels that lead there look like dead ends, but keep walking and your character will be able to go through them. The room behind the tunnels is where you will find the Wendigos. These will drop the Test Answers.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-making-the-grade-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-making-the-grade-node-3",
+          "orderIndex": 2,
+          "title": "Trade the Test Answers to Fuepepe located in the Aurastery (L-6), who tells you to take them to Koru",
+          "description": "Trade the Test Answers to Fuepepe located in the Aurastery (L-6), who tells you to take them to Koru-Moru, in Windurst Walls (E-7).",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-making-the-grade-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-making-the-grade-node-4",
+          "orderIndex": 3,
+          "title": "Trade the Test Answers to Koru-Moru.",
+          "description": "Trade the Test Answers to Koru-Moru. He then tells you to return to Fuepepe, and also gives you a Key Item Tattered Test Sheet for Chomoro-Kyotoro.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-making-the-grade-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-making-the-grade-node-5",
+          "orderIndex": 4,
+          "title": "OPTIONAL (NOTE: If you skip this, the Tattered Test Sheet will remain in your Temporary Key Items) H",
+          "description": "OPTIONAL (NOTE: If you skip this, the Tattered Test Sheet will remain in your Temporary Key Items) Head to Chomoro-Kyotoro located at the top of the West Aurastery in Windurst Waters North (K-6) After talking to Chomoro-Kyotoro, talk to Kirarara in the same location.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-making-the-grade-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-making-the-grade-node-6",
+          "orderIndex": 5,
+          "title": "Speak with Fuepepe to receive your reward.",
+          "description": "Speak with Fuepepe to receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-making-the-grade-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-mandragora-mad",
+      "title": "Mandragora-Mad",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Mandragora-Mad",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-mandragora-mad-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Mandragora-Mad",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-mihgo-s-amigo",
+      "title": "Mihgo's Amigo",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Mihgo%27s_Amigo",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-mihgo-s-amigo-node-1",
+          "orderIndex": 0,
+          "title": "Repeatedly talk to Nanaa Mihgo until the quest is flagged.",
+          "description": "Repeatedly talk to Nanaa Mihgo until the quest is flagged. You may have to talk to her several times.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-mihgo-s-amigo-node-2",
+          "orderIndex": 1,
+          "title": "Optional: speak to Cha Lebagta.",
+          "description": "Optional: speak to Cha Lebagta.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-mihgo-s-amigo-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-mihgo-s-amigo-node-3",
+          "orderIndex": 2,
+          "title": "Trade Nanaa Mihgo four Yagudo Necklaces to complete the quest and receive your reward.",
+          "description": "Trade Nanaa Mihgo four Yagudo Necklaces to complete the quest and receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-mihgo-s-amigo-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-nothing-matters",
+      "title": "Nothing Matters",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Nothing_Matters",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-nothing-matters-node-1",
+          "orderIndex": 0,
+          "title": "If you have just completed the previous quest, Blast from the Past, you will need to zone before thi",
+          "description": "If you have just completed the previous quest, Blast from the Past, you will need to zone before this quest will be given to you. Also, if you have started another quest involving Koru-Moru (such as Carbuncle's Debacle) and not completed it yet, he might not give you the following dialogue. In that case, complete the other quest first.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-nothing-matters-node-2",
+          "orderIndex": 1,
+          "title": "Koru-Moru asks you to find someone practiced in the art of Alchemy.",
+          "description": "Koru-Moru asks you to find someone practiced in the art of Alchemy.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-nothing-matters-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-nothing-matters-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Shantotto (K-7) who will tell you that she remembers that there was a student who was former",
+          "description": "Talk to Shantotto (K-7) who will tell you that she remembers that there was a student who was formerly in the school who had interests in alchemy. Yoran-Oran (E-5) also gives additional dialogue.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-nothing-matters-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-nothing-matters-node-4",
+          "orderIndex": 3,
+          "title": "Head over to the Aurastery in Windurst Waters (North) and speak to Fuepepe (L-6), who will tell you ",
+          "description": "Head over to the Aurastery in Windurst Waters (North) and speak to Fuepepe (L-6), who will tell you to search in the Acolyte Hostel for a record.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-nothing-matters-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-nothing-matters-node-5",
+          "orderIndex": 4,
+          "title": "Head north, past the Aurastery, and note the door on the left side of the front of the building.",
+          "description": "Head north, past the Aurastery, and note the door on the left side of the front of the building. Run between the two sides of the building, and go to each of the doors on the left. Answer the trivia questions correctly, and move to the next door. There are 3 doors, and 3 more to the right side of the building. After answering all the questions correctly (they will ask 2 or 3 other questions if you fail, then begin to loop back to the first), go back to the door on the left side of the front of the Hostel to get Thesis on Alchemy (key item).",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-nothing-matters-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-one-good-deed",
+      "title": "One Good Deed?",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/One_Good_Deed%3F",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-one-good-deed-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Chipmy-Popmy to get a cutscene.",
+          "description": "Talk to Chipmy-Popmy to get a cutscene. (You may have to talk to him twice to get the cutscene.)",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-one-good-deed-node-2",
+          "orderIndex": 1,
+          "title": "Take the Manaclipper in Bibiki Bay to Bibiki Bay - Purgonorgo Isle.",
+          "description": "Take the Manaclipper in Bibiki Bay to Bibiki Bay - Purgonorgo Isle. The clipper does three tours. You want the tour that goes out to Bibiki Bay - Purgonorgo Isle.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-one-good-deed-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-one-good-deed-node-3",
+          "orderIndex": 2,
+          "title": "Once on the Isle, follow the path to (H-9), near the center of the isle.",
+          "description": "Once on the Isle, follow the path to (H-9), near the center of the isle. There is a ???.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-one-good-deed-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-one-good-deed-node-4",
+          "orderIndex": 3,
+          "title": "Examine the ??? to spawn six Peerifools (Mandragora-type monsters).",
+          "description": "Examine the ??? to spawn six Peerifools (Mandragora-type monsters). Defeat them. The Peerifools use Dream Flower rapidly, often within seconds of each other when they are awake, but a 75 character should have no difficulty evading or resisting the sleep effect. They are very susceptible to a BLM's Sleep spells. Will link with any other Mandragora mobs in the area. Not really a threat, but you should be aware of this. Their attacks have a chance of processing an \"Additional Effect: Sleep\" when they hit you.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-one-good-deed-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-one-good-deed-node-5",
+          "orderIndex": 4,
+          "title": "Once defeated, examine the ??? again for a cutscene and the Deed to Purgonorgo Isle.",
+          "description": "Once defeated, examine the ??? again for a cutscene and the Deed to Purgonorgo Isle.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-one-good-deed-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-one-good-deed-node-6",
+          "orderIndex": 5,
+          "title": "Return to Chipmy-Popmy for another cutscene.",
+          "description": "Return to Chipmy-Popmy for another cutscene. (You may have to talk to him twice again to get the cutscene.)",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-one-good-deed-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-onion-rings",
+      "title": "Onion Rings",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Onion_Rings",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-onion-rings-node-1",
+          "orderIndex": 0,
+          "title": "At the end of the quest Inspector's Gadget!, Kohlo-Lakolo will lament not having the minister's ring",
+          "description": "At the end of the quest Inspector's Gadget!, Kohlo-Lakolo will lament not having the minister's ring to open the door of the House of the Hero.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-onion-rings-node-2",
+          "orderIndex": 1,
+          "title": "Go to Castle Oztroja and proceed to I-8 on the first map, where you will find a door with two handle",
+          "description": "Go to Castle Oztroja and proceed to I-8 on the first map, where you will find a door with two handles. One handle will open the door and the other will open a trap door beneath the handles. You must stand right next to a switch, directly in front of the doorway, to pull a handle.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-onion-rings-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-onion-rings-node-3",
+          "orderIndex": 2,
+          "title": "Find the handle that opens the trap door, pull it, and fall to the room below.",
+          "description": "Find the handle that opens the trap door, pull it, and fall to the room below.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-onion-rings-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-onion-rings-node-4",
+          "orderIndex": 3,
+          "title": "Check a blank target on the floor to find an Old Ring.",
+          "description": "Check a blank target on the floor to find an Old Ring. To receive the old ring you must be the one to pull the lever and activate the trapdoor, you cannot have a high-level friend helping you pull the lever. It is possible for a Non-Windurst citizen to get the ring. Just touch the trap door and you will get it. A Windurst citizen must be on or past Windurst Mission 3-1 to get the ring.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-onion-rings-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-onion-rings-node-5",
+          "orderIndex": 4,
+          "title": "Checking the target again will open an escape door.",
+          "description": "Checking the target again will open an escape door. Dropping down this hole will place you in a long stairway, at the end of which is Oztroja's main courtyard, through which you can easily return to the main exit. This is a safe way out of the castle for players who don't have a means of Warp; however, the Yagudo in the stairway and courtyard are fourth-tier and highly dangerous to anyone under Level 50.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-onion-rings-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-onion-rings-node-6",
+          "orderIndex": 5,
+          "title": "Bring the ring back to Kohlo-Lakolo.",
+          "description": "Bring the ring back to Kohlo-Lakolo. One of two events will occur: You will be told to go to the House of the Hero in Windurst Walls at (G-3). There you will check its door to see a cutscene, and the quest will be completed. You will be told that you were \"too late,\" receive a similar cutscene, and the quest will be completed.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-onion-rings-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-orastery-woes",
+      "title": "Orastery Woes",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Orastery_Woes",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-orastery-woes-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Kuroido-Moido (Orastery, E-7) in Port Windurst who will give you the Club of Trials and the ",
+          "description": "Talk to Kuroido-Moido (Orastery, E-7) in Port Windurst who will give you the Club of Trials and the Weapon Training Guide.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-orastery-woes-node-2",
+          "orderIndex": 1,
+          "title": "Use the Club of Trials until the latent effect disappears.",
+          "description": "Use the Club of Trials until the latent effect disappears.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-orastery-woes-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-overnight-delivery",
+      "title": "Overnight Delivery",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Overnight_Delivery",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-overnight-delivery-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Kenapa-Keppa in the Rhinostery until he gives you this quest.",
+          "description": "Talk to Kenapa-Keppa in the Rhinostery until he gives you this quest. You must talk to him after 7:00 Vana'diel time. You must talk to Kenapa-Keppa five times and tell him you accept the quest before you can go to Mhaura. He will ask you to go the fourth time you talk to him, but you must talk to him a fifth time. If you have the quest Say It with Flowers started, Kenapa-Keppa may just mumble about Tahrongi Canyon and how dangerous it is. Finish that quest first, then you can proceed with this one.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-overnight-delivery-node-2",
+          "orderIndex": 1,
+          "title": "Go to Mhaura and look for Kotan-Purutan.",
+          "description": "Go to Mhaura and look for Kotan-Purutan. He appears near the ticket booth at (I-9).",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-overnight-delivery-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-overnight-delivery-node-3",
+          "orderIndex": 2,
+          "title": "Only during night hours, (after 18:00) he will give you a Small Bag to take back.",
+          "description": "Only during night hours, (after 18:00) he will give you a Small Bag to take back.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-overnight-delivery-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-overnight-delivery-node-4",
+          "orderIndex": 3,
+          "title": "You have to make it back to Kenapa-Keppa before dawn (6:00) for your reward.",
+          "description": "You have to make it back to Kenapa-Keppa before dawn (6:00) for your reward. If you log out or disconnect after you get the key item it will disappear from your inventory when you get back. Windurst Waters Home Point #3 is right next to the Rhinostery. When Ease of Exploration is in effect, this quest can be completed effortlessly, because of the Explorer Moogle that will allow teleportation between Port Windurst and Mhaura. With Waypoints, if your HP is in your home city, you can do OP Warp to Zulkheim, run into Selbina, then use the Proto-Waypoint to warp to Mhaura. If your HP is in Ru'Lude Gardens, just use the Proto-Waypoint next to Anastase and warp to Mhaura.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-overnight-delivery-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-overnight-delivery-node-5",
+          "orderIndex": 4,
+          "title": "Optional: Talk to Ohbiru-Dohbiru.",
+          "description": "Optional: Talk to Ohbiru-Dohbiru.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-overnight-delivery-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-paying-lip-service",
+      "title": "Paying Lip Service",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Paying_Lip_Service",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-paying-lip-service-node-1",
+          "orderIndex": 0,
+          "title": "Tapoh Lihzeh is always in need of some special ingredients.",
+          "description": "Tapoh Lihzeh is always in need of some special ingredients.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-reap-what-you-sow",
+      "title": "Reap What You Sow",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Reap_What_You_Sow",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-reap-what-you-sow-node-1",
+          "orderIndex": 0,
+          "title": "Players will not be able to start this quest if they are eligible for Let Sleeping Dogs Lie - and up",
+          "description": "Players will not be able to start this quest if they are eligible for Let Sleeping Dogs Lie - and up until they complete the quest. Moreover, this quest is not required to start Let Sleeping Dogs Lie.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-reap-what-you-sow-node-2",
+          "orderIndex": 1,
+          "title": "If you have just completed Let Sleeping Dogs Lie, you must zone before starting.",
+          "description": "If you have just completed Let Sleeping Dogs Lie, you must zone before starting.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-reap-what-you-sow-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-reap-what-you-sow-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Mashuu-Ajuu on top of the Aurastery, Windurst Waters North (K-6).",
+          "description": "Talk to Mashuu-Ajuu on top of the Aurastery, Windurst Waters North (K-6). He will give you a bag of Herb Seeds.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-reap-what-you-sow-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-reap-what-you-sow-node-4",
+          "orderIndex": 3,
+          "title": "Trade either a Sobbing Fungus or a Deathball.",
+          "description": "Trade either a Sobbing Fungus or a Deathball. They can be obtained by planting the Herb Seeds in a flowerpot, or from the Auction House. If you trade a Sobbing Fungus, you will receive 500g and a Stationery Set. If you trade a Deathball, you will receive 700g and a Stationery Set. After trading a Deathball, you will be unable to repeat the quest.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-reap-what-you-sow-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-recollections",
+      "title": "Recollections",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Recollections",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-recollections-node-1",
+          "orderIndex": 0,
+          "title": "As a level 50+ Black Mage, head to Heavens Tower in Windurst Walls and talk to Chumimi in the baseme",
+          "description": "As a level 50+ Black Mage, head to Heavens Tower in Windurst Walls and talk to Chumimi in the basement. Zoning out of the tower is required after finishing the previous quest. After this step, you no longer have to be a Black Mage for this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-recollections-node-2",
+          "orderIndex": 1,
+          "title": "(Optional) Travel to Ru'Lude Gardens (Home Point#1) and talk to Laityn at (G-9) to get another cutsc",
+          "description": "(Optional) Travel to Ru'Lude Gardens (Home Point#1) and talk to Laityn at (G-9) to get another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-recollections-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-recollections-node-3",
+          "orderIndex": 2,
+          "title": "Travel to Crawlers' Nest and kill a Water Elemental or Fire Elemental to obtain a Bag of Seeds.",
+          "description": "Travel to Crawlers' Nest and kill a Water Elemental or Fire Elemental to obtain a Bag of Seeds. These can be found in the basement \"ring\" area inside of a smaller cave located in the center of the room. Enter the basement at (J-10), labeled \"B\" on player-modded map. The monsters check as Decent Challenges to level 99 in the basement, but they are not aggressive. The elementals can also be found on E-8 of map 8 that check \"Too Weak\" at 95. To avoid wasting time, use the Weather Reporter NPCs to find out when there will be weather in Rolanberry Fields (the fields share weather with Crawler's Nest).",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-recollections-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-recollections-node-4",
+          "orderIndex": 3,
+          "title": "After you obtain the Bag of Seeds, go back to Heavens Tower in Windurst Walls and trade it to Chumim",
+          "description": "After you obtain the Bag of Seeds, go back to Heavens Tower in Windurst Walls and trade it to Chumimi.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-recollections-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-recollections-node-5",
+          "orderIndex": 4,
+          "title": "Next, go to Castle Zvahl Baileys and kill Demon Commanders, Demon Generals, Demon Magistrates, or De",
+          "description": "Next, go to Castle Zvahl Baileys and kill Demon Commanders, Demon Generals, Demon Magistrates, or Demon Chancellors until one of them drops a Whine Cellar Key. Can be found on Map 3 on the bottom floor of each corner drop.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-recollections-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-recollections-node-6",
+          "orderIndex": 5,
+          "title": "Bring the key to Castle Zvahl Keep.",
+          "description": "Bring the key to Castle Zvahl Keep.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-recollections-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-recollections-node-7",
+          "orderIndex": 6,
+          "title": "Upon entering Castle Zvahl Keep, follow the right wall and enter the first Iron Bar Gate to the nort",
+          "description": "Upon entering Castle Zvahl Keep, follow the right wall and enter the first Iron Bar Gate to the north.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-recollections-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-recollections-node-8",
+          "orderIndex": 7,
+          "title": "Bear right and trade the key to the locked Ore Door on the left, before the next iron bar gate.",
+          "description": "Bear right and trade the key to the locked Ore Door on the left, before the next iron bar gate.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-recollections-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-recollections-node-9",
+          "orderIndex": 8,
+          "title": "After the cutscene you will obtain Foe Finder Mark I, return to Chumimi in Heavens Tower in Windurst",
+          "description": "After the cutscene you will obtain Foe Finder Mark I, return to Chumimi in Heavens Tower in Windurst Walls for your reward.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-recollections-node-8"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-rock-racketeer",
+      "title": "Rock Racketeer",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Rock_Racketeer",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-rock-racketeer-node-1",
+          "orderIndex": 0,
+          "title": "You need to zone to activate this quest if you just finished the \"Mihgo's Amigo\" quest.",
+          "description": "You need to zone to activate this quest if you just finished the \"Mihgo's Amigo\" quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-rock-racketeer-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Nanaa Mihgo to obtain the quest and the Sharp Gray Stone.",
+          "description": "Talk to Nanaa Mihgo to obtain the quest and the Sharp Gray Stone.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-rock-racketeer-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-rock-racketeer-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Ardea, Bastok Markets (H-8), and she will trade you 10 gil for the Sharp Gray Stone.",
+          "description": "Talk to Ardea, Bastok Markets (H-8), and she will trade you 10 gil for the Sharp Gray Stone.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-rock-racketeer-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-rock-racketeer-node-4",
+          "orderIndex": 3,
+          "title": "Go back to Nanaa Mihgo and she'll scold you for selling the stone.",
+          "description": "Go back to Nanaa Mihgo and she'll scold you for selling the stone.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-rock-racketeer-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-rock-racketeer-node-5",
+          "orderIndex": 4,
+          "title": "Talk to Varun in Windurst Woods (H-9) next to Home Point #1.",
+          "description": "Talk to Varun in Windurst Woods (H-9) next to Home Point #1. He wonders where his stone has gone.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-rock-racketeer-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-rock-racketeer-node-6",
+          "orderIndex": 5,
+          "title": "Go to the east half of Palborough Mines, Map 3 (I-9) on the 3rd floor.",
+          "description": "Go to the east half of Palborough Mines, Map 3 (I-9) on the 3rd floor. There is a round dead-end room with two mythril seams.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-rock-racketeer-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-rock-racketeer-node-7",
+          "orderIndex": 6,
+          "title": "Mine up the / Sharp Stone from the western seam with a pickaxe.",
+          "description": "Mine up the / Sharp Stone from the western seam with a pickaxe. Your pickaxe may break, so bring a few.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-rock-racketeer-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-rock-racketeer-node-8",
+          "orderIndex": 7,
+          "title": "Go back to Windurst again and trade the Sharp Stone to Varun to complete the quest.",
+          "description": "Go back to Windurst again and trade the Sharp Stone to Varun to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-rock-racketeer-node-7"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-say-it-with-flowers",
+      "title": "Say It with Flowers",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Say_It_with_Flowers",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-say-it-with-flowers-node-1",
+          "orderIndex": 0,
+          "title": "Moari-Kaaori will tell you he is lovesick and wants to give his girlfriend the rarest flower you can",
+          "description": "Moari-Kaaori will tell you he is lovesick and wants to give his girlfriend the rarest flower you can find. He will describe the flower with three adjectives. He tells you the people at the Rhinostery will have one for him. You do not have to go there if you get one elsewhere. You can also harvest it from your Mog Garden.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-say-it-with-flowers-node-2",
+          "orderIndex": 1,
+          "title": "Ohbiru-Dohbiru in the southern half of the Rhinostery at (J-9) will ask you about the flower.",
+          "description": "Ohbiru-Dohbiru in the southern half of the Rhinostery at (J-9) will ask you about the flower. Answer his three questions using the same order and adjectives as used by Moari-Kaaori: rare, mystical, elegant. Answering incorrectly will cause Ohbiru-Dohbiru to give a different flower, and he will charge you for it. On top of this, he will refuse to sell you another one until you zone. If you are on the Toraimarai Turmoil quest, you'll be unable to talk to Ohbiru-Dohbiru to continue on this quest, till completing the quest by getting the requested items (three Starmite Shells).",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-say-it-with-flowers-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-say-it-with-flowers-node-3",
+          "orderIndex": 2,
+          "title": "He will tell you it's the Tahrongi Cactus, but that they've already used their last one.",
+          "description": "He will tell you it's the Tahrongi Cactus, but that they've already used their last one.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-say-it-with-flowers-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-say-it-with-flowers-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Kenapa-Keppa to learn they come from..",
+          "description": "Talk to Kenapa-Keppa to learn they come from... the Tahrongi Canyon!",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-say-it-with-flowers-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-say-it-with-flowers-node-5",
+          "orderIndex": 4,
+          "title": "Go to the mountains in North-Western Tahrongi Canyon (F-6), to get a Tahrongi Cactus.",
+          "description": "Go to the mountains in North-Western Tahrongi Canyon (F-6), to get a Tahrongi Cactus.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-say-it-with-flowers-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-say-it-with-flowers-node-6",
+          "orderIndex": 5,
+          "title": "Take the flower back to Moari-Kaaori for your reward.",
+          "description": "Take the flower back to Moari-Kaaori for your reward. If you answer the questions incorrectly, you will be sold a different flower from the Rhinostery, and Moari-Kaaori will give you a smaller reward.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-say-it-with-flowers-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-say-it-with-flowers-node-7",
+          "orderIndex": 6,
+          "title": "Repeating this quest correctly nets you 400 gil.",
+          "description": "Repeating this quest correctly nets you 400 gil.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-say-it-with-flowers-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-scooped",
+      "title": "Scooped!",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Scooped!",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-scooped-node-1",
+          "orderIndex": 0,
+          "title": "If you have just completed Making Headlines, zone before attempting to start this quest.",
+          "description": "If you have just completed Making Headlines, zone before attempting to start this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-scooped-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Naiko-Paneiko who explains that the next \"Magic Paradise Weekly\" proof copy was stolen.",
+          "description": "Talk to Naiko-Paneiko who explains that the next \"Magic Paradise Weekly\" proof copy was stolen.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-scooped-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-scooped-node-3",
+          "orderIndex": 2,
+          "title": "Optional: Talk to Cha Lebagta and Bopa Greso in Windurst Woods for additional information.",
+          "description": "Optional: Talk to Cha Lebagta and Bopa Greso in Windurst Woods for additional information.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-scooped-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-scooped-node-4",
+          "orderIndex": 3,
+          "title": "Trade a Bronze Box to Naiko-Paneiko.",
+          "description": "Trade a Bronze Box to Naiko-Paneiko. One can be obtained by killing Ocean Crab (not Sea Crab), fished up while on the Ship bound for Mhaura/Selbina. Clothespole and Lugworm is a good combination for this.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-scooped-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-sin-hunting",
+      "title": "Sin Hunting",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Sin_Hunting",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-sin-hunting-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Perih Vashai (Windurst Woods K-7) as a level 40+ Ranger and she gives you the Chieftainness'",
+          "description": "Talk to Perih Vashai (Windurst Woods K-7) as a level 40+ Ranger and she gives you the Chieftainness's Twinstone Earring and tells you to speak with the Sibyl Guard Semih Lafihna in Ranguemont Pass, which is at the northeast corner of East Ronfaure near San d'Oria. Ranguemont Pass is accessible by a Survival Guide in the Fauregandi region. If you are 71+ with 250+ Archery skill, the quest From Saplings Grow takes priority as the 1st quest she will give you. However trade her the bow after you get it do nothing, then talk to her again to start \"Sin hunting\". [You might have to zone]",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-something-fishy",
+      "title": "Something Fishy",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Something_Fishy",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-something-fishy-node-1",
+          "orderIndex": 0,
+          "title": "Tokaka, in the Fisherman's Guild, will pay you 70 Gil for each Bastore Sardine you bring her.",
+          "description": "Tokaka, in the Fisherman's Guild, will pay you 70 Gil for each Bastore Sardine you bring her.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-something-fishy-node-2",
+          "orderIndex": 1,
+          "title": "You must leave the zone and come back to restart the quest each time.",
+          "description": "You must leave the zone and come back to restart the quest each time. You also have to talk to her before you make each trade. You may only trade one Bastore Sardine at a time. To get from 0 - 9 (hero) fame, you need to trade 20 stacks of Bastore Sardine's. ⇊",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-something-fishy-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-star-struck",
+      "title": "Star Struck",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Star_Struck",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-star-struck-node-1",
+          "orderIndex": 0,
+          "title": "To start the quest, kill Savanna Rarabs in West Sarutabaruta until you receive a Torn Epistle.",
+          "description": "To start the quest, kill Savanna Rarabs in West Sarutabaruta until you receive a Torn Epistle. Koru-Moru will not give you the quest until you have a Torn Epistle in your inventory. You must not have the quest Class Reunion active in order to activate this quest.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-teacher-s-pet",
+      "title": "Teacher's Pet",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Teacher%27s_Pet",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-teacher-s-pet-node-1",
+          "orderIndex": 0,
+          "title": "Moreno-Toeno, a teacher in the Aurastery, will reward you if you bring him a Two-Leaf Mandragora Bud",
+          "description": "Moreno-Toeno, a teacher in the Aurastery, will reward you if you bring him a Two-Leaf Mandragora Bud and a Bird Feather.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-teacher-s-pet-node-2",
+          "orderIndex": 1,
+          "title": "The Two-Leaf Mandragora Bud and Bird Feather must be traded together in a single trade.",
+          "description": "The Two-Leaf Mandragora Bud and Bird Feather must be traded together in a single trade. Moreno-Toeno will not accept them separately.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-teacher-s-pet-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-the-all-new-c-2000",
+      "title": "The All-New C-2000",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_All-New_C-2000",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-the-all-new-c-2000-node-1",
+          "orderIndex": 0,
+          "title": "Kopuro-Popuro needs you to bring him some things to help him create a new Cardian.",
+          "description": "Kopuro-Popuro needs you to bring him some things to help him create a new Cardian.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-all-new-c-2000-node-2",
+          "orderIndex": 1,
+          "title": "He needs a Rabbit Hide, a Two-Leaf Mandragora Bud and an Insect Wing.",
+          "description": "He needs a Rabbit Hide, a Two-Leaf Mandragora Bud and an Insect Wing.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-all-new-c-2000-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-all-new-c-2000-node-3",
+          "orderIndex": 2,
+          "title": "These all drop just outside of town, from Savanna Rarabs, Tiny Mandragora/Mandragora, and Bumblebees",
+          "description": "These all drop just outside of town, from Savanna Rarabs, Tiny Mandragora/Mandragora, and Bumblebees respectively. Note: If you have Lower Jeuno quest The Kind Cardian activated and have not turned in the Ten of Cups (Card) to Apururu, you will not be able to activate this quest. After trading Ten of Cups (Card) to Apururu, you will then be able to begin this quest. Note: This quest is repeatable even after completing the quests A Greeting Cardian and Legendary Plan B that follow this one (unknown if it is offered after completing The All-New C-3000).",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-all-new-c-2000-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-the-all-new-c-3000",
+      "title": "The All-New C-3000",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_All-New_C-3000",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-the-all-new-c-3000-node-1",
+          "orderIndex": 0,
+          "title": "If you have just completed Legendary Plan B, zone before attempting to start this quest.",
+          "description": "If you have just completed Legendary Plan B, zone before attempting to start this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-all-new-c-3000-node-2",
+          "orderIndex": 1,
+          "title": "If you have the Jeuno quest The Kind Cardian open, you may not be able to flag this quest.",
+          "description": "If you have the Jeuno quest The Kind Cardian open, you may not be able to flag this quest.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-all-new-c-3000-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-all-new-c-3000-node-3",
+          "orderIndex": 2,
+          "title": "Kopuro-Popuro has created a new type of Cardian that has been instructed to return from patrols with",
+          "description": "Kopuro-Popuro has created a new type of Cardian that has been instructed to return from patrols with the spoils of battle. To teach the Cardian what it should bring back, you have been asked to find a Beetle Shell and Hecteyes Eye.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-all-new-c-3000-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-the-amazin-scorpio",
+      "title": "The Amazin' Scorpio",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Amazin%27_Scorpio",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-the-amazin-scorpio-node-1",
+          "orderIndex": 0,
+          "title": "Soni-Muni, at the fountain in the Bomingo Round (H-10), will give you 1500gil for a Scorpion Stinger",
+          "description": "Soni-Muni, at the fountain in the Bomingo Round (H-10), will give you 1500gil for a Scorpion Stinger.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-the-fanged-one",
+      "title": "The Fanged One",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Fanged_One",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-the-fanged-one-node-1",
+          "orderIndex": 0,
+          "title": "Windurst Woods (K-7) - Perih Vashai wants you to watch an Old Sabertooth die and bring back its teet",
+          "description": "Windurst Woods (K-7) - Perih Vashai wants you to watch an Old Sabertooth die and bring back its teeth. Optional: Talk to her guards Muhk Johldy and Kapeh Myohrye to receive more information.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-fanged-one-node-2",
+          "orderIndex": 1,
+          "title": "Sauromugue Champaign (L-8) - Go up the cliff here, then head south to L-10.",
+          "description": "Sauromugue Champaign (L-8) - Go up the cliff here, then head south to L-10. 3 Sabertooth Tigers wait outside the cave. You can ride a mount in and out of the cave to avoid them or use Invisible. Bring a form of Warp (e.g. Instant Warp) for convenience. The tigers won't aggro a level 40+ character.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-fanged-one-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-fanged-one-node-3",
+          "orderIndex": 2,
+          "title": "Sauromugue Champaign (L-10) In the cave, find and touch the the Tiger Bones to spawn Old Sabertooth.",
+          "description": "Sauromugue Champaign (L-10) In the cave, find and touch the the Tiger Bones to spawn Old Sabertooth. Old Sabertooth spawns nearby and dies naturally (~3 minutes) while walking a bit back and forth. If you stay far away enough behind the Tiger Bones, he will not aggro you (even with the battle music activated). If you accidentally kill him, wait five minutes, then re-examine and he will pop again.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-fanged-one-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-fanged-one-node-4",
+          "orderIndex": 3,
+          "title": "After he dies, examine the Tiger Bones again to get key item Old tiger's fang.",
+          "description": "After he dies, examine the Tiger Bones again to get key item Old tiger's fang. If someone else started the process prior to you, actually seeing the Old Sabertooth die (see the death notification text) enables you to get the key item without first examining the bones to spawn the Sabertooth.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-fanged-one-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-fanged-one-node-5",
+          "orderIndex": 4,
+          "title": "Windurst Woods (K-7) - Return to Perih Vashai to complete the quest and receive Ranger's Necklace.",
+          "description": "Windurst Woods (K-7) - Return to Perih Vashai to complete the quest and receive Ranger's Necklace.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-fanged-one-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-the-moonlit-path",
+      "title": "The Moonlit Path",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Moonlit_Path",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-the-moonlit-path-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Leepe-Hoppe (located on the roof) and answer his question affirmatively for a cutscene.",
+          "description": "Talk to Leepe-Hoppe (located on the roof) and answer his question affirmatively for a cutscene. If Leepe-Hoppe gives you the cutscene for Tuning In, zone and talk to him again to get the cutscene for this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-moonlit-path-node-2",
+          "orderIndex": 1,
+          "title": "Defeat each of the six prime avatars and collect their whispers.",
+          "description": "Defeat each of the six prime avatars and collect their whispers. Do not return to the original NPC who gave you the fork or you will lose the whisper.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-moonlit-path-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-moonlit-path-node-3",
+          "orderIndex": 2,
+          "title": "Take all six whispers back to Leepe-Hoppe for another cutscene.",
+          "description": "Take all six whispers back to Leepe-Hoppe for another cutscene. You will lose your six whispers and receive a Moon Bauble. You keep your Moon Bauble if Fenrir Prime defeats you, so you do not have to get all the whispers again if you lose. If you are repeating this quest, you do not need to have all 6 whispers to get a new Moon Bauble; simply talk to Leepe-Hoppe after JP midnight following your previous completion.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-moonlit-path-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-moonlit-path-node-4",
+          "orderIndex": 3,
+          "title": "Head to Inner Horutoto Ruins and go through the Three Mage Gate.",
+          "description": "Head to Inner Horutoto Ruins and go through the Three Mage Gate. Have a Red Mage, White Mage, and Black Mage stand on the corresponding colored circles, or have someone who has the Portal Charm open it. Alternately, if you have started the Windurst Waters quest, Toraimarai Turmoil, you may enter Toraimarai Canal from Windurst Walls. From the T-intersection at (H-7) on the second map, go west and take the steps down into the water. Then go north and then west putting you back on the first map. Go north then west (in the water) until the T-intersection at (H-7) on the first map. Now head south then up the steps at (G-8) and make your way toward the fountain. Alternately if you don't have access to Toraimarai Turmoil, you can have someone that does use the Survival Guide warp. Have said person be on a job that can use Tractor such as Black Mage while using the sub job White Mage. Have the person that doesn't have access die at the Three Mage Gate and use the spell Tractor to get them passed the door and the spell Raise to revive them. Alternately if you already have the Home Point #1 in Toraimarai Canal, us it to get to the Full Moon Fountain.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-moonlit-path-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-moonlit-path-node-5",
+          "orderIndex": 4,
+          "title": "Take the Moon Bauble to Full Moon Fountain, enter the battlefield, and defeat Fenrir Prime to receiv",
+          "description": "Take the Moon Bauble to Full Moon Fountain, enter the battlefield, and defeat Fenrir Prime to receive the Whisper of the moon.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-moonlit-path-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-moonlit-path-node-6",
+          "orderIndex": 5,
+          "title": "Return to Leepe-Hoppe for a cutscene and your reward.",
+          "description": "Return to Leepe-Hoppe for a cutscene and your reward.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-moonlit-path-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-the-postman-always-k-o-s-twice",
+      "title": "The Postman Always K.O.s Twice",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Postman_Always_K.O.s_Twice",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-the-postman-always-k-o-s-twice-node-1",
+          "orderIndex": 0,
+          "title": "Return the following dropped Letters to Ambrosius, who will reward you.",
+          "description": "Return the following dropped Letters to Ambrosius, who will reward you.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-the-promise",
+      "title": "The Promise",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Promise",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-the-promise-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Kohlo-Lakolo to start the quest.",
+          "description": "Talk to Kohlo-Lakolo to start the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-promise-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Pichichi's mother Chamama at the Rarab Tail Hostelry in the northern map of Windurst Waters ",
+          "description": "Talk to Pichichi's mother Chamama at the Rarab Tail Hostelry in the northern map of Windurst Waters at (F-10).",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-promise-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-promise-node-3",
+          "orderIndex": 2,
+          "title": "Chamama says she will make an Invisible Man Sticker (key item), but that you must get her a clump of",
+          "description": "Chamama says she will make an Invisible Man Sticker (key item), but that you must get her a clump of Shoalweed first.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-promise-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-promise-node-4",
+          "orderIndex": 3,
+          "title": "Shoalweed is Rare/Ex and can be found by killing Recluse Spiders in Kuftal Tunnel.",
+          "description": "Shoalweed is Rare/Ex and can be found by killing Recluse Spiders in Kuftal Tunnel. Recluse Spiders can be found on the main map next to the exit to Cape Teriggan. Watch out for Robber Crabs roaming around, which aggro any level. The worms in the area do not aggro.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-promise-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-promise-node-5",
+          "orderIndex": 4,
+          "title": "Trade her the Shoalweed for an Invisible Man Sticker, and return to Kohlo-Lakolo for your reward.",
+          "description": "Trade her the Shoalweed for an Invisible Man Sticker, and return to Kohlo-Lakolo for your reward.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-promise-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-promise-node-6",
+          "orderIndex": 5,
+          "title": "If you are rank 10 in Windurst (or have been and changed nation) and kill Fenrir you will get a key ",
+          "description": "If you are rank 10 in Windurst (or have been and changed nation) and kill Fenrir you will get a key item: Dark Mana Orb. When you have that, you can talk to Kohlo-Lakolo for a final cutscene that ties together the S.O.B. quests with the Windurst mission story line. Note: If you already have rank 10 in Windurst and you have the Dark Mana Orb you must re-zone first to receive the bonus cutscene.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-promise-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-the-puppet-master",
+      "title": "The Puppet Master",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Puppet_Master",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-the-puppet-master-node-1",
+          "orderIndex": 0,
+          "title": "Go to the House of the Hero in Windurst Walls (G-4) (Home Point #1) and speak to Carbuncle as a SMN.",
+          "description": "Go to the House of the Hero in Windurst Walls (G-4) (Home Point #1) and speak to Carbuncle as a SMN.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-puppet-master-node-2",
+          "orderIndex": 1,
+          "title": "From this point on, this quest can be complete on any job.",
+          "description": "From this point on, this quest can be complete on any job.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-puppet-master-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-puppet-master-node-3",
+          "orderIndex": 2,
+          "title": "Go to Port Bastok (I-8) (Home Point #1) and talk to Juroro for a cutscene.",
+          "description": "Go to Port Bastok (I-8) (Home Point #1) and talk to Juroro for a cutscene. Ildy-Goldy hands you an Earth Pendulum and tells you to travel to the Quicksand Caves entrance in Eastern Altepa Desert (J-7). Quicksand Caves Home Point #2 is just outside the Cloister of Tremors. The trial-sized tuning forks can be used to reduce travel time if you want to do the fight as SMN.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-puppet-master-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-puppet-master-node-4",
+          "orderIndex": 3,
+          "title": "Within Quicksand Caves, make your way to the Cloister of Tremors (C-8 on map 1) and trade the Earth ",
+          "description": "Within Quicksand Caves, make your way to the Cloister of Tremors (C-8 on map 1) and trade the Earth Pendulum to the Earth Protocrystal. Select The Puppet Master to start the battlefield.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-puppet-master-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-puppet-master-node-5",
+          "orderIndex": 4,
+          "title": "This is an uncapped BCNM fight, buffs do not wear.",
+          "description": "This is an uncapped BCNM fight, buffs do not wear. You have 30 minutes to kill Galgalim (a Hecteyes NM).",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-puppet-master-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-the-root-of-the-problem",
+      "title": "The Root of the Problem",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Root_of_the_Problem",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-the-root-of-the-problem-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Chumimi in Heavens Tower to get a cutscene.",
+          "description": "Talk to Chumimi in Heavens Tower to get a cutscene. Zoning out of Heavens Tower is required after finishing the Recollections quest. You will need to be Black Mage.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-root-of-the-problem-node-2",
+          "orderIndex": 1,
+          "title": "Then talk to Koru-Moru at (E-7) in Windurst Walls and trade him a Silk Cloth.",
+          "description": "Then talk to Koru-Moru at (E-7) in Windurst Walls and trade him a Silk Cloth.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-root-of-the-problem-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-root-of-the-problem-node-3",
+          "orderIndex": 2,
+          "title": "Go back to Chumimi for another cutscene.",
+          "description": "Go back to Chumimi for another cutscene. You will receive a Sluice Surveyor Mark I (key item), which is a magic doll.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-root-of-the-problem-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-root-of-the-problem-node-4",
+          "orderIndex": 3,
+          "title": "Head into Toraimarai Canal via its Survival Guide, the Three Mage Gate, or through Windurst Walls if",
+          "description": "Head into Toraimarai Canal via its Survival Guide, the Three Mage Gate, or through Windurst Walls if you have the Rhinostery Certificate. Be careful of level 90 mobs added to both areas. You must stay on BLM while investigating the first two ???s. At one point the magic doll will tell you to use your \"BLACK POWER,\" and you will need to use Manafont. You can change to any job afterwards. If you don't have access, you can also have someone that has access use the Survival Guide to Toraimarai Canal. Have the person without access die at the Three Mage Gate and use the spell Tractor on them. Once you Tractor said person, raise them.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-root-of-the-problem-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-the-tenshodo-showdown",
+      "title": "The Tenshodo Showdown",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Tenshodo_Showdown",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-the-tenshodo-showdown-node-1",
+          "orderIndex": 0,
+          "title": "Talking to Nanaa Mihgo in Windurst Woods at (J-3) as a level 40+ Thief to start the quest and receiv",
+          "description": "Talking to Nanaa Mihgo in Windurst Woods at (J-3) as a level 40+ Thief to start the quest and receive a Letter from the Tenshodo. You must have a Tenshodo Member's Card from the Tenshodo Membership quest to continue.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-tenshodo-showdown-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Harnek at (J-7) in Lower Jeuno just inside the HQ for a cutscene and a Tenshodo Envelope.",
+          "description": "Talk to Harnek at (J-7) in Lower Jeuno just inside the HQ for a cutscene and a Tenshodo Envelope.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-tenshodo-showdown-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-tenshodo-showdown-node-3",
+          "orderIndex": 2,
+          "title": "Before heading to Selbina, skip a step by heading to Beadeaux and stealing from a Garnet Quadav, Sil",
+          "description": "Before heading to Selbina, skip a step by heading to Beadeaux and stealing from a Garnet Quadav, Silver Quadav, or Zircon Quadav until you obtain a Quadav Stew. There are three teleport options to get to Beadeaux: First is the Survival Guide at the entrance. Second is via Geomagnetic Fount located behind the first Mute. The third is Outpost Teleportation to Pashhow Marshlands (K-6). There is also a survival guide there, as there is at every outpost. Talking to Elfriede first makes no difference to steal rate. You can do this with your current level thief or with thief as a sub job on a high level job. Steal success rate varies wildly; even on 75 Thief it may take several attempts to successfully steal the stew. If the quest has been flagged properly, you will never steal a Silver Beastcoin before obtaining the stew.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-tenshodo-showdown-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-tenshodo-showdown-node-4",
+          "orderIndex": 3,
+          "title": "After you have obtained the Quadav Stew, travel to Selbina and talk to Elfriede at (J-9) of the Shep",
+          "description": "After you have obtained the Quadav Stew, travel to Selbina and talk to Elfriede at (J-9) of the Shepherd's Muster Inn for cutscene with Sneaking Tiger, who says you must bring him a Quadav Stew.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-tenshodo-showdown-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-tenshodo-showdown-node-5",
+          "orderIndex": 4,
+          "title": "Trade the stew to Elfriede for a cutscene and a Signed Envelope.",
+          "description": "Trade the stew to Elfriede for a cutscene and a Signed Envelope. Although not at all necessary to the remaining Artifact Armor quests, consider a peek at the contents of the envelope and remember the signature.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-tenshodo-showdown-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-tenshodo-showdown-node-6",
+          "orderIndex": 5,
+          "title": "Head back to Lower Jeuno and talk to Harnek for a final cutscene and to receive your reward.",
+          "description": "Head back to Lower Jeuno and talk to Harnek for a final cutscene and to receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-tenshodo-showdown-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-the-three-magi",
+      "title": "The Three Magi",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Three_Magi",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-the-three-magi-node-1",
+          "orderIndex": 0,
+          "title": "Head over to Windurst Walls (Home Point #1), enter Heavens Tower and head to the right and go down t",
+          "description": "Head over to Windurst Walls (Home Point #1), enter Heavens Tower and head to the right and go down the stairs, until it ends and you see the NPC Chumimi.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-the-three-magi-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Chumimi and watch a cutscene with Shantotto, Koru-Moru, and Yoran-Oran.",
+          "description": "Talk to Chumimi and watch a cutscene with Shantotto, Koru-Moru, and Yoran-Oran.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-the-three-magi-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-to-bee-or-not-to-bee",
+      "title": "To Bee or Not to Bee?",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/To_Bee_or_Not_to_Bee%3F",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-to-bee-or-not-to-bee-node-1",
+          "orderIndex": 0,
+          "title": "Zayhi-Bauhi needs honey for his voice.",
+          "description": "Zayhi-Bauhi needs honey for his voice. If Zayhi-Bauhi gives his speech fine without coughing, speak to Kalupa-Tawalupa and Rutango-Botango, his audience, to activate the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-to-bee-or-not-to-bee-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Raamimi and she will give you some honey.",
+          "description": "Talk to Raamimi and she will give you some honey.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-to-bee-or-not-to-bee-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-to-bee-or-not-to-bee-node-3",
+          "orderIndex": 2,
+          "title": "Trade the honey to Zayhi-Bauhi, which seems to help, and then talk to the NPCs around him.",
+          "description": "Trade the honey to Zayhi-Bauhi, which seems to help, and then talk to the NPCs around him.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-to-bee-or-not-to-bee-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-to-bee-or-not-to-bee-node-4",
+          "orderIndex": 3,
+          "title": "Get 4 more pots of honey and trade them to Zayhi-Bauhi one at a time.",
+          "description": "Get 4 more pots of honey and trade them to Zayhi-Bauhi one at a time.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-to-bee-or-not-to-bee-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-to-bee-or-not-to-bee-node-5",
+          "orderIndex": 4,
+          "title": "Then go back to Raamimi to receive your reward of three Mulsum.",
+          "description": "Then go back to Raamimi to receive your reward of three Mulsum.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-to-bee-or-not-to-bee-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-to-catch-a-falling-star",
+      "title": "To Catch a Falling Star",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/To_Catch_a_Falling_Star",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-to-catch-a-falling-star-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Sigismund on the Orastery roof at E-7 in Port Windurst.",
+          "description": "Speak with Sigismund on the Orastery roof at E-7 in Port Windurst.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-to-catch-a-falling-star-node-2",
+          "orderIndex": 1,
+          "title": "He will tell you that he wants a Starfall Tear as a souvenir of Windurst.",
+          "description": "He will tell you that he wants a Starfall Tear as a souvenir of Windurst.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-to-catch-a-falling-star-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-to-catch-a-falling-star-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Tohopka (beside Sigismund) to find out that you need pugil scales to collect the tear.",
+          "description": "Talk to Tohopka (beside Sigismund) to find out that you need pugil scales to collect the tear.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-to-catch-a-falling-star-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-to-catch-a-falling-star-node-4",
+          "orderIndex": 3,
+          "title": "Get one set of Pugil Scales.",
+          "description": "Get one set of Pugil Scales. You can get these from just about any Pugil, but the closest are Pug Pugils in East Sarutabaruta or Giddeus Pugil in Giddeus.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-to-catch-a-falling-star-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-to-catch-a-falling-star-node-5",
+          "orderIndex": 4,
+          "title": "Go to the Starfall Hillock in West Sarutabaruta.",
+          "description": "Go to the Starfall Hillock in West Sarutabaruta. Once there, go to the Twinkle Tree at I-6.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-to-catch-a-falling-star-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-to-catch-a-falling-star-node-6",
+          "orderIndex": 5,
+          "title": "Target the base of the tree.",
+          "description": "Target the base of the tree. Between the hours of 0:00 and 3:00, examining this spot will give you the message: A frost deposit at the base of the tree twinkles in the starlight.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-to-catch-a-falling-star-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-toraimarai-turmoil",
+      "title": "Toraimarai Turmoil",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Toraimarai_Turmoil",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-toraimarai-turmoil-node-1",
+          "orderIndex": 0,
+          "title": "If you have just finished Blue Ribbon Blues, you will have to zone out and back in to get the quest.",
+          "description": "If you have just finished Blue Ribbon Blues, you will have to zone out and back in to get the quest. Also if you're on Windurst Mission 7-2 (Awakening of the Gods), you may have to talk to Ohbiru-Dohbiru twice.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-toraimarai-turmoil-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Ohbiru-Dohbiru.",
+          "description": "Talk to Ohbiru-Dohbiru. The Rhinostery wants you to kill Starmites in Toraimarai Canal. Collect all the Starmite Shells you can gather and bring them back to the Rhinostery.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-toraimarai-turmoil-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-toraimarai-turmoil-node-3",
+          "orderIndex": 2,
+          "title": "Upon accepting the quest, you will receive a Rhinostery Certificate which will provide access to Tor",
+          "description": "Upon accepting the quest, you will receive a Rhinostery Certificate which will provide access to Toraimarai Canal via Windurst Walls.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-toraimarai-turmoil-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-trust-windurst",
+      "title": "Trust: Windurst",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Trust:_Windurst",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-trust-windurst-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Wetata at (G-10) in Windurst Woods to start the quest and receive a Green institute card.",
+          "description": "Speak with Wetata at (G-10) in Windurst Woods to start the quest and receive a Green institute card.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-trust-windurst-node-2",
+          "orderIndex": 1,
+          "title": "Speak with Kupipi in Heavens Tower to learn Trust: Kupipi.",
+          "description": "Speak with Kupipi in Heavens Tower to learn Trust: Kupipi. If this is not your first Trust spell, you also receive the Windurst Trust permit and complete the quest at this point. If this is your first Trust spell, cast Trust: Kupipi in either West Sarutabaruta or East Sarutabaruta and return to Kupipi in Heavens Tower to receive the Windurst Trust permit and complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-trust-windurst-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-truth-justice-and-the-onion-way",
+      "title": "Truth, Justice, and the Onion Way!",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Truth,_Justice,_and_the_Onion_Way!",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-truth-justice-and-the-onion-way-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Kohlo-Lakolo at G-5 in Port Windurst and watch a cutscene explaining the current situatio",
+          "description": "Speak with Kohlo-Lakolo at G-5 in Port Windurst and watch a cutscene explaining the current situation.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-truth-justice-and-the-onion-way-node-2",
+          "orderIndex": 1,
+          "title": "Kohlo-Lakolo will ask that you bring him a Rarab Tail.",
+          "description": "Kohlo-Lakolo will ask that you bring him a Rarab Tail. Rarab Tail is dropped by bumblebees in East Sarutabaruta and West Sarutabaruta. It can be bought from the following for 22~28 gil: Sarutabaruta regional vendor. If Windust controls Sarutabaruta, that would be Baehu-Faehu in Windurst Waters (North) (G-5). Ansegusele Western Adoulin (I-11) Green Thumb Moogle in Mog Garden with the Mandragora sproutling memento",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-truth-justice-and-the-onion-way-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-tuning-in",
+      "title": "Tuning In",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Tuning_In",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-tuning-in-node-1",
+          "orderIndex": 0,
+          "title": "Leepe-Hoppe requires three items:.",
+          "description": "Leepe-Hoppe requires three items:",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-tuning-out",
+      "title": "Tuning Out",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Tuning_Out",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-tuning-out-node-1",
+          "orderIndex": 0,
+          "title": "If you've just completed Tuning In, wait 1 earth minute before continuing.",
+          "description": "If you've just completed Tuning In, wait 1 earth minute before continuing.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-tuning-out-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Leepe-Hoppe to receive this quest.",
+          "description": "Talk to Leepe-Hoppe to receive this quest.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-tuning-out-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-tuning-out-node-3",
+          "orderIndex": 2,
+          "title": "Travel to Kazham and speak with Jakoh Wahcondalo (the Chieftainess) (J-9).",
+          "description": "Travel to Kazham and speak with Jakoh Wahcondalo (the Chieftainess) (J-9).",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-tuning-out-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-tuning-out-node-4",
+          "orderIndex": 3,
+          "title": "Go to the Mihgo's residence and speak with Romaa Mihgo (H-11).",
+          "description": "Go to the Mihgo's residence and speak with Romaa Mihgo (H-11). She will ask you to travel to Gemini Falls in Yuhtunga Jungle.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-tuning-out-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-twinstone-bonding",
+      "title": "Twinstone Bonding",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Twinstone_Bonding",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-twinstone-bonding-node-1",
+          "orderIndex": 0,
+          "title": "Kill the Hill Lizards in Meriphataud Mountains until they drop a Twinstone Earring.",
+          "description": "Kill the Hill Lizards in Meriphataud Mountains until they drop a Twinstone Earring.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-twinstone-bonding-node-2",
+          "orderIndex": 1,
+          "title": "Bring it back to Gioh Ajihri at (K-5) for a reward.",
+          "description": "Bring it back to Gioh Ajihri at (K-5) for a reward.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-twinstone-bonding-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-twinstone-bonding-node-3",
+          "orderIndex": 2,
+          "title": "IMPORTANT: Unlike most repeatable quests, you must zone to repeat the quest AND talk to Gioh Ajihri ",
+          "description": "IMPORTANT: Unlike most repeatable quests, you must zone to repeat the quest AND talk to Gioh Ajihri to effectively \"restart\" the quest, as she will not accept another Twinstone Earring from you until after she asks for another one.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-twinstone-bonding-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-unbridled-passion",
+      "title": "Unbridled Passion",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Unbridled_Passion",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-unbridled-passion-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Perih Vashai Windurst Woods (K-7) to continue the search for the sinner.",
+          "description": "Talk to Perih Vashai Windurst Woods (K-7) to continue the search for the sinner. If you just completed Fire and Brimstone you need to zone before you will be given this quest. You have to be ranger to start the quest, however you can talk to Koh Lenbalalako and fight the NM as any job.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-unbridled-passion-node-2",
+          "orderIndex": 1,
+          "title": "You are sent to Mhaura to find a mithra.",
+          "description": "You are sent to Mhaura to find a mithra. Koh Lenbalalako is standing in the corner of the Smithing Guild in Mhaura (F-9) (speak to her twice to get cut scene) and tells you part of a story and wont tell the rest until you give her a Gold Earring.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-unbridled-passion-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-unbridled-passion-node-3",
+          "orderIndex": 2,
+          "title": "Obtain a Gold Earring and trade it to Koh Lenbalalako for her to finish her story about the sinner a",
+          "description": "Obtain a Gold Earring and trade it to Koh Lenbalalako for her to finish her story about the sinner and Xarcabard. She will give you Koh's Letter (key item). If there are no Gold Earrings on sale at the AH you can obtain one by completing the Conquest RoE Mission in Xarcabard.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-unbridled-passion-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-unbridled-passion-node-4",
+          "orderIndex": 3,
+          "title": "Follow the sinner to Xarcabard and watch a cutscene as you zone in.",
+          "description": "Follow the sinner to Xarcabard and watch a cutscene as you zone in. The location of the cutscene changes depending on if you zoned in through Beaucedine Glacier or not.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-unbridled-passion-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-unbridled-passion-node-5",
+          "orderIndex": 4,
+          "title": "Go to the cave at (E-7) and examine the ??? for a cutscene after which the tiger will spawn.",
+          "description": "Go to the cave at (E-7) and examine the ??? for a cutscene after which the tiger will spawn.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-unbridled-passion-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-unbridled-passion-node-6",
+          "orderIndex": 5,
+          "title": "Kill Koenigstiger.",
+          "description": "Kill Koenigstiger. The tiger Notorious Monster.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-unbridled-passion-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-unbridled-passion-node-7",
+          "orderIndex": 6,
+          "title": "After killing Koenigstiger, go to the cave at (E-8) (opposite side of the zone), examine the ??? and",
+          "description": "After killing Koenigstiger, go to the cave at (E-8) (opposite side of the zone), examine the ??? and watch another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-unbridled-passion-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-unbridled-passion-node-8",
+          "orderIndex": 7,
+          "title": "Re-examine the ??? at (E-8) again to get a reward of 99 Ice Arrows.",
+          "description": "Re-examine the ??? at (E-8) again to get a reward of 99 Ice Arrows.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-unbridled-passion-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-unbridled-passion-node-9",
+          "orderIndex": 8,
+          "title": "Return to Windurst Woods and talk to Perih Vashai to complete the quest and receive your reward.",
+          "description": "Return to Windurst Woods and talk to Perih Vashai to complete the quest and receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-unbridled-passion-node-8"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-waking-dreams",
+      "title": "Waking Dreams",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Waking_Dreams",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-waking-dreams-node-1",
+          "orderIndex": 0,
+          "title": "Go to south Windurst Waters and speak to Kerutoto (J-8) in the Rhinostery's north wing to receive a ",
+          "description": "Go to south Windurst Waters and speak to Kerutoto (J-8) in the Rhinostery's north wing to receive a Vial of Dream Incense. This quest may fail to trigger if Food for Thought is activated first.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-waking-dreams-node-2",
+          "orderIndex": 1,
+          "title": "Enter the Pso'Xja tower at (H-8) in Beaucedine Glacier.",
+          "description": "Enter the Pso'Xja tower at (H-8) in Beaucedine Glacier. (This is the tower right behind the Survival Guide).",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-waking-dreams-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-waking-dreams-node-3",
+          "orderIndex": 2,
+          "title": "In this tower, there are shimmering walls of different colors.",
+          "description": "In this tower, there are shimmering walls of different colors. Every time you enter one you zone. The order of walls you want is red, purple, red, purple. After the last purple zone, ride the elevator down.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-waking-dreams-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-waking-dreams-node-4",
+          "orderIndex": 3,
+          "title": "Enter The Shrouded Maw (via Pso'Xja, similar to Chains of Promathia Chapter 3-5) There's a Home Poin",
+          "description": "Enter The Shrouded Maw (via Pso'Xja, similar to Chains of Promathia Chapter 3-5) There's a Home Point right before the battlefield circle.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-waking-dreams-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-waking-dreams-node-5",
+          "orderIndex": 4,
+          "title": "Examine the Memento Circle and select \"Waking Dreams\" when you are ready.",
+          "description": "Examine the Memento Circle and select \"Waking Dreams\" when you are ready. Trust Magic cannot be called here.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-waking-dreams-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-waking-dreams-node-6",
+          "orderIndex": 5,
+          "title": "Defeat Diabolos to acquire a Whisper of Dreams.",
+          "description": "Defeat Diabolos to acquire a Whisper of Dreams.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-waking-dreams-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-waking-dreams-node-7",
+          "orderIndex": 6,
+          "title": "Take the Whisper of Dreams to Kerutoto to choose your reward.",
+          "description": "Take the Whisper of Dreams to Kerutoto to choose your reward. You can re-enter the Stone Gate to use the Home Point to teleport to Windurst Waters Home Point #3",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-waking-dreams-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-water-way-to-go",
+      "title": "Water Way to Go",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Water_Way_to_Go",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-water-way-to-go-node-1",
+          "orderIndex": 0,
+          "title": "Ohbiru-Dohbiru in the Rhinostery asks you to go to Giddeus and get him some water from the spring th",
+          "description": "Ohbiru-Dohbiru in the Rhinostery asks you to go to Giddeus and get him some water from the spring there.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-water-way-to-go-node-2",
+          "orderIndex": 1,
+          "title": "Take the Rhinostery Canteen he gives you to Giddeus to the spring at (K-12) or (E-12) and trade to i",
+          "description": "Take the Rhinostery Canteen he gives you to Giddeus to the spring at (K-12) or (E-12) and trade to it for a Canteen of Giddeus Water. Note that if you have access to Domenic's warp service in Lower Jeuno, you can warp to Balga's Dais which will put you very close to one of the springs when you zone out to Giddeus. Alternatively, if you've already visited the Giddeus Home Point, you can simply warp there yourself from any Home Point at a cheaper rate than what Domenic offers.) The Rhinostery Canteen is a usable item, and you can 'use' it on the spring. As such, it will appear at the beginning of the item list, not after the equipment items.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-water-way-to-go-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-water-way-to-go-node-3",
+          "orderIndex": 2,
+          "title": "Trade the Canteen of Giddeus Water to Ohbiru-Dohbiru for your reward.",
+          "description": "Trade the Canteen of Giddeus Water to Ohbiru-Dohbiru for your reward.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-water-way-to-go-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-wild-card-quest",
+      "title": "Wild Card (Quest)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Wild_Card_(Quest)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-wild-card-quest-node-1",
+          "orderIndex": 0,
+          "title": "Talk with Honoi-Gomoi again after zoning.",
+          "description": "Talk with Honoi-Gomoi again after zoning.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-wild-card-quest-node-2",
+          "orderIndex": 1,
+          "title": "Speak with Kohlo-Lakolo Port Windurst (G-5).",
+          "description": "Speak with Kohlo-Lakolo Port Windurst (G-5)",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-wild-card-quest-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-wild-card-quest-node-3",
+          "orderIndex": 2,
+          "title": "Go to the House of the Hero in Windurst Walls.",
+          "description": "Go to the House of the Hero in Windurst Walls. You will meet either Joker or Apururu.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-wild-card-quest-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-wild-card-quest-node-4",
+          "orderIndex": 3,
+          "title": "Go to Toraimarai Canal and open a coffer for the Joker Card.",
+          "description": "Go to Toraimarai Canal and open a coffer for the Joker Card. Picking the coffer as a Thief will work. the Tor. Coffer key can be brought from the curio vendor moogle if you have rhapsody in umber.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-wild-card-quest-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-wild-card-quest-node-5",
+          "orderIndex": 4,
+          "title": "Return the card for your reward.",
+          "description": "Return the card for your reward. If you spoke to Joker, return to the House of the Hero, If you spoke to Apururu, find her at the Manustery in Windurst Woods.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-wild-card-quest-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-wild-card-quest-node-6",
+          "orderIndex": 5,
+          "title": "Finally, talk to Honoi-Gomoi to complete the quest.",
+          "description": "Finally, talk to Honoi-Gomoi to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-wild-card-quest-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-wonder-wands",
+      "title": "Wonder Wands",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Wonder_Wands",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-wonder-wands-node-1",
+          "orderIndex": 0,
+          "title": "If you have just completed the previous quest, you will need to zone before receiving this quest.",
+          "description": "If you have just completed the previous quest, you will need to zone before receiving this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-wonder-wands-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Hakkuru-Rinkuru.",
+          "description": "Talk to Hakkuru-Rinkuru.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-wonder-wands-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-wonder-wands-node-3",
+          "orderIndex": 2,
+          "title": "First: Talk with following NPCs who are all in the Orastery, where you just talked with Hakkuru-Rink",
+          "description": "First: Talk with following NPCs who are all in the Orastery, where you just talked with Hakkuru-Rinkuru Goltata, Captain of the WHM brigade, who talks about an Oak Staff. Yaman-Hachuman, Captain of the BLM brigade, who talks about a Mythril Rod. Ohruru, Captain of the RDM brigade, who talks about a Rose Wand.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-wonder-wands-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-wonder-wands-node-4",
+          "orderIndex": 3,
+          "title": "Trade the weapons to Hakkuru-Rinkuru.",
+          "description": "Trade the weapons to Hakkuru-Rinkuru.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-wonder-wands-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-wonder-wands-node-5",
+          "orderIndex": 4,
+          "title": "Your reward is a New Moon Armlets, 4800g and two of the three items back.",
+          "description": "Your reward is a New Moon Armlets, 4800g and two of the three items back.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-wonder-wands-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-windurst-quests-wondering-minstrel",
+      "title": "Wondering Minstrel",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Wondering_Minstrel",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-windurst-quests-wondering-minstrel-node-1",
+          "orderIndex": 0,
+          "title": "Acquire a piece of Rosewood Lumber.",
+          "description": "Acquire a piece of Rosewood Lumber.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-wondering-minstrel-node-2",
+          "orderIndex": 1,
+          "title": "Travel to Windurst Waters North (F-10) (Home Point #4); bottom floor of Timbre Timbers Tavern.",
+          "description": "Travel to Windurst Waters North (F-10) (Home Point #4); bottom floor of Timbre Timbers Tavern.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-wondering-minstrel-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-wondering-minstrel-node-3",
+          "orderIndex": 2,
+          "title": "Speak with Jatan-Paratan and he'll ask you how you feel about his music.",
+          "description": "Speak with Jatan-Paratan and he'll ask you how you feel about his music. Answer his questions. It may take several answers until he will start to talk about the tavern and ask you your opinion. Saying that you don't recall the music (the last possible answer) and then talking to him again should start him talking about the tavern. The quest should now enter your log.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-wondering-minstrel-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-wondering-minstrel-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Aramu-Paramu for a cutscene.",
+          "description": "Talk to Aramu-Paramu for a cutscene. He will express his worries about Jatan-Paratan.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-wondering-minstrel-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-wondering-minstrel-node-5",
+          "orderIndex": 4,
+          "title": "Travel to Lower Jeuno (H-8), inside Merry Minstrel Meadhouse.",
+          "description": "Travel to Lower Jeuno (H-8), inside Merry Minstrel Meadhouse.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-wondering-minstrel-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-wondering-minstrel-node-6",
+          "orderIndex": 5,
+          "title": "Speak with Ruslan who instructs you to give a Rosewood Lumber to Jatan-Paratan.",
+          "description": "Speak with Ruslan who instructs you to give a Rosewood Lumber to Jatan-Paratan.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-wondering-minstrel-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-windurst-quests-wondering-minstrel-node-7",
+          "orderIndex": 6,
+          "title": "Travel back and trade a Rosewood Lumber to Jatan-Paratan for a cutscene and your reward.",
+          "description": "Travel back and trade a Rosewood Lumber to Jatan-Paratan for a cutscene and your reward.",
+          "dependencies": [
+            "ffxiclopedia-windurst-quests-wondering-minstrel-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    }
+  ]
+}
