@@ -1,0 +1,1951 @@
+{
+  "id": "ffxiclopedia-coalition",
+  "name": "FFXIclopedia - Coalition Assignments",
+  "category": "coalition",
+  "source": "FFXIclopedia",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Coalition_Assignments",
+  "lastScraped": "2025-12-29T17:29:38.617Z",
+  "lastKnownUpdate": "2025-12-29T17:29:38.617Z",
+  "totalMissions": 85,
+  "missions": [
+    {
+      "id": "ffxiclopedia-coalition-clear-ceizak-battlegrounds",
+      "title": "Clear: Ceizak Battlegrounds",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Clear:_Ceizak_Battlegrounds",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-clear-ceizak-battlegrounds-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, go to any Knotted Root location in Ceizak Battlegrounds or Yahse Hunting Grou",
+          "description": "With the quest active, go to any Knotted Root location in Ceizak Battlegrounds or Yahse Hunting Grounds and participate in a successful Colonization Reive. You must stay until the end of the Reive for it to count for the assignment. Then return to the Pioneers' Coalition, Western Adoulin (E-8) Task Delegator.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-clear-ceizak-battlegrounds-node-2",
+          "orderIndex": 1,
+          "title": "Ceizak Battlegrounds possible locations: (F/G-7): Floodplain Spider (G-8): Lightfoot Lapinion (G-9):",
+          "description": "Ceizak Battlegrounds possible locations: (F/G-7): Floodplain Spider (G-8): Lightfoot Lapinion (G-9): Lavender Twitherym (I-8): Bounding Chapuli",
+          "dependencies": [
+            "ffxiclopedia-coalition-clear-ceizak-battlegrounds-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-coalition-clear-ceizak-battlegrounds-node-3",
+          "orderIndex": 2,
+          "title": "Yahse Hunting Grounds possible locations: (H-7): Temblor Beetle (J-8): Lancing Wasp (G-9): Quivering",
+          "description": "Yahse Hunting Grounds possible locations: (H-7): Temblor Beetle (J-8): Lancing Wasp (G-9): Quivering Twitherym (I-9): Shrubshredder Chapuli",
+          "dependencies": [
+            "ffxiclopedia-coalition-clear-ceizak-battlegrounds-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Clear__Ceizak_Battlegrounds.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-clear-cirdas-caverns",
+      "title": "Clear: Cirdas Caverns",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Clear:_Cirdas_Caverns",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-clear-cirdas-caverns-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, go to any Knotted Roots in Cirdas Caverns and participate in a successful Col",
+          "description": "With the quest active, go to any Knotted Roots in Cirdas Caverns and participate in a successful Colonization Reive. You must stay until the end of the Reive for it to count for the assignment. Then return to the Pioneers' Coalition, Western Adoulin (E-8) Task Delegator.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-clear-cirdas-caverns-node-2",
+          "orderIndex": 1,
+          "title": "Obstacle: Knotted Root x2 (I-6): Acuex and Tooth Cave Tarantula (east) or Tormented Obdella (west) (",
+          "description": "Obstacle: Knotted Root x2 (I-6): Acuex and Tooth Cave Tarantula (east) or Tormented Obdella (west) (I-8): Acuex and Umbril Shadewarrior (east) or Molten Clot (west) (F-8): Acuex and Oregorger Worm (J-9): Acuex and Slag Mandragora (north) or Frightful Funguar (south) (H-10): Acuex and Putrid Funguar (north) or Pyre Bat (south) (F-9): Acuex and Sordid Lizard",
+          "dependencies": [
+            "ffxiclopedia-coalition-clear-cirdas-caverns-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Clear__Cirdas_Caverns.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-clear-foret-de-hennetiel",
+      "title": "Clear: Foret de Hennetiel",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Clear:_Foret_de_Hennetiel",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-clear-foret-de-hennetiel-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, go to any Knotted Root location in Foret de Hennetiel and participate in a su",
+          "description": "With the quest active, go to any Knotted Root location in Foret de Hennetiel and participate in a successful Colonization Reive. You must stay until the end of the Reive for it to count for the assignment. Then return to the Pioneers' Coalition, Western Adoulin (E-8) Task Delegator.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-clear-foret-de-hennetiel-node-2",
+          "orderIndex": 1,
+          "title": "Foret de Hennetiel possible locations:.",
+          "description": "Foret de Hennetiel possible locations:",
+          "dependencies": [
+            "ffxiclopedia-coalition-clear-foret-de-hennetiel-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Clear__Foret_de_Hennetiel.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-clear-kamihr-drifts",
+      "title": "Clear: Kamihr Drifts",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Clear:_Kamihr_Drifts",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-clear-kamihr-drifts-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, go to any reive in Kamihr Drifts and participate in a successful Colonization",
+          "description": "With the quest active, go to any reive in Kamihr Drifts and participate in a successful Colonization Reive. You must stay until the end of the Reive for it to count for the assignment. Then return to the Pioneers' Coalition, Western Adoulin (E-8) Task Delegator.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-clear-kamihr-drifts-node-2",
+          "orderIndex": 1,
+          "title": "Obstacle: Icy Palisade x2 (F-7): Alpine Rabbit,Pungent Ovim and Territorial Lucerewe (H-8): Chilblai",
+          "description": "Obstacle: Icy Palisade x2 (F-7): Alpine Rabbit,Pungent Ovim and Territorial Lucerewe (H-8): Chilblain Snoll and Umberwood Tiger (I/J-9): Raptor Nightstalker and Sharptusk Raaz (H/I-10): Alpine Rabbit and Territorial Lucerewe",
+          "dependencies": [
+            "ffxiclopedia-coalition-clear-kamihr-drifts-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Clear__Kamihr_Drifts.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-clear-marjami-ravine",
+      "title": "Clear: Marjami Ravine",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Clear:_Marjami_Ravine",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-clear-marjami-ravine-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, go to any Monolithic Boulder in Marjami Ravine and participate in a successfu",
+          "description": "With the quest active, go to any Monolithic Boulder in Marjami Ravine and participate in a successful Colonization Reive. You must stay until the end of the Reive for it to count for the assignment. Then return to the Pioneers' Coalition, Western Adoulin (E-8) Task Delegator.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-clear-marjami-ravine-node-2",
+          "orderIndex": 1,
+          "title": "Obstacle: Monolithic Boulder x2 (L-9): Resilient Colibri and Preening Tulfaire (K-8): Resilient Coli",
+          "description": "Obstacle: Monolithic Boulder x2 (L-9): Resilient Colibri and Preening Tulfaire (K-8): Resilient Colibri and Embattled Roc (J-10/11): Precipice Vulture and Preening Tulfaire (F-10): Resilient Colibri and Preening Tulfaire (D-7/8): Preening Tulfaire and Gerent Apkallu (I-11): Gerent Apkallu and Embattled Roc",
+          "dependencies": [
+            "ffxiclopedia-coalition-clear-marjami-ravine-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Clear__Marjami_Ravine.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-clear-morimar-basalt-fields",
+      "title": "Clear: Morimar Basalt Fields",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Clear:_Morimar_Basalt_Fields",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-clear-morimar-basalt-fields-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, go to any Knotted Root location in Morimar Basalt Fields and participate in a",
+          "description": "With the quest active, go to any Knotted Root location in Morimar Basalt Fields and participate in a successful Colonization Reive. You must stay until the end of the Reive for it to count for the assignment. Then return to the Pioneers' Coalition, Western Adoulin (E-8) Task Delegator.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-clear-morimar-basalt-fields-node-2",
+          "orderIndex": 1,
+          "title": "Morimar Basalt Fields possible locations: F/G-6 H-8 I-8 F-9 F/G-9 H-10 G-11.",
+          "description": "Morimar Basalt Fields possible locations: F/G-6 H-8 I-8 F-9 F/G-9 H-10 G-11",
+          "dependencies": [
+            "ffxiclopedia-coalition-clear-morimar-basalt-fields-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Clear__Morimar_Basalt_Fields.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-clear-outer-ra-kaznar",
+      "title": "Clear: Outer Ra'Kaznar",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Clear:_Outer_Ra%27Kaznar",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-clear-outer-ra-kaznar-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, go to Outer Ra'Kaznar and participate in a successful Colonization Reive.",
+          "description": "With the quest active, go to Outer Ra'Kaznar and participate in a successful Colonization Reive. You must stay until the end of the reive for it to count for the assignment. Then return to the Pioneers' Coalition, Western Adoulin (E-8) Task Delegator.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Clear__Outer_Ra_27Kaznar.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-clear-yorcia-weald",
+      "title": "Clear: Yorcia Weald",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Clear:_Yorcia_Weald",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-clear-yorcia-weald-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, go to any Gnarled Rampart in Yorcia Weald and participate in a successful Col",
+          "description": "With the quest active, go to any Gnarled Rampart in Yorcia Weald and participate in a successful Colonization Reive. You must stay until the end of the Reive for it to count for the assignment. Then return to the Pioneers' Coalition, Western Adoulin (E-8) Task Delegator.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-clear-yorcia-weald-node-2",
+          "orderIndex": 1,
+          "title": "Obstacle: Gnarled Rampart x2 (H-5): Tenacious Panopt and Loyal Snapweed (H-9): Twitherym Windstorm a",
+          "description": "Obstacle: Gnarled Rampart x2 (H-5): Tenacious Panopt and Loyal Snapweed (H-9): Twitherym Windstorm and Uprooted Sapling (J-9): Crabapple Treant, Furfluff Lapinion, and Larkish Opo-opo (I-6): Rustled Panopt and Sloshmouth Snapweed",
+          "dependencies": [
+            "ffxiclopedia-coalition-clear-yorcia-weald-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Clear__Yorcia_Weald.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-deliver-foret-de-hennetiel",
+      "title": "Deliver: Foret de Hennetiel",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Deliver:_Foret_de_Hennetiel",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-deliver-foret-de-hennetiel-node-1",
+          "orderIndex": 0,
+          "title": "Retrieve supplies from the frontier station in Foret de Hennetiel and deliver them to the assignment",
+          "description": "Retrieve supplies from the frontier station in Foret de Hennetiel and deliver them to the assignment desk.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Deliver__Foret_de_Hennetiel.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-deliver-kamihr-drifts",
+      "title": "Deliver: Kamihr Drifts",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Deliver:_Kamihr_Drifts",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-deliver-kamihr-drifts-node-1",
+          "orderIndex": 0,
+          "title": "Retrieve supplies from the frontier station in Kamihr Drifts and deliver them to the assignment desk",
+          "description": "Retrieve supplies from the frontier station in Kamihr Drifts and deliver them to the assignment desk.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Deliver__Kamihr_Drifts.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-deliver-marjami-ravine",
+      "title": "Deliver: Marjami Ravine",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Deliver:_Marjami_Ravine",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-deliver-marjami-ravine-node-1",
+          "orderIndex": 0,
+          "title": "Retrieve supplies from the frontier station in Marjami Ravine and deliver them to the assignment des",
+          "description": "Retrieve supplies from the frontier station in Marjami Ravine and deliver them to the assignment desk.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Deliver__Marjami_Ravine.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-deliver-morimar-basalt-fields",
+      "title": "Deliver: Morimar Basalt Fields",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Deliver:_Morimar_Basalt_Fields",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-deliver-morimar-basalt-fields-node-1",
+          "orderIndex": 0,
+          "title": "Retrieve supplies from the frontier station in Morimar Basalt Fields and deliver them to the assignm",
+          "description": "Retrieve supplies from the frontier station in Morimar Basalt Fields and deliver them to the assignment desk.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Deliver__Morimar_Basalt_Fields.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-deliver-yorcia-weald",
+      "title": "Deliver: Yorcia Weald",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Deliver:_Yorcia_Weald",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-deliver-yorcia-weald-node-1",
+          "orderIndex": 0,
+          "title": "Retrieve supplies from the frontier station in Yorcia Weald and deliver them to the assignment desk.",
+          "description": "Retrieve supplies from the frontier station in Yorcia Weald and deliver them to the assignment desk.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Deliver__Yorcia_Weald.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-gather-ceizak-battlegrounds",
+      "title": "Gather: Ceizak Battlegrounds",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gather:_Ceizak_Battlegrounds",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-gather-ceizak-battlegrounds-node-1",
+          "orderIndex": 0,
+          "title": "Deliver five Chapuli Wings to the Task Delegator in Inventors' Coalition.",
+          "description": "Deliver five Chapuli Wings to the Task Delegator in Inventors' Coalition.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Gather__Ceizak_Battlegrounds.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-gather-cirdas-caverns",
+      "title": "Gather: Cirdas Caverns",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gather:_Cirdas_Caverns",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-gather-cirdas-caverns-node-1",
+          "orderIndex": 0,
+          "title": "Trade 3 jars of Umbril Ooze to the Task Delegator in the Inventors' Coalition.",
+          "description": "Trade 3 jars of Umbril Ooze to the Task Delegator in the Inventors' Coalition. The Umbril Ooze can be obtained anywhere, including from the auction house or from Umbrils outside Cirdas Caverns.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Gather__Cirdas_Caverns.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-gather-dho-gates",
+      "title": "Gather: Dho Gates",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gather:_Dho_Gates",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-gather-dho-gates-node-1",
+          "orderIndex": 0,
+          "title": "Trade 3 Slug Eyes to the Task Delegator in the Inventors' Coalition.",
+          "description": "Trade 3 Slug Eyes to the Task Delegator in the Inventors' Coalition. The Slug Eyes can be obtained anywhere, including from the auction house or from slugs in zones other than Dho Gates. Slug Eyes are dropped by most slugs, but the drop rates are under 10%. Slug Eyes can be Despoiled easily from some slugs, though many remain untested. Slug Eyes are fairly common Union treasures in Campaign Battles.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Gather__Dho_Gates.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-gather-foret-de-hennetiel",
+      "title": "Gather: Foret de Hennetiel",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gather:_Foret_de_Hennetiel",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-gather-foret-de-hennetiel-node-1",
+          "orderIndex": 0,
+          "title": "Trade 3 Craklaw Pincers to the Task Delegator in the Inventors' Coalition.",
+          "description": "Trade 3 Craklaw Pincers to the Task Delegator in the Inventors' Coalition. The Craklaw Pincers can be obtained anywhere, including from the auction house or from craklaws in zones other than Foret de Hennetiel.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Gather__Foret_de_Hennetiel.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-gather-kamihr-drifts",
+      "title": "Gather: Kamihr Drifts",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gather:_Kamihr_Drifts",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-gather-kamihr-drifts-node-1",
+          "orderIndex": 0,
+          "title": "Trade 3 Raaz Tusks to the Task Delegator in the Inventors' Coalition.",
+          "description": "Trade 3 Raaz Tusks to the Task Delegator in the Inventors' Coalition. Raaz Tusks are dropped by Cicatricose Raaz in Kamihr Drifts, but for this quest, they can be obtained from other sources if needed, including from the auction house.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Gather__Kamihr_Drifts.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-gather-marjami-ravine",
+      "title": "Gather: Marjami Ravine",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gather:_Marjami_Ravine",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-gather-marjami-ravine-node-1",
+          "orderIndex": 0,
+          "title": "Trade 3 Tulfaire Feathers to the Task Delegator in the Inventors' Coalition.",
+          "description": "Trade 3 Tulfaire Feathers to the Task Delegator in the Inventors' Coalition. The Tulfaire Feathers can be obtained anywhere, including from the auction house.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Gather__Marjami_Ravine.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-gather-moh-gates",
+      "title": "Gather: Moh Gates",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gather:_Moh_Gates",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-gather-moh-gates-node-1",
+          "orderIndex": 0,
+          "title": "Trade 3 Matamata Shells to the Task Delegator in the Inventors' Coalition.",
+          "description": "Trade 3 Matamata Shells to the Task Delegator in the Inventors' Coalition. The Matamata Shells can be obtained anywhere, including from the auction house or from mining or matamatas in zones other than Moh Gates.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Gather__Moh_Gates.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-gather-morimar-basalt-fields",
+      "title": "Gather: Morimar Basalt Fields",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gather:_Morimar_Basalt_Fields",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-gather-morimar-basalt-fields-node-1",
+          "orderIndex": 0,
+          "title": "Trade 3 Peiste Stingers to the Task Delegator in the Inventors' Coalition.",
+          "description": "Trade 3 Peiste Stingers to the Task Delegator in the Inventors' Coalition. The Peiste Stingers can be obtained anywhere, including from the auction house or from peiste in zones other than Morimar Basalt Fields.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Gather__Morimar_Basalt_Fields.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-gather-outer-ra-kaznar",
+      "title": "Gather: Outer Ra'Kaznar",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gather:_Outer_Ra%27Kaznar",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-gather-outer-ra-kaznar-node-1",
+          "orderIndex": 0,
+          "title": "Trade a Dullahan Armor to the Task Delegator in the Inventors' Coalition.",
+          "description": "Trade a Dullahan Armor to the Task Delegator in the Inventors' Coalition. Dullahan Armor are dropped by Dullahans in Outer Ra'Kaznar, but for this quest, they can be obtained from other sources if needed, including from the auction house.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Gather__Outer_Ra_27Kaznar.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-gather-ra-kaznar-inner-court",
+      "title": "Gather: Ra'Kaznar Inner Court",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gather:_Ra%27Kaznar_Inner_Court",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-gather-ra-kaznar-inner-court-node-1",
+          "orderIndex": 0,
+          "title": "Trade 3 Luminicloth to the Task Delegator in the Inventors' Coalition.",
+          "description": "Trade 3 Luminicloth to the Task Delegator in the Inventors' Coalition. Luminicloth are dropped by Ghost in Ra'Kaznar Inner Court, but for this quest, they can be obtained from other sources if needed, including from the auction house.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Gather__Ra_27Kaznar_Inner_Court.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-gather-rala-waterways",
+      "title": "Gather: Rala Waterways",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gather:_Rala_Waterways",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-gather-rala-waterways-node-1",
+          "orderIndex": 0,
+          "title": "Trade 3 spools of Bloodthread to the Task Delegator in the Inventors' Coalition.",
+          "description": "Trade 3 spools of Bloodthread to the Task Delegator in the Inventors' Coalition. These spools of Bloodthread can be obtained anywhere, including from the auction house or from low-level Diremites in zones other than Rala Waterways.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Gather__Rala_Waterways.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-gather-sih-gates",
+      "title": "Gather: Sih Gates",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gather:_Sih_Gates",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-gather-sih-gates-node-1",
+          "orderIndex": 0,
+          "title": "Trade 3 vials of Acuex Poison to the Task Delegator in the Inventors' Coalition.",
+          "description": "Trade 3 vials of Acuex Poison to the Task Delegator in the Inventors' Coalition. The Acuex Poison can be obtained anywhere, including from the auction house or Acuexes in zones other than Sih Gates.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Gather__Sih_Gates.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-gather-woh-gates",
+      "title": "Gather: Woh Gates",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gather:_Woh_Gates",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-gather-woh-gates-node-1",
+          "orderIndex": 0,
+          "title": "Trade 3 Snoll Arms to the Task Delegator in the Inventors' Coalition.",
+          "description": "Trade 3 Snoll Arms to the Task Delegator in the Inventors' Coalition. Snoll Arms are dropped by Snolls in Kamihr Drifts, but for this quest, they can be obtained from other sources if needed, including from the auction house.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Gather__Woh_Gates.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-gather-yahse-hunting-grounds",
+      "title": "Gather: Yahse Hunting Grounds",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gather:_Yahse_Hunting_Grounds",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-gather-yahse-hunting-grounds-node-1",
+          "orderIndex": 0,
+          "title": "Deliver five Twitherym Wings to the Task Delegator in the Inventors' Coalition.",
+          "description": "Deliver five Twitherym Wings to the Task Delegator in the Inventors' Coalition.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Gather__Yahse_Hunting_Grounds.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-gather-yorcia-weald",
+      "title": "Gather: Yorcia Weald",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gather:_Yorcia_Weald",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-gather-yorcia-weald-node-1",
+          "orderIndex": 0,
+          "title": "Trade 3 Snapweed Tendrils to the Task Delegator in the Inventors' Coalition.",
+          "description": "Trade 3 Snapweed Tendrils to the Task Delegator in the Inventors' Coalition. The Snapweed Tendrils can be obtained anywhere, including from the auction house.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Gather__Yorcia_Weald.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-patrol-cirdas-caverns",
+      "title": "Patrol: Cirdas Caverns",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Patrol:_Cirdas_Caverns",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-patrol-cirdas-caverns-node-1",
+          "orderIndex": 0,
+          "title": "Defeat a total of three Asperous Maroliths in Cirdas Caverns.",
+          "description": "Defeat a total of three Asperous Maroliths in Cirdas Caverns. Two Asperous Maroliths spawn at (F-5), and two spawn at (K-5). Killing multiple targets with an AoE attack only counts as one kill. The targets are aggressive to magic, but they do not otherwise link or aggro. You do not have to be in EXP range to get credit for your party or alliance's kills.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-patrol-cirdas-caverns-node-2",
+          "orderIndex": 1,
+          "title": "Report back to the Task Delegator for your reward.",
+          "description": "Report back to the Task Delegator for your reward.",
+          "dependencies": [
+            "ffxiclopedia-coalition-patrol-cirdas-caverns-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Patrol__Cirdas_Caverns.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-patrol-dho-gates",
+      "title": "Patrol: Dho Gates",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Patrol:_Dho_Gates",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-patrol-dho-gates-node-1",
+          "orderIndex": 0,
+          "title": "Defeat a total of three Unyielding Tarichuks in Dho Gates.",
+          "description": "Defeat a total of three Unyielding Tarichuks in Dho Gates. Killing multiple targets with an AoE attack only counts as one kill. The targets are very high level (114+), have very high attack (they tear through Dashavatara Sachet avatars), link, and appear in groups of two. The nearby Scalable Areas can be used to deaggro them if needed. Beware of despawning/causing them to regen using this method. You do not have to be in EXP range to get credit for your party or alliance's kills.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-patrol-dho-gates-node-2",
+          "orderIndex": 1,
+          "title": "Report back to the Task Delegator for your reward.",
+          "description": "Report back to the Task Delegator for your reward.",
+          "dependencies": [
+            "ffxiclopedia-coalition-patrol-dho-gates-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Patrol__Dho_Gates.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-patrol-moh-gates",
+      "title": "Patrol: Moh Gates",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Patrol:_Moh_Gates",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-patrol-moh-gates-node-1",
+          "orderIndex": 0,
+          "title": "Defeat a total of five Ruby Raptors in Moh Gates.",
+          "description": "Defeat a total of five Ruby Raptors in Moh Gates. Killing multiple targets with an AoE attack only counts as one kill. The NM Ruby Raptors in Colonization Reives do not count for this quest. The entrance closest to Morimar Basalt Fields' Frontier Station at K-10 is the ideal entrance for quickly encountering Ruby Raptors. There is a pocket of them at F-7/G-7. You do not have to be in EXP range to get credit for your party or alliance's kills.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-patrol-moh-gates-node-2",
+          "orderIndex": 1,
+          "title": "Report back to the Task Delegator for your reward.",
+          "description": "Report back to the Task Delegator for your reward.",
+          "dependencies": [
+            "ffxiclopedia-coalition-patrol-moh-gates-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Patrol__Moh_Gates.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-patrol-outer-ra-kaznar",
+      "title": "Patrol: Outer Ra'Kaznar",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Patrol:_Outer_Ra%27Kaznar",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-patrol-outer-ra-kaznar-node-1",
+          "orderIndex": 0,
+          "title": "Defeat a total of three Ironclad in Outer Ra'Kaznar.",
+          "description": "Defeat a total of three Ironclad in Outer Ra'Kaznar. Killing multiple targets with an AoE attack only counts as one kill. You do not have to be in EXP range to get credit for your party or alliance's kills.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-patrol-outer-ra-kaznar-node-2",
+          "orderIndex": 1,
+          "title": "Report back to the Task Delegator for your reward.",
+          "description": "Report back to the Task Delegator for your reward.",
+          "dependencies": [
+            "ffxiclopedia-coalition-patrol-outer-ra-kaznar-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Patrol__Outer_Ra_27Kaznar.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-patrol-rala-waterways",
+      "title": "Patrol: Rala Waterways",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Patrol:_Rala_Waterways",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-patrol-rala-waterways-node-1",
+          "orderIndex": 0,
+          "title": "Defeat a total of five Spoutdrenched Toads and/or Rustwater Toads in Rala Waterways.",
+          "description": "Defeat a total of five Spoutdrenched Toads and/or Rustwater Toads in Rala Waterways. The entrance south of Western Adoulin's Rent-a-Rooms is the ideal entrance for quickly encountering toads. You do not have to be in EXP range to get credit for your party or alliance's kills.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-patrol-rala-waterways-node-2",
+          "orderIndex": 1,
+          "title": "Report back to the Task Delegator for your reward.",
+          "description": "Report back to the Task Delegator for your reward.",
+          "dependencies": [
+            "ffxiclopedia-coalition-patrol-rala-waterways-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Patrol__Rala_Waterways.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-patrol-sih-gates",
+      "title": "Patrol: Sih Gates",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Patrol:_Sih_Gates",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-patrol-sih-gates-node-1",
+          "orderIndex": 0,
+          "title": "Defeat a total of five Malodorous Twitherym in Sih Gates.",
+          "description": "Defeat a total of five Malodorous Twitherym in Sih Gates. The entrance closest to Foret de Hennetiel's Frontier Station at J-6/7 is the ideal entrance for quickly encountering Malodorous Twitherym. You do not have to be in EXP range to get credit for your party or alliance's kills.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-patrol-sih-gates-node-2",
+          "orderIndex": 1,
+          "title": "Report back to the Task Delegator for your reward.",
+          "description": "Report back to the Task Delegator for your reward.",
+          "dependencies": [
+            "ffxiclopedia-coalition-patrol-sih-gates-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Patrol__Sih_Gates.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-patrol-woh-gates",
+      "title": "Patrol: Woh Gates",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Patrol:_Woh_Gates",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-patrol-woh-gates-node-1",
+          "orderIndex": 0,
+          "title": "Defeat a total of three Acuex (Wheezing Acuex) in Woh Gates.",
+          "description": "Defeat a total of three Acuex (Wheezing Acuex) in Woh Gates. Killing multiple targets with an AoE attack only counts as one kill. You do not have to be in EXP range to get credit for your party or alliance's kills. You can fight in either the regular zone or the one that requires Hurkan's key item.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-patrol-woh-gates-node-2",
+          "orderIndex": 1,
+          "title": "Report back to the Task Delegator for your reward.",
+          "description": "Report back to the Task Delegator for your reward.",
+          "dependencies": [
+            "ffxiclopedia-coalition-patrol-woh-gates-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Patrol__Woh_Gates.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-preserve-ceizak-battlegrounds",
+      "title": "Preserve: Ceizak Battlegrounds",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Preserve:_Ceizak_Battlegrounds",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-preserve-ceizak-battlegrounds-node-1",
+          "orderIndex": 0,
+          "title": "Participate in a successful Lair Reive in Ceizak Battlegrounds.",
+          "description": "Participate in a successful Lair Reive in Ceizak Battlegrounds. Unlike most Ceizak Battlegrounds assignments, you cannot complete this quest in Yahse Hunting Grounds. The Hunting Grounds are handled in another assignment.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Preserve__Ceizak_Battlegrounds.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-preserve-cirdas-caverns",
+      "title": "Preserve: Cirdas Caverns",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Preserve:_Cirdas_Caverns",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-preserve-cirdas-caverns-node-1",
+          "orderIndex": 0,
+          "title": "Participate in a successful Lair Reive in Cirdas Caverns.",
+          "description": "Participate in a successful Lair Reive in Cirdas Caverns. From a waypoint, teleport to the Enigmatic Device at Cirdas Caverns (150 kinetic units) for a short walk to the Lair Reive at I/J-5 or G-7.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Preserve__Cirdas_Caverns.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-preserve-foret-de-hennetiel",
+      "title": "Preserve: Foret de Hennetiel",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Preserve:_Foret_de_Hennetiel",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-preserve-foret-de-hennetiel-node-1",
+          "orderIndex": 0,
+          "title": "Participate in a successful Lair Reive in Foret de Hennetiel.",
+          "description": "Participate in a successful Lair Reive in Foret de Hennetiel",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Preserve__Foret_de_Hennetiel.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-preserve-kamihr-drifts",
+      "title": "Preserve: Kamihr Drifts",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Preserve:_Kamihr_Drifts",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-preserve-kamihr-drifts-node-1",
+          "orderIndex": 0,
+          "title": "Participate in a successful Lair Reive in Kamihr Drifts.",
+          "description": "Participate in a successful Lair Reive in Kamihr Drifts.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Preserve__Kamihr_Drifts.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-preserve-marjami-ravine",
+      "title": "Preserve: Marjami Ravine",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Preserve:_Marjami_Ravine",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-preserve-marjami-ravine-node-1",
+          "orderIndex": 0,
+          "title": "Participate in a successful Lair Reive in Marjami Ravine.",
+          "description": "Participate in a successful Lair Reive in Marjami Ravine.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Preserve__Marjami_Ravine.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-preserve-morimar-basalt-fields",
+      "title": "Preserve: Morimar Basalt Fields",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Preserve:_Morimar_Basalt_Fields",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-preserve-morimar-basalt-fields-node-1",
+          "orderIndex": 0,
+          "title": "Participate in a successful Lair Reive in Morimar Basalt Fields.",
+          "description": "Participate in a successful Lair Reive in Morimar Basalt Fields.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Preserve__Morimar_Basalt_Fields.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-preserve-outer-ra-kaznar",
+      "title": "Preserve: Outer Ra'Kaznar",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Preserve:_Outer_Ra%27Kaznar",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-preserve-outer-ra-kaznar-node-1",
+          "orderIndex": 0,
+          "title": "Participate in a successful Lair Reive in Outer Ra'Kaznar.",
+          "description": "Participate in a successful Lair Reive in Outer Ra'Kaznar.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Preserve__Outer_Ra_27Kaznar.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-preserve-yahse-hunting-grounds",
+      "title": "Preserve: Yahse Hunting Grounds",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Preserve:_Yahse_Hunting_Grounds",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-preserve-yahse-hunting-grounds-node-1",
+          "orderIndex": 0,
+          "title": "Participate in a successful Lair Reive in Yahse Hunting Grounds.",
+          "description": "Participate in a successful Lair Reive in Yahse Hunting Grounds.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Preserve__Yahse_Hunting_Grounds.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-preserve-yorcia-weald",
+      "title": "Preserve: Yorcia Weald",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Preserve:_Yorcia_Weald",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-preserve-yorcia-weald-node-1",
+          "orderIndex": 0,
+          "title": "Participate in a successful Lair Reive in Yorcia Weald.",
+          "description": "Participate in a successful Lair Reive in Yorcia Weald.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Preserve__Yorcia_Weald.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-procure-ceizak-battlegrounds",
+      "title": "Procure: Ceizak Battlegrounds",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Procure:_Ceizak_Battlegrounds",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-procure-ceizak-battlegrounds-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, use a Hatchet , a Trailblazing Hatchet and/or a Trailblazing Hatchet +1 to ga",
+          "description": "With the quest active, use a Hatchet , a Trailblazing Hatchet and/or a Trailblazing Hatchet +1 to gather 5 items in Ceizak Battlegrounds and/or Yahse Hunting Grounds from Logging Points, then return to the Pioneers' Coalition, Western Adoulin (E-8). Optional: Consider obtaining and equipping the Eastern Ulbuka Gathering Attire and the Field Torque and Field Rope accessories.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-procure-ceizak-battlegrounds-node-2",
+          "orderIndex": 1,
+          "title": "Yahse Hunting Grounds: Possible Logging Points so far are: F-7, G-7, H-9, I-5, I-6, I-7, J-6.",
+          "description": "Yahse Hunting Grounds: Possible Logging Points so far are: F-7, G-7, H-9, I-5, I-6, I-7, J-6.",
+          "dependencies": [
+            "ffxiclopedia-coalition-procure-ceizak-battlegrounds-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-coalition-procure-ceizak-battlegrounds-node-3",
+          "orderIndex": 2,
+          "title": "Ceizak Battlegrounds: Please see the adjacent map.",
+          "description": "Ceizak Battlegrounds: Please see the adjacent map. Logging Points are denoted in yellow. Optional: turn on the respective tier I \"Harvesting\" Record of Eminence for the area. Despite the title, any gathering activity counts towards the goal.",
+          "dependencies": [
+            "ffxiclopedia-coalition-procure-ceizak-battlegrounds-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Procure__Ceizak_Battlegrounds.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/0a/01021.png/revision/latest/scale-to-width-down/16?cb=20180221232144",
+          "alt": "01021"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/8/8f/06004.png/revision/latest/scale-to-width-down/16?cb=20180222095611",
+          "alt": "06004"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/72/06005.png/revision/latest/scale-to-width-down/16?cb=20180222095616",
+          "alt": "06005"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/d/d1/Ceizak_Battlegrounds_Gathering_Points.png/revision/latest/scale-to-width-down/180?cb=20230811203029",
+          "alt": "Ceizak Battleground Gathering Points - Click image to enlarge"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/cf/Hatchet.jpg/revision/latest?cb=20080610021907",
+          "alt": "Hatchet"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-coalition-procure-cirdas-caverns",
+      "title": "Procure: Cirdas Caverns",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Procure:_Cirdas_Caverns",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-procure-cirdas-caverns-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, use a Pickaxe to excavate 5 items in Cirdas Caverns and then return to the Pi",
+          "description": "With the quest active, use a Pickaxe to excavate 5 items in Cirdas Caverns and then return to the Pioneers' Coalition, Western Adoulin (E-8).",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Procure__Cirdas_Caverns.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-procure-foret-de-hennetiel",
+      "title": "Procure: Foret de Hennetiel",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Procure:_Foret_de_Hennetiel",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-procure-foret-de-hennetiel-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, use a Sickle , Trailblazing Sickle and/or Trailblazing Sickle +1 to gather 5 ",
+          "description": "With the quest active, use a Sickle , Trailblazing Sickle and/or Trailblazing Sickle +1 to gather 5 items in Foret de Hennetiel from Harvesting Points and then return to the Pioneers' Coalition, Western Adoulin (E-8). Optional: Consider obtaining and equipping the Eastern Ulbuka Gathering Attire and the Field Torque and Field Rope accessories.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Procure__Foret_de_Hennetiel.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/a0/01020.png/revision/latest/scale-to-width-down/16?cb=20180221232139",
+          "alt": "01020"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/71/06006.png/revision/latest/scale-to-width-down/16?cb=20180222095620",
+          "alt": "06006"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9b/06007.png/revision/latest/scale-to-width-down/16?cb=20180222095624",
+          "alt": "06007"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/c1/Foret_de_Hennetiel_Gathering_Points.png/revision/latest/scale-to-width-down/180?cb=20230811235534",
+          "alt": "Foret de Hennetiel Gathering Points - Click image to enlarge"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/c7/Sickle.jpg/revision/latest?cb=20080610022026",
+          "alt": "Sickle"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-coalition-procure-kamihr-drifts",
+      "title": "Procure: Kamihr Drifts",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Procure:_Kamihr_Drifts",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-procure-kamihr-drifts-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, use a Pickaxe to excavate 5 items in Kamihr Drifts and then return to the Pio",
+          "description": "With the quest active, use a Pickaxe to excavate 5 items in Kamihr Drifts and then return to the Pioneers' Coalition, Western Adoulin (E-8). Mining points only exist in caves. The only known mining points are at: G-9, south of Outer Ra'Kaznar, G-9, west of Bivouac #1 I-7, east of Bivouac #3 H-8, west of Bivouac #3 H-6, north of Bivouac #3, on the way to Sajj'aka F-6, west of Bivouac #4 F-7, south-west of Bivouac #4 Additionally mining point information is needed.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Procure__Kamihr_Drifts.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b7/Exclamation.gif/revision/latest/scale-to-width-down/14?cb=20061130211020",
+          "alt": "Verification Needed"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-coalition-procure-marjami-ravine",
+      "title": "Procure: Marjami Ravine",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Procure:_Marjami_Ravine",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-procure-marjami-ravine-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, use a Pickaxe to excavate 5 items in Marjami Ravine and then return to the Pi",
+          "description": "With the quest active, use a Pickaxe to excavate 5 items in Marjami Ravine and then return to the Pioneers' Coalition, Western Adoulin (E-8).",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Procure__Marjami_Ravine.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-procure-morimar-basalt-fields",
+      "title": "Procure: Morimar Basalt Fields",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Procure:_Morimar_Basalt_Fields",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-procure-morimar-basalt-fields-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, use a Pickaxe to excavate 5 items in Morimar Basalt Fields and then return to",
+          "description": "With the quest active, use a Pickaxe to excavate 5 items in Morimar Basalt Fields and then return to the Pioneers' Coalition, Western Adoulin (E-8).",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Procure__Morimar_Basalt_Fields.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-procure-outer-ra-kaznar",
+      "title": "Procure: Outer Ra'Kaznar",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Procure:_Outer_Ra%27Kaznar",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-procure-outer-ra-kaznar-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, use a Pickaxe to excavate 5 items in Outer Ra'Kaznar and then return to the P",
+          "description": "With the quest active, use a Pickaxe to excavate 5 items in Outer Ra'Kaznar and then return to the Pioneers' Coalition, Western Adoulin (E-8).",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Procure__Outer_Ra_27Kaznar.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-procure-yorcia-weald",
+      "title": "Procure: Yorcia Weald",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Procure:_Yorcia_Weald",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-procure-yorcia-weald-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, use a Hatchet to log 5 items in Yorcia Weald and then return to the Pioneers'",
+          "description": "With the quest active, use a Hatchet to log 5 items in Yorcia Weald and then return to the Pioneers' Coalition, Western Adoulin (E-8).",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Procure__Yorcia_Weald.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-provide-foret-de-hennetiel",
+      "title": "Provide: Foret de Hennetiel",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Provide:_Foret_de_Hennetiel",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-provide-foret-de-hennetiel-node-1",
+          "orderIndex": 0,
+          "title": "Obtain Hen.",
+          "description": "Obtain Hen. FS building mat. container from the task delegator and deliver them to the Foret de Hennetiel frontier station administrator. Return to the task delegator to complete the assignment.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Provide__Foret_de_Hennetiel.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-provide-kamihr-drifts",
+      "title": "Provide: Kamihr Drifts",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Provide:_Kamihr_Drifts",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-provide-kamihr-drifts-node-1",
+          "orderIndex": 0,
+          "title": "Obtain KamFS building mat.",
+          "description": "Obtain KamFS building mat. container from the task delegator and deliver them to the Kamihr Drifts frontier station administrator. Return to the task delegator to complete the assignment.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Provide__Kamihr_Drifts.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-provide-marjami-ravine",
+      "title": "Provide: Marjami Ravine",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Provide:_Marjami_Ravine",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-provide-marjami-ravine-node-1",
+          "orderIndex": 0,
+          "title": "Obtain Mar.",
+          "description": "Obtain Mar. FS building mat. container from the task delegator and deliver them to the Marjami Ravine frontier station administrator. Return to the task delegator to complete the assignment.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Provide__Marjami_Ravine.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-provide-morimar-basalt-fields",
+      "title": "Provide: Morimar Basalt Fields",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Provide:_Morimar_Basalt_Fields",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-provide-morimar-basalt-fields-node-1",
+          "orderIndex": 0,
+          "title": "Obtain Mor.",
+          "description": "Obtain Mor. FS building mat. container from the task delegator and deliver them to the Morimar Basalt Fields frontier station administrator. Return to the task delegator to complete the assignment.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Provide__Morimar_Basalt_Fields.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-provide-yorcia-weald",
+      "title": "Provide: Yorcia Weald",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Provide:_Yorcia_Weald",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-provide-yorcia-weald-node-1",
+          "orderIndex": 0,
+          "title": "Obtain a Yor.",
+          "description": "Obtain a Yor. FS building mat. container from the task delegator and deliver it to the Yorcia Weald frontier station administrator.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-provide-yorcia-weald-node-2",
+          "orderIndex": 1,
+          "title": "Return to the task delegator to complete the assignment.",
+          "description": "Return to the task delegator to complete the assignment.",
+          "dependencies": [
+            "ffxiclopedia-coalition-provide-yorcia-weald-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Provide__Yorcia_Weald.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-recover-ceizak-battlegrounds",
+      "title": "Recover: Ceizak Battlegrounds",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Recover:_Ceizak_Battlegrounds",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-recover-ceizak-battlegrounds-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, find and examine a Lost Article in Ceizak Battlegrounds or Yahse Hunting Grou",
+          "description": "With the quest active, find and examine a Lost Article in Ceizak Battlegrounds or Yahse Hunting Grounds. Lost Articles have their names displayed in green text above them, like NPCs. When a Lost Article is found, the player who claimed it gets a Lost article, it despawns and immediately respawns elsewhere in the zone. Lost articles have been found in Ceizak Battlegrounds at: SE corner of E-10 F-6 middle of the crossroads F-7 SE corner of F-10 NE corner of G-8 NE corner of H-6 Middle western edge of H-10 SE corner of I-10 I-11 (I-10)/(I-11) border in the small apart.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Recover__Ceizak_Battlegrounds.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-recover-foret-de-hennetiel",
+      "title": "Recover: Foret de Hennetiel",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Recover:_Foret_de_Hennetiel",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-recover-foret-de-hennetiel-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, find and examine a Lost Article in Foret de Hennetiel or Sih Gates.",
+          "description": "With the quest active, find and examine a Lost Article in Foret de Hennetiel or Sih Gates. Lost Articles have their names displayed in green text above them, like NPCs. When a Lost Article is found, it despawns and respawns elsewhere in the zone. Lost articles have been found in Foret de Hennetiel at: North shore of E-8 H-6 H-7, on East Side of Colonization Reave",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Recover__Foret_de_Hennetiel.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-recover-kamihr-drifts",
+      "title": "Recover: Kamihr Drifts",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Recover:_Kamihr_Drifts",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-recover-kamihr-drifts-node-1",
+          "orderIndex": 0,
+          "title": "Lost Articles have their names displayed in green text above them, like NPCs.",
+          "description": "Lost Articles have their names displayed in green text above them, like NPCs.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-recover-kamihr-drifts-node-2",
+          "orderIndex": 1,
+          "title": "When a Lost Article is found, it despawns and respawns elsewhere in the zone.",
+          "description": "When a Lost Article is found, it despawns and respawns elsewhere in the zone.",
+          "dependencies": [
+            "ffxiclopedia-coalition-recover-kamihr-drifts-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-coalition-recover-kamihr-drifts-node-3",
+          "orderIndex": 2,
+          "title": "Possible locations: Kamihr Drifts: J-10 from Frontier Station G-7/8 from Biv #3 G-10 (middle of area",
+          "description": "Possible locations: Kamihr Drifts: J-10 from Frontier Station G-7/8 from Biv #3 G-10 (middle of area) I-7 H-9 On top of Biv #1 H-7/8 from Biv #3 On top of Biv #4 Woh Gates (Map 1): F-7 I-6 I-8 J-6 H-11/12",
+          "dependencies": [
+            "ffxiclopedia-coalition-recover-kamihr-drifts-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Recover__Kamihr_Drifts.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-recover-marjami-ravine",
+      "title": "Recover: Marjami Ravine",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Recover:_Marjami_Ravine",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-recover-marjami-ravine-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, find and examine a Lost Article in Marjami Ravine or Dho Gates.",
+          "description": "With the quest active, find and examine a Lost Article in Marjami Ravine or Dho Gates. Lost Articles have their names displayed in green text above them, like NPCs. When a Lost Article is found, it despawns and respawns elsewhere in the zone. Lost articles have been found in Marjami Ravine at: K-9 next to a fence",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Recover__Marjami_Ravine.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-recover-morimar-basalt-fields",
+      "title": "Recover: Morimar Basalt Fields",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Recover:_Morimar_Basalt_Fields",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-recover-morimar-basalt-fields-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, find and examine a Lost Article in Morimar Basalt Fields or Moh Gates.",
+          "description": "With the quest active, find and examine a Lost Article in Morimar Basalt Fields or Moh Gates. Lost Articles have their names displayed in green text above them, like NPCs. When a Lost Article is found, it despawns and respawns elsewhere in the zone. Lost articles found at: Morimar Basalt Fields: (E-7) east (F-7) south (H-10) near pond (I-7) NW near hill (K-9) at the corner (I-9) Moh Gates: (F/G-10) (G-6) (G-8) (H-6) (H-9) (J-5) (K-8)",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Recover__Morimar_Basalt_Fields.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-recover-yorcia-weald",
+      "title": "Recover: Yorcia Weald",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Recover:_Yorcia_Weald",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-recover-yorcia-weald-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, find and examine a Lost Article in Yorcia Weald or Cirdas Caverns.",
+          "description": "With the quest active, find and examine a Lost Article in Yorcia Weald or Cirdas Caverns. Lost Articles have their names displayed in green text above them, like NPCs. When a Lost Article is found, it despawns and respawns elsewhere in the zone. Lost Article locations: H-7: In the bole to the northeast of Frontier Bivouac #1 (two spawn points) H-8: South of Colonization Reive",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Recover__Yorcia_Weald.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-research-ceizak-battlegrounds",
+      "title": "Research: Ceizak Battlegrounds",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Research:_Ceizak_Battlegrounds",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-research-ceizak-battlegrounds-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, get hit by the Sanguinary Slash of a Fernfelling Chapuli in Ceizak Battlegrou",
+          "description": "With the quest active, get hit by the Sanguinary Slash of a Fernfelling Chapuli in Ceizak Battlegrounds or a Calfcleaving Chapuli in Yahse Hunting Grounds. You must personally be hit by the move. Having just your pet take the hit does not count. You will receive a message when the move registers for the quest. You do not have to kill the chapuli.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-research-ceizak-battlegrounds-node-2",
+          "orderIndex": 1,
+          "title": "Return to the task delegator when your task is complete.",
+          "description": "Return to the task delegator when your task is complete.",
+          "dependencies": [
+            "ffxiclopedia-coalition-research-ceizak-battlegrounds-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Research__Ceizak_Battlegrounds.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-research-foret-de-hennetiel",
+      "title": "Research: Foret de Hennetiel",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Research:_Foret_de_Hennetiel",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-research-foret-de-hennetiel-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, get hit by the Sundering Snip of a Hoary Craklaw or Cunning Craklaw in Foret ",
+          "description": "With the quest active, get hit by the Sundering Snip of a Hoary Craklaw or Cunning Craklaw in Foret de Hennetiel. You must personally be hit by the move. Having just your pet take the hit does not count. You will receive a message when the move registers for the quest. You do not have to kill the craklaw. There are nearby Hoary Craklaw camps to the right of Frontier Bivouac #4 and #2.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-research-foret-de-hennetiel-node-2",
+          "orderIndex": 1,
+          "title": "Return to the task delegator when your task is complete.",
+          "description": "Return to the task delegator when your task is complete.",
+          "dependencies": [
+            "ffxiclopedia-coalition-research-foret-de-hennetiel-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Research__Foret_de_Hennetiel.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-research-kamihr-drifts",
+      "title": "Research: Kamihr Drifts",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Research:_Kamihr_Drifts",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-research-kamihr-drifts-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, get hit by the Sweeping Gouge of a Cicatricose Raaz in Kamihr Drifts.",
+          "description": "With the quest active, get hit by the Sweeping Gouge of a Cicatricose Raaz in Kamihr Drifts. You must personally be hit by the move. Having just your pet take the hit does not count. You will receive a message when the move registers for the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-research-kamihr-drifts-node-2",
+          "orderIndex": 1,
+          "title": "Return to the task delegator when your task is complete.",
+          "description": "Return to the task delegator when your task is complete.",
+          "dependencies": [
+            "ffxiclopedia-coalition-research-kamihr-drifts-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Research__Kamihr_Drifts.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-research-marjami-ravine",
+      "title": "Research: Marjami Ravine",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Research:_Marjami_Ravine",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-research-marjami-ravine-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, get hit by the Molting Plumage of a Tulfaire in Marjami Ravine.",
+          "description": "With the quest active, get hit by the Molting Plumage of a Tulfaire in Marjami Ravine. You must personally be hit by the move. Having just your pet take the hit does not count. You will receive a message when the move registers for the quest. You do not have to kill the tulfaire.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-research-marjami-ravine-node-2",
+          "orderIndex": 1,
+          "title": "Return to the task delegator when your task is complete.",
+          "description": "Return to the task delegator when your task is complete.",
+          "dependencies": [
+            "ffxiclopedia-coalition-research-marjami-ravine-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Research__Marjami_Ravine.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-research-morimar-basalt-fields",
+      "title": "Research: Morimar Basalt Fields",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Research:_Morimar_Basalt_Fields",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-research-morimar-basalt-fields-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, get hit by the Tail Thwack of a Sinewy Matamata or Emberflash Matamata in Mor",
+          "description": "With the quest active, get hit by the Tail Thwack of a Sinewy Matamata or Emberflash Matamata in Morimar Basalt Fields. You must personally be hit by the move. Having just your pet take the hit does not count. You will receive a message when the move registers for the quest. You do not have to kill the matamata.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-research-morimar-basalt-fields-node-2",
+          "orderIndex": 1,
+          "title": "Return to the task delegator when your task is complete.",
+          "description": "Return to the task delegator when your task is complete.",
+          "dependencies": [
+            "ffxiclopedia-coalition-research-morimar-basalt-fields-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Research__Morimar_Basalt_Fields.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-research-rala-waterways",
+      "title": "Research: Rala Waterways",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Research:_Rala_Waterways",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-research-rala-waterways-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, get hit by the Fuscous Ooze of a Plantpassage Slug in Rala Waterways.",
+          "description": "With the quest active, get hit by the Fuscous Ooze of a Plantpassage Slug in Rala Waterways. Plantpassage Slugs can be found in the southeast corner of the waterways. Head to (L-8) to begin finding slugs. Some slugs are Tough, while others are Very Tough, to level 99 with no Item Level gear. You must personally be hit by the move. Having just your pet take the hit does not count. You will receive a message when the move registers for the quest. You do not have to kill the slug. Fuscous Ooze locks your gear for a while, but shouldn't be an issue otherwise.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Research__Rala_Waterways.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-research-yorcia-weald",
+      "title": "Research: Yorcia Weald",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Research:_Yorcia_Weald",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-research-yorcia-weald-node-1",
+          "orderIndex": 0,
+          "title": "With the quest active, get hit by the Tickling Tendrils of a Snapweed in Yorcia Weald.",
+          "description": "With the quest active, get hit by the Tickling Tendrils of a Snapweed in Yorcia Weald. You must personally be hit by the move. Having just your pet take the hit does not count. You will receive a message when the move registers for the quest. You do not have to kill the snapweed.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-research-yorcia-weald-node-2",
+          "orderIndex": 1,
+          "title": "Return to the task delegator when your task is complete.",
+          "description": "Return to the task delegator when your task is complete.",
+          "dependencies": [
+            "ffxiclopedia-coalition-research-yorcia-weald-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Research__Yorcia_Weald.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-support-ceizak-battlegrounds",
+      "title": "Support: Ceizak Battlegrounds",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Support:_Ceizak_Battlegrounds",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-support-ceizak-battlegrounds-node-1",
+          "orderIndex": 0,
+          "title": "Deliver supplies to a Frontier Bivouac (but not the Frontier Station) in Ceizak Battlegrounds or Yah",
+          "description": "Deliver supplies to a Frontier Bivouac (but not the Frontier Station) in Ceizak Battlegrounds or Yahse Hunting Grounds. It is no longer possible to break the Cei. FB op. materials container, so this quest can be completed in a matter of seconds if you've activated a waypoint at a Frontier Bivouac in the area.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Support__Ceizak_Battlegrounds.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-support-foret-de-hennetiel",
+      "title": "Support: Foret de Hennetiel",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Support:_Foret_de_Hennetiel",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-support-foret-de-hennetiel-node-1",
+          "orderIndex": 0,
+          "title": "Deliver supplies to a Frontier Bivouac in Foret de Hennetiel.",
+          "description": "Deliver supplies to a Frontier Bivouac in Foret de Hennetiel. It is no longer possible to break the Hen. FB op. materials container, so this quest can be completed in a matter of seconds if you've activated a waypoint at a Frontier Bivouac in the area.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Support__Foret_de_Hennetiel.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-support-kamihr-drifts",
+      "title": "Support: Kamihr Drifts",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Support:_Kamihr_Drifts",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-support-kamihr-drifts-node-1",
+          "orderIndex": 0,
+          "title": "Deliver supplies to a Frontier Bivouac in Kamihr Drifts.",
+          "description": "Deliver supplies to a Frontier Bivouac in Kamihr Drifts. It is no longer possible to break the Kam. FB op. materials container, so this quest can be completed in a matter of seconds if you've activated a waypoint at a Frontier Bivouac in the area.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Support__Kamihr_Drifts.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-support-marjami-ravine",
+      "title": "Support: Marjami Ravine",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Support:_Marjami_Ravine",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-support-marjami-ravine-node-1",
+          "orderIndex": 0,
+          "title": "Deliver supplies to a Frontier Bivouac in Marjami Ravine.",
+          "description": "Deliver supplies to a Frontier Bivouac in Marjami Ravine. It is no longer possible to break the Mar. FB op. materials container, so this quest can be completed in a matter of seconds if you've activated a waypoint at a Frontier Bivouac in the area.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Support__Marjami_Ravine.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-support-morimar-basalt-fields",
+      "title": "Support: Morimar Basalt Fields",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Support:_Morimar_Basalt_Fields",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-support-morimar-basalt-fields-node-1",
+          "orderIndex": 0,
+          "title": "Deliver supplies to a Frontier Bivouac in Morimar Basalt Fields.",
+          "description": "Deliver supplies to a Frontier Bivouac in Morimar Basalt Fields. It is no longer possible to break the Mor. FB op. materials container, so this quest can be completed in a matter of seconds if you've activated a waypoint at a Frontier Bivouac in the area.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Support__Morimar_Basalt_Fields.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-support-yorcia-weald",
+      "title": "Support: Yorcia Weald",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Support:_Yorcia_Weald",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-support-yorcia-weald-node-1",
+          "orderIndex": 0,
+          "title": "Deliver supplies to a Frontier Bivouac in Yorcia Weald.",
+          "description": "Deliver supplies to a Frontier Bivouac in Yorcia Weald. It is no longer possible to break the Yor. FB op. materials container, so this quest can be completed in a matter of seconds if you've activated a waypoint at a Frontier Bivouac in the area.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Support__Yorcia_Weald.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-survey-ceizak-battlegrounds",
+      "title": "Survey: Ceizak Battlegrounds",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Survey:_Ceizak_Battlegrounds",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-survey-ceizak-battlegrounds-node-1",
+          "orderIndex": 0,
+          "title": "Find an Ergon Locus in the Ceizak Battlegrounds or Yahse Hunting Grounds.",
+          "description": "Find an Ergon Locus in the Ceizak Battlegrounds or Yahse Hunting Grounds. Note: The Loci show up on Wide Scan.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Survey__Ceizak_Battlegrounds.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-survey-cirdas-caverns",
+      "title": "Survey: Cirdas Caverns",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Survey:_Cirdas_Caverns",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-survey-cirdas-caverns-node-1",
+          "orderIndex": 0,
+          "title": "Examine an Ergon Locus in Cirdas Caverns from the correct distance and angle.",
+          "description": "Examine an Ergon Locus in Cirdas Caverns from the correct distance and angle.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-cirdas-caverns-node-2",
+          "orderIndex": 1,
+          "title": "EXP/Bayld reward depend upon which Ergon Locus you visit with E-9 giving the least and M-9 giving th",
+          "description": "EXP/Bayld reward depend upon which Ergon Locus you visit with E-9 giving the least and M-9 giving the most. Note: The loci appear on Wide Scan. Each locus has its own name; the table below shows the position of each locus, its name, and any special notes for finding it. Surveys can lead to success or failure depending on time of day and distance. Approximate time and distance ranges are followed by exact time and distances recorded. Even if your first survey fails, you can try to survey again until you succeed without affecting your reward.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-cirdas-caverns-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-cirdas-caverns-node-3",
+          "orderIndex": 2,
+          "title": "After inspecting a locus, return to the Task Delegator.",
+          "description": "After inspecting a locus, return to the Task Delegator.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-cirdas-caverns-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Survey__Cirdas_Caverns.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-survey-dho-gates",
+      "title": "Survey: Dho Gates",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Survey:_Dho_Gates",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-survey-dho-gates-node-1",
+          "orderIndex": 0,
+          "title": "Examine an Ergon Locus in Dho Gates or Woh Gates from the correct distance.",
+          "description": "Examine an Ergon Locus in Dho Gates or Woh Gates from the correct distance.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-dho-gates-node-2",
+          "orderIndex": 1,
+          "title": "EXP/Bayld reward depend upon which Ergon Locus you visit with E-10 giving the least and G-12 giving ",
+          "description": "EXP/Bayld reward depend upon which Ergon Locus you visit with E-10 giving the least and G-12 giving the most. Note: The loci appear on Wide Scan. Each locus has its own name; the table below shows the position of each locus, its name, and any special notes for finding it. Surveys can lead to success or failure depending on time of day and distance. Use the Survey Tables to get the acceptable ranges for the time of day. Even if your first survey fails, you can try to survey again until you succeed without affecting your reward.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-dho-gates-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-dho-gates-node-3",
+          "orderIndex": 2,
+          "title": "After inspecting a locus, return to the Task Delegator.",
+          "description": "After inspecting a locus, return to the Task Delegator.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-dho-gates-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Survey__Dho_Gates.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/29/Map_of_Dho_Gates.png/revision/latest/scale-to-width-down/512?cb=20140817204012",
+          "alt": "Map of Dho Gates"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-coalition-survey-foret-de-hennetiel",
+      "title": "Survey: Foret de Hennetiel",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Survey:_Foret_de_Hennetiel",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-survey-foret-de-hennetiel-node-1",
+          "orderIndex": 0,
+          "title": "The loci appear on Wide Scan.",
+          "description": "The loci appear on Wide Scan.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-foret-de-hennetiel-node-2",
+          "orderIndex": 1,
+          "title": "Each locus has its own name; the table below shows the position of each locus, its name, and any spe",
+          "description": "Each locus has its own name; the table below shows the position of each locus, its name, and any special notes for finding it.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-foret-de-hennetiel-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-foret-de-hennetiel-node-3",
+          "orderIndex": 2,
+          "title": "Even if your first survey fails, you can try to survey again until you succeed without affecting you",
+          "description": "Even if your first survey fails, you can try to survey again until you succeed without affecting your reward.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-foret-de-hennetiel-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-foret-de-hennetiel-node-4",
+          "orderIndex": 3,
+          "title": "After succesfully inspecting a locus, return to the Task Delegator.",
+          "description": "After succesfully inspecting a locus, return to the Task Delegator.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-foret-de-hennetiel-node-3"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Survey__Foret_de_Hennetiel.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-survey-kamihr-drifts",
+      "title": "Survey: Kamihr Drifts",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Survey:_Kamihr_Drifts",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-survey-kamihr-drifts-node-1",
+          "orderIndex": 0,
+          "title": "Examine an Ergon Locus in Kamihr Drifts from the correct distance.",
+          "description": "Examine an Ergon Locus in Kamihr Drifts from the correct distance.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-kamihr-drifts-node-2",
+          "orderIndex": 1,
+          "title": "EXP/Bayld reward depend upon which Ergon Locus you visit with J-8 and J-11 giving the least and G-11",
+          "description": "EXP/Bayld reward depend upon which Ergon Locus you visit with J-8 and J-11 giving the least and G-11 giving the most. Note: The loci appear on Wide Scan. Each locus has its own name; the table below shows the position of each locus, its name, and any special notes for finding it. Surveys can lead to success or failure depending on distance.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-kamihr-drifts-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-kamihr-drifts-node-3",
+          "orderIndex": 2,
+          "title": "After inspecting a locus, return to the Task Delegator.",
+          "description": "After inspecting a locus, return to the Task Delegator.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-kamihr-drifts-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Survey__Kamihr_Drifts.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-survey-marjami-ravine",
+      "title": "Survey: Marjami Ravine",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Survey:_Marjami_Ravine",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-survey-marjami-ravine-node-1",
+          "orderIndex": 0,
+          "title": "Examine an Ergon Locus in Marjami Ravine from the correct distance.",
+          "description": "Examine an Ergon Locus in Marjami Ravine from the correct distance.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-marjami-ravine-node-2",
+          "orderIndex": 1,
+          "title": "EXP/Bayld reward depend upon which Ergon Locus you visit with K-5 giving the least and H-11 giving t",
+          "description": "EXP/Bayld reward depend upon which Ergon Locus you visit with K-5 giving the least and H-11 giving the most. Note: The loci appear on Wide Scan. Each locus has its own name; the table below shows the position of each locus, its name, and any special notes for finding it. Surveys can lead to success or failure depending on distance.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-marjami-ravine-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-marjami-ravine-node-3",
+          "orderIndex": 2,
+          "title": "After inspecting a locus, return to the Task Delegator.",
+          "description": "After inspecting a locus, return to the Task Delegator.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-marjami-ravine-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Survey__Marjami_Ravine.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6d/Marjami_Marked_Map.png/revision/latest/scale-to-width-down/512?cb=20180903012127",
+          "alt": "Marjami Marked Map"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-coalition-survey-morimar-basalt-fields",
+      "title": "Survey: Morimar Basalt Fields",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Survey:_Morimar_Basalt_Fields",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-survey-morimar-basalt-fields-node-1",
+          "orderIndex": 0,
+          "title": "Note: The loci appear on Wide Scan.",
+          "description": "Note: The loci appear on Wide Scan.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-morimar-basalt-fields-node-2",
+          "orderIndex": 1,
+          "title": "Each locus has its own name; the table below shows the position of each locus, its name, and any spe",
+          "description": "Each locus has its own name; the table below shows the position of each locus, its name, and any special notes for finding it.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-morimar-basalt-fields-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-morimar-basalt-fields-node-3",
+          "orderIndex": 2,
+          "title": "Even if your first survey fails, you can try to survey again until you succeed without affecting you",
+          "description": "Even if your first survey fails, you can try to survey again until you succeed without affecting your reward.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-morimar-basalt-fields-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-morimar-basalt-fields-node-4",
+          "orderIndex": 3,
+          "title": "After inspecting a locus, return to the Task Delegator.",
+          "description": "After inspecting a locus, return to the Task Delegator.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-morimar-basalt-fields-node-3"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Survey__Morimar_Basalt_Fields.html"
+    },
+    {
+      "id": "ffxiclopedia-coalition-survey-sih-gates",
+      "title": "Survey: Sih Gates",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Survey:_Sih_Gates",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-survey-sih-gates-node-1",
+          "orderIndex": 0,
+          "title": "Examine an Ergon Locus in Sih Gates or Moh Gates from the correct distance.",
+          "description": "Examine an Ergon Locus in Sih Gates or Moh Gates from the correct distance.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-sih-gates-node-2",
+          "orderIndex": 1,
+          "title": "EXP/Bayld reward depend upon which Ergon Locus you visit with K-11 Sih Gates giving the least and K-",
+          "description": "EXP/Bayld reward depend upon which Ergon Locus you visit with K-11 Sih Gates giving the least and K-10 Moh Gates giving the most. Note: The loci appear on Wide Scan. Each locus has its own name; the table below shows the position of each locus, its name, and any special notes for finding it. Surveys can lead to success or failure depending on time of day and distance. Even if your first survey fails, you can try to survey again until you succeed without affecting your reward.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-sih-gates-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-sih-gates-node-3",
+          "orderIndex": 2,
+          "title": "After inspecting a locus, return to the Task Delegator.",
+          "description": "After inspecting a locus, return to the Task Delegator.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-sih-gates-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Survey__Sih_Gates.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/ba/SihGatesMap.png/revision/latest/scale-to-width-down/512?cb=20131020185307",
+          "alt": "SihGatesMap"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-coalition-survey-yorcia-weald",
+      "title": "Survey: Yorcia Weald",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Survey:_Yorcia_Weald",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-coalition-survey-yorcia-weald-node-1",
+          "orderIndex": 0,
+          "title": "Examine an Ergon Locus in Yorcia Weald from the correct distance.",
+          "description": "Examine an Ergon Locus in Yorcia Weald from the correct distance.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-yorcia-weald-node-2",
+          "orderIndex": 1,
+          "title": "EXP/Bayld reward depend upon which Ergon Locus you visit with I-8 giving the least and G-6 and K-10 ",
+          "description": "EXP/Bayld reward depend upon which Ergon Locus you visit with I-8 giving the least and G-6 and K-10 giving the most. Note: The loci appear on Wide Scan. Each locus has its own name; the table below shows the position of each locus, its name, and any special notes for finding it. Surveys can lead to success or failure depending on distance.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-yorcia-weald-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-coalition-survey-yorcia-weald-node-3",
+          "orderIndex": 2,
+          "title": "After inspecting a locus, return to the Task Delegator.",
+          "description": "After inspecting a locus, return to the Task Delegator.",
+          "dependencies": [
+            "ffxiclopedia-coalition-survey-yorcia-weald-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Survey__Yorcia_Weald.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/e/ed/Yorcia_Weald_Map.png/revision/latest?cb=20180912012304",
+          "alt": "Yorcia Weald Map"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/e/ed/Yorcia_Weald_Map.png/revision/latest?cb=20180912012304",
+          "alt": "Yorcia Weald Map"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/e/ed/Yorcia_Weald_Map.png/revision/latest?cb=20180912012304",
+          "alt": "Yorcia Weald Map"
+        }
+      ]
+    }
+  ]
+}

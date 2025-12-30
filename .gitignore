@@ -1,0 +1,41 @@
+# Xcode
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcshareddata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+.DS_Store
+
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# External resources (scraped data, not needed in repo)
+externalResources/
+htmls/
+
+# Build artifacts
+build/
+Build/
+
+# Scripts used for one-time data processing
+analyze_htmls.py
+update_jsons_with_htmls.py
+extract_rewards_from_htmls.py
+filter_useful_images.py
+convert_wotg_to_standard.py
+download_images.sh
+
+# Documentation files from processing (not needed - we have INTEGRATION_COMPLETE.md)
+HTML_FILES_SUMMARY.md
+HTML_INTEGRATION_SUMMARY.md
+README_HTML_INTEGRATION.md
+SCRAPER_INTEGRATION_GUIDE.md
+WINGS_OF_GODDESS_TODO.md
+MULTI_CHARACTER_TRACKING.md

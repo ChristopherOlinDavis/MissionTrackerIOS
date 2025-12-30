@@ -61,7 +61,22 @@
           ]
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Horutoto_Ruins_Experiment.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/03/InnerHorutotoRuins1.png/revision/latest/scale-to-width-down/100?cb=20071128035136",
+          "alt": "Lily Tower"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/29/Windurst-port.png/revision/latest?cb=20071127054211",
+          "alt": "Windurst-port"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/03/InnerHorutotoRuins1.png/revision/latest?cb=20071128035136",
+          "alt": "InnerHorutotoRuins1"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-windurst-the-heart-of-the-matter",
@@ -95,7 +110,30 @@
           ]
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Heart_of_the_Matter.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/5/50/OuterHorutotoRuins3.png/revision/latest/scale-to-width-down/100?cb=20060412165623",
+          "alt": "Marguerite Tower"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/5/50/OuterHorutotoRuins3.png/revision/latest/scale-to-width-down/100?cb=20060412165623",
+          "alt": "Marguerite Tower"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/70/Windurst-woods.png/revision/latest?cb=20080722161302",
+          "alt": "Windurst-woods"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/09/East_Sarutabaruta.png/revision/latest?cb=20081025141230",
+          "alt": "East Sarutabaruta"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/70/Windurst-woods.png/revision/latest?cb=20080722161302",
+          "alt": "Windurst-woods"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-windurst-the-price-of-peace",
@@ -132,7 +170,26 @@
           ]
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Price_of_Peace.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/ca/Map_Windurst-Waters-Full.jpg/revision/latest/scale-to-width-down/180?cb=20211124220307",
+          "alt": "Windurst Waters (North & South). Rhinostery is in bottom right."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/21/WestSarutabaruta.png/revision/latest/scale-to-width-down/180?cb=20081025141047",
+          "alt": "W-Saruta. Giddeus is in the top-left."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/05/Giddeus1.png/revision/latest/scale-to-width-down/180?cb=20060914204824",
+          "alt": "Giddeus, upper portion."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b9/Windurst-waters-north.png/revision/latest?cb=20080722162951",
+          "alt": "Windurst-waters-north"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-windurst-lost-for-words",
@@ -186,7 +243,62 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Lost_for_Words.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/ca/Map_Windurst-Waters-Full.jpg/revision/latest/scale-to-width-down/180?cb=20211124220307",
+          "alt": "(Win.Waters) Optistery is in the very north, below the exit gate."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/ca/Map_Windurst-Waters-Full.jpg/revision/latest/scale-to-width-down/180?cb=20211124220307",
+          "alt": "(Win.Waters) Optistery is in the very north, below the exit gate."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/70/Windurst-woods.png/revision/latest/scale-to-width-down/180?cb=20080722161302",
+          "alt": "(Win.Woods) Nanaa is the Mithra the very north."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/09/East_Sarutabaruta.png/revision/latest/scale-to-width-down/180?cb=20081025141230",
+          "alt": "(E.Saruta)Tahrongi entrance is at the top-right."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/5/5b/Tahrongi_Canyon.png/revision/latest/scale-to-width-down/180?cb=20060915180820",
+          "alt": "(Tahrongi) Shakhrami entrance is at the top right."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/41/MazeofShakhrami1.png/revision/latest/scale-to-width-down/100?cb=20060823140034",
+          "alt": "Maze of Shakhrami Upper"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/48/MazeofShakhrami2.png/revision/latest/scale-to-width-down/100?cb=20070726082232",
+          "alt": "Maze of Shakhrami Lower"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/1/17/Fossil_Rock_Map.png/revision/latest/scale-to-width-down/180?cb=20230510150718",
+          "alt": "Fossil Rock Location are in Pink"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/09/East_Sarutabaruta.png/revision/latest/scale-to-width-down/180?cb=20081025141230",
+          "alt": "(E.Saruta) Lily Tower to Horutoto."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/03/InnerHorutotoRuins1.png/revision/latest/scale-to-width-down/100?cb=20071128035136",
+          "alt": "Lily Tower"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/5/53/InnerHorutotoRuins2.png/revision/latest/scale-to-width-down/100?cb=20060412164343",
+          "alt": "Beetle's Burrow"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b8/Windurst-walls.png/revision/latest/scale-to-width-down/180?cb=20080722161301",
+          "alt": "(Win.Walls) House is at very top."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/ca/Map_Windurst-Waters-Full.jpg/revision/latest/scale-to-width-down/180?cb=20211124220307",
+          "alt": "(N&S Win.Waters) Optistery is at very top in the north."
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-windurst-the-three-kingdoms",
@@ -217,7 +329,8 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Three_Kingdoms.html"
     },
     {
       "id": "ffxiclopedia-windurst-to-each-his-own-right",
@@ -282,7 +395,22 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_To_Each_His_Own_Right.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/e/ec/CastleOztroja1.png/revision/latest/scale-to-width-down/100?cb=20060323184451",
+          "alt": "Castle Oztroja"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/e/ec/CastleOztroja1.png/revision/latest/scale-to-width-down/100?cb=20060323184451",
+          "alt": "Castle Oztroja"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/e/ec/CastleOztroja1.png/revision/latest?cb=20060323184451",
+          "alt": "CastleOztroja1"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-windurst-written-in-the-stars",
@@ -331,7 +459,30 @@
           ]
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Written_in_the_Stars.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/97/Toraimarai_Composite.PNG/revision/latest/scale-to-width-down/180?cb=20081215112659",
+          "alt": "Composite map to the Three Mage Gate"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/64/ToraimaraiCanal2.png/revision/latest/scale-to-width-down/180?cb=20081025141518",
+          "alt": "Toraimarai Canal Map 2"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b4/ToraimaraiCanal1.png/revision/latest/scale-to-width-down/180?cb=20081025141506",
+          "alt": "Toraimarai Canal Map 1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/5/53/InnerHorutotoRuins4.png/revision/latest/scale-to-width-down/180?cb=20160828160125",
+          "alt": "Rose Tower, Map 2"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/03/InnerHorutotoRuins1.png/revision/latest?cb=20071128035136",
+          "alt": "InnerHorutotoRuins1"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-windurst-magicite-windurst",
@@ -406,7 +557,50 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Magicite__Windurst_.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/f4/Ulrich_reports.png/revision/latest/scale-to-width-down/180?cb=20191114002339",
+          "alt": " reports the deaths of  and  to ,  and "
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/f4/Ulrich_reports.png/revision/latest/scale-to-width-down/180?cb=20191114002339",
+          "alt": " reports the deaths of  and  to ,  and "
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/1/14/Beadeaux1.png/revision/latest/scale-to-width-down/180?cb=20060324143440",
+          "alt": "Beadeaux Map 1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/28/Beadeaux2.png/revision/latest/scale-to-width-down/180?cb=20060324143456",
+          "alt": "Beadeaux Map 2"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/cd/Davoi.png/revision/latest/scale-to-width-down/180?cb=20060825142025",
+          "alt": "Davoi"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/e/ec/CastleOztroja1.png/revision/latest/scale-to-width-down/180?cb=20060323184451",
+          "alt": "Castle Oztroja Map 1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/e/ea/CastleOztroja3.png/revision/latest/scale-to-width-down/180?cb=20060323184739",
+          "alt": "Castle Oztroja Map 3"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9b/CastleOztroja7.png/revision/latest/scale-to-width-down/180?cb=20060323184920",
+          "alt": "Castle Oztroja Map 7"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/8/8a/CastleOztroja2.png/revision/latest/scale-to-width-down/180?cb=20060323184538",
+          "alt": "Castle Oztroja Map 2"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/ce/Rulude-gardens.png/revision/latest?cb=20081018153017",
+          "alt": "Rulude-gardens"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-windurst-the-final-seal",
@@ -471,7 +665,14 @@
           ]
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Final_Seal.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/cf/FeiYin1.png/revision/latest?cb=20081031183132",
+          "alt": "FeiYin1"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-windurst-the-shadow-awaits",
@@ -514,7 +715,42 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Shadow_Awaits.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/29/CastleZvahlBaileys1.png/revision/latest/scale-to-width-down/70?cb=20080125001419",
+          "alt": "Baileys I"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/ff/CastleZvahlBaileys2.png/revision/latest/scale-to-width-down/70?cb=20090906023251",
+          "alt": "Baileys II"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/ff/CastleZvahlBaileys2.png/revision/latest/scale-to-width-down/70?cb=20090906023251",
+          "alt": "Baileys II"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/c2/CastleZvahlKeep1.png/revision/latest/scale-to-width-down/70?cb=20051018215959",
+          "alt": "Keep I"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/c2/CastleZvahlKeep1.png/revision/latest/scale-to-width-down/70?cb=20051018215959",
+          "alt": "Keep I"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/2f/CastleZvahlKeep2.png/revision/latest/scale-to-width-down/70?cb=20051018220013",
+          "alt": "Keep II"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/22/CastleZvahlKeep3.png/revision/latest/scale-to-width-down/70?cb=20081026035550",
+          "alt": "Keep III"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/a2/CastleZvahlKeep4.png/revision/latest/scale-to-width-down/70?cb=20051018220033",
+          "alt": "Keep IV"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-windurst-full-moon-fountain-mission",
@@ -570,7 +806,26 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Full_Moon_Fountain__Mission_.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/97/Toraimarai_Composite.PNG/revision/latest/scale-to-width-down/180?cb=20081215112659",
+          "alt": "Composite map to Full Moon Fountain"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/29/Windurst-port.png/revision/latest?cb=20071127054211",
+          "alt": "Windurst-port"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/21/WestSarutabaruta.png/revision/latest?cb=20081025141047",
+          "alt": "WestSarutabaruta"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/0c/OuterHorutotoRuins4.png/revision/latest?cb=20060412165641",
+          "alt": "OuterHorutotoRuins4"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-windurst-saintly-invitation",
@@ -599,7 +854,22 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Saintly_Invitation.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/05/Giddeus1.png/revision/latest?cb=20060914204824",
+          "alt": "Giddeus1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/05/Giddeus1.png/revision/latest?cb=20060914204824",
+          "alt": "Giddeus1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6b/CastleOztroja5.png/revision/latest?cb=20060323193117",
+          "alt": "CastleOztroja5"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-windurst-the-sixth-ministry",
@@ -632,7 +902,26 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Sixth_Ministry.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/97/Toraimarai_Composite.PNG/revision/latest/scale-to-width-down/180?cb=20081215112659",
+          "alt": "Composite map to Toraimarai Canal"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b9/Windurst-waters-north.png/revision/latest?cb=20080722162951",
+          "alt": "Windurst-waters-north"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b4/ToraimaraiCanal1.png/revision/latest?cb=20081025141506",
+          "alt": "ToraimaraiCanal1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b9/Windurst-waters-north.png/revision/latest?cb=20080722162951",
+          "alt": "Windurst-waters-north"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-windurst-vain",
@@ -746,7 +1035,22 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Vain.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b9/Windurst-waters-north.png/revision/latest?cb=20080722162951",
+          "alt": "Windurst-waters-north"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/3/3d/Romaeve.png/revision/latest?cb=20081020234833",
+          "alt": "Romaeve"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/cd/Davoi.png/revision/latest?cb=20060825142025",
+          "alt": "Davoi"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-windurst-moon-reading",
@@ -798,7 +1102,18 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Moon_Reading.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/48/Temple_of_Uggalepih_Composite.PNG/revision/latest/scale-to-width-down/180?cb=20081221150845",
+          "alt": "Composite Map"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/97/Toraimarai_Composite.PNG/revision/latest/scale-to-width-down/180?cb=20081215112659",
+          "alt": "Composite map to Full Moon Fountain"
+        }
+      ]
     }
   ]
 }

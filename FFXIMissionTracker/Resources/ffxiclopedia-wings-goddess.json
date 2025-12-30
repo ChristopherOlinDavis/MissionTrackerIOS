@@ -1,0 +1,1018 @@
+{
+  "id": "ffxiclopedia-wings-goddess",
+  "name": "FFXIclopedia - Wings of the Goddess Missions",
+  "category": "expansion",
+  "source": "FFXIclopedia",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Wings_of_the_Goddess_Missions",
+  "lastScraped": "2025-12-30T10:51:15.571Z",
+  "lastKnownUpdate": "2025-12-30T10:51:15.571Z",
+  "totalMissions": 30,
+  "missions": [
+    {
+      "id": "ffxiclopedia-wings-goddess-the-queen-of-the-dance",
+      "title": "The Queen of the Dance",
+      "number": "4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Queen_of_the_Dance",
+      "nodes": [
+        {
+          "id": "wotg-the-queen-of-the-dance-node-1",
+          "orderIndex": 0,
+          "title": "Check the Lion Springs Tavern door (K-6) for another cutscene.",
+          "description": "Check the Lion Springs Tavern door (K-6) for another cutscene..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "K-6"
+          }
+        },
+        {
+          "id": "wotg-the-queen-of-the-dance-node-2",
+          "orderIndex": 1,
+          "title": "Go to Upper Jeuno and talk to Turlough (G-7) for a cutscene and the Mayakov Show Ticket.",
+          "description": "Go to Upper Jeuno and talk to Turlough (G-7) for a cutscene and the Mayakov Show Ticket..",
+          "dependencies": [
+            "wotg-the-queen-of-the-dance-node-1"
+          ],
+          "location": {
+            "coordinates": "G-7",
+            "npc": "Turlough"
+          }
+        },
+        {
+          "id": "wotg-the-queen-of-the-dance-node-3",
+          "orderIndex": 2,
+          "title": "Return to Southern San d'Oria (S) and check the Lion Springs Tavern door for another cutscene.",
+          "description": "Return to Southern San d'Oria (S) and check the Lion Springs Tavern door for another cutscene..",
+          "dependencies": [
+            "wotg-the-queen-of-the-dance-node-2"
+          ],
+          "location": {
+            "zone": "Southern San d'Oria"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-while-the-cat-is-away",
+      "title": "While the Cat is Away",
+      "number": "5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/While_the_Cat_is_Away",
+      "nodes": [
+        {
+          "id": "wotg-while-the-cat-is-away-node-1",
+          "orderIndex": 0,
+          "title": "Zone into East Ronfaure (S) from Southern San d'Oria (S) for a cutscene.",
+          "description": "Zone into East Ronfaure (S) from Southern San d'Oria (S) for a cutscene..",
+          "dependencies": [],
+          "location": {
+            "zone": "East Ronfaure"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-purple,-the-new-black",
+      "title": "Purple, The New Black",
+      "number": "7",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Purple,_The_New_Black",
+      "nodes": [
+        {
+          "id": "wotg-purple-the-new-black-node-1",
+          "orderIndex": 0,
+          "title": "Head to (F-9) in La Vaule (S) and check the Reinforced Gateway for a cutscene.",
+          "description": "Head to (F-9) in La Vaule (S) and check the Reinforced Gateway for a cutscene..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "F-9",
+            "zone": "La Vaule"
+          }
+        },
+        {
+          "id": "wotg-purple-the-new-black-node-2",
+          "orderIndex": 1,
+          "title": "Check the Reinforced Gateway a second time to enter the battlefield for Purple, The New Black.",
+          "description": "Check the Reinforced Gateway a second time to enter the battlefield for Purple, The New Black..",
+          "dependencies": [
+            "wotg-purple-the-new-black-node-1"
+          ],
+          "location": {
+            "zone": "enter the battlefield for Purple"
+          }
+        },
+        {
+          "id": "wotg-purple-the-new-black-node-3",
+          "orderIndex": 2,
+          "title": "Upon victory on the battlefield a cutscene will take characters to (D-8) in La Vaule (S).",
+          "description": "Upon victory on the battlefield a cutscene will take characters to (D-8) in La Vaule (S)..",
+          "dependencies": [
+            "wotg-purple-the-new-black-node-2"
+          ],
+          "location": {
+            "coordinates": "D-8",
+            "zone": "La Vaule"
+          }
+        },
+        {
+          "id": "wotg-purple-the-new-black-node-4",
+          "orderIndex": 3,
+          "title": "If you're doing Rhapsodies of Vana'Diel, you can now continue with Ganged Up On",
+          "description": "If you're doing Rhapsodies of Vana'Diel, you can now continue with Ganged Up On. It's recommended you finish Rhapsodies past either Of Light and Darkness (no longer need Lilisette) or Sin (Mission) (no longer need Cait Sith) before continuing Wings of the Goddess.",
+          "dependencies": [
+            "wotg-purple-the-new-black-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-in-the-name-of-the-father",
+      "title": "In the Name of the Father",
+      "number": "8",
+      "url": "https://ffxiclopedia.fandom.com/wiki/In_the_Name_of_the_Father",
+      "nodes": [
+        {
+          "id": "wotg-in-the-name-of-the-father-node-1",
+          "orderIndex": 0,
+          "title": "If you're doing Rhapsodies of Vana'diel, you don't need to do the below to continue that mission line",
+          "description": "If you're doing Rhapsodies of Vana'diel, you don't need to do the below to continue that mission line. It's recommended to do Rhapsodies until you finish either Of Light and Darkness (no longer need Lilisette) or Sin (Mission) (no longer need Cait Sith) before continuing Wings of the Goddess.",
+          "dependencies": [],
+          "location": {
+            "zone": "do the below to continue that mission line"
+          }
+        },
+        {
+          "id": "wotg-in-the-name-of-the-father-node-2",
+          "orderIndex": 1,
+          "title": "Complete the next round of Nation quests:",
+          "description": "Complete the next round of Nation quests:.",
+          "dependencies": [
+            "wotg-in-the-name-of-the-father-node-1"
+          ]
+        },
+        {
+          "id": "wotg-in-the-name-of-the-father-node-3",
+          "orderIndex": 2,
+          "title": "Check the Door: Lion Springs Tavern in Southern San d'Oria (S) (K-6) for a cutscene.",
+          "description": "Check the Door: Lion Springs Tavern in Southern San d'Oria (S) (K-6) for a cutscene..",
+          "dependencies": [
+            "wotg-in-the-name-of-the-father-node-2"
+          ],
+          "location": {
+            "coordinates": "K-6",
+            "zone": "Southern San d'Oria"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-sandswept-memories",
+      "title": "Sandswept Memories",
+      "number": "16",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Sandswept_Memories",
+      "nodes": [
+        {
+          "id": "wotg-sandswept-memories-node-1",
+          "orderIndex": 0,
+          "title": "Check the Lion Springs Tavern door in Southern San d'Oria (S) (K-6) for a cutscene.",
+          "description": "Check the Lion Springs Tavern door in Southern San d'Oria (S) (K-6) for a cutscene..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "K-6",
+            "zone": "Southern San d'Oria"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-northland-exposure",
+      "title": "Northland Exposure",
+      "number": "17",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Northland_Exposure",
+      "nodes": [
+        {
+          "id": "wotg-northland-exposure-node-1",
+          "orderIndex": 0,
+          "title": "Enter Beaucedine Glacier (S) to receive a cutscene and a Shadow bug.",
+          "description": "Enter Beaucedine Glacier (S) to receive a cutscene and a Shadow bug..",
+          "dependencies": [],
+          "location": {
+            "zone": "receive a cutscene and a Shadow bug"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-traitor-in-the-midst",
+      "title": "Traitor in the Midst",
+      "number": "18",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Traitor_in_the_Midst",
+      "nodes": [
+        {
+          "id": "wotg-traitor-in-the-midst-node-1",
+          "orderIndex": 0,
+          "title": "At Beaucedine Glacier (S), visit the 5 northernmost Pso'Xja towers listed below, and examine the Regal Pawprints found there",
+          "description": "At Beaucedine Glacier (S), visit the 5 northernmost Pso'Xja towers listed below, and examine the Regal Pawprints found there.",
+          "dependencies": [],
+          "location": {
+            "zone": "this walkthrough they are listed bottom-to-top"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-on-thin-ice",
+      "title": "On Thin Ice",
+      "number": "20",
+      "url": "https://ffxiclopedia.fandom.com/wiki/On_Thin_Ice",
+      "nodes": [
+        {
+          "id": "wotg-on-thin-ice-node-1",
+          "orderIndex": 0,
+          "title": "Return to Southern San d'Oria (S) and talk to Raustigne (I-7) for a cutscene.",
+          "description": "Return to Southern San d'Oria (S) and talk to Raustigne (I-7) for a cutscene..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "I-7",
+            "zone": "Southern San d'Oria",
+            "npc": "Raustigne"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-proof-of-valor",
+      "title": "Proof of Valor",
+      "number": "21",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Proof_of_Valor",
+      "nodes": [
+        {
+          "id": "wotg-proof-of-valor-node-1",
+          "orderIndex": 0,
+          "title": "NOTE: NPC's listed in such a way as to reduce time spent looking for them",
+          "description": "NOTE: NPC's listed in such a way as to reduce time spent looking for them.",
+          "dependencies": [],
+          "location": {
+            "zone": "such a way as to reduce time spent looking for them"
+          }
+        },
+        {
+          "id": "wotg-proof-of-valor-node-2",
+          "orderIndex": 1,
+          "title": "Aissaville (I-7) (next to Raustigne)",
+          "description": "Aissaville (I-7) (next to Raustigne).",
+          "dependencies": [
+            "wotg-proof-of-valor-node-1"
+          ],
+          "location": {
+            "coordinates": "I-7"
+          }
+        },
+        {
+          "id": "wotg-proof-of-valor-node-3",
+          "orderIndex": 2,
+          "title": "Illeuse (H-9) (on the way to Chocobo Stables)",
+          "description": "Illeuse (H-9) (on the way to Chocobo Stables).",
+          "dependencies": [
+            "wotg-proof-of-valor-node-2"
+          ],
+          "location": {
+            "coordinates": "H-9"
+          }
+        },
+        {
+          "id": "wotg-proof-of-valor-node-4",
+          "orderIndex": 3,
+          "title": "Daigraffeaux (I-11) (near Chocobo Stables)",
+          "description": "Daigraffeaux (I-11) (near Chocobo Stables).",
+          "dependencies": [
+            "wotg-proof-of-valor-node-3"
+          ],
+          "location": {
+            "coordinates": "I-11"
+          }
+        },
+        {
+          "id": "wotg-proof-of-valor-node-5",
+          "orderIndex": 4,
+          "title": "Elnonde (K-9) (main path just past eastgate area)",
+          "description": "Elnonde (K-9) (main path just past eastgate area).",
+          "dependencies": [
+            "wotg-proof-of-valor-node-4"
+          ],
+          "location": {
+            "coordinates": "K-9"
+          }
+        },
+        {
+          "id": "wotg-proof-of-valor-node-6",
+          "orderIndex": 5,
+          "title": "Remiotte (L-10) (Near East Ronfaure (S) entrance)",
+          "description": "Remiotte (L-10) (Near East Ronfaure (S) entrance).",
+          "dependencies": [
+            "wotg-proof-of-valor-node-5"
+          ],
+          "location": {
+            "coordinates": "L-10"
+          }
+        },
+        {
+          "id": "wotg-proof-of-valor-node-7",
+          "orderIndex": 6,
+          "title": "Loillie (K-9) upper level",
+          "description": "Loillie (K-9) upper level.",
+          "dependencies": [
+            "wotg-proof-of-valor-node-6"
+          ],
+          "location": {
+            "coordinates": "K-9"
+          }
+        },
+        {
+          "id": "wotg-proof-of-valor-node-8",
+          "orderIndex": 7,
+          "title": "Mailleronce (M-6) (near Mog House)",
+          "description": "Mailleronce (M-6) (near Mog House).",
+          "dependencies": [
+            "wotg-proof-of-valor-node-7"
+          ],
+          "location": {
+            "coordinates": "M-6"
+          }
+        },
+        {
+          "id": "wotg-proof-of-valor-node-9",
+          "orderIndex": 8,
+          "title": "Andagge (H-9) upper level",
+          "description": "Andagge (H-9) upper level.",
+          "dependencies": [
+            "wotg-proof-of-valor-node-8"
+          ],
+          "location": {
+            "coordinates": "H-9"
+          }
+        },
+        {
+          "id": "wotg-proof-of-valor-node-10",
+          "orderIndex": 9,
+          "title": "Louxiard (G-7) (Watchdog Alley)",
+          "description": "Louxiard (G-7) (Watchdog Alley).",
+          "dependencies": [
+            "wotg-proof-of-valor-node-9"
+          ],
+          "location": {
+            "coordinates": "G-7"
+          }
+        },
+        {
+          "id": "wotg-proof-of-valor-node-11",
+          "orderIndex": 10,
+          "title": "Machionage (C-6)",
+          "description": "Machionage (C-6).",
+          "dependencies": [
+            "wotg-proof-of-valor-node-10"
+          ],
+          "location": {
+            "coordinates": "C-6"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-the-will-of-the-world",
+      "title": "The Will of the World",
+      "number": "25",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Will_of_the_World",
+      "nodes": [
+        {
+          "id": "wotg-the-will-of-the-world-node-1",
+          "orderIndex": 0,
+          "title": "Return to Southern San d'Oria (S) and talk to Raustigne at (I-7) for a cutscene.",
+          "description": "Return to Southern San d'Oria (S) and talk to Raustigne at (I-7) for a cutscene..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "I-7",
+            "zone": "Southern San d'Oria",
+            "npc": "Raustigne"
+          }
+        },
+        {
+          "id": "wotg-the-will-of-the-world-node-2",
+          "orderIndex": 1,
+          "title": "This cutscene does not play properly in Windower with the FastCS plugin activated",
+          "description": "This cutscene does not play properly in Windower with the FastCS plugin activated. Also if you have framerate set to 60.",
+          "dependencies": [
+            "wotg-the-will-of-the-world-node-1"
+          ],
+          "location": {
+            "zone": "Windower with the FastCS plugin activated"
+          }
+        },
+        {
+          "id": "wotg-the-will-of-the-world-node-3",
+          "orderIndex": 2,
+          "title": "You can reload FastCS afterwards with //lua load fastcs.",
+          "description": "You can reload FastCS afterwards with //lua load fastcs..",
+          "dependencies": [
+            "wotg-the-will-of-the-world-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-fate-in-haze",
+      "title": "Fate in Haze",
+      "number": "26",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Fate_in_Haze",
+      "nodes": [
+        {
+          "id": "wotg-fate-in-haze-node-1",
+          "orderIndex": 0,
+          "title": "Complete the next round of Nation quests:",
+          "description": "Complete the next round of Nation quests:.",
+          "dependencies": []
+        },
+        {
+          "id": "wotg-fate-in-haze-node-2",
+          "orderIndex": 1,
+          "title": "Head to Southern San d'Oria (S) and examine the Lion Springs Tavern door for a cutscene.",
+          "description": "Head to Southern San d'Oria (S) and examine the Lion Springs Tavern door for a cutscene..",
+          "dependencies": [
+            "wotg-fate-in-haze-node-1"
+          ],
+          "location": {
+            "zone": "Southern San d'Oria"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-the-scent-of-battle",
+      "title": "The Scent of Battle",
+      "number": "27",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Scent_of_Battle",
+      "nodes": [
+        {
+          "id": "wotg-the-scent-of-battle-node-1",
+          "orderIndex": 0,
+          "title": "Head to Sauromugue Champaign (S) and examine the Bulwark Gate (F-6) for a cutscene.",
+          "description": "Head to Sauromugue Champaign (S) and examine the Bulwark Gate (F-6) for a cutscene..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "F-6",
+            "zone": "Sauromugue Champaign"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-the-battle-of-xarcabard",
+      "title": "The Battle of Xarcabard",
+      "number": "30",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Battle_of_Xarcabard",
+      "nodes": [
+        {
+          "id": "wotg-the-battle-of-xarcabard-node-1",
+          "orderIndex": 0,
+          "title": "Zone into Xarcabard (S) for a cutscene.",
+          "description": "Zone into Xarcabard (S) for a cutscene..",
+          "dependencies": [],
+          "location": {
+            "zone": "Xarcabard"
+          }
+        },
+        {
+          "id": "wotg-the-battle-of-xarcabard-node-2",
+          "orderIndex": 1,
+          "title": "Check the Rally Point:Red (F-8) for a cutscene.",
+          "description": "Check the Rally Point:Red (F-8) for a cutscene..",
+          "dependencies": [
+            "wotg-the-battle-of-xarcabard-node-1"
+          ],
+          "location": {
+            "coordinates": "F-8"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-prelude-to-a-storm",
+      "title": "Prelude to a Storm",
+      "number": "31",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Prelude_to_a_Storm",
+      "nodes": [
+        {
+          "id": "wotg-prelude-to-a-storm-node-1",
+          "orderIndex": 0,
+          "title": "Check the Rally Point:Green at (G-9) of Xarcabard (S) for a cutscene to receive a Magelight Signal Flare.",
+          "description": "Check the Rally Point:Green at (G-9) of Xarcabard (S) for a cutscene to receive a Magelight Signal Flare..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "G-9",
+            "zone": "receive a Magelight Signal Flare"
+          }
+        },
+        {
+          "id": "wotg-prelude-to-a-storm-node-2",
+          "orderIndex": 1,
+          "title": "Check the Spell-Worked Snow to the southeast to enter the battlefield.",
+          "description": "Check the Spell-Worked Snow to the southeast to enter the battlefield..",
+          "dependencies": [
+            "wotg-prelude-to-a-storm-node-1"
+          ],
+          "location": {
+            "zone": "the southeast to enter the battlefield"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-storms-crescendo",
+      "title": "Storm's Crescendo",
+      "number": "32",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Storm's_Crescendo",
+      "nodes": [
+        {
+          "id": "wotg-storm-s-crescendo-node-1",
+          "orderIndex": 0,
+          "title": "Check the Rally Point:Blue (H-8 top left corner) in Xarcabard (S) for a cutscene, and you will be given the Alchemical signal flare.",
+          "description": "Check the Rally Point:Blue (H-8 top left corner) in Xarcabard (S) for a cutscene, and you will be given the Alchemical signal flare..",
+          "dependencies": [],
+          "location": {
+            "zone": "Xarcabard"
+          }
+        },
+        {
+          "id": "wotg-storm-s-crescendo-node-2",
+          "orderIndex": 1,
+          "title": "Check the Excavated Snow to enter the assault (see Assault section for details).",
+          "description": "Check the Excavated Snow to enter the assault (see Assault section for details)..",
+          "dependencies": [
+            "wotg-storm-s-crescendo-node-1"
+          ],
+          "location": {
+            "zone": "enter the assault"
+          }
+        },
+        {
+          "id": "wotg-storm-s-crescendo-node-3",
+          "orderIndex": 2,
+          "title": "After winning the assault, check Rally Point:Red at (F-8) for a cutscene.",
+          "description": "After winning the assault, check Rally Point:Red at (F-8) for a cutscene..",
+          "dependencies": [
+            "wotg-storm-s-crescendo-node-2"
+          ],
+          "location": {
+            "coordinates": "F-8"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-into-the-beasts-maw",
+      "title": "Into the Beast's Maw",
+      "number": "33",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Into_the_Beast's_Maw",
+      "nodes": [
+        {
+          "id": "wotg-into-the-beast-s-maw-node-1",
+          "orderIndex": 0,
+          "title": "Check the Red Rally Point (F-8) for a cutscene.",
+          "description": "Check the Red Rally Point (F-8) for a cutscene..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "F-8"
+          }
+        },
+        {
+          "id": "wotg-into-the-beast-s-maw-node-2",
+          "orderIndex": 1,
+          "title": "Enter Castle Zvahl Baileys (S) for a cutscene.",
+          "description": "Enter Castle Zvahl Baileys (S) for a cutscene..",
+          "dependencies": [
+            "wotg-into-the-beast-s-maw-node-1"
+          ]
+        },
+        {
+          "id": "wotg-into-the-beast-s-maw-node-3",
+          "orderIndex": 2,
+          "title": "Head to (G-7) on the first map and click the Peculiar Glint for a cutscene.",
+          "description": "Head to (G-7) on the first map and click the Peculiar Glint for a cutscene..",
+          "dependencies": [
+            "wotg-into-the-beast-s-maw-node-2"
+          ],
+          "location": {
+            "coordinates": "G-7"
+          }
+        },
+        {
+          "id": "wotg-into-the-beast-s-maw-node-4",
+          "orderIndex": 3,
+          "title": "After the cutscene, you will receive a temporary key item Distress signal flare.",
+          "description": "After the cutscene, you will receive a temporary key item Distress signal flare..",
+          "dependencies": [
+            "wotg-into-the-beast-s-maw-node-3"
+          ]
+        },
+        {
+          "id": "wotg-into-the-beast-s-maw-node-5",
+          "orderIndex": 4,
+          "title": "Have the party leader click the Peculiar Glint again to choose the option \"Into the Beast's Maw.\"",
+          "description": "Have the party leader click the Peculiar Glint again to choose the option \"Into the Beast's Maw.\".",
+          "dependencies": [
+            "wotg-into-the-beast-s-maw-node-4"
+          ],
+          "location": {
+            "zone": "the Beast's Maw"
+          }
+        },
+        {
+          "id": "wotg-into-the-beast-s-maw-node-6",
+          "orderIndex": 5,
+          "title": "After winning against the Count and Orcs, you will receive yet another cut scene.",
+          "description": "After winning against the Count and Orcs, you will receive yet another cut scene..",
+          "dependencies": [
+            "wotg-into-the-beast-s-maw-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-the-hunter-ensnared",
+      "title": "The Hunter Ensnared",
+      "number": "34",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Hunter_Ensnared",
+      "nodes": [
+        {
+          "id": "wotg-the-hunter-ensnared-node-1",
+          "orderIndex": 0,
+          "title": "Return to the \"Rally Point:Red\" in Xarcabard (S) (F-8) for a cutscene.",
+          "description": "Return to the \"Rally Point:Red\" in Xarcabard (S) (F-8) for a cutscene..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "F-8",
+            "zone": "Xarcabard"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-flight-of-the-lion",
+      "title": "Flight of the Lion",
+      "number": "35",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Flight_of_the_Lion",
+      "nodes": [
+        {
+          "id": "wotg-flight-of-the-lion-node-1",
+          "orderIndex": 0,
+          "title": "Head to Sauromugue Champaign (S) and examine the \"Bulwark Gate\" (F-6) for a cutscene.",
+          "description": "Head to Sauromugue Champaign (S) and examine the \"Bulwark Gate\" (F-6) for a cutscene..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "F-6",
+            "zone": "Sauromugue Champaign"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-fall-of-the-hawk",
+      "title": "Fall of the Hawk",
+      "number": "36",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Fall_of_the_Hawk",
+      "nodes": [
+        {
+          "id": "wotg-fall-of-the-hawk-node-1",
+          "orderIndex": 0,
+          "title": "Zone into Castle Zvahl Baileys (S) for a cutscene.",
+          "description": "Zone into Castle Zvahl Baileys (S) for a cutscene..",
+          "dependencies": [],
+          "location": {
+            "zone": "Castle Zvahl Baileys"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-her-memories",
+      "title": "Her Memories",
+      "number": "41",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Her_Memories",
+      "nodes": [
+        {
+          "id": "wotg-her-memories-node-1",
+          "orderIndex": 0,
+          "title": "You must complete several quests to collect four Large Memory Fragments.",
+          "description": "You must complete several quests to collect four Large Memory Fragments..",
+          "dependencies": [],
+          "location": {
+            "zone": "collect four Large Memory Fragments"
+          }
+        },
+        {
+          "id": "wotg-her-memories-node-2",
+          "orderIndex": 1,
+          "title": "The next mission is automatically flagged once the below quests are completed.",
+          "description": "The next mission is automatically flagged once the below quests are completed..",
+          "dependencies": [
+            "wotg-her-memories-node-1"
+          ]
+        },
+        {
+          "id": "wotg-her-memories-node-3",
+          "orderIndex": 2,
+          "title": "CLICK EACH QUEST FOR DETAILED INFO",
+          "description": "CLICK EACH QUEST FOR DETAILED INFO.",
+          "dependencies": [
+            "wotg-her-memories-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-forget-me-not",
+      "title": "Forget Me Not",
+      "number": "42",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Forget_Me_Not",
+      "nodes": [
+        {
+          "id": "wotg-forget-me-not-node-1",
+          "orderIndex": 0,
+          "title": "Check any of the Cavernous Maws at any of the following locations for a cutscene with Cait Sith in Grauberg (S) :",
+          "description": "Check any of the Cavernous Maws at any of the following locations for a cutscene with Cait Sith in Grauberg (S) :.",
+          "dependencies": [],
+          "location": {
+            "zone": "Grauberg"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-pillar-of-hope",
+      "title": "Pillar of Hope",
+      "number": "43",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Pillar_of_Hope",
+      "nodes": [
+        {
+          "id": "wotg-pillar-of-hope-node-1",
+          "orderIndex": 0,
+          "title": "After exiting the maw, head to Grauberg (S).",
+          "description": "After exiting the maw, head to Grauberg (S)..",
+          "dependencies": [],
+          "location": {
+            "zone": "Grauberg"
+          }
+        },
+        {
+          "id": "wotg-pillar-of-hope-node-2",
+          "orderIndex": 1,
+          "title": "Head to the Veridical Conflux at Grauberg (S) (F-5), unequip your weapons and check it for a cutscene.",
+          "description": "Head to the Veridical Conflux at Grauberg (S) (F-5), unequip your weapons and check it for a cutscene..",
+          "dependencies": [
+            "wotg-pillar-of-hope-node-1"
+          ],
+          "location": {
+            "coordinates": "F-5",
+            "zone": "the Veridical Conflux at Grauberg"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-glimmer-of-life",
+      "title": "Glimmer of Life",
+      "number": "44",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Glimmer_of_Life",
+      "nodes": [
+        {
+          "id": "wotg-glimmer-of-life-node-1",
+          "orderIndex": 0,
+          "title": "After the next in-game day, zone, and check the Veridical Conflux in Grauberg (S) again for another cutscene",
+          "description": "After the next in-game day, zone, and check the Veridical Conflux in Grauberg (S) again for another cutscene. Unlike the previous mission, you can check the Veridical Conflux with your weapons equipped.",
+          "dependencies": [],
+          "location": {
+            "zone": "Grauberg"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-time-slips-away",
+      "title": "Time Slips Away",
+      "number": "45",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Time_Slips_Away",
+      "nodes": [
+        {
+          "id": "wotg-time-slips-away-node-1",
+          "orderIndex": 0,
+          "title": "Obtain a Punch Bug.",
+          "description": "Obtain a Punch Bug..",
+          "dependencies": [],
+          "location": {
+            "zone": "a Punch Bug"
+          }
+        },
+        {
+          "id": "wotg-time-slips-away-node-2",
+          "orderIndex": 1,
+          "title": "Return to Grauberg (S) and trade the Punch Bug to the Veridical Conflux for a cutscene and the Bottled Punch Bug.",
+          "description": "Return to Grauberg (S) and trade the Punch Bug to the Veridical Conflux for a cutscene and the Bottled Punch Bug..",
+          "dependencies": [
+            "wotg-time-slips-away-node-1"
+          ],
+          "location": {
+            "zone": "Grauberg"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-when-wills-collide",
+      "title": "When Wills Collide",
+      "number": "46",
+      "url": "https://ffxiclopedia.fandom.com/wiki/When_Wills_Collide",
+      "nodes": [
+        {
+          "id": "wotg-when-wills-collide-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Veridical Conflux at (F-5) in Grauberg (S) to enter the Walk of Echoes.",
+          "description": "Examine the Veridical Conflux at (F-5) in Grauberg (S) to enter the Walk of Echoes..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "F-5",
+            "zone": "Grauberg"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-whispers-of-dawn",
+      "title": "Whispers of Dawn",
+      "number": "47",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Whispers_of_Dawn",
+      "nodes": [
+        {
+          "id": "wotg-whispers-of-dawn-node-1",
+          "orderIndex": 0,
+          "title": "Remove your weapons and shield and check the Veridical Conflux at (F-5) in Grauberg (S) for a cutscene.",
+          "description": "Remove your weapons and shield and check the Veridical Conflux at (F-5) in Grauberg (S) for a cutscene..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "F-5",
+            "zone": "Grauberg"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-fork-in-the-road",
+      "title": "Fork in the Road",
+      "number": "50",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Fork_in_the_Road",
+      "nodes": [
+        {
+          "id": "wotg-fork-in-the-road-node-1",
+          "orderIndex": 0,
+          "title": "You must now collect eight dawndrops",
+          "description": "You must now collect eight dawndrops. They can be collected in any order.",
+          "dependencies": [],
+          "location": {
+            "zone": "any order"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-maiden-of-the-dusk",
+      "title": "Maiden of the Dusk",
+      "number": "51",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Maiden_of_the_Dusk",
+      "nodes": [
+        {
+          "id": "wotg-maiden-of-the-dusk-node-1",
+          "orderIndex": 0,
+          "title": "If you haven't finished Rhapsodies of Vana'diel past Of Light and Darkness, progressing past this mission will block progress until you finish A...",
+          "description": "If you haven't finished Rhapsodies of Vana'diel past Of Light and Darkness, progressing past this mission will block progress until you finish A Forbidden Reunion.",
+          "dependencies": []
+        },
+        {
+          "id": "wotg-maiden-of-the-dusk-node-2",
+          "orderIndex": 1,
+          "title": "Head to Grauberg (S) and check the Veridical Conflux at (F-5) for a cutscene.",
+          "description": "Head to Grauberg (S) and check the Veridical Conflux at (F-5) for a cutscene..",
+          "dependencies": [
+            "wotg-maiden-of-the-dusk-node-1"
+          ],
+          "location": {
+            "coordinates": "F-5",
+            "zone": "Grauberg"
+          }
+        },
+        {
+          "id": "wotg-maiden-of-the-dusk-node-3",
+          "orderIndex": 2,
+          "title": "Check the Ornate Door inside The Walk of Echoes for a cutscene.",
+          "description": "Check the Ornate Door inside The Walk of Echoes for a cutscene..",
+          "dependencies": [
+            "wotg-maiden-of-the-dusk-node-2"
+          ]
+        },
+        {
+          "id": "wotg-maiden-of-the-dusk-node-4",
+          "orderIndex": 3,
+          "title": "Check the Ornate Door again to enter a battlefield against Lady Lilith.",
+          "description": "Check the Ornate Door again to enter a battlefield against Lady Lilith..",
+          "dependencies": [
+            "wotg-maiden-of-the-dusk-node-3"
+          ],
+          "location": {
+            "zone": "to enter a battlefield against Lady Lilith"
+          }
+        },
+        {
+          "id": "wotg-maiden-of-the-dusk-node-5",
+          "orderIndex": 4,
+          "title": "You will lose the Primal Glow upon entry.",
+          "description": "You will lose the Primal Glow upon entry..",
+          "dependencies": [
+            "wotg-maiden-of-the-dusk-node-4"
+          ]
+        },
+        {
+          "id": "wotg-maiden-of-the-dusk-node-6",
+          "orderIndex": 5,
+          "title": "After the fight you will receive a cutscene and the Moonshade Earring.",
+          "description": "After the fight you will receive a cutscene and the Moonshade Earring..",
+          "dependencies": [
+            "wotg-maiden-of-the-dusk-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-where-it-all-began",
+      "title": "Where It All Began",
+      "number": "52",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Where_It_All_Began",
+      "nodes": [
+        {
+          "id": "wotg-where-it-all-began-node-1",
+          "orderIndex": 0,
+          "title": "Return to Southern San d'Oria (S) and check the Door: \"Lion Springs\" at (K-6) for a cutscene and a Wedding Invitation.",
+          "description": "Return to Southern San d'Oria (S) and check the Door: \"Lion Springs\" at (K-6) for a cutscene and a Wedding Invitation..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "K-6",
+            "zone": "Southern San d'Oria"
+          }
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-lest-we-forget",
+      "title": "Lest We Forget",
+      "number": "54",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Lest_We_Forget",
+      "nodes": [
+        {
+          "id": "wotg-lest-we-forget-node-1",
+          "orderIndex": 0,
+          "title": "In Grauberg (S), examine the Veridical Conflux at (F-5) for a cutscene and the option to augment your Moonshade earring.",
+          "description": "In Grauberg (S), examine the Veridical Conflux at (F-5) for a cutscene and the option to augment your Moonshade earring..",
+          "dependencies": [],
+          "location": {
+            "coordinates": "F-5",
+            "zone": "Grauberg"
+          }
+        }
+      ],
+      "gates": []
+    }
+  ]
+}

@@ -10,6 +10,8 @@ import SwiftUI
 struct MissionDetailView: View {
     let mission: Mission
     @Bindable var progressTracker: MissionProgressTracker
+    @State private var selectedImage: MissionImage?
+    @State private var showingImageViewer = false
 
     var body: some View {
         ScrollView {
@@ -63,6 +65,43 @@ struct MissionDetailView: View {
                 }
                 .padding()
 
+                // Images (if any)
+                if let images = mission.images, !images.isEmpty {
+                    ScrollView(.horizontal, showsIndicators: false) {
+                        HStack(spacing: 12) {
+                            ForEach(images.indices, id: \.self) { index in
+                                Button {
+                                    selectedImage = images[index]
+                                    showingImageViewer = true
+                                } label: {
+                                    AsyncImage(url: URL(string: images[index].src)) { phase in
+                                        switch phase {
+                                        case .success(let image):
+                                            image
+                                                .resizable()
+                                                .aspectRatio(contentMode: .fit)
+                                                .frame(height: 200)
+                                                .cornerRadius(8)
+                                        case .failure(_):
+                                            Image(systemName: "photo")
+                                                .frame(width: 200, height: 200)
+                                                .foregroundColor(.gray)
+                                        case .empty:
+                                            ProgressView()
+                                                .frame(width: 200, height: 200)
+                                        @unknown default:
+                                            EmptyView()
+                                        }
+                                    }
+                                }
+                                .buttonStyle(.plain)
+                            }
+                        }
+                        .padding(.horizontal)
+                    }
+                    .frame(height: 220)
+                }
+
                 Divider()
 
                 // Node Steps
@@ -73,6 +112,36 @@ struct MissionDetailView: View {
                         canStart: node.canStart(completedNodeIds: progressTracker.completedNodes)
                     ) {
                         progressTracker.toggleNode(node.id)
+                    }
+                }
+
+                // Rewards (if any)
+                if let rewards = mission.rewards, !rewards.isEmpty {
+                    Divider()
+                        .padding(.horizontal)
+
+                    VStack(alignment: .leading, spacing: 12) {
+                        Text("Rewards")
+                            .font(.headline)
+                            .padding(.horizontal)
+
+                        ForEach(rewards, id: \.name) { reward in
+                            HStack(spacing: 8) {
+                                Image(systemName: "gift.fill")
+                                    .font(.caption)
+                                    .foregroundColor(.yellow)
+
+                                Text(reward.name)
+                                    .font(.subheadline)
+
+                                if let type = reward.type {
+                                    Text("(\(type))")
+                                        .font(.caption)
+                                        .foregroundColor(.secondary)
+                                }
+                            }
+                            .padding(.horizontal)
+                        }
                     }
                 }
 
@@ -93,7 +162,122 @@ struct MissionDetailView: View {
                 }
             }
         }
+        #if os(iOS)
         .navigationBarTitleDisplayMode(.inline)
+        #endif
+        .sheet(isPresented: $showingImageViewer) {
+            if let selectedImage = selectedImage {
+                ImageViewerSheet(image: selectedImage)
+            }
+        }
+    }
+}
+
+struct ImageViewerSheet: View {
+    let image: MissionImage
+    @Environment(\.dismiss) private var dismiss
+
+    var body: some View {
+        NavigationStack {
+            ZoomableImageView(imageURL: URL(string: image.src))
+                .navigationTitle(image.alt.isEmpty ? "Image" : image.alt)
+                .navigationBarTitleDisplayMode(.inline)
+                .toolbar {
+                    ToolbarItem(placement: .confirmationAction) {
+                        Button("Done") {
+                            dismiss()
+                        }
+                    }
+                }
+        }
+    }
+}
+
+struct ZoomableImageView: View {
+    let imageURL: URL?
+    @State private var scale: CGFloat = 1.0
+    @State private var lastScale: CGFloat = 1.0
+    @State private var offset: CGSize = .zero
+    @State private var lastOffset: CGSize = .zero
+
+    var body: some View {
+        GeometryReader { geometry in
+            ScrollView([.horizontal, .vertical], showsIndicators: false) {
+                AsyncImage(url: imageURL) { phase in
+                    switch phase {
+                    case .success(let image):
+                        image
+                            .resizable()
+                            .aspectRatio(contentMode: .fit)
+                            .frame(maxWidth: .infinity, maxHeight: .infinity)
+                            .scaleEffect(scale)
+                            .offset(offset)
+                            .gesture(
+                                MagnificationGesture()
+                                    .onChanged { value in
+                                        scale = lastScale * value
+                                    }
+                                    .onEnded { _ in
+                                        lastScale = scale
+                                        if scale < 1 {
+                                            withAnimation {
+                                                scale = 1
+                                                lastScale = 1
+                                                offset = .zero
+                                                lastOffset = .zero
+                                            }
+                                        } else if scale > 5 {
+                                            withAnimation {
+                                                scale = 5
+                                                lastScale = 5
+                                            }
+                                        }
+                                    }
+                            )
+                            .gesture(
+                                DragGesture()
+                                    .onChanged { value in
+                                        offset = CGSize(
+                                            width: lastOffset.width + value.translation.width,
+                                            height: lastOffset.height + value.translation.height
+                                        )
+                                    }
+                                    .onEnded { _ in
+                                        lastOffset = offset
+                                    }
+                            )
+                            .onTapGesture(count: 2) {
+                                withAnimation {
+                                    if scale > 1 {
+                                        scale = 1
+                                        lastScale = 1
+                                        offset = .zero
+                                        lastOffset = .zero
+                                    } else {
+                                        scale = 2
+                                        lastScale = 2
+                                    }
+                                }
+                            }
+                    case .failure(_):
+                        VStack {
+                            Image(systemName: "photo")
+                                .font(.largeTitle)
+                                .foregroundColor(.gray)
+                            Text("Failed to load image")
+                                .foregroundColor(.secondary)
+                        }
+                        .frame(maxWidth: .infinity, maxHeight: .infinity)
+                    case .empty:
+                        ProgressView()
+                            .frame(maxWidth: .infinity, maxHeight: .infinity)
+                    @unknown default:
+                        EmptyView()
+                    }
+                }
+                .frame(minWidth: geometry.size.width, minHeight: geometry.size.height)
+            }
+        }
     }
 }
 
@@ -250,9 +434,13 @@ struct GateView: View {
                         )
                     )
                 ],
-                gates: []
+                gates: [],
+                htmlFile: nil,
+                images: nil,
+                nation: nil,
+                rewards: nil
             ),
-            progressTracker: MissionProgressTracker()
+            progressTracker: MissionProgressTracker(characterManager: CharacterManager())
         )
     }
 }

@@ -1,0 +1,3425 @@
+{
+  "id": "ffxiclopedia-crystal-war-quests",
+  "name": "FFXIclopedia - Crystal War Quests",
+  "category": "quest",
+  "source": "FFXIclopedia",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Crystal_War_Quests",
+  "lastScraped": "2025-12-29T17:29:38.279Z",
+  "lastKnownUpdate": "2025-12-29T17:29:38.279Z",
+  "totalMissions": 71,
+  "missions": [
+    {
+      "id": "ffxiclopedia-crystal-war-quests-champion-of-the-dawn",
+      "title": "Champion of the Dawn",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Champion_of_the_Dawn",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-champion-of-the-dawn-node-1",
+          "orderIndex": 0,
+          "title": "Enter Walk of Echoes from any entrance for a cutscene that begins the quest.",
+          "description": "Enter Walk of Echoes from any entrance for a cutscene that begins the quest. i.e. Can receive CS upon entering via Xarcabard (S) conflux.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-champion-of-the-dawn-node-2",
+          "orderIndex": 1,
+          "title": "Obtain a Breath of dawn from the unnamed target at East Ronfaure (S) (H-7) (upper left corner).",
+          "description": "Obtain a Breath of dawn from the unnamed target at East Ronfaure (S) (H-7) (upper left corner).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-champion-of-the-dawn-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-champion-of-the-dawn-node-3",
+          "orderIndex": 2,
+          "title": "Obtain a Breath of dawn at Jugner Forest (S) (I-6) (west edge of square, near river & stump).",
+          "description": "Obtain a Breath of dawn at Jugner Forest (S) (I-6) (west edge of square, near river & stump).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-champion-of-the-dawn-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-champion-of-the-dawn-node-4",
+          "orderIndex": 3,
+          "title": "Obtain a Breath of dawn at Beaucedine Glacier (S) (H-9) (bottom of ramp leading to Campaign NPC).",
+          "description": "Obtain a Breath of dawn at Beaucedine Glacier (S) (H-9) (bottom of ramp leading to Campaign NPC).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-champion-of-the-dawn-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-champion-of-the-dawn-node-5",
+          "orderIndex": 4,
+          "title": "The positions are the same where you get the Dawn drops.",
+          "description": "The positions are the same where you get the Dawn drops",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-champion-of-the-dawn-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-champion-of-the-dawn-node-6",
+          "orderIndex": 5,
+          "title": "Enter Walk of Echoes from Grauberg (S) at (F-5) or you can use your Lightsworm at any of the glowing",
+          "description": "Enter Walk of Echoes from Grauberg (S) at (F-5) or you can use your Lightsworm at any of the glowing ??? near the Maws to be teleported to Walk of Echoes.and examine the Ornate Door for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-champion-of-the-dawn-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-champion-of-the-dawn-node-7",
+          "orderIndex": 6,
+          "title": "Reexamine the door for another cutscene.",
+          "description": "Reexamine the door for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-champion-of-the-dawn-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-champion-of-the-dawn-node-8",
+          "orderIndex": 7,
+          "title": "Examine the door a third time to battle Cait Sith (NM).",
+          "description": "Examine the door a third time to battle Cait Sith (NM).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-champion-of-the-dawn-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-champion-of-the-dawn-node-9",
+          "orderIndex": 8,
+          "title": "After defeating Cait Sith, you will choose your reward and finish the quest.",
+          "description": "After defeating Cait Sith, you will choose your reward and finish the quest.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-champion-of-the-dawn-node-8"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-chasing-shadows",
+      "title": "Chasing Shadows",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Chasing_Shadows",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-chasing-shadows-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Rongelouts N Distaud in Southern San d'Oria (S) at (I-9) for a cutscene.",
+          "description": "Speak with Rongelouts N Distaud in Southern San d'Oria (S) at (I-9) for a cutscene. If you have just completed Blood of Heroes, you must wait until next Vana'diel day.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-chasing-shadows-node-2",
+          "orderIndex": 1,
+          "title": "Zone into Xarcabard (S) from Beaucedine Glacier (S) for a cutscene.",
+          "description": "Zone into Xarcabard (S) from Beaucedine Glacier (S) for a cutscene. The cutscene does not activate if you use the Xarcabard (S) Home Point. Beaucedine Glacier (S) Survival Guide will Warp you close to the zoning point.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-chasing-shadows-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-chasing-shadows-node-3",
+          "orderIndex": 2,
+          "title": "Check the Backfilled Pit at (F-8) for a cutscene.",
+          "description": "Check the Backfilled Pit at (F-8) for a cutscene. It is located down the ramp as far south and staying to the left as far as you can go - it's at the bottom of the cliff.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-chasing-shadows-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-chasing-shadows-node-4",
+          "orderIndex": 3,
+          "title": "Check the Compact Footprint at south (H-8), along the line with (H-9) for a cutscene.",
+          "description": "Check the Compact Footprint at south (H-8), along the line with (H-9) for a cutscene. To find it, use the rock formation Sleiney, C.A. is backed against - head in a northerly direction keeping that same rock formation on your immediate left; stop at the very bottom of grid (H-8). The Compact Footprint is on left next to same rock formation. Look at the map for a detailed position.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-chasing-shadows-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-chasing-shadows-node-5",
+          "orderIndex": 4,
+          "title": "Check the Sunken Footprint at (H-6)/(H-7) for a cutscene.",
+          "description": "Check the Sunken Footprint at (H-6)/(H-7) for a cutscene. It is north and slightly west of the top end of the ramp, hidden among some trees that are butted up against the cliff face.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-chasing-shadows-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-chasing-shadows-node-6",
+          "orderIndex": 5,
+          "title": "Check the Compact Footprint at (H-8) again for another cutscene.",
+          "description": "Check the Compact Footprint at (H-8) again for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-chasing-shadows-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-chasing-shadows-node-7",
+          "orderIndex": 6,
+          "title": "Zone into Batallia Downs (S) from Beaucedine Glacier (S) for a cutscene.",
+          "description": "Zone into Batallia Downs (S) from Beaucedine Glacier (S) for a cutscene. The cutscene does not activate if you use the Batallia Downs (S) Survival Guide. However, it could be easier to warp to that Survival Guide, zoning into Beaucedine Glacier (S), then turning right around and returning to Batallia Downs (S).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-chasing-shadows-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-chasing-shadows-node-8",
+          "orderIndex": 7,
+          "title": "Check the Fresh Snowmelt near the Cavernous Maw at (H-5) for a cutscene.",
+          "description": "Check the Fresh Snowmelt near the Cavernous Maw at (H-5) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-chasing-shadows-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-chasing-shadows-node-9",
+          "orderIndex": 8,
+          "title": "Touch the Fresh Snowmelt again to begin the battle against the humanoid automaton Menechme.",
+          "description": "Touch the Fresh Snowmelt again to begin the battle against the humanoid automaton Menechme. Excenmille will join you for this battle. Anyone can help with this battle, regardless of current completion status of the San d'Oria (S) quest storyline or campaign allegiance. If you join a party with someone who already has Confrontation status or if you lose the fight, you must wait one game day for another attempt.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-chasing-shadows-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-chasing-shadows-node-10",
+          "orderIndex": 9,
+          "title": "Make sure you have an inventory slot free, and click on the Fresh Snowmelt again following the battl",
+          "description": "Make sure you have an inventory slot free, and click on the Fresh Snowmelt again following the battle for another cutscene and your reward. If you don't have space for the Darksteel Sheet, you'll have to return to watch the cutscene again.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-chasing-shadows-node-9"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-claws-of-the-griffon",
+      "title": "Claws of the Griffon",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Claws_of_the_Griffon",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-claws-of-the-griffon-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Rholont at (E-7) to trigger a cutscene.",
+          "description": "Talk to Rholont at (E-7) to trigger a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-claws-of-the-griffon-node-2",
+          "orderIndex": 1,
+          "title": "Zone out of the area and talk to Rholont again.",
+          "description": "Zone out of the area and talk to Rholont again.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-claws-of-the-griffon-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-claws-of-the-griffon-node-3",
+          "orderIndex": 2,
+          "title": "Zone into Jugner Forest (S) via East Ronfaure (S) (J-11) to trigger a cutscene (can be done while on",
+          "description": "Zone into Jugner Forest (S) via East Ronfaure (S) (J-11) to trigger a cutscene (can be done while on a Chocobo or Mount). Zoning into Jugner Forest (S) by other routes will not trigger cutscene. The Survival Guide right at the East Ronfaure (S) zone line is the fastest option.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-claws-of-the-griffon-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-crystal-guardian",
+      "title": "Crystal Guardian",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crystal_Guardian",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-crystal-guardian-node-1",
+          "orderIndex": 0,
+          "title": "With the three key item petrifacts in possession from the previous quest, examine the Provenance Pro",
+          "description": "With the three key item petrifacts in possession from the previous quest, examine the Provenance Protocrystal in Provenance to engage and defeat Provenance Watcher. Every alliance member needs all three key item petrifacts to participate, and they are lost on entry.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-crystal-guardian-node-2",
+          "orderIndex": 1,
+          "title": "Check the Regal Pawprints upon victory.",
+          "description": "Check the Regal Pawprints upon victory.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-crystal-guardian-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-downward-helix",
+      "title": "Downward Helix",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Downward_Helix",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-downward-helix-node-1",
+          "orderIndex": 0,
+          "title": "Zone and wait until next game day after completing On Sabbatical, then go to The Eldieme Necropolis ",
+          "description": "Zone and wait until next game day after completing On Sabbatical, then go to The Eldieme Necropolis (S) (J-8) and talk to Erlene, who sends you to Southern San d'Oria (S) to gather information from a council.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-drafted-by-the-duchy",
+      "title": "Drafted by the Duchy",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Drafted_by_the_Duchy",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-drafted-by-the-duchy-node-1",
+          "orderIndex": 0,
+          "title": "Note: ensure that you have completed the starter cities and received the Voidwatch Alarum from Guard",
+          "description": "Note: ensure that you have completed the starter cities and received the Voidwatch Alarum from Guardian of the Void; otherwise you cannot begin this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-drafted-by-the-duchy-node-2",
+          "orderIndex": 1,
+          "title": "Travel to Ru'Lude Gardens and examine the Door:Audience Chamber (H-6/H-7) for a cutscene.",
+          "description": "Travel to Ru'Lude Gardens and examine the Door:Audience Chamber (H-6/H-7) for a cutscene. Or travel to the Bulwark Gate in Sauromugue Champaign (S) at (E-6) for the same cutscene. After either cutscene ends you will obtain your White Stratum Abyssite and Voidwatcher's Emblem: Jeuno",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-drafted-by-the-duchy-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-drafted-by-the-duchy-node-3",
+          "orderIndex": 2,
+          "title": "The quest Battle on a New Front is now flagged automatically.",
+          "description": "The quest Battle on a New Front is now flagged automatically.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-drafted-by-the-duchy-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-endings-and-beginnings",
+      "title": "Endings and Beginnings",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Endings_and_Beginnings",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-endings-and-beginnings-node-1",
+          "orderIndex": 0,
+          "title": "Exit Provenance back to Walk of Echoes for the final cutscene.",
+          "description": "Exit Provenance back to Walk of Echoes for the final cutscene.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-evil-at-the-inlet",
+      "title": "Evil at the Inlet",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Evil_at_the_Inlet",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-evil-at-the-inlet-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Rodeupansat at (J-7) of Crawlers' Nest (S) to receive an Evil Warding Seal.",
+          "description": "Talk to Rodeupansat at (J-7) of Crawlers' Nest (S) to receive an Evil Warding Seal. He is easily located by teleporting via Campaign Arbiter to Crawlers' Nest (S) and then going through the north pathway at I-9/I-8 of the the center room. From the main entrance, head south at Tucker and run through the brewery, taking the north-eastern most path. Behind the Wooden Gate you will find Rodeupansat. Make sure that you have a valid Brass Ribbon of Service, and that it has not expired, otherwise the NPC will not allow you to start the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-evil-at-the-inlet-node-2",
+          "orderIndex": 1,
+          "title": "Go to the tower in Vunkerl Inlet (S) at (D-11) and click on the ??? on the back side on a boarded up",
+          "description": "Go to the tower in Vunkerl Inlet (S) at (D-11) and click on the ??? on the back side on a boarded up window. Watch out for Ignis Djinn, which aggro both sight and magic. If you are soloing this quest and the ??? is surrounded by djinn (it is likely to be), do your best to examine the ??? as soon as possible. If you get aggro, examining the ??? will de-aggro the djinn.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-evil-at-the-inlet-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-evil-at-the-inlet-node-3",
+          "orderIndex": 2,
+          "title": "When you check the ???, the seal will be \"lost\".",
+          "description": "When you check the ???, the seal will be \"lost\".",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-evil-at-the-inlet-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-evil-at-the-inlet-node-4",
+          "orderIndex": 3,
+          "title": "Return to Rodeupansat in Crawlers' Nest (S) to complete the quest.",
+          "description": "Return to Rodeupansat in Crawlers' Nest (S) to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-evil-at-the-inlet-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-face-of-the-future",
+      "title": "Face of the Future",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Face_of_the_Future",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-face-of-the-future-node-1",
+          "orderIndex": 0,
+          "title": "This quest begins immediately following Chasing Shadows where you were transported to present day Ba",
+          "description": "This quest begins immediately following Chasing Shadows where you were transported to present day Batallia Downs.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-face-of-the-future-node-2",
+          "orderIndex": 1,
+          "title": "Zone into Jugner Forest from Batallia Downs for a cutscene.",
+          "description": "Zone into Jugner Forest from Batallia Downs for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-face-of-the-future-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-face-of-the-future-node-3",
+          "orderIndex": 2,
+          "title": "Click on the Metallic Hodgepodge at (F-9)/(G-9) (nearly in the middle of the (F-9)/(G-9) line) for a",
+          "description": "Click on the Metallic Hodgepodge at (F-9)/(G-9) (nearly in the middle of the (F-9)/(G-9) line) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-face-of-the-future-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-face-of-the-future-node-4",
+          "orderIndex": 3,
+          "title": "Zone into Ghelsba Outpost for a cutscene, where you will receive Orcish infiltration kit.",
+          "description": "Zone into Ghelsba Outpost for a cutscene, where you will receive Orcish infiltration kit. Fort Ghelsba Survival Guide is the fastest.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-face-of-the-future-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-face-of-the-future-node-5",
+          "orderIndex": 4,
+          "title": "Proceed to (G-9) on Map 1 of Yughott Grotto and click on the Scrape Mark for a cutscene.",
+          "description": "Proceed to (G-9) on Map 1 of Yughott Grotto and click on the Scrape Mark for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-face-of-the-future-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-face-of-the-future-node-6",
+          "orderIndex": 5,
+          "title": "When ready for battle, have party leader examine Scrape Mark again to gain entrance.",
+          "description": "When ready for battle, have party leader examine Scrape Mark again to gain entrance. Your party will be transported to Everbloom Hollow. This battle is trivial at Item Level. (see testimonials) If you fail the fight, then you must obtain a new Orcish infiltration kit by clicking the Clandestine Markings at (I-10) on Map 1 of Ghelsba Outpost. This can only be done once per game day.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-face-of-the-future-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-face-of-the-future-node-7",
+          "orderIndex": 6,
+          "title": "After the BCNM you will receive a cutscene and exit at the Ghelsba Outpost zone.",
+          "description": "After the BCNM you will receive a cutscene and exit at the Ghelsba Outpost zone.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-face-of-the-future-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-face-of-the-future-node-8",
+          "orderIndex": 7,
+          "title": "Proceed to the Cavernous Maw at (H-5) of Batallia Downs and examine it for a cutscene (you must have",
+          "description": "Proceed to the Cavernous Maw at (H-5) of Batallia Downs and examine it for a cutscene (you must have visited and unlocked the maw from Batallia Downs (S) in order to get this cs).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-face-of-the-future-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-face-of-the-future-node-9",
+          "orderIndex": 8,
+          "title": "After the cutscene you will be placed in Batallia Downs (S) and receive your final reward.",
+          "description": "After the cutscene you will be placed in Batallia Downs (S) and receive your final reward. If you have a full inventory at the time of the final cutscene, you will be prompted to examine a ??? near the maw in Batallia Downs (S) after sorting your inventory to receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-face-of-the-future-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-face-of-the-future-node-10",
+          "orderIndex": 9,
+          "title": "Now able to collect: With the Bundle of half-inscribed scrolls, speak to Rholont in Southern San d'O",
+          "description": "Now able to collect: With the Bundle of half-inscribed scrolls, speak to Rholont in Southern San d'Oria (S) (E-7) after completing the quest Face of the Future for a cutscene and to learn Trust: Excenmille (S).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-face-of-the-future-node-9"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-fire-in-the-hole",
+      "title": "Fire in the Hole",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Fire_in_the_Hole",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-fire-in-the-hole-node-1",
+          "orderIndex": 0,
+          "title": "Check the Stonehoused Adit at northern part of (E-9) in North Gustaberg (S) for a cutscene.",
+          "description": "Check the Stonehoused Adit at northern part of (E-9) in North Gustaberg (S) for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-fire-in-the-hole-node-2",
+          "orderIndex": 1,
+          "title": "Have your party leader check the Stonehoused Adit again and select the Fire in the Hole objective.",
+          "description": "Have your party leader check the Stonehoused Adit again and select the Fire in the Hole objective. If you lose the battle, talk to Solitary Ant standing in North Gustaberg (S) (J-9) (right outside Bastok Markets (S)) for a new Silvermine Key. You also must zone and wait until next game day to get another key.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-fire-in-the-hole-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-fires-of-discontent",
+      "title": "Fires of Discontent",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Fires_of_Discontent",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-fires-of-discontent-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Engelhart at (K-10) Bastok Markets (S) .",
+          "description": "Talk to Engelhart at (K-10) Bastok Markets (S) . You will need to zone and wait until the game day changes (0:00) in order to receive this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-fires-of-discontent-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Pagdako at (H-9) Bastok Markets (S).",
+          "description": "Talk to Pagdako at (H-9) Bastok Markets (S).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-fires-of-discontent-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-fires-of-discontent-node-3",
+          "orderIndex": 2,
+          "title": "Return to Present Time Vana'diel and go talk to Iron Eater (J-8) at the Metalworks in front of the \"",
+          "description": "Return to Present Time Vana'diel and go talk to Iron Eater (J-8) at the Metalworks in front of the \"President's Office.\" Ensure that Iron Eater gives you dialogue related to this quest.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-fires-of-discontent-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-fires-of-discontent-node-4",
+          "orderIndex": 3,
+          "title": "Return to the past and go back to Bastok Markets (S) and speak with Engelhart at (K-10).",
+          "description": "Return to the past and go back to Bastok Markets (S) and speak with Engelhart at (K-10). Note: Engelhart is not present when Campaign Battle is happening inside Bastok Markets (S).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-fires-of-discontent-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-fires-of-discontent-node-5",
+          "orderIndex": 4,
+          "title": "Make your way to Grauberg (S), and inside a cave at NW corner of (I-6) there's a ???.",
+          "description": "Make your way to Grauberg (S), and inside a cave at NW corner of (I-6) there's a ???. Check it for cutscene. The entrance to the cave is at the southeast corner of (H-5). Be aware that you will need Sneak and Invis here, as there may be Chigoes present. The Grauberg (S) Survival Guide is closest. Otherwise, riding a Chocobo from Pashhow Marshlands (S), or at the very least Bastok Markets (S), will make the trek safer as there are Peiste near the entrance to the cave. You can also ride a Mount to safely get to the cave.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-fires-of-discontent-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-fires-of-discontent-node-6",
+          "orderIndex": 5,
+          "title": "After the cutscene, return to Bastok Markets (S) and speak with Engelhart (K-10) once again.",
+          "description": "After the cutscene, return to Bastok Markets (S) and speak with Engelhart (K-10) once again. (For Optional extra dialogue, talk to Pagdako before talking to Engelhart.)",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-fires-of-discontent-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-fires-of-discontent-node-7",
+          "orderIndex": 6,
+          "title": "Talk to Gentle Tiger (H-6) in front of the Metalworks (S).",
+          "description": "Talk to Gentle Tiger (H-6) in front of the Metalworks (S). Note: If you are currently on the Scholar AF quest, On Sabbatical, you will be unable to get this cutscene until you complete that quest.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-fires-of-discontent-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-fires-of-discontent-node-8",
+          "orderIndex": 7,
+          "title": "Talk to Engelhart (K-10) again for your last cutscene, and your reward of 10,000 gil.",
+          "description": "Talk to Engelhart (K-10) again for your last cutscene, and your reward of 10,000 gil.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-fires-of-discontent-node-7"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-gifts-of-the-griffon",
+      "title": "Gifts of the Griffon",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gifts_of_the_Griffon",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-gifts-of-the-griffon-node-1",
+          "orderIndex": 0,
+          "title": "Note: To start the next quest Claws of the Griffon requires waiting one Vana'diel day after finishin",
+          "description": "Note: To start the next quest Claws of the Griffon requires waiting one Vana'diel day after finishing this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-gifts-of-the-griffon-node-2",
+          "orderIndex": 1,
+          "title": "Go west past the Portcullis to talk to Louxiard in Watchdog Alley (G-7) Southern San d'Oria (S) for ",
+          "description": "Go west past the Portcullis to talk to Louxiard in Watchdog Alley (G-7) Southern San d'Oria (S) for a cutscene. Note: You may choose either option during the cutscene. It will not affect the outcome. However, the quest will not proceed until you select the first option.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-gifts-of-the-griffon-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-glimmer-of-hope",
+      "title": "Glimmer of Hope",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Glimmer_of_Hope",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-glimmer-of-hope-node-1",
+          "orderIndex": 0,
+          "title": "With at least one Voidstone in possession, proceed to the Veridical Conflux in Pashhow Marshlands (S",
+          "description": "With at least one Voidstone in possession, proceed to the Veridical Conflux in Pashhow Marshlands (S) to warp to Walk of Echoes.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-glimmer-of-hope-node-2",
+          "orderIndex": 1,
+          "title": "Once inside, click the ??? glimmer at the entrance for a cutscene in which your Voidstone is exchang",
+          "description": "Once inside, click the ??? glimmer at the entrance for a cutscene in which your Voidstone is exchanged for a Kupofried's corundum. This quest is now complete, and Brace for the Unknown begins.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-glimmer-of-hope-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-guardian-of-the-void",
+      "title": "Guardian of the Void",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Guardian_of_the_Void",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-guardian-of-the-void-node-1",
+          "orderIndex": 0,
+          "title": "After meeting the prerequisites above, check the Veridical Conflux at Pashhow Marshlands (S) (J-9) (",
+          "description": "After meeting the prerequisites above, check the Veridical Conflux at Pashhow Marshlands (S) (J-9) (near the Pashhow gate crystal) for a cutscene. The quest is flagged at this point.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-guardian-of-the-void-node-2",
+          "orderIndex": 1,
+          "title": "Speak with any ONE of the Voidwatch Officers at either Southern San d'Oria (F-9), Southern San d'Ori",
+          "description": "Speak with any ONE of the Voidwatch Officers at either Southern San d'Oria (F-9), Southern San d'Oria (S) (L-9), Bastok Markets (D-11), Bastok Markets (S) (G-5), Windurst Waters (G-5), or Windurst Waters (S) (G-5) to receive a Voidwatch Alarum.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-guardian-of-the-void-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-guardian-of-the-void-node-3",
+          "orderIndex": 2,
+          "title": "After the cutscene the quest Drafted by the Duchy is now flagged.",
+          "description": "After the cutscene the quest Drafted by the Duchy is now flagged.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-guardian-of-the-void-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-hammering-hearts",
+      "title": "Hammering Hearts",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Hammering_Hearts",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-hammering-hearts-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Scarred Shark in Bastok Markets (S) at (G-5) for a cutscene.",
+          "description": "Talk to Scarred Shark in Bastok Markets (S) at (G-5) for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-hammering-hearts-node-2",
+          "orderIndex": 1,
+          "title": "Trade a Heavy Quadav Backplate and a Heavy Quadav Chestplate to Scarred Shark.",
+          "description": "Trade a Heavy Quadav Backplate and a Heavy Quadav Chestplate to Scarred Shark.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-hammering-hearts-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-hammering-hearts-node-3",
+          "orderIndex": 2,
+          "title": "Zone, then talk to Scarred Shark again for a final cutscene and your reward.",
+          "description": "Zone, then talk to Scarred Shark again for a final cutscene and your reward.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-hammering-hearts-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-healing-herbs",
+      "title": "Healing Herbs",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Healing_Herbs",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-healing-herbs-node-1",
+          "orderIndex": 0,
+          "title": "Travel to Windurst Waters (S) and examine the left Rhinostery door at J-8 (south section) for a cut ",
+          "description": "Travel to Windurst Waters (S) and examine the left Rhinostery door at J-8 (south section) for a cut scene. Note: Make sure to examine the Left door, examining the right door will trigger a quest called The Lost Book.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-healing-herbs-node-2",
+          "orderIndex": 1,
+          "title": "Go to present day Windurst Waters (J-8, south part) and approach the Rhinostery Door, this will trig",
+          "description": "Go to present day Windurst Waters (J-8, south part) and approach the Rhinostery Door, this will trigger a cut scene with Maju-Naju and Selenana. After the cut scene, you will receive \"The Healing Herb\" key item.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-healing-herbs-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-healing-herbs-node-3",
+          "orderIndex": 2,
+          "title": "Go back to Windurst Waters (S) and..",
+          "description": "Go back to Windurst Waters (S) and... check the Left Rhinostery Door for another cut scene. check the Rhinostery Door a second time to trigger a second cut scene, with Maju-Naju and Dantie-Corantie.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-healing-herbs-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-healing-herbs-node-4",
+          "orderIndex": 3,
+          "title": "Go to (H-13) at Grauberg (S) and examine the ??? to receive a Fireblossom.",
+          "description": "Go to (H-13) at Grauberg (S) and examine the ??? to receive a Fireblossom. ??? is located near the center of (H-13) easily accessed via the Grauberg (S) zone to/from North Gustaberg (S)",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-healing-herbs-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-healing-herbs-node-5",
+          "orderIndex": 4,
+          "title": "Return to the Rhinostery Door in Windurst Waters (S) for a cut scene.",
+          "description": "Return to the Rhinostery Door in Windurst Waters (S) for a cut scene. Wait one Vana'diel day you will get a second cut scene. (You don't have to wait a full RL Hour, or Full day. Just wait until the Clock hits 00:00) Wait another day for a third cut scene where Maju-Naju will give you back \"The Healing Herb\" and a Tincture as a reward.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-healing-herbs-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-her-memories-azure-footfalls",
+      "title": "Her Memories: Azure Footfalls",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Her_Memories:_Azure_Footfalls",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-azure-footfalls-node-1",
+          "orderIndex": 0,
+          "title": "Zone into Bastok Markets (S) from North Gustaberg (S) for a cutscene.",
+          "description": "Zone into Bastok Markets (S) from North Gustaberg (S) for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-azure-footfalls-node-2",
+          "orderIndex": 1,
+          "title": "Speak with Adelbrecht at (E-8) in Bastok Markets (S).",
+          "description": "Speak with Adelbrecht at (E-8) in Bastok Markets (S).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-azure-footfalls-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-azure-footfalls-node-3",
+          "orderIndex": 2,
+          "title": "Go to North Gustaberg (S) and head to the Eduard Watchtower at (I-6) on Zegham Hill and speak with G",
+          "description": "Go to North Gustaberg (S) and head to the Eduard Watchtower at (I-6) on Zegham Hill and speak with Gebhardt. Gebhardt is on the north side on the second level of the hill",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-azure-footfalls-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-azure-footfalls-node-4",
+          "orderIndex": 3,
+          "title": "Speak with Roderich at the Benedikt Watchtower in North Gustaberg (S) (E-11).",
+          "description": "Speak with Roderich at the Benedikt Watchtower in North Gustaberg (S) (E-11). The Campaign Arbiter will warp you in just a little west of Roderich if you are coming from a city.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-azure-footfalls-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-azure-footfalls-node-5",
+          "orderIndex": 4,
+          "title": "Check the Barricade in the NW corner of (E-7).",
+          "description": "Check the Barricade in the NW corner of (E-7).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-azure-footfalls-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-azure-footfalls-node-6",
+          "orderIndex": 5,
+          "title": "Return to Bastok Markets (S) and speak with Adelbrecht to complete the quest and receive your next m",
+          "description": "Return to Bastok Markets (S) and speak with Adelbrecht to complete the quest and receive your next memory fragment.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-azure-footfalls-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-her-memories-carnelian-footfalls",
+      "title": "Her Memories: Carnelian Footfalls",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Her_Memories:_Carnelian_Footfalls",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-carnelian-footfalls-node-1",
+          "orderIndex": 0,
+          "title": "Zone into Southern San d'Oria (S) from East Ronfaure (S) for a cutscene,.",
+          "description": "Zone into Southern San d'Oria (S) from East Ronfaure (S) for a cutscene,",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-carnelian-footfalls-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Mainchelite at (I-9) for a cutscene to begin the quest.",
+          "description": "Talk to Mainchelite at (I-9) for a cutscene to begin the quest.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-carnelian-footfalls-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-carnelian-footfalls-node-3",
+          "orderIndex": 2,
+          "title": "Zone out into East Ronfaure (S) for a cutscene (won't work while on chocobo).",
+          "description": "Zone out into East Ronfaure (S) for a cutscene (won't work while on chocobo).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-carnelian-footfalls-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-carnelian-footfalls-node-4",
+          "orderIndex": 3,
+          "title": "Examine three ??? for cutscenes at these locations (Same ones from the Steamed Rams Quest): (J-7) no",
+          "description": "Examine three ??? for cutscenes at these locations (Same ones from the Steamed Rams Quest): (J-7) north-western corner of grid, in a small shrub (I-8) at the base of one of the waterfalls on the river (NW section of I-8) (H-8) in a crater on the northern side of the Fortification Tower",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-carnelian-footfalls-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-carnelian-footfalls-node-5",
+          "orderIndex": 4,
+          "title": "Return to Mainchelite for a cutscene and a memory fragment.",
+          "description": "Return to Mainchelite for a cutscene and a memory fragment.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-carnelian-footfalls-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-her-memories-grave-resolve",
+      "title": "Her Memories: Grave Resolve",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Her_Memories:_Grave_Resolve",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-grave-resolve-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Halver in the Chateau d'Oraguille at (I-9) for a cutscene.",
+          "description": "Talk to Halver in the Chateau d'Oraguille at (I-9) for a cutscene. You must be on Her Memories: Homecoming Queen to receive this cutscene. Home Point #2 is close to the Chateau.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-grave-resolve-node-2",
+          "orderIndex": 1,
+          "title": "Head to the Weathered Gravestone (just above the main Eldieme entrance) in Batallia Downs at (I-10) ",
+          "description": "Head to the Weathered Gravestone (just above the main Eldieme entrance) in Batallia Downs at (I-10) and trade a Lilac for a cutscene. Afterwards you will receive a memory fragment. Survival Guide in The Eldieme Necropolis is closest. Home Point #1 Upper Jeuno is close to Batallia Downs and Areebah in M & P's Market (H-6) sells Lilac for 120 gil each.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-grave-resolve-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-her-memories-homecoming-queen",
+      "title": "Her Memories: Homecoming Queen",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Her_Memories:_Homecoming_Queen",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-homecoming-queen-node-1",
+          "orderIndex": 0,
+          "title": "Zone into Southern San d'Oria from East Ronfaure for a cutscene.",
+          "description": "Zone into Southern San d'Oria from East Ronfaure for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-homecoming-queen-node-2",
+          "orderIndex": 1,
+          "title": "Complete the quests Her Memories: Grave Resolve, Her Memories: Old Bean and Her Memories: The Faux P",
+          "description": "Complete the quests Her Memories: Grave Resolve, Her Memories: Old Bean and Her Memories: The Faux Pas to finish this.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-homecoming-queen-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-her-memories-of-malign-maladies",
+      "title": "Her Memories: Of Malign Maladies",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Her_Memories:_Of_Malign_Maladies",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-of-malign-maladies-node-1",
+          "orderIndex": 0,
+          "title": "Note: Purchase or procure a Philosopher's stone, it will be needed later.",
+          "description": "Note: Purchase or procure a Philosopher's stone, it will be needed later.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-of-malign-maladies-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Amaura in Southern San d'Oria (G-6) on any job 75+ for a cutscene.",
+          "description": "Talk to Amaura in Southern San d'Oria (G-6) on any job 75+ for a cutscene. Be sure after speaking to her that this quest appears in your log; if undertaking multiple Her Memories quests at once, you may have activated the cutscene for Her Memories: Old Bean and not this quest.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-of-malign-maladies-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-of-malign-maladies-node-3",
+          "orderIndex": 2,
+          "title": "Head to Upper Jeuno and talk to Monberaux inside the Infirmary Monberaux at (G-9) for a cutscene.",
+          "description": "Head to Upper Jeuno and talk to Monberaux inside the Infirmary Monberaux at (G-9) for a cutscene. Home Point #3 is closest.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-of-malign-maladies-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-of-malign-maladies-node-4",
+          "orderIndex": 3,
+          "title": "Head to North Windurst Waters to the East wing of the Optistery at (G-7).",
+          "description": "Head to North Windurst Waters to the East wing of the Optistery at (G-7). Examine the \"Library book\" on the east wall for a cutscene. Home Point #1 is closest",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-of-malign-maladies-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-of-malign-maladies-node-5",
+          "orderIndex": 4,
+          "title": "Head to Grauberg (S) and trade a Philosopher's Stone to the Fey Blossoms at (F-5).",
+          "description": "Head to Grauberg (S) and trade a Philosopher's Stone to the Fey Blossoms at (F-5). You can use lightsworm to avoid walking. Use a Survival Guide to warp to Rolanberry Fields, Batalia Downs, or Sauromugue Champaign and click the glowing ??? point to teleport you to Walk of Echos. Then click the Verdical Conflux to exit to Witchfire Glen in Grauberg (S). Putting you directly next to the Fey Blossoms.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-of-malign-maladies-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-of-malign-maladies-node-6",
+          "orderIndex": 5,
+          "title": "On the next Vana'Diel day, and after zoning, examine the Fey Blossoms (F-5) again to receive the key",
+          "description": "On the next Vana'Diel day, and after zoning, examine the Fey Blossoms (F-5) again to receive the key item: Fey Stone. You can use the same method above for the fastest return.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-of-malign-maladies-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-of-malign-maladies-node-7",
+          "orderIndex": 6,
+          "title": "Head to Southern San d'Oria (S) and talk to Raustigne at (I-7) for a cutscene.",
+          "description": "Head to Southern San d'Oria (S) and talk to Raustigne at (I-7) for a cutscene. After the cutscene you will receive a memory fragment.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-of-malign-maladies-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-her-memories-old-bean",
+      "title": "Her Memories: Old Bean",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Her_Memories:_Old_Bean",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-old-bean-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Thierride in Port San d'Oria at (G-7), inside the Rusty Anchor Pub) for a cutscene.",
+          "description": "Talk to Thierride in Port San d'Oria at (G-7), inside the Rusty Anchor Pub) for a cutscene. You will receive Thierride's bean creation. You must be on Her Memories: Homecoming Queen to receive this cutscene. Home Point #1 is near the Pub.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-old-bean-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Amaura in Southern San d'Oria inside house on Watchdog Alley at (G-6).",
+          "description": "Talk to Amaura in Southern San d'Oria inside house on Watchdog Alley at (G-6). If undertaking multiple Her Memories quests at once, it's recommended you speak to her twice: once so that you can get the appropriate cutscene for this quest, and again so that you can receive the first cutscene for Her Memories: Of Malign Maladies. Home Point #4 is closest.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-old-bean-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-old-bean-node-3",
+          "orderIndex": 2,
+          "title": "Return to Thierride for a cutscene and receive a memory fragment.",
+          "description": "Return to Thierride for a cutscene and receive a memory fragment.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-old-bean-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-her-memories-operation-cupid",
+      "title": "Her Memories: Operation Cupid",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Her_Memories:_Operation_Cupid",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-operation-cupid-node-1",
+          "orderIndex": 0,
+          "title": "Zone into Batallia Downs (S) from Jugner Forest (S) for a cutscene.",
+          "description": "Zone into Batallia Downs (S) from Jugner Forest (S) for a cutscene. Using the Survival Guide in Batallia Downs (S) will put you next to Jugner Forest (S) zone line.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-operation-cupid-node-2",
+          "orderIndex": 1,
+          "title": "Head to the Bulwark Gate (F-6) in Sauromugue Champaign (S) and click it for a cutscene.",
+          "description": "Head to the Bulwark Gate (F-6) in Sauromugue Champaign (S) and click it for a cutscene. Sauromugue Champaign (S) Campaign Arbiter teleport is the fastest. You can use the Survival Guide again, to teleport to Sauromugue Champaign, right next to the Maw to reduce travel time. If you don't have it, you can go through Garlaige Citadel (S), reach the Cavernous Maw and change to Sauromugue Champaign. Also, taking the Survival Guide in Rolanberry Fields , near the Cavernous Maw, change to Rolanberry Fields (S) and run to Sauromugue Champaign (S)",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-operation-cupid-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-operation-cupid-node-3",
+          "orderIndex": 2,
+          "title": "Head to Vunkerl Inlet (S) and trade the Ground Wasabi, Holy Basil, and Rice Vinegar to Leadavox at (",
+          "description": "Head to Vunkerl Inlet (S) and trade the Ground Wasabi, Holy Basil, and Rice Vinegar to Leadavox at (J-6). You will receive the key item: Pot of martial relish. All three items can be purchased from Amalasanda (J-8) behind the Tenshodo door in Lower Jeuno, often for cheaper than Auction House prices.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-operation-cupid-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-operation-cupid-node-4",
+          "orderIndex": 3,
+          "title": "Return to the Bulwark Gate (F-6) in Sauromugue Champaign (S) and check it for a cutscene.",
+          "description": "Return to the Bulwark Gate (F-6) in Sauromugue Champaign (S) and check it for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-operation-cupid-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-operation-cupid-node-5",
+          "orderIndex": 4,
+          "title": "Zone into Batallia Downs (S) from Rolanberry Fields (S) to receive a cutscene and a memory fragment.",
+          "description": "Zone into Batallia Downs (S) from Rolanberry Fields (S) to receive a cutscene and a memory fragment.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-operation-cupid-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-her-memories-the-faux-pas",
+      "title": "Her Memories: The Faux Pas",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Her_Memories:_The_Faux_Pas",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-the-faux-pas-node-1",
+          "orderIndex": 0,
+          "title": "Head to the Cathedral in Northern San d'Oria and talk to Abioleget at (M-7) for a cutscene.",
+          "description": "Head to the Cathedral in Northern San d'Oria and talk to Abioleget at (M-7) for a cutscene. You must be on Her Memories: Homecoming Queen to receive this cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-the-faux-pas-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Bertenont at (E-4) in Northern San d'Oria for a cutscene.",
+          "description": "Talk to Bertenont at (E-4) in Northern San d'Oria for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-the-faux-pas-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-the-faux-pas-node-3",
+          "orderIndex": 2,
+          "title": "After the cutscene ends you will receive a memory fragment.",
+          "description": "After the cutscene ends you will receive a memory fragment.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-the-faux-pas-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-her-memories-verdure-footfalls",
+      "title": "Her Memories: Verdure Footfalls",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Her_Memories:_Verdure_Footfalls",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-verdure-footfalls-node-1",
+          "orderIndex": 0,
+          "title": "Zone into Windurst Waters (S) from West Sarutabaruta (S) for a cutscene.",
+          "description": "Zone into Windurst Waters (S) from West Sarutabaruta (S) for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-verdure-footfalls-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Miah Riyuh in North Windurst Waters (S) at (H-9) for a cutscene.",
+          "description": "Talk to Miah Riyuh in North Windurst Waters (S) at (H-9) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-verdure-footfalls-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-verdure-footfalls-node-3",
+          "orderIndex": 2,
+          "title": "Visit the three towers in West Sarutabaruta (S) at J-8, F-11, and F-4.",
+          "description": "Visit the three towers in West Sarutabaruta (S) at J-8, F-11, and F-4. Touch the Sealed Entrances for a cutscene at each one. You can walk out of Windurst, and get the first tower THEN mount up and grab the tower at (F-11), use a warp scroll and take the survival guide to Sarutabaruta (S) which will put you close to the north tower. Grab a second warp item before you take the Survival guide to the north tower, so you don't have to walk across the zone.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-verdure-footfalls-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-her-memories-verdure-footfalls-node-4",
+          "orderIndex": 3,
+          "title": "Return to Miah Riyuh for your reward.",
+          "description": "Return to Miah Riyuh for your reward.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-her-memories-verdure-footfalls-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-honor-under-fire",
+      "title": "Honor Under Fire",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Honor_Under_Fire",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-honor-under-fire-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Gentle Tiger (S) at the Entrance to Metalworks for a cutscene.",
+          "description": "Talk to Gentle Tiger (S) at the Entrance to Metalworks for a cutscene. It is not necessary to zone or wait one Vana'diel day.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-honor-under-fire-node-2",
+          "orderIndex": 1,
+          "title": "Travel to Vunkerl Inlet (S) and proceed to the bridge at (F-6).",
+          "description": "Travel to Vunkerl Inlet (S) and proceed to the bridge at (F-6). Cross it and click the ??? (which is just across the bridge) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-honor-under-fire-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-honor-under-fire-node-3",
+          "orderIndex": 2,
+          "title": "Examine the Beastman Ensign at (J-7) for another cutscene.",
+          "description": "Examine the Beastman Ensign at (J-7) for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-honor-under-fire-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-honor-under-fire-node-4",
+          "orderIndex": 3,
+          "title": "Return to Gentle Tiger (S) in Bastok Markets (S) to receive a Flare Grenade You may get another Flar",
+          "description": "Return to Gentle Tiger (S) in Bastok Markets (S) to receive a Flare Grenade You may get another Flare Grenade from him if you fail.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-honor-under-fire-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-howl-from-the-heavens",
+      "title": "Howl from the Heavens",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Howl_from_the_Heavens",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-1",
+          "orderIndex": 0,
+          "title": "Wait one game day after completing the previous quest.",
+          "description": "Wait one game day after completing the previous quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-2",
+          "orderIndex": 1,
+          "title": "NOTE: if you do not already have Crest of Davoi, Silver bell, Coruscant rosary, and Black Matinee Ne",
+          "description": "NOTE: if you do not already have Crest of Davoi, Silver bell, Coruscant rosary, and Black Matinee Necklace, you may want to grab them before starting this quest. They are required to complete this quest. Or a friend with these items and the ability to use the spell tractor.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-3",
+          "orderIndex": 2,
+          "title": "Zone into Windurst Waters (S) for a cutscene.",
+          "description": "Zone into Windurst Waters (S) for a cutscene. Must zone in from West Sarutabaruta (S)",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-4",
+          "orderIndex": 3,
+          "title": "Retrieve the following 3 Key Items from the present-day Beastman strongholds in any order: Shard of ",
+          "description": "Retrieve the following 3 Key Items from the present-day Beastman strongholds in any order: Shard of Orastone - Castle Oztroja (Altar Room) The fastest way is to book warp by Survival Guide to Aragoneu, Castle Oztroja. Another option is to use the Proto-waypoint to Castle Oztroja. Travel to Castle Oztroja. Yagudo along the path go up to level 49 and will sight aggro players under level 68 unless they are Invisible. Go through the door at (I-8) to reach Map 3. One lever opens the door, and the other triggers the trapdoor. You will not be able to throw a lever unless you are standing on the trapdoor. The correct lever changes every Vana'diel day. Since there is a significant delay, an easy way to avoid the trap is to throw a lever and then immediately run off of the trapdoor. Enter Map 7 via exit F at (G-7). Enter Map 2 via exit I at (I-7). Light the Yagudo Torch at (H-9/10) to open the Brass Door. Open the Brass Door at (G-10). Continue into Altar Room. Check the Magicite at the end of the hall. Shard of Optistone - Davoi (Monastic Cavern) The fastest way is to book warp by Survival Guide to Norvallen, Davoi. Another option is to use the Proto-waypoint to Davoi. Travel to Davoi. Orcs along the path go up to level 39 and will sight-Aggro to players under level 55 unless they are Invisible. Wolf Bats are level 25-29 and will hearing-Aggro players under level 43 unless they are Sneaked. Disable the Wall of Dark Arts (G-7). Continue into Monastic Cavern. A friend with the Crest of Davoi can Tractor you through the Wall. Check the Magicite at the end of the hall. Shard of Aurastone - Beadeaux (Qulun Dome) The fastest way is to book warp by Survival Guide to Derfland, Beadeaux. Another option is to use the Proto-waypoint to Beadeaux. Travel to Beadeaux. Quadav along the path go up to level 28 and will hearing-Aggro to players under level 42 unless they are Sneaked. Enter Map 2 via exit A at (H-7). Enter Qulun Dome at (I-7). Open the door. If you get the message \"The Silver bell, Coruscant rosary, Black Matinee Necklace, glow faintly.\" then move closer and try again. A friend with the Silver bell, Coruscant rosary, and Black Matinee Necklace can Tractor you through the door. As there are no mobs in Qulun Dome, you will need to use Poison Potions to kill yourself first. Check the Magicite at the end of the hall. (All of these are in the same locations as the Magicite mission. If you are on the Magicite mission, you will receive the respective shard first; clicking on the stone again will lead to the respective cutscene and finally receiving the Magicite.)",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-5",
+          "orderIndex": 4,
+          "title": "Talk to Velda-Galda in Windurst Waters (S) at (K-9) for a cutscene.",
+          "description": "Talk to Velda-Galda in Windurst Waters (S) at (K-9) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-6",
+          "orderIndex": 5,
+          "title": "Zone into West Sarutabaruta (S) for another cutscene.",
+          "description": "Zone into West Sarutabaruta (S) for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-7",
+          "orderIndex": 6,
+          "title": "Check the Windurstian Bulwark at (J-8) right outside the entrance to Windurst Waters (S) for yet ano",
+          "description": "Check the Windurstian Bulwark at (J-8) right outside the entrance to Windurst Waters (S) for yet another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-8",
+          "orderIndex": 7,
+          "title": "When your party/alliance is ready, check the Windurstian Bulwark again to receive the Confrontation ",
+          "description": "When your party/alliance is ready, check the Windurstian Bulwark again to receive the Confrontation triggering an open area fight of several waves.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-9",
+          "orderIndex": 8,
+          "title": "After the battle click on the Windurstian Bulwark for a cutscene.",
+          "description": "After the battle click on the Windurstian Bulwark for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-10",
+          "orderIndex": 9,
+          "title": "Now zone into Windurst Waters (S) for the final cutscene and your reward.",
+          "description": "Now zone into Windurst Waters (S) for the final cutscene and your reward.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-howl-from-the-heavens-node-9"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-in-a-haze-of-glory",
+      "title": "In a Haze of Glory",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/In_a_Haze_of_Glory",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-in-a-haze-of-glory-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Diordinne at (I-6) in Garlaige Citadel (S) on the first map for a cutscene.",
+          "description": "Talk to Diordinne at (I-6) in Garlaige Citadel (S) on the first map for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-in-a-haze-of-glory-node-2",
+          "orderIndex": 1,
+          "title": "After the cutscene you will obtain the Number eight shelter key.",
+          "description": "After the cutscene you will obtain the Number eight shelter key. The quest will appear in your log after receiving the key item.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-in-a-haze-of-glory-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-in-a-haze-of-glory-node-3",
+          "orderIndex": 2,
+          "title": "Head to (H-9) on map 2 (past the mousse in the cave-like area, not where the Yagudo are) and examine",
+          "description": "Head to (H-9) on map 2 (past the mousse in the cave-like area, not where the Yagudo are) and examine the Wooden Crates for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-in-a-haze-of-glory-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-in-a-haze-of-glory-node-4",
+          "orderIndex": 3,
+          "title": "Have the party leader check the Wooden Crates again to enter an assault-type battle.",
+          "description": "Have the party leader check the Wooden Crates again to enter an assault-type battle.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-in-a-haze-of-glory-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-in-a-haze-of-glory-node-5",
+          "orderIndex": 4,
+          "title": "Only the party leader may start the battle.",
+          "description": "Only the party leader may start the battle. Buffs are lost upon entry. Trust are released upon entry but may be re-summoned once inside. You have thirty minutes to defeat the Orcish Turret located at (H-10) to win. Experience points are lost upon death in this battlefield. Only players with the Number eight shelter key or who have previously completed the quest may enter this battlefield. If you fail to complete the objective, you will have to get a new Number eight shelter key from Diordinne. You will have to talk to him and then wait until the next Vana'diel day. Any Reraise is lost upon wipe and ejection from the battlefield.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-in-a-haze-of-glory-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-in-a-haze-of-glory-node-6",
+          "orderIndex": 5,
+          "title": "Upon defeating the battlefield, you will be returned to the Wooden Crates after a lengthy cut scene.",
+          "description": "Upon defeating the battlefield, you will be returned to the Wooden Crates after a lengthy cut scene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-in-a-haze-of-glory-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-in-a-haze-of-glory-node-7",
+          "orderIndex": 6,
+          "title": "Return to Rholont in Southern San d'Oria (S) between 18:00-0:00 to receive the final cutscene.",
+          "description": "Return to Rholont in Southern San d'Oria (S) between 18:00-0:00 to receive the final cutscene. A very brief cutscene with Rholont will take place the first time you return to him outside the timeframe.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-in-a-haze-of-glory-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-knot-quite-there",
+      "title": "Knot Quite There",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Knot_Quite_There",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-knot-quite-there-node-1",
+          "orderIndex": 0,
+          "title": "Go to Windurst Waters (S) (Northern Map) and check the door to the Acolyte Hostel at (K-5) for a cut",
+          "description": "Go to Windurst Waters (S) (Northern Map) and check the door to the Acolyte Hostel at (K-5) for a cutscene. The door is on the ground-level, not on the second floor up.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-knot-quite-there-node-2",
+          "orderIndex": 1,
+          "title": "Next, go to Sauromugue Champaign (S) and examine the Bulwark Gate at the western edge of (F-6) for a",
+          "description": "Next, go to Sauromugue Champaign (S) and examine the Bulwark Gate at the western edge of (F-6) for a cutscene. Note: You may want to obtain the 108-Knot Quipu prior to the cutscene as you will need to return to this point for an additional cutscene with it. Quest cutscene for Drafted by the Duchy will take precedence if both are active. Examination of the Bulwark Gate should continue until cutscene with Koru-Moru is displayed. Optional: Click the Bulwark Gate again for a short cutscene reminding you what to do.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-knot-quite-there-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-knot-quite-there-node-3",
+          "orderIndex": 2,
+          "title": "Obtain a 108-Knot Quipu from the Yagudo of Sauromugue Champaign (S) or nearby the Banishing Gate 2 i",
+          "description": "Obtain a 108-Knot Quipu from the Yagudo of Sauromugue Champaign (S) or nearby the Banishing Gate 2 in Garlaige Citadel (S). These Yagudo are located in forts along the far east wall of Sauromugue Champaign [S]. A ramp up is in the NE corner of (L-8). One such fort is at (L-9). If the area is under Beastmen control, the Yagudo wander outside the forts during a campaign battle and at night. If it is under Allied control, they will only leave the forts during a campaign battle.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-knot-quite-there-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-knot-quite-there-node-4",
+          "orderIndex": 3,
+          "title": "Trade the 108-Knot Quipu to the Bulwark Gate for another cutscene.",
+          "description": "Trade the 108-Knot Quipu to the Bulwark Gate for another cutscene. Optional? Click the Bulwark Gate again for a short cutscene reminding you where to go. Checking the Bulwark Gate above a second time was necessary to get the S. San d'Oria (S) cutscene!",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-knot-quite-there-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-knot-quite-there-node-5",
+          "orderIndex": 4,
+          "title": "Enter Southern San d'Oria (S) from East Ronfaure (S) for a cutscene.",
+          "description": "Enter Southern San d'Oria (S) from East Ronfaure (S) for a cutscene. Note: HP Warp is ineffective for attaining the cutscene as well. Note: The cutscene for The Queen of the Dance will take precedence over this one. If you get the scene about the dance troupes, leave and re-enter Southern San d'Oria (S) to receive the correct scene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-knot-quite-there-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-knot-quite-there-node-6",
+          "orderIndex": 5,
+          "title": "Check the door of the house at (M-8) of Southern San d'Oria (S) for the final cutscene and to receiv",
+          "description": "Check the door of the house at (M-8) of Southern San d'Oria (S) for the final cutscene and to receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-knot-quite-there-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-light-in-the-darkness",
+      "title": "Light in the Darkness",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Light_in_the_Darkness",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-light-in-the-darkness-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Gentle Tiger at (H-6).",
+          "description": "Talk to Gentle Tiger at (H-6). You will need to change area and wait until the next day (game time) after completing the previous quest. Some players also report having to wait until Japanese midnight before this cutscene triggered.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-light-in-the-darkness-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Pagdako at (H-9).",
+          "description": "Talk to Pagdako at (H-9).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-light-in-the-darkness-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-light-in-the-darkness-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Blatherix at (F-8).",
+          "description": "Talk to Blatherix at (F-8). He asks you to bring him 30 chunks of Goblin Chocolate or 5000 gil to talk. He will give you a Mine Shaft Key.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-light-in-the-darkness-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-light-in-the-darkness-node-4",
+          "orderIndex": 3,
+          "title": "Enter Pashhow Marshlands (S) from Grauberg (S) for a cutscene.",
+          "description": "Enter Pashhow Marshlands (S) from Grauberg (S) for a cutscene. Taking the Survival Guide to Grauberg (S) you can zone into Pashhow Marshlands (S) to activate the cutscene. After the cutscene, zone back into Grauberg (S) and take the Survival Guide to Rolanberry Fields (S) which will put you closer to Corroded Door in Pashhow Marshlands (S) (F-5).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-light-in-the-darkness-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-light-in-the-darkness-node-5",
+          "orderIndex": 4,
+          "title": "Check the Corroded Door at (F-5) in Pashhow Marshlands (S) to enter the battlefield for Light in the",
+          "description": "Check the Corroded Door at (F-5) in Pashhow Marshlands (S) to enter the battlefield for Light in the Darkness.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-light-in-the-darkness-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-light-in-the-darkness-node-6",
+          "orderIndex": 5,
+          "title": "You will be warped into the Ruhotz Silvermines.",
+          "description": "You will be warped into the Ruhotz Silvermines. Buffs are not lost upon entry. TP and certain buffs are lost as a result of zoning. Experience points are lost upon being knocked out. Everyone who is entering the battlefield needs to have the key item. A character that has already completed the quest can enter to help without it. If your party members do not meet the requirements, you will not be transported inside.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-light-in-the-darkness-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-light-in-the-darkness-node-7",
+          "orderIndex": 6,
+          "title": "Upon failure, a new key is needed.",
+          "description": "Upon failure, a new key is needed. Blatherix will ask for 10 chunks of Goblin Chocolate or 1000 gil to give you one.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-light-in-the-darkness-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-light-in-the-darkness-node-8",
+          "orderIndex": 7,
+          "title": "Once you have beaten the Quadav in Ruhotz Silvermines, talk to Gentle Tiger for the final cutscene.",
+          "description": "Once you have beaten the Quadav in Ruhotz Silvermines, talk to Gentle Tiger for the final cutscene. You will be required to answer three questions. The answers are: The ventilation shaft... The senator did not light the lantern... The senator was distracted... Choosing an incorrect option appears to decrease the number of choices you have in the list.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-light-in-the-darkness-node-7"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-lost-in-translocation",
+      "title": "Lost in Translocation",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Lost_in_Translocation",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-lost-in-translocation-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Thorben (J-10) in Batallia Downs (S) at the entrance of The Eldieme Necropolis (S), then ent",
+          "description": "Talk to Thorben (J-10) in Batallia Downs (S) at the entrance of The Eldieme Necropolis (S), then enter.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-lost-in-translocation-node-2",
+          "orderIndex": 1,
+          "title": "Check the Sarcophagus at (I-9) to get the Right Map Piece.",
+          "description": "Check the Sarcophagus at (I-9) to get the Right Map Piece.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-lost-in-translocation-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-lost-in-translocation-node-3",
+          "orderIndex": 2,
+          "title": "Check the Gravestone at (H-8) to get the Middle Map Piece.",
+          "description": "Check the Gravestone at (H-8) to get the Middle Map Piece.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-lost-in-translocation-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-lost-in-translocation-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Erik at (H-7) to get the Left Map Piece.",
+          "description": "Talk to Erik at (H-7) to get the Left Map Piece.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-lost-in-translocation-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-lost-in-translocation-node-5",
+          "orderIndex": 4,
+          "title": "Return to Thorben for a cutscene and the Map of Grauberg.",
+          "description": "Return to Thorben for a cutscene and the Map of Grauberg. If you touch the flaming brazier next to Erik, it will warp you back out to Batallia Downs (S), a bit away from Thorben.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-lost-in-translocation-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-manifest-destiny",
+      "title": "Manifest Destiny",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Manifest_Destiny",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-manifest-destiny-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Dhea Prandoleh in Windurst Waters (S) (H-10) for a cutscene.",
+          "description": "Talk to Dhea Prandoleh in Windurst Waters (S) (H-10) for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-manifest-destiny-node-2",
+          "orderIndex": 1,
+          "title": "Head to Meriphataud Mountains (S) and check the Mithran Bivouac at the NE corner of (I-8) to view a ",
+          "description": "Head to Meriphataud Mountains (S) and check the Mithran Bivouac at the NE corner of (I-8) to view a cutscene. The Survival Guide, Recall-Meriph or Meriphataud ring are the quickest ways to get there.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-manifest-destiny-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-message-on-the-wind",
+      "title": "Message on the Wind",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Message_on_the_Wind",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-message-on-the-wind-node-1",
+          "orderIndex": 0,
+          "title": "Start in the present by speaking with Romualdo at the Cannonry in the Metalworks (second floor, K-9)",
+          "description": "Start in the present by speaking with Romualdo at the Cannonry in the Metalworks (second floor, K-9).",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-no-rest-for-the-weary",
+      "title": "No Rest for the Weary",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/No_Rest_for_the_Weary",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-no-rest-for-the-weary-node-1",
+          "orderIndex": 0,
+          "title": "This quest is automatically flagged (under the Crystal War) after completing A New Menace.",
+          "description": "This quest is automatically flagged (under the Crystal War) after completing A New Menace.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-no-rest-for-the-weary-node-2",
+          "orderIndex": 1,
+          "title": "Speak to a Voidwatch Officer in the past for a short cutscene and a Voidwatch Alarum.",
+          "description": "Speak to a Voidwatch Officer in the past for a short cutscene and a Voidwatch Alarum. Note: If you did not get the cutscene at the Bulwark Gate in the quest Battle on a New Front where you received 30,000 gil, you must check the gate Bulwark Gate in Sauromugue Champaign (S) now. After you have checked the gate and received your 30,000 gil, you must wait till a new game day before you can get the Voidwatch Alarum from a Voidwatch Officer.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-no-rest-for-the-weary-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-no-rest-for-the-weary-node-3",
+          "orderIndex": 2,
+          "title": "Examine the Bulwark Gate in Sauromugue Champaign (S) at (E-6)/(F-6) (what would be the entrance to J",
+          "description": "Examine the Bulwark Gate in Sauromugue Champaign (S) at (E-6)/(F-6) (what would be the entrance to Jeuno) for a cutscene and your White Stratum Abyssite VI and Starlight Voidwatcher's Emblem. After the cutscene the quest A World in Flux begins automatically.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-no-rest-for-the-weary-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-on-sabbatical",
+      "title": "On Sabbatical",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/On_Sabbatical",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-on-sabbatical-node-1",
+          "orderIndex": 0,
+          "title": "Go to The Eldieme Necropolis (S) (J-8) and talk to Erlene for a cutscene.",
+          "description": "Go to The Eldieme Necropolis (S) (J-8) and talk to Erlene for a cutscene. You'll be given the Ulbrecht's Sealed Letter. Note: You need to be SCH40+ when Talking to Erlene, or you will not receive the dialogue and/or key item. After accepting the quest as Scholar, everything else can be done with any other Job active.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-perils-of-the-griffon",
+      "title": "Perils of the Griffon",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Perils_of_the_Griffon",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-perils-of-the-griffon-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Rholont at (E-7) of Southern San d'Oria (S) for a cutscene.",
+          "description": "Talk to Rholont at (E-7) of Southern San d'Oria (S) for a cutscene. You must wait until the next game day after completing Wrath of the Griffon before receiving the cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-perils-of-the-griffon-node-2",
+          "orderIndex": 1,
+          "title": "Zone out then talk to Rholont again for another cutscene.",
+          "description": "Zone out then talk to Rholont again for another cutscene. You have to zone out before receiving the cutscene, logout/login doesn't work. Retracing yourself counts as zoning. Setting your Home Point in Southern San d'Oria (S) and Warping also counts as zoning.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-perils-of-the-griffon-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-perils-of-the-griffon-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Daigraffeaux in Southern San d'Oria (S) (I-11; Chocobo Stables) for a cutscene.",
+          "description": "Talk to Daigraffeaux in Southern San d'Oria (S) (I-11; Chocobo Stables) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-perils-of-the-griffon-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-perils-of-the-griffon-node-4",
+          "orderIndex": 3,
+          "title": "After the cutscene return to Rholont for another cutscene.",
+          "description": "After the cutscene return to Rholont for another cutscene. The quest will now appear in your log.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-perils-of-the-griffon-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-perils-of-the-griffon-node-5",
+          "orderIndex": 4,
+          "title": "Go to Jugner Forest (S), and head to the west side of (I-6) (the southeast side of the lake) to find",
+          "description": "Go to Jugner Forest (S), and head to the west side of (I-6) (the southeast side of the lake) to find a ??? located on a tree stump. Examine it to receive the Orcish Warmachine Body. It is the same stump used during the quest Claws of the Griffon.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-perils-of-the-griffon-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-perils-of-the-griffon-node-6",
+          "orderIndex": 5,
+          "title": "Return to Rholont for your reward.",
+          "description": "Return to Rholont for your reward.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-perils-of-the-griffon-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-provenance-quest",
+      "title": "Provenance (Quest)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Provenance_(Quest)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-provenance-quest-node-1",
+          "orderIndex": 0,
+          "title": "Obtain the following three key items: Beguiling petrifact 100% drop from the Provenance battlefield ",
+          "description": "Obtain the following three key items: Beguiling petrifact 100% drop from the Provenance battlefield Beguiling Radiance Rare drop from any Bastok, San d'Oria, Jeuno, or Zilart region Voidwatch Notorious Monster Can be purchased from any Voidwatch Officer for 330,000 cruor. Seductive petrifact 100% drop from the Provenance battlefield Seductive Radiance Rare drop from any Bastok, Jeuno, or Tavnazia region Voidwatch Notorious Monster Can be purchased from any Voidwatch Officer for 330,000 cruor. Maddening petrifact 100% drop from the Provenance battlefield Maddening Radiance Rare drop from any Windurst, Jeuno, or Aht Urhgan region Voidwatch Notorious Monster Can be purchased from any Voidwatch Officer for 330,000 cruor.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-provenance-quest-node-2",
+          "orderIndex": 1,
+          "title": "After obtaining two or more of the key items, examine the Regal Pawprints in Provenance for a cutsce",
+          "description": "After obtaining two or more of the key items, examine the Regal Pawprints in Provenance for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-provenance-quest-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-provenance-quest-node-3",
+          "orderIndex": 2,
+          "title": "Examine the Regal Pawprints again with all three in possession.",
+          "description": "Examine the Regal Pawprints again with all three in possession.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-provenance-quest-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-provenance-quest-node-4",
+          "orderIndex": 3,
+          "title": "Examine the Provenance Protocrystal for a cutscene that completes this quest and starts the next que",
+          "description": "Examine the Provenance Protocrystal for a cutscene that completes this quest and starts the next quest automatically.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-provenance-quest-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-quelling-the-storm",
+      "title": "Quelling The Storm",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Quelling_The_Storm",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-quelling-the-storm-node-1",
+          "orderIndex": 0,
+          "title": "Zone into Bastok Markets (S) from North Gustaberg (S) for a CS.",
+          "description": "Zone into Bastok Markets (S) from North Gustaberg (S) for a CS. You must wait one game day after completing Fire in the Hole You must have received an Elixir from Blatherix after completing Burden of Suspicion in order to trigger this event.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-quelling-the-storm-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Gentle Tiger (S) at the entrance to Metalworks at Bastok Markets (S) for a CS.",
+          "description": "Talk to Gentle Tiger (S) at the entrance to Metalworks at Bastok Markets (S) for a CS.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-quelling-the-storm-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-re-drafted-by-the-duchy",
+      "title": "Re-Drafted by the Duchy",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Re-Drafted_by_the_Duchy",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-re-drafted-by-the-duchy-node-1",
+          "orderIndex": 0,
+          "title": "Head to Ru'Lude Gardens with the Voidwatch Alarum received from the previous quest and check the Doo",
+          "description": "Head to Ru'Lude Gardens with the Voidwatch Alarum received from the previous quest and check the Door:Audience Chamber for a cutscene and your White Stratum Abyssite IV and Tricolor Voidwatcher's Emblem. After the cutscene the quest A New Menace begins automatically.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-redeeming-rocks",
+      "title": "Redeeming Rocks",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Redeeming_Rocks",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-redeeming-rocks-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Kocco Ehllek in Windurst Waters (S) (H-8, Southern Section).",
+          "description": "Talk to Kocco Ehllek in Windurst Waters (S) (H-8, Southern Section).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-redeeming-rocks-node-2",
+          "orderIndex": 1,
+          "title": "Talk to her mother Rohn Ehlbalna (F-9, Northern Section).",
+          "description": "Talk to her mother Rohn Ehlbalna (F-9, Northern Section).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-redeeming-rocks-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-redeeming-rocks-node-3",
+          "orderIndex": 2,
+          "title": "Return to Kocco Ehllek who requests a Blue Gem, like the water from the land of the Mithra, which us",
+          "description": "Return to Kocco Ehllek who requests a Blue Gem, like the water from the land of the Mithra, which used to be found within Vunkerl Inlet (S).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-redeeming-rocks-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-redeeming-rocks-node-4",
+          "orderIndex": 3,
+          "title": "Go to Vunkerl Inlet (S) (F-9) (near the bridge on the south side), click on the ??? to get the the b",
+          "description": "Go to Vunkerl Inlet (S) (F-9) (near the bridge on the south side), click on the ??? to get the the blue stone Piece of Kionite",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-redeeming-rocks-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-redeeming-rocks-node-5",
+          "orderIndex": 4,
+          "title": "Return to Kocco Ehllek with the key stone.",
+          "description": "Return to Kocco Ehllek with the key stone. She will inform you that \"it\" should be ready tomorrow.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-redeeming-rocks-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-redeeming-rocks-node-6",
+          "orderIndex": 5,
+          "title": "Wait until the next game day and talk to her again for your reward.",
+          "description": "Wait until the next game day and talk to her again for your reward.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-redeeming-rocks-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-requiem-for-the-departed",
+      "title": "Requiem for the Departed",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Requiem_for_the_Departed",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-requiem-for-the-departed-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Heptachiond in The Eldieme Necropolis (S) to start the quest.",
+          "description": "Talk to Heptachiond in The Eldieme Necropolis (S) to start the quest. He is located at (H-8) where one of the present-day switches would be. If you use the Campaign Arbiter's teleporting services, turn around to face west and run up the stairs to him.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-requiem-for-the-departed-node-2",
+          "orderIndex": 1,
+          "title": "Travel to Fort Karugo-Narugo (S) and go through the Phosphorous Ward at (I-9) onto the second map.",
+          "description": "Travel to Fort Karugo-Narugo (S) and go through the Phosphorous Ward at (I-9) onto the second map.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-requiem-for-the-departed-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-requiem-for-the-departed-node-3",
+          "orderIndex": 2,
+          "title": "Alternative Route: From West Sarutabaruta (S) Survival Guide head NE into Fort Karugo-Narugo (S) and",
+          "description": "Alternative Route: From West Sarutabaruta (S) Survival Guide head NE into Fort Karugo-Narugo (S) and head to (F-10). From this entrance to Map 2 simply open the Painted Wooden Door on your right.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-requiem-for-the-departed-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-requiem-for-the-departed-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Pecca-Pocca at (G-12) inside of the southern tower (Wolfsnout on the map) to receive the She",
+          "description": "Talk to Pecca-Pocca at (G-12) inside of the southern tower (Wolfsnout on the map) to receive the Sheaf of Handmade Incense.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-requiem-for-the-departed-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-requiem-for-the-departed-node-5",
+          "orderIndex": 4,
+          "title": "Return to Heptachiond for your reward.",
+          "description": "Return to Heptachiond for your reward.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-requiem-for-the-departed-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-say-it-with-a-handbag",
+      "title": "Say It with a Handbag",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Say_It_with_a_Handbag",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-say-it-with-a-handbag-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Hampu-Kampu at (G-8) in Windurst Waters (S) South Map.",
+          "description": "Speak with Hampu-Kampu at (G-8) in Windurst Waters (S) South Map.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-say-it-with-a-handbag-node-2",
+          "orderIndex": 1,
+          "title": "Head to (K-4) in Windurst Waters (S) North Map and examine the Door: Acolyte Hostel on the second fl",
+          "description": "Head to (K-4) in Windurst Waters (S) North Map and examine the Door: Acolyte Hostel on the second floor to trigger a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-say-it-with-a-handbag-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-say-it-with-a-handbag-node-3",
+          "orderIndex": 2,
+          "title": "Return to Hampu-Kampu and after the cutscene you will receive Key Item: Torn Patches of Leather.",
+          "description": "Return to Hampu-Kampu and after the cutscene you will receive Key Item: Torn Patches of Leather.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-say-it-with-a-handbag-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-say-it-with-a-handbag-node-4",
+          "orderIndex": 3,
+          "title": "Go to the ground floor of the Tanners' Guild (San d'Oria) (D-8) in present day Southern San d'Oria, ",
+          "description": "Go to the ground floor of the Tanners' Guild (San d'Oria) (D-8) in present day Southern San d'Oria, and talk to Kipopo to trigger a cutscene. She will ask you to bring Laminated Ram Leather, Sheep Leather and a Silk Thread. You will have to zone after trading the materials to Kipopo. Then speak with Kipopo to trigger another cutscene and receive the Repaired Handbag.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-say-it-with-a-handbag-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-say-it-with-a-handbag-node-5",
+          "orderIndex": 4,
+          "title": "Return to Windurst Waters (S) and speak with Hampu-Kampu to trigger a cutscene.",
+          "description": "Return to Windurst Waters (S) and speak with Hampu-Kampu to trigger a cutscene. Offer him the handbag to receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-say-it-with-a-handbag-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-say-it-with-a-handbag-node-6",
+          "orderIndex": 5,
+          "title": "(Optional) Return back to Kipopo in Southern San d'Oria in the present with your Trainee's Needle eq",
+          "description": "(Optional) Return back to Kipopo in Southern San d'Oria in the present with your Trainee's Needle equipped for an additional cutscene and more information about her father.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-say-it-with-a-handbag-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-seeing-blood-red",
+      "title": "Seeing Blood-red",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Seeing_Blood-red",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-seeing-blood-red-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Erlene as Scholar to begin the quest.",
+          "description": "Talk to Erlene as Scholar to begin the quest. (You will need to wait until next game day and zone after completing Downward Helix.) Note: You only need to be on Scholar for the first cutscene. For the other cutscenes you can be on any job.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-seeing-blood-red-node-2",
+          "orderIndex": 1,
+          "title": "Return to the Indescript Markings at (E-11) of Pashhow Marshlands (S).",
+          "description": "Return to the Indescript Markings at (E-11) of Pashhow Marshlands (S). You will obtain a temporary key item Unaddressed Sealed Letter.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-seeing-blood-red-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-seeing-blood-red-node-3",
+          "orderIndex": 2,
+          "title": "Return to Erlene for a cutscene.",
+          "description": "Return to Erlene for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-seeing-blood-red-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-seeing-blood-red-node-4",
+          "orderIndex": 3,
+          "title": "Read the Unaddressed Sealed Letter temporary key item.",
+          "description": "Read the Unaddressed Sealed Letter temporary key item.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-seeing-blood-red-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-seeing-blood-red-node-5",
+          "orderIndex": 4,
+          "title": "Talk to Erlene again to obtain a Porting Magic Transcript.",
+          "description": "Talk to Erlene again to obtain a Porting Magic Transcript.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-seeing-blood-red-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-seeing-blood-red-node-6",
+          "orderIndex": 5,
+          "title": "Travel to Grauberg (S) and enter the cave at (F-10).",
+          "description": "Travel to Grauberg (S) and enter the cave at (F-10). Entrance is in the West-NW area of (F-10). Beware of the Grauberg Hippogryphs, for they have True Sight and will aggro a level 99 player.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-seeing-blood-red-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-seeing-blood-red-node-7",
+          "orderIndex": 6,
+          "title": "Click on the sparkling lights within the cave to receive a cutscene.",
+          "description": "Click on the sparkling lights within the cave to receive a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-seeing-blood-red-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-seeing-blood-red-node-8",
+          "orderIndex": 7,
+          "title": "Inspect the Indescript Markings within this cave to enter the BCNM.",
+          "description": "Inspect the Indescript Markings within this cave to enter the BCNM. Only the party leader can transport the party into the arena, so lead must be passed to someone that currently has the quest active to enter.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-seeing-blood-red-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-seeing-blood-red-node-9",
+          "orderIndex": 8,
+          "title": "After completing the BCNM, return to Erlene for your reward.",
+          "description": "After completing the BCNM, return to Erlene for your reward. If you fail the BCNM, Erlene will give you another Porting Magic Transcript, but will ask for a Sheet of Vellum in exchange.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-seeing-blood-red-node-8"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-seeing-spots",
+      "title": "Seeing Spots",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Seeing_Spots",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-seeing-spots-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Wyatt to start this quest.",
+          "description": "Speak with Wyatt to start this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-seeing-spots-node-2",
+          "orderIndex": 1,
+          "title": "Bring him 4 Ladybug Wings and he will reward you.",
+          "description": "Bring him 4 Ladybug Wings and he will reward you. It is not necessary to zone to repeat this quest",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-seeing-spots-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-sins-of-the-mothers",
+      "title": "Sins of the Mothers",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Sins_of_the_Mothers",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-sins-of-the-mothers-node-1",
+          "orderIndex": 0,
+          "title": "NOTE: The next quest requires you to wait till next game day, after completing this quest.",
+          "description": "NOTE: The next quest requires you to wait till next game day, after completing this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-sins-of-the-mothers-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Dhea Prandoleh in Windurst Waters (S) (H-10) for a cutscene.",
+          "description": "Talk to Dhea Prandoleh in Windurst Waters (S) (H-10) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-sins-of-the-mothers-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-sins-of-the-mothers-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Velda-Galda in Windurst Waters (S) at (K-9) for a cutscene which leads to a cutscene with Le",
+          "description": "Talk to Velda-Galda in Windurst Waters (S) at (K-9) for a cutscene which leads to a cutscene with Lehko Habhoka in Heavens Tower.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-sins-of-the-mothers-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-sins-of-the-mothers-node-4",
+          "orderIndex": 3,
+          "title": "Head to the Stone Monument at (E-7) in Fort Karugo-Narugo (S) (map 1) for a cutscene.",
+          "description": "Head to the Stone Monument at (E-7) in Fort Karugo-Narugo (S) (map 1) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-sins-of-the-mothers-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-sins-of-the-mothers-node-5",
+          "orderIndex": 4,
+          "title": "Check the Succulent Cactus at (F-5) for a Succulent Dragon Fruit.",
+          "description": "Check the Succulent Cactus at (F-5) for a Succulent Dragon Fruit.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-sins-of-the-mothers-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-sins-of-the-mothers-node-6",
+          "orderIndex": 5,
+          "title": "Return to the Stone Monument for another cutscene.",
+          "description": "Return to the Stone Monument for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-sins-of-the-mothers-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-sins-of-the-mothers-node-7",
+          "orderIndex": 6,
+          "title": "Check the Sunken Hollow at (G-7) for a cutscene (watch out for Rafflesia).",
+          "description": "Check the Sunken Hollow at (G-7) for a cutscene (watch out for Rafflesia). Then the party leader needs to examine the Sunken Hollow again to enter Ghoyu's Reverie.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-sins-of-the-mothers-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-snake-on-the-plains",
+      "title": "Snake on the Plains",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Snake_on_the_Plains",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-snake-on-the-plains-node-1",
+          "orderIndex": 0,
+          "title": "Walk through Fort Karugo-Narugo (S) and enter Windurst Waters (S) from the north West Sarutabaruta (",
+          "description": "Walk through Fort Karugo-Narugo (S) and enter Windurst Waters (S) from the north West Sarutabaruta (S) gate.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-snake-on-the-plains-node-2",
+          "orderIndex": 1,
+          "title": "In the way, you can get Survival Guide near entrance to Fort Karugo-Narugo (S), that can potentially",
+          "description": "In the way, you can get Survival Guide near entrance to Fort Karugo-Narugo (S), that can potentially save you some time on this quest.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-snake-on-the-plains-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-snake-on-the-plains-node-3",
+          "orderIndex": 2,
+          "title": "Additionally, if its your first time doing WotG missions, you can completely skip walking from Jeuno",
+          "description": "Additionally, if its your first time doing WotG missions, you can completely skip walking from Jeuno areas to any past nation by flaging VW missions and collecting the appropriate stratum abyssite with Voidwatch Officer in each present nation. Then, collect 1000 cruor from unity npc. Once you first land on past zone (Battalia Downs(S), Rolanberry Fields (S) or Sauromugue Campaign (S)) look for Atmacite Refiner near Jeuno gates, and choose teleporting directly to each nation.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-snake-on-the-plains-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-son-and-father",
+      "title": "Son and Father",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Son_and_Father",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-son-and-father-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Exoroche (S) at (K-9) of Southern San d'Oria (S).",
+          "description": "Speak with Exoroche (S) at (K-9) of Southern San d'Oria (S). Note: Exoroche (S) isn't available during Campaign for the Southern San d'Oria (S) area.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-son-and-father-node-2",
+          "orderIndex": 1,
+          "title": "(optional) Return to the present and make your way to Southern San d'Oria.",
+          "description": "(optional) Return to the present and make your way to Southern San d'Oria. Once there talk to Exoroche inside the weapon shop at (K-7).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-son-and-father-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-son-and-father-node-3",
+          "orderIndex": 2,
+          "title": "(optional) Next talk to Exoroche's son Ailbeche in Northern San d'Oria (J-9).",
+          "description": "(optional) Next talk to Exoroche's son Ailbeche in Northern San d'Oria (J-9). When prompted, ask about his Grandfather. If you do not ask about his Grandfather, you will have to zone to reset it and ask him again.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-son-and-father-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-son-and-father-node-4",
+          "orderIndex": 3,
+          "title": "Return to the past and head out to Jugner Forest (S).",
+          "description": "Return to the past and head out to Jugner Forest (S). Make your way to (G-5) and talk to Landeric. He can be found at the lake edge, behind a tree fishing. The fastest way is to take the Survival Guide in East Ronfaure (S) and zone into Jugner from there.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-son-and-father-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-son-and-father-node-5",
+          "orderIndex": 4,
+          "title": "Head back to Southern San d'Oria (S) and speak to Exoroche (S) again.",
+          "description": "Head back to Southern San d'Oria (S) and speak to Exoroche (S) again. In the ensuing cutscene, you will receive a Bronze Sword from Landeric.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-son-and-father-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-son-and-father-node-6",
+          "orderIndex": 5,
+          "title": "When the cutscene finishes, trade the Bronze Sword to Exoroche (S) to trigger another cutscene.",
+          "description": "When the cutscene finishes, trade the Bronze Sword to Exoroche (S) to trigger another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-son-and-father-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-son-and-father-node-7",
+          "orderIndex": 6,
+          "title": "After receiving both cutscenes, head back to Jugner Forest (S) and attempt to return the Bronze Swor",
+          "description": "After receiving both cutscenes, head back to Jugner Forest (S) and attempt to return the Bronze Sword to Landeric. You will be presented with a few dialog options. Choosing incorrectly will result in Landeric scolding you and have the sword returned to you. If this happens you will have to retrade the sword back to him and try again. The correct dialog options are \"Ask about Exoroche\" -> \"Not in the slightest!\" -> \"The boy's spirit is true.\" -> \"Protect his family and kingdom\" After successfully trading the sword back to Landeric, he asks you to return to Southern San d'Oria (S) to speak to his son.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-son-and-father-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-son-and-father-node-8",
+          "orderIndex": 7,
+          "title": "Return to Southern San d'Oria (S) and talk to Exoroche (S) to receive your reward.",
+          "description": "Return to Southern San d'Oria (S) and talk to Exoroche (S) to receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-son-and-father-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-son-and-father-node-9",
+          "orderIndex": 8,
+          "title": "(optional) Return to Present-day San d'Oria and talk to Exoroche, while wearing the Trainee's Specta",
+          "description": "(optional) Return to Present-day San d'Oria and talk to Exoroche, while wearing the Trainee's Spectacles to receive a 'final' cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-son-and-father-node-8"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-songbirds-in-a-snowstorm",
+      "title": "Songbirds in a Snowstorm",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Songbirds_in_a_Snowstorm",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-songbirds-in-a-snowstorm-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Songbirds in a Snowstorm",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-steamed-rams",
+      "title": "Steamed Rams",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Steamed_Rams",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-steamed-rams-node-1",
+          "orderIndex": 0,
+          "title": "Only if this will be your first Campaign nation: obtain a Red Recommendation Letter from Randecque (",
+          "description": "Only if this will be your first Campaign nation: obtain a Red Recommendation Letter from Randecque (I-6) in Garlaige Citadel (S). This step is not required if you are changing allegiance from another nation. Randecque is near Banishing Gate #3. To get there, take the path at the northwest corner of (I-7) on the first map and head east. You will find Randecque at (I-6) on the next map. This does not require opening a gate.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-steamed-rams-node-2",
+          "orderIndex": 1,
+          "title": "Around the middle of Southern San d'Oria (S) speak with Mainchelite at (I-9).",
+          "description": "Around the middle of Southern San d'Oria (S) speak with Mainchelite at (I-9).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-steamed-rams-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-steamed-rams-node-3",
+          "orderIndex": 2,
+          "title": "In East Ronfaure (S) head southeast towards the Campaign Fort (South H-8) and examine three ??? in a",
+          "description": "In East Ronfaure (S) head southeast towards the Campaign Fort (South H-8) and examine three ??? in any order to obtain pieces of debris from a downed airship. The locations are: (H-8) in a crater on the northern side of the Fortification Tower - Charred Propeller (I-8) at the base of the waterfall just east of the fort (NW section of I-8) - Oxidized Plate (J-7) north-western corner of grid, in a small shrub - Piece of Shattered Lumber Before heading back to Southern San d'Oria [S], make sure to hit the Survival Guide at (J-11). It will save you a couple of minutes in the upcoming quests.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-steamed-rams-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-steamed-rams-node-4",
+          "orderIndex": 3,
+          "title": "Return to Mainchelite with the 3 pieces of debris for a cutscene.",
+          "description": "Return to Mainchelite with the 3 pieces of debris for a cutscene. Congratulations on becoming a member of The Iron Rams!",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-steamed-rams-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-storm-on-the-horizon",
+      "title": "Storm on the Horizon",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Storm_on_the_Horizon",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-storm-on-the-horizon-node-1",
+          "orderIndex": 0,
+          "title": "Zone into Bastok Markets (S) for a cutscene.",
+          "description": "Zone into Bastok Markets (S) for a cutscene. You must zone in from North Gustaberg (S); Warping and Retracing do not work. You will also need to wait for the next game day after completing the previous quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-storm-on-the-horizon-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Gentle Tiger (S) (H-6) in front of the Metalworks.",
+          "description": "Talk to Gentle Tiger (S) (H-6) in front of the Metalworks. The quest now appears in your log.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-storm-on-the-horizon-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-storm-on-the-horizon-node-3",
+          "orderIndex": 2,
+          "title": "Go to North Gustaberg (S) and click the monument at the top of Zegham Hill (J-7).",
+          "description": "Go to North Gustaberg (S) and click the monument at the top of Zegham Hill (J-7). Enter the hill at around (I-8) to climb up. On the second level, head counterclockwise around the mountain to reach the ramp to the third level. Then head clockwise around to reach the final ramp.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-storm-on-the-horizon-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-storm-on-the-horizon-node-4",
+          "orderIndex": 3,
+          "title": "Go to Grauberg (S) and click on the ??? inside a cave at the top left corner of (I-6) for a cutscene",
+          "description": "Go to Grauberg (S) and click on the ??? inside a cave at the top left corner of (I-6) for a cutscene and an Icarus Wing. Taking a Survival Guide teleport to Grauberg (S) is much faster than walking. The entrance to the cave is at the southeast corner of (H-5). It is the same ??? used for Fires of Discontent.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-storm-on-the-horizon-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-succor-to-the-sidhe",
+      "title": "Succor to the Sidhe",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Succor_to_the_Sidhe",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-succor-to-the-sidhe-node-1",
+          "orderIndex": 0,
+          "title": "Obtain a base weapon you want to be augmented; there is one base weapon for each job:.",
+          "description": "Obtain a base weapon you want to be augmented; there is one base weapon for each job:",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-the-dawn-also-rises",
+      "title": "The Dawn Also Rises",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Dawn_Also_Rises",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-dawn-also-rises-node-1",
+          "orderIndex": 0,
+          "title": "Enter Walk of Echoes and examine the Ornate Door for a cutscene.",
+          "description": "Enter Walk of Echoes and examine the Ornate Door for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-dawn-also-rises-node-2",
+          "orderIndex": 1,
+          "title": "Obtain a single Breath of dawn from either (H-7) East Ronfaure (S), (I-6) Jugner Forest (S), or (H-9",
+          "description": "Obtain a single Breath of dawn from either (H-7) East Ronfaure (S), (I-6) Jugner Forest (S), or (H-9) Beaucedine Glacier (S).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-dawn-also-rises-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-dawn-also-rises-node-3",
+          "orderIndex": 2,
+          "title": "Enter Walk of Echoes from (F-5) in Grauberg (S) and check the Ornate Door for a cutscene.",
+          "description": "Enter Walk of Echoes from (F-5) in Grauberg (S) and check the Ornate Door for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-dawn-also-rises-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-dawn-also-rises-node-4",
+          "orderIndex": 3,
+          "title": "Check the door again to enter the battlefield against Cait Sith (NM).",
+          "description": "Check the door again to enter the battlefield against Cait Sith (NM).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-dawn-also-rises-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-dawn-also-rises-node-5",
+          "orderIndex": 4,
+          "title": "NOTE: This can only be done once a real earth day (Resets at Japan's midnight).",
+          "description": "NOTE: This can only be done once a real earth day (Resets at Japan's midnight). Can not be done the same day as Champion of the Dawn. Must wait 1 real life day before you can trigger the necessary cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-dawn-also-rises-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-the-dawn-of-delectability",
+      "title": "The Dawn of Delectability",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Dawn_of_Delectability",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-dawn-of-delectability-node-1",
+          "orderIndex": 0,
+          "title": "Visit Ranpi-Monpi (S) in Windurst Waters (S) (E-9, north side) to start the quest with a cutscene.",
+          "description": "Visit Ranpi-Monpi (S) in Windurst Waters (S) (E-9, north side) to start the quest with a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-dawn-of-delectability-node-2",
+          "orderIndex": 1,
+          "title": "Travel to the present and talk to Ranpi-Monpi at the Culinarian's Guild in Windurst Waters (E-9, nor",
+          "description": "Travel to the present and talk to Ranpi-Monpi at the Culinarian's Guild in Windurst Waters (E-9, north part) and he will tell you the ingredients needed for the extraordinary food. He wants a Bastore Sweeper, Walnut, Dragon Fruit and a Pepperoni.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-dawn-of-delectability-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-dawn-of-delectability-node-3",
+          "orderIndex": 2,
+          "title": "After you trade him the items come back in one game day and he will give you the Ranpi-Monpi Special",
+          "description": "After you trade him the items come back in one game day and he will give you the Ranpi-Monpi Specialty Key Item. You only need to wait until after midnight to receive Key Item.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-dawn-of-delectability-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-dawn-of-delectability-node-4",
+          "orderIndex": 3,
+          "title": "Return to Windurst Waters (S) and talk to Ranpi-Monpi (S).",
+          "description": "Return to Windurst Waters (S) and talk to Ranpi-Monpi (S). He will give you the Culinary Knife Key Item.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-dawn-of-delectability-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-dawn-of-delectability-node-5",
+          "orderIndex": 4,
+          "title": "Return to the present and see Ranpi-Monpi in Windurst Waters for another cutscene.",
+          "description": "Return to the present and see Ranpi-Monpi in Windurst Waters for another cutscene. He will take your Culinary Knife Key Item and replace it with the Trainee Knife.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-dawn-of-delectability-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-the-fighting-fourth",
+      "title": "The Fighting Fourth",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Fighting_Fourth",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-fighting-fourth-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: The Fighting Fourth",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-the-flipside-of-things",
+      "title": "The Flipside of Things",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Flipside_of_Things",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-flipside-of-things-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Rarcasmeault at Garlaige Citadel (S), Map 2 (J-6) to start the quest.",
+          "description": "Talk to Rarcasmeault at Garlaige Citadel (S), Map 2 (J-6) to start the quest. Turn right at Randecque and left at Loutille.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-flipside-of-things-node-2",
+          "orderIndex": 1,
+          "title": "Head to the Storeroom Door at G-7 (second map) - on the second map, go to a large square room at the",
+          "description": "Head to the Storeroom Door at G-7 (second map) - on the second map, go to a large square room at the center of the map, and go north to the door at the end of the prong on the map. Sneak or Silent Oils are recommended to avoid Bats and Slimes.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-flipside-of-things-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-flipside-of-things-node-3",
+          "orderIndex": 2,
+          "title": "Click the invisible ??? on a table to the left to receive a Firepower Case.",
+          "description": "Click the invisible ??? on a table to the left to receive a Firepower Case.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-flipside-of-things-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-flipside-of-things-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Rarcasmeault again to receive a Map of Vunkerl Inlet.",
+          "description": "Talk to Rarcasmeault again to receive a Map of Vunkerl Inlet.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-flipside-of-things-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-the-forbidden-path",
+      "title": "The Forbidden Path",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Forbidden_Path",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-1",
+          "orderIndex": 0,
+          "title": "NOTE: You may consider farming a Bottled Pixie beforehand.",
+          "description": "NOTE: You may consider farming a Bottled Pixie beforehand. It will need to be traded later on (and at night). Meriphataud Mountains (S), along with Castle Oztroja (S) next door, are the best farming sites for Bottled Pixie. Alternatively, if it is prior to 18:00 upon getting the cutscene in Windurst Waters (S), you may want to flag the quest then take the Survival Guide from town to Meriphataud Mountains (S). TIP: if you farm the Bottled Pixie in Pashhow Marshlands (S), grab a Punch Bug while your at it. It will be needed much later on in the mission Pillar of Hope.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-2",
+          "orderIndex": 1,
+          "title": "Zone into Windurst Waters (S) for a cutscene.",
+          "description": "Zone into Windurst Waters (S) for a cutscene. If you want to hear the hints again, talk with Velda-Galda at K-9 of the northern map.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-3",
+          "orderIndex": 2,
+          "title": "The Small: Examine the Fey Blossoms at (F-5) in Grauberg (S) twice for cutscenes.",
+          "description": "The Small: Examine the Fey Blossoms at (F-5) in Grauberg (S) twice for cutscenes. (Note: NOT the nearby Fay Spring.) You will be prompted to bring back a Bottled Pixie at nighttime (after 18:00). Talking to Wenonah, C.A., and warping to Grauberg (S) for 50 Notes, is the fastest way to get there. If you have already finished WOTG missions, you can use the walk of echoes warp trick. Taking the Survival Guide will put you at the north end of Grauberg (S).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-4",
+          "orderIndex": 3,
+          "title": "You do not need to zone before trading the Bottled Pixie.",
+          "description": "You do not need to zone before trading the Bottled Pixie. but you DO need to check the Fey Blossoms again and be told to bring it and be sure to trade it at night.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-5",
+          "orderIndex": 4,
+          "title": "Trade the Bottled Pixie to the Fey Blossoms to receive Scintillant strand.",
+          "description": "Trade the Bottled Pixie to the Fey Blossoms to receive Scintillant strand. Bottled Pixie drop from Yagudo High Priest, one immediately to the right as you enter Castle Oztroja (S), and one more in the large room immediately after entry. These monsters are Lv80. Alternatively, Yagudo High Priest (almost 100% drop) and Yagudo Sentinel spawn right outside Castle Oztroja (S) in Meriphataud Mountains (S), are a couple levels weaker, and have just as high a drop rate. You can also try Lv65 Orcs in The Eldieme Necropolis (S), who have a lower, but not terrible, drop rate. Bottled Pixie is also a very common drop from Union chests.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-6",
+          "orderIndex": 5,
+          "title": "The Winged: Head to Castle Oztroja (S) and examine the Writhing Flame in the northeast corner of (G-",
+          "description": "The Winged: Head to Castle Oztroja (S) and examine the Writhing Flame in the northeast corner of (G-7) on the first map for a cutscene. The Writhing Flame is located in the long hallway leading to the area where Mee Deggi the Punisher would spawn in the present day.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-7",
+          "orderIndex": 6,
+          "title": "Trade any testimony to the Writhing Flame to receive Refulgent strand.",
+          "description": "Trade any testimony to the Writhing Flame to receive Refulgent strand. Use caution as the Yagudo roaming in the hallway may aggro as soon as you are out of the CS. If you catch aggro, the cutscene will drop aggro, if you're quick enough. You can trade the testimony more quickly if you set a macro for it, such as \"/item 'Smn. Testimony' <t>\", target the Writhing Flame, and use it the moment your invisible wears off. It doesn't matter if the testimony has already been used for a Shattering Stars fight, a \"torn\" testimony works. The testimony is not returned to your inventory on completing the cutscene. This can be accomplished on any job at any level (i.e. you can trade as a lvl 1 WAR).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-8",
+          "orderIndex": 7,
+          "title": "The Eight-sided room: Head to Inner Horutoto Ruins past the Three Mage Gate to the elemental rooms.",
+          "description": "The Eight-sided room: Head to Inner Horutoto Ruins past the Three Mage Gate to the elemental rooms. Click on the Gate of Darkness (I-7 of Map 4) for a cutscene and to receive Irradiant strand. If you have the Toraimarai Canal Survival Guide, you can warp there. Alternatively, if you have the Rhinostery Certificate, you can walk through Toraimarai Canal.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-9",
+          "orderIndex": 8,
+          "title": "Return to Velda-Galda Windurst Waters (S) (K-9 Northern map) by the gate to Windurst Walls and speak",
+          "description": "Return to Velda-Galda Windurst Waters (S) (K-9 Northern map) by the gate to Windurst Walls and speak to him to return each item. Total of three cutscene conversations to turn in all three items.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-10",
+          "orderIndex": 9,
+          "title": "Wait till new game day and speak to Velda-Galda again.",
+          "description": "Wait till new game day and speak to Velda-Galda again. NOTE: Quest is not completed until you have received your reward; not having enough room in your inventory will result in having to watch the cutscene again. NOTE: Reward is based on your currently equipped job at the time you initiate this cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-forbidden-path-node-9"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-the-fumbling-friar",
+      "title": "The Fumbling Friar",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Fumbling_Friar",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-fumbling-friar-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Fondactiont at Garlaige Citadel (S) (I-6) (Map 1) to activate this quest.",
+          "description": "Talk to Fondactiont at Garlaige Citadel (S) (I-6) (Map 1) to activate this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-fumbling-friar-node-2",
+          "orderIndex": 1,
+          "title": "Travel to Grauberg (S).",
+          "description": "Travel to Grauberg (S).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-fumbling-friar-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-fumbling-friar-node-3",
+          "orderIndex": 2,
+          "title": "The ??? is located at (G-6) down a waterfall on the map.",
+          "description": "The ??? is located at (G-6) down a waterfall on the map. The top of the waterfall is the southernmost point of (G-6). Be mindful that there will be true sight Grauberg Hippogryphs. When you reach the waterfall, be careful; it is easy to slip to the level below and miss the ???, making you go all the way back. Examine the ??? in the water to obtain the Ornate Package. It is possible that you may find the ??? on one of the intermediate levels of the waterfall.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-fumbling-friar-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-fumbling-friar-node-4",
+          "orderIndex": 3,
+          "title": "Return to Fondactiont to receive your scroll of Recall-Pashh.",
+          "description": "Return to Fondactiont to receive your scroll of Recall-Pashh.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-fumbling-friar-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-the-long-march-north",
+      "title": "The Long March North",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Long_March_North",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-long-march-north-node-1",
+          "orderIndex": 0,
+          "title": "Enter Windurst Waters (S) for a cutscene.",
+          "description": "Enter Windurst Waters (S) for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-long-march-north-node-2",
+          "orderIndex": 1,
+          "title": "Travel to Southern San d'Oria (S) and talk to Raustigne at (I-7) for a cutscene.",
+          "description": "Travel to Southern San d'Oria (S) and talk to Raustigne at (I-7) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-long-march-north-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-long-march-north-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Hauberliond at (top left corner of H-9) for a cutscene.",
+          "description": "Talk to Hauberliond at (top left corner of H-9) for a cutscene. During the cutscene, you'll have a question-and-answer session. It does not matter what you answer. Afterwards you will be told an area to go to. (If you forget which area to visit, Hauberliond will remind you if you talk to him again.) If you are told to head to East Ronfaure (S), find the New-turned Earth at (J-11) and click it for a cutscene and some Darkfire cinder. If you are told to head to La Vaule (S), find the New-turned Earth at (K-9) and click it for a cutscene and some Darkfire cinder. If you are told to head to Jugner Forest (S), find the New-turned Earth at (J-5) and and click it for a cutscene and some Darkfire cinder. (J-5) is on the Batallia Downs (S) accessible side of Jugner Forest (S).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-long-march-north-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-long-march-north-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Striking Snake (H-7) in the gunpowder room of present-day Metalworks for a cutscene.",
+          "description": "Talk to Striking Snake (H-7) in the gunpowder room of present-day Metalworks for a cutscene. While in Bastok, buy some Pickaxe from Boytz in Boytz's Knickknacks in Bastok Mines (H-7)",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-long-march-north-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-long-march-north-node-5",
+          "orderIndex": 4,
+          "title": "Go to North Gustaberg (S) and mine Liquid quicksilver and Gelid sulfur from any mining point.",
+          "description": "Go to North Gustaberg (S) and mine Liquid quicksilver and Gelid sulfur from any mining point. Refer to the Mining map for possible mining points.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-long-march-north-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-long-march-north-node-6",
+          "orderIndex": 5,
+          "title": "Return to Metalworks and talk to Striking Snake.",
+          "description": "Return to Metalworks and talk to Striking Snake. Wait 1 game day, zone out, and return to him.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-long-march-north-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-long-march-north-node-7",
+          "orderIndex": 6,
+          "title": "After receiving your Beastbane Bullets, head to Fort Karugo-Narugo (S) and into the Fort at (H-9) to",
+          "description": "After receiving your Beastbane Bullets, head to Fort Karugo-Narugo (S) and into the Fort at (H-9) to talk to Rotih Moalghett (I-8) on the inner map for a long cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-long-march-north-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-the-lost-book",
+      "title": "The Lost Book",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Lost_Book",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-lost-book-node-1",
+          "orderIndex": 0,
+          "title": "Travel to south Windurst Waters (S) and examine the right Rhinostery door (J-9 of the second map) fo",
+          "description": "Travel to south Windurst Waters (S) and examine the right Rhinostery door (J-9 of the second map) for a cutscene. Note: Make sure to examine the right door; examining the left door triggers a quest called Healing Herbs.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-lost-book-node-2",
+          "orderIndex": 1,
+          "title": "Bring a Mythril Beastcoin and travel to present-day Giddeus.",
+          "description": "Bring a Mythril Beastcoin and travel to present-day Giddeus.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-lost-book-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-lost-book-node-3",
+          "orderIndex": 2,
+          "title": "Head to the second map (underground level) and go through the Wistaria Doors behind Uu Zhoumo at (F-",
+          "description": "Head to the second map (underground level) and go through the Wistaria Doors behind Uu Zhoumo at (F-7).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-lost-book-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-lost-book-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Quu Bokye (optional).",
+          "description": "Talk to Quu Bokye (optional).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-lost-book-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-lost-book-node-5",
+          "orderIndex": 4,
+          "title": "Trade Quu Bokye a Mythril Beastcoin to obtain a Leather-bound Book.",
+          "description": "Trade Quu Bokye a Mythril Beastcoin to obtain a Leather-bound Book.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-lost-book-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-lost-book-node-6",
+          "orderIndex": 5,
+          "title": "Return to the Rhinostery in Windurst (S), and click the southern door for another cutscene.",
+          "description": "Return to the Rhinostery in Windurst (S), and click the southern door for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-lost-book-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-lost-book-node-7",
+          "orderIndex": 6,
+          "title": "Go to the Optistery (F-8 on the first map) of Windurst (S) and examine the door for a cutscene.",
+          "description": "Go to the Optistery (F-8 on the first map) of Windurst (S) and examine the door for a cutscene. Checking the door again repeats a shorter version of the same cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-lost-book-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-lost-book-node-8",
+          "orderIndex": 7,
+          "title": "Travel to Meriphataud Mountains (S), and enter Castle Oztroja (S) at (K-8)/(L-8).",
+          "description": "Travel to Meriphataud Mountains (S), and enter Castle Oztroja (S) at (K-8)/(L-8).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-lost-book-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-lost-book-node-9",
+          "orderIndex": 8,
+          "title": "Locate the ??? at (G-8) on the first map.",
+          "description": "Locate the ??? at (G-8) on the first map. Examine it to obtain a Lynx Pelt. Yagudo in this zone are aggressive to level 99. Be patient and wait for them to turn their backs if you cannot handle them and do not have a quick escape.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-lost-book-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-lost-book-node-10",
+          "orderIndex": 9,
+          "title": "Bring a sheet of Vellum and return to the Optistery in Windurst Waters (S).",
+          "description": "Bring a sheet of Vellum and return to the Optistery in Windurst Waters (S).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-lost-book-node-9"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-lost-book-node-11",
+          "orderIndex": 10,
+          "title": "Trade the Vellum to the door for a cutscene.",
+          "description": "Trade the Vellum to the door for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-lost-book-node-10"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-lost-book-node-12",
+          "orderIndex": 11,
+          "title": "Wait until the next game day.",
+          "description": "Wait until the next game day. You do not need to zone.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-lost-book-node-11"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-lost-book-node-13",
+          "orderIndex": 12,
+          "title": "Return to the Optistery in Windurst (S) for a final cutscene to receive your reward.",
+          "description": "Return to the Optistery in Windurst (S) for a final cutscene to receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-lost-book-node-12"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-the-price-of-valor",
+      "title": "The Price of Valor",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Price_of_Valor",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-price-of-valor-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Rholont at (E-7).",
+          "description": "Talk to Rholont at (E-7). If you are starting this directly after finishing In a Haze of Glory, you must zone and wait until next game day.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-price-of-valor-node-2",
+          "orderIndex": 1,
+          "title": "He'll tell you to get 3 key items.",
+          "description": "He'll tell you to get 3 key items. Click on the Tree next to Rholont and the Griffons to receive Long-life biscuits. Click on the Well next to Rholont and the Griffons to receive Flask of Kingdom water. Get a Hatchet and chop up some trees in East Ronfaure (S) as though you were logging, to receive Ronfaure maple syrup. Please note that you may not get the key item from the first tree. You can buy Hatchets from Geltpix at (M-6) in Southern San d'Oria (S). Map of possible logging locations: Logging Map",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-price-of-valor-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-price-of-valor-node-3",
+          "orderIndex": 2,
+          "title": "Talk to Rholont with the 3 key items to start the next part of the quest.",
+          "description": "Talk to Rholont with the 3 key items to start the next part of the quest.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-price-of-valor-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-price-of-valor-node-4",
+          "orderIndex": 3,
+          "title": "He'll give you some Biscuit a la Rholont and tell you to go to Jugner Forest (S).",
+          "description": "He'll give you some Biscuit a la Rholont and tell you to go to Jugner Forest (S).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-price-of-valor-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-the-tigress-stirs",
+      "title": "The Tigress Stirs",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Tigress_Stirs",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-tigress-stirs-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Dhea Prandoleh at (H-10) in Windurst Waters (S) North to begin the quest.",
+          "description": "Speak to Dhea Prandoleh at (H-10) in Windurst Waters (S) North to begin the quest. Ajido-Marujido will ask you to bring him a starfruit. Dhea Prandoleh disappears during Campaign Battles in town.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-tigress-stirs-node-2",
+          "orderIndex": 1,
+          "title": "Examine the ??? at (I-6) in West Sarutabaruta (S) (at the base of the Twinkle Tree) to obtain a Smal",
+          "description": "Examine the ??? at (I-6) in West Sarutabaruta (S) (at the base of the Twinkle Tree) to obtain a Small Starfruit.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-tigress-stirs-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-tigress-stirs-node-3",
+          "orderIndex": 2,
+          "title": "Examine the bottom left door of the Acolyte Hostel at (K-5) in Windurst Waters (S) to get the final ",
+          "description": "Examine the bottom left door of the Acolyte Hostel at (K-5) in Windurst Waters (S) to get the final cutscene and your reward.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-tigress-stirs-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-the-tigress-strikes",
+      "title": "The Tigress Strikes",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Tigress_Strikes",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-tigress-strikes-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Dhea Prandoleh in northern Windurst Waters (S) at (H-10).",
+          "description": "Speak to Dhea Prandoleh in northern Windurst Waters (S) at (H-10).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-tigress-strikes-node-2",
+          "orderIndex": 1,
+          "title": "Make your way to Fort Karugo-Narugo (S) and enter the fortress.",
+          "description": "Make your way to Fort Karugo-Narugo (S) and enter the fortress.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-tigress-strikes-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-tigress-strikes-node-3",
+          "orderIndex": 2,
+          "title": "On Map 2, go to (I-8) to find Rotih Moalghett, on the upper floor East from the Campaign Arbiter.",
+          "description": "On Map 2, go to (I-8) to find Rotih Moalghett, on the upper floor East from the Campaign Arbiter.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-tigress-strikes-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-tigress-strikes-node-4",
+          "orderIndex": 3,
+          "title": "After a short cutscene, exit the fort (fall to the bottom floor and exit via the painted wooden door",
+          "description": "After a short cutscene, exit the fort (fall to the bottom floor and exit via the painted wooden door at J-8) and find a ??? in the Northern part of (I-9) on Map 1. This quest can be completed with Allied Tags active, but doing so will cause Campaign battle enemies to attack you.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-tigress-strikes-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-tigress-strikes-node-5",
+          "orderIndex": 4,
+          "title": "Examine the ??? once for a cutscene and a second time to spawn the Coeurl NM War Lynx.",
+          "description": "Examine the ??? once for a cutscene and a second time to spawn the Coeurl NM War Lynx. (see testimonials) Special Attacks: Chaotic Eye - Inflicts Silence. As a Gaze Attack, it can be avoided by turning away from the lynx. Petrifactive Breath - AoE attack inflicting 5-10 second petrification. Frenzied Rage - Attack Boost Charged Whisker - Deals Lightning damage in a radial area of effect. Blink of Peril -Gaze Attack, avoidable by facing away from the lynx, that reduces the target's HP to 1% and minimizes hate, similar to Throat Stab. May be capable of knocking a character out according to some reports (See the discussion page). Can be stunned, but the lynx can repeat the move as soon as stun wears off. This ability takes about 3 seconds for the lynx to execute after readying it. Vulnerable to Repose and Light Shot. The lynx can be spawned 5 minutes after the last one was defeated. Only have to fight once for all party members who need to do it.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-tigress-strikes-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-tigress-strikes-node-6",
+          "orderIndex": 5,
+          "title": "After successfully defeating the lynx, examine the ??? again for another cutscene.",
+          "description": "After successfully defeating the lynx, examine the ??? again for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-tigress-strikes-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-tigress-strikes-node-7",
+          "orderIndex": 6,
+          "title": "Return to Windurst Waters (S) and speak to Dhea Prandoleh for a final cutscene and your reward.",
+          "description": "Return to Windurst Waters (S) and speak to Dhea Prandoleh for a final cutscene and your reward.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-tigress-strikes-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-the-truth-is-out-there",
+      "title": "The Truth Is Out There",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Truth_Is_Out_There",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-truth-is-out-there-node-1",
+          "orderIndex": 0,
+          "title": "This quest is automatically flagged after completing A Cait Calls.",
+          "description": "This quest is automatically flagged after completing A Cait Calls.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-truth-is-out-there-node-2",
+          "orderIndex": 1,
+          "title": "Speak to a Voidwatch Officer for a cutscene and to receive a Voidwatch Alarum.",
+          "description": "Speak to a Voidwatch Officer for a cutscene and to receive a Voidwatch Alarum. Only Voidwatch Officers in the present will give you the cutscene, (Shadowreign Era zones will not work.)",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-truth-is-out-there-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-the-truth-lies-hid",
+      "title": "The Truth Lies Hid",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Truth_Lies_Hid",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-truth-lies-hid-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: The Truth Lies Hid",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-the-weekly-adventurer",
+      "title": "The Weekly Adventurer",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Weekly_Adventurer",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-weekly-adventurer-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Naiko-Paneiko at (L-8) in Crawlers' Nest (S) to receive a Scoop-Dedicated Linkpearl.",
+          "description": "Speak with Naiko-Paneiko at (L-8) in Crawlers' Nest (S) to receive a Scoop-Dedicated Linkpearl. He asks that you investigate reports of an odd monster that has appeared in Rolanberry Fields (S).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-weekly-adventurer-node-2",
+          "orderIndex": 1,
+          "title": "Exit to Rolanberry Fields (S) and head to (G-9) to speak with Rakula-Motakula located on the turret.",
+          "description": "Exit to Rolanberry Fields (S) and head to (G-9) to speak with Rakula-Motakula located on the turret.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-weekly-adventurer-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-weekly-adventurer-node-3",
+          "orderIndex": 2,
+          "title": "Mandragoras will appear (no fight), and Naiko-Paneiko will ask you a series of questions.",
+          "description": "Mandragoras will appear (no fight), and Naiko-Paneiko will ask you a series of questions.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-weekly-adventurer-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-weekly-adventurer-node-4",
+          "orderIndex": 3,
+          "title": "Choosing to tell him about the mandragoras will result in the following questions: How many leafed m",
+          "description": "Choosing to tell him about the mandragoras will result in the following questions: How many leafed mandragoras are there? (4) How many black mandragoras are there? (4) How many flowered mandragoras are there? (5)",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-weekly-adventurer-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-weekly-adventurer-node-5",
+          "orderIndex": 4,
+          "title": "If you incorrectly answer a question he won't ask the remaining ones.",
+          "description": "If you incorrectly answer a question he won't ask the remaining ones. Return to Naiko-Paneiko and attempt the quest again.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-weekly-adventurer-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-weekly-adventurer-node-6",
+          "orderIndex": 5,
+          "title": "Return to Naiko-Paneiko to complete the quest and receive a Map of Fort Karugo-Narugo.",
+          "description": "Return to Naiko-Paneiko to complete the quest and receive a Map of Fort Karugo-Narugo.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-weekly-adventurer-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-the-young-and-the-threadless",
+      "title": "The Young and the Threadless",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Young_and_the_Threadless",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-young-and-the-threadless-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Ponono (S) - Windurst Waters (S) North (K-11) to get a cutscene and receive a key item Ponon",
+          "description": "Talk to Ponono (S) - Windurst Waters (S) North (K-11) to get a cutscene and receive a key item Ponono's Charm.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-the-young-and-the-threadless-node-2",
+          "orderIndex": 1,
+          "title": "Zone out (entering and exiting the mog house counts), and talk to Ponono again and she will give you",
+          "description": "Zone out (entering and exiting the mog house counts), and talk to Ponono again and she will give you 3 pieces of thread and direct you to a place to dip each thread in. This is when the quest will show up in your quest log.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-the-young-and-the-threadless-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-third-tour-of-duchy",
+      "title": "Third Tour of Duchy",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Third_Tour_of_Duchy",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-third-tour-of-duchy-node-1",
+          "orderIndex": 0,
+          "title": "Take the Voidwatch Alarum received in the previous quest to the Audience Chamber in Ru'Lude Gardens ",
+          "description": "Take the Voidwatch Alarum received in the previous quest to the Audience Chamber in Ru'Lude Gardens or the Bulwark Gate in Sauromugue Champaign (S) for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-third-tour-of-duchy-node-2",
+          "orderIndex": 1,
+          "title": "NOTICE: There is no difference in cutscenes regardless of which you visit, they are the same.",
+          "description": "NOTICE: There is no difference in cutscenes regardless of which you visit, they are the same. So don't waste time going to the gate in the past if you can avoid it an just use the Audience Chamber in Ru'Lude Gardens. After the cutscene, this quest is complete and Glimmer of Hope is flagged automatically.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-third-tour-of-duchy-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-vw-op-no-126-qufim-incursion",
+      "title": "VW Op. No. 126: Qufim Incursion",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/VW_Op._No._126:_Qufim_Incursion",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-vw-op-no-126-qufim-incursion-node-1",
+          "orderIndex": 0,
+          "title": "Defeat all of the Tier III Jeuno NMs.",
+          "description": "Defeat all of the Tier III Jeuno NMs. Kaggen in Qufim Island. Rifts are located at (G-6), (H-6), or (I-7). Akvan in Lower Delkfutt's Tower. Rifts are located in the basement at (G-9), on floor 2 at (F-5), or on floor 3 at (I-6). Pil in Behemoth's Dominion. Rifts are located at (E-7), (H-8), or (J-10).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-vw-op-no-126-qufim-incursion-node-2",
+          "orderIndex": 1,
+          "title": "Speak to a Voidwatch Officer for a short cutscene and receive a Voidwatch Alarum.",
+          "description": "Speak to a Voidwatch Officer for a short cutscene and receive a Voidwatch Alarum.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-vw-op-no-126-qufim-incursion-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-vw-op-no-126-qufim-incursion-node-3",
+          "orderIndex": 2,
+          "title": "Proceed to Ru'Lude Gardens and examine the Door:Audience Chamber (H-6/H-7) for a cutscene and a 50,0",
+          "description": "Proceed to Ru'Lude Gardens and examine the Door:Audience Chamber (H-6/H-7) for a cutscene and a 50,000 Gil reward. After the cutscene, this quest is complete and the quest A Cait Calls begins automatically.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-vw-op-no-126-qufim-incursion-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-what-price-loyalty",
+      "title": "What Price Loyalty",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/What_Price_Loyalty",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-what-price-loyalty-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Gentle Tiger (S) in Bastok Markets (S) (H-6) to receive a Sack of Victuals.",
+          "description": "Speak with Gentle Tiger (S) in Bastok Markets (S) (H-6) to receive a Sack of Victuals. It is not necessary to wait a Vana'diel day after completing the previous quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-what-price-loyalty-node-2",
+          "orderIndex": 1,
+          "title": "Speak with Roderich in North Gustaberg (S) (E-11) for another cutscene.",
+          "description": "Speak with Roderich in North Gustaberg (S) (E-11) for another cutscene. Fastest route is to use Allied Notes to warp to North Gustaberg (S). Roderich will be within sight east of you.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-what-price-loyalty-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-what-price-loyalty-node-3",
+          "orderIndex": 2,
+          "title": "Return to Bastok Markets (S) and speak with Gentle Tiger (S) for the next cutscene.",
+          "description": "Return to Bastok Markets (S) and speak with Gentle Tiger (S) for the next cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-what-price-loyalty-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-what-price-loyalty-node-4",
+          "orderIndex": 3,
+          "title": "Zone into Xarcabard (S) to receive a Commander's Endorsement to trigger the next fight.",
+          "description": "Zone into Xarcabard (S) to receive a Commander's Endorsement to trigger the next fight.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-what-price-loyalty-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-what-price-loyalty-node-5",
+          "orderIndex": 4,
+          "title": "Check the Forbidding Portal at (I-7) in the northwest quadrant to view a cutscene.",
+          "description": "Check the Forbidding Portal at (I-7) in the northwest quadrant to view a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-what-price-loyalty-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-what-price-loyalty-node-6",
+          "orderIndex": 5,
+          "title": "Check the Forbidding Portal again to enter the battlefield in Everbloom Hollow.",
+          "description": "Check the Forbidding Portal again to enter the battlefield in Everbloom Hollow. If you fail the fight you need to obtain a new Commander's Endorsement from Gentle Tiger (S). You don't need to wait until the next game day to obtain a new Commander's Endorsement. Only the party leader needs to be at the Forbidding Portal as long as everyone has their final cutscene from checking it. Everyone else in the party simply needs to be in Xarcabard (S). As with the other quests, all party members must be in possession of the Commander's Endorsement or have completed the quest to enter.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-what-price-loyalty-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-what-price-loyalty-node-7",
+          "orderIndex": 6,
+          "title": "After winning the fight, you will receive a cutscene.",
+          "description": "After winning the fight, you will receive a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-what-price-loyalty-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-what-price-loyalty-node-8",
+          "orderIndex": 7,
+          "title": "Return to Bastok Markets (S) and speak with Gentle Tiger (S) for another cutscene, your reward and t",
+          "description": "Return to Bastok Markets (S) and speak with Gentle Tiger (S) for another cutscene, your reward and to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-what-price-loyalty-node-7"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-when-one-man-is-not-enough",
+      "title": "When One Man Is Not Enough",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/When_One_Man_Is_Not_Enough",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-when-one-man-is-not-enough-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Dhea Prandoleh in Windurst Waters (S) at northern (H-10) for a cutscene involving Lehko Habh",
+          "description": "Talk to Dhea Prandoleh in Windurst Waters (S) at northern (H-10) for a cutscene involving Lehko Habhoka.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-when-one-man-is-not-enough-node-2",
+          "orderIndex": 1,
+          "title": "Head to the tower at (F-10) / (F-11) in West Sarutabaruta (S) and click on the Sealed Entrance for a",
+          "description": "Head to the tower at (F-10) / (F-11) in West Sarutabaruta (S) and click on the Sealed Entrance for a cutscene. If you did not already finish the quest Snake on the Plains, you will not get this CS. First you must either finish the quest, or cancel it with Miah Riyuh.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-when-one-man-is-not-enough-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-when-one-man-is-not-enough-node-3",
+          "orderIndex": 2,
+          "title": "Optional: Click on the Sealed Entrance a second time.",
+          "description": "Optional: Click on the Sealed Entrance a second time. Clicking a second time will just show you another cutscene with Lehko Habhoka to reiterate how famished he is, and he will ask you to bring him something \"tasty.\"",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-when-one-man-is-not-enough-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-when-one-man-is-not-enough-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Dhea Prandoleh again for a CS.",
+          "description": "Talk to Dhea Prandoleh again for a CS. Romaa Mihgo will tell you that a Forest Carp is a popular Mithran cuisine. Dhea suggests that you should ask the other Mithra in the Huntsman Court for other ideas. Note:The Following conversations are not required, one must only obtain the fish and trade to the Sealed Entrance. All of the NPCs are among the tents in F8/F9. Kleh Engyumoh suggests a Pipira. Pipira may be purchased at the Fisherman's Guild (Windurst) in Port Windurst, or fished up in Windurst. Tohs Jhannih suggests a Greedie. Greedies may be purchased at the Fisherman's Guild (Windurst) in Port Windurst for less than 250 gil, or fished up in Selbina. (Greedies are not available at the Fisherman's Guild when Windurst is not in 1st, however they may be purchased on the Ship to Mhaura at any time, no matter the Conquest results.) Chioh Remhrll suggests a Blackened Muddy Siredon. A Blackened Muddy Siredon can either be purchased from Auction House, or obtained via the quest Mithran Delicacies in Carpenters' Landing. You do not need to trade all of the fish (see below).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-when-one-man-is-not-enough-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-when-one-man-is-not-enough-node-5",
+          "orderIndex": 4,
+          "title": "Once you collect the fish head back to the Sealed Entrance (F-10) in West Sarutabaruta (S) and trade",
+          "description": "Once you collect the fish head back to the Sealed Entrance (F-10) in West Sarutabaruta (S) and trade a fish for a cutscene. You will be given the option to stop feeding him or give him more fish. You cannot trade the same kind of fish twice. This seems to no longer be the case. I just fed him 2 Pipiras in a row and he took them. Contrary to Romaa Mihgo's hint, a Mihgo Mithkabob will not work, so you must collect some of the fish.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-when-one-man-is-not-enough-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-when-one-man-is-not-enough-node-6",
+          "orderIndex": 5,
+          "title": "There are a few different ways you can complete the requirements for this quest.",
+          "description": "There are a few different ways you can complete the requirements for this quest. Feed him a Pipira and then selecting \"no\" when prompted to feed him more. This results in a shorter cut-scene than the other methods below, but they all end the same way. Feed him a Pipira then a Greedie and then selecting \"no\" when prompted to feed him more. This results in a shorter cut-scene than the two methods below, but they all end the same way. (Note that even if you get the shorter cutscene, you'll still see the longer version if you view it via the Goblin Footprint later.) Feed him all three of Forest Carp, Pipira and Greedie. I fed him two Pipira and a Greedie, so it seems any combination of 3 fish will satisfy his hunger. Feed him one Blackened Muddy Siredon.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-when-one-man-is-not-enough-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-when-one-man-is-not-enough-node-7",
+          "orderIndex": 6,
+          "title": "Upon deciding to not give him more fish or once he's satisfied, Lehko Habhoka will reward you with 1",
+          "description": "Upon deciding to not give him more fish or once he's satisfied, Lehko Habhoka will reward you with 12 Red Roses.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-when-one-man-is-not-enough-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-when-one-man-is-not-enough-node-8",
+          "orderIndex": 7,
+          "title": "He also asks you to accompany him back to Windurst Waters (S).",
+          "description": "He also asks you to accompany him back to Windurst Waters (S). Doing so will trigger another cut scene starting the quest A Feast for Gnats. Note: Use of Retrace if your nation is set to Windurst will also trigger the cs. Note: Setting homepoint in Windurst Waters (S) and Warping will also trigger the cs.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-when-one-man-is-not-enough-node-7"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-crystal-war-quests-wrath-of-the-griffon",
+      "title": "Wrath of the Griffon",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Wrath_of_the_Griffon",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-crystal-war-quests-wrath-of-the-griffon-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Rholont at (E-7) of Southern San d'Oria (S) for a cutscene related to this quest regarding S",
+          "description": "Talk to Rholont at (E-7) of Southern San d'Oria (S) for a cutscene related to this quest regarding Squire Altennia's capture.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-wrath-of-the-griffon-node-2",
+          "orderIndex": 1,
+          "title": "Head to (H-10) in Jugner Forest (S) close to the Jugner Forest (S) Survival Guide or the Recall-Jugn",
+          "description": "Head to (H-10) in Jugner Forest (S) close to the Jugner Forest (S) Survival Guide or the Recall-Jugner point. Also, you can use the Campaign Teleport from Scarlette, C.A. ( Southern San d'Oria (S) (H-9) ) to Jugner Forest (S) for 40 allied notes, which is going to drop you at the center of the map. So you just need to walk around the hills in G/H-8 to reach this Crystal.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-wrath-of-the-griffon-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-wrath-of-the-griffon-node-3",
+          "orderIndex": 2,
+          "title": "Examine the ??? at (H-10) for a cutscene (it's by one of the wooden legs of the platform).",
+          "description": "Examine the ??? at (H-10) for a cutscene (it's by one of the wooden legs of the platform). Everyone in your party that needs this quest should click the ??? once before anyone spawns Cobraclaw Buchzvotch.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-wrath-of-the-griffon-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-wrath-of-the-griffon-node-4",
+          "orderIndex": 3,
+          "title": "After the cutscene, buff up and re-examine the ??? to spawn Cobraclaw Buchzvotch.",
+          "description": "After the cutscene, buff up and re-examine the ??? to spawn Cobraclaw Buchzvotch.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-wrath-of-the-griffon-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-wrath-of-the-griffon-node-5",
+          "orderIndex": 4,
+          "title": "After you kill Cobraclaw Buchzvotch, examine the ??? for another cutscene.",
+          "description": "After you kill Cobraclaw Buchzvotch, examine the ??? for another cutscene. Everyone in your party now can examine the ??? to complete this portion of the quest. Before heading back to city, you should consider unlocking the Survival Guide a bit southwest from the ???, at Jugner Forest (S) (G-11).",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-wrath-of-the-griffon-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-wrath-of-the-griffon-node-6",
+          "orderIndex": 5,
+          "title": "Return to Southern San d'Oria (S) and talk to Rholont at (E-7) for the final cutscene and a Military",
+          "description": "Return to Southern San d'Oria (S) and talk to Rholont at (E-7) for the final cutscene and a Military Scrip.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-wrath-of-the-griffon-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-crystal-war-quests-wrath-of-the-griffon-node-7",
+          "orderIndex": 6,
+          "title": "Additional Step: You could also talk to Wyatt at (L-6) in Southern San d'Oria (S).",
+          "description": "Additional Step: You could also talk to Wyatt at (L-6) in Southern San d'Oria (S). He will buy the Military Scrip for 22,500 gil, minus his commission, for a total of 20,147 gil.",
+          "dependencies": [
+            "ffxiclopedia-crystal-war-quests-wrath-of-the-griffon-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    }
+  ]
+}

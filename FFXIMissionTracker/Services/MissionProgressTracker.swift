@@ -10,11 +10,11 @@ import SwiftUI
 
 @Observable
 class MissionProgressTracker {
+    var characterManager: CharacterManager
     private(set) var completedNodes: Set<String> = []
 
-    private let userDefaultsKey = "completedMissionNodes"
-
-    init() {
+    init(characterManager: CharacterManager) {
+        self.characterManager = characterManager
         loadProgress()
     }
 
@@ -60,13 +60,20 @@ class MissionProgressTracker {
         saveProgress()
     }
 
+    func refreshProgress() {
+        loadProgress()
+    }
+
     private func saveProgress() {
-        UserDefaults.standard.set(Array(completedNodes), forKey: userDefaultsKey)
+        guard let activeCharacterId = characterManager.activeCharacter?.id else { return }
+        characterManager.saveProgress(nodeIds: completedNodes, for: activeCharacterId)
     }
 
     private func loadProgress() {
-        if let saved = UserDefaults.standard.array(forKey: userDefaultsKey) as? [String] {
-            completedNodes = Set(saved)
+        guard let activeCharacterId = characterManager.activeCharacter?.id else {
+            completedNodes = []
+            return
         }
+        completedNodes = characterManager.getProgress(for: activeCharacterId)
     }
 }

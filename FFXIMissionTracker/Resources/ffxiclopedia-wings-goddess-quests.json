@@ -1,0 +1,363 @@
+{
+  "id": "ffxiclopedia-wings-goddess-quests",
+  "name": "FFXIclopedia - Wings of the Goddess Quests",
+  "category": "expansion",
+  "source": "FFXIclopedia",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Wings_of_the_Goddess_Quests",
+  "lastScraped": "2025-12-30T10:51:15.571Z",
+  "lastKnownUpdate": "2025-12-30T10:51:15.571Z",
+  "totalMissions": 39,
+  "missions": [
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-bastok-burden-of-suspicion",
+      "title": "Burden of Suspicion",
+      "number": "1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Burden_of_Suspicion",
+      "nodes": [],
+      "gates": [],
+      "nation": "bastok"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-sandoria-wrath-of-the-griffon",
+      "title": "Wrath of the Griffon",
+      "number": "1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Wrath_of_the_Griffon",
+      "nodes": [],
+      "gates": [],
+      "nation": "sandoria"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-windurst-a-manifest-problem",
+      "title": "A Manifest Problem",
+      "number": "1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/A_Manifest_Problem",
+      "nodes": [],
+      "gates": [],
+      "nation": "windurst"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-bastok-the-fighting-fourth",
+      "title": "The Fighting Fourth",
+      "number": "2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Fighting_Fourth",
+      "nodes": [],
+      "gates": [],
+      "nation": "bastok"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-sandoria-claws-of-the-griffon",
+      "title": "Claws of the Griffon",
+      "number": "2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Claws_of_the_Griffon",
+      "nodes": [],
+      "gates": [],
+      "nation": "sandoria"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-windurst-resolve",
+      "title": "Resolve",
+      "number": "2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Resolve",
+      "nodes": [],
+      "gates": [],
+      "nation": "windurst"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-bastok-fires-of-discontent",
+      "title": "Fires of Discontent",
+      "number": "3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Fires_of_Discontent",
+      "nodes": [],
+      "gates": [],
+      "nation": "bastok"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-sandoria-griffons-grounding",
+      "title": "Griffon's Grounding",
+      "number": "3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Griffon's_Grounding",
+      "nodes": [],
+      "gates": [],
+      "nation": "sandoria"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-windurst-auld-lang-syne",
+      "title": "Auld Lang Syne",
+      "number": "3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Auld_Lang_Syne",
+      "nodes": [],
+      "gates": [],
+      "nation": "windurst"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-bastok-the-price-of-valor",
+      "title": "The Price of Valor",
+      "number": "4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Price_of_Valor",
+      "nodes": [],
+      "gates": [],
+      "nation": "bastok"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-sandoria-the-shadow-rises",
+      "title": "The Shadow Rises",
+      "number": "4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Shadow_Rises",
+      "nodes": [],
+      "gates": [],
+      "nation": "sandoria"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-windurst-the-queen-of-the-dance",
+      "title": "The Queen of the Dance",
+      "number": "4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Queen_of_the_Dance",
+      "nodes": [],
+      "gates": [],
+      "nation": "windurst"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-bastok-burden-of-suspicion",
+      "title": "Burden of Suspicion",
+      "number": "5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Burden_of_Suspicion",
+      "nodes": [],
+      "gates": [],
+      "nation": "bastok"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-sandoria-wrath-of-the-griffon",
+      "title": "Wrath of the Griffon",
+      "number": "5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Wrath_of_the_Griffon",
+      "nodes": [],
+      "gates": [],
+      "nation": "sandoria"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-windurst-a-manifest-problem",
+      "title": "A Manifest Problem",
+      "number": "5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/A_Manifest_Problem",
+      "nodes": [],
+      "gates": [],
+      "nation": "windurst"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-bastok-the-unfinished-waltz",
+      "title": "The Unfinished Waltz",
+      "number": "6",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Unfinished_Waltz",
+      "nodes": [],
+      "gates": [],
+      "nation": "bastok"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-sandoria-daughter-of-a-knight",
+      "title": "Daughter of a Knight",
+      "number": "6",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Daughter_of_a_Knight",
+      "nodes": [],
+      "gates": [],
+      "nation": "sandoria"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-windurst-a-timeswept-butterfly",
+      "title": "A Timeswept Butterfly",
+      "number": "6",
+      "url": "https://ffxiclopedia.fandom.com/wiki/A_Timeswept_Butterfly",
+      "nodes": [],
+      "gates": [],
+      "nation": "windurst"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-bastok-corrosive-shears",
+      "title": "Corrosive Shears",
+      "number": "7",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Corrosive_Shears",
+      "nodes": [],
+      "gates": [],
+      "nation": "bastok"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-sandoria-the-crimson-trial",
+      "title": "The Crimson Trial",
+      "number": "7",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Crimson_Trial",
+      "nodes": [],
+      "gates": [],
+      "nation": "sandoria"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-windurst-maiden-of-the-dusk",
+      "title": "Maiden of the Dusk",
+      "number": "7",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Maiden_of_the_Dusk",
+      "nodes": [],
+      "gates": [],
+      "nation": "windurst"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-bastok-the-lion-roars",
+      "title": "The Lion Roars",
+      "number": "8",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Lion_Roars",
+      "nodes": [],
+      "gates": [],
+      "nation": "bastok"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-sandoria-knights-march",
+      "title": "Knight's March",
+      "number": "8",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Knight's_March",
+      "nodes": [],
+      "gates": [],
+      "nation": "sandoria"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-windurst-a-geyser-of-hope",
+      "title": "A Geyser of Hope",
+      "number": "8",
+      "url": "https://ffxiclopedia.fandom.com/wiki/A_Geyser_of_Hope",
+      "nodes": [],
+      "gates": [],
+      "nation": "windurst"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-bastok-engraved-hearts",
+      "title": "Engraved Hearts",
+      "number": "9",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Engraved_Hearts",
+      "nodes": [],
+      "gates": [],
+      "nation": "bastok"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-sandoria-bonds-of-mythril",
+      "title": "Bonds of Mythril",
+      "number": "9",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Bonds_of_Mythril",
+      "nodes": [],
+      "gates": [],
+      "nation": "sandoria"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-windurst-blossom-leaves",
+      "title": "Blossom Leaves",
+      "number": "9",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Blossom_Leaves",
+      "nodes": [],
+      "gates": [],
+      "nation": "windurst"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-bastok-the-darkest-day",
+      "title": "The Darkest Day",
+      "number": "10",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Darkest_Day",
+      "nodes": [],
+      "gates": [],
+      "nation": "bastok"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-sandoria-the-darkest-day",
+      "title": "The Darkest Day",
+      "number": "10",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Darkest_Day",
+      "nodes": [],
+      "gates": [],
+      "nation": "sandoria"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-windurst-the-darkest-day",
+      "title": "The Darkest Day",
+      "number": "10",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Darkest_Day",
+      "nodes": [],
+      "gates": [],
+      "nation": "windurst"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-bastok-music-of-the-march",
+      "title": "Music of the March",
+      "number": "11",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Music_of_the_March",
+      "nodes": [],
+      "gates": [],
+      "nation": "bastok"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-sandoria-the-blood-of-heroes",
+      "title": "The Blood of Heroes",
+      "number": "11",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Blood_of_Heroes",
+      "nodes": [],
+      "gates": [],
+      "nation": "sandoria"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-windurst-child-of-woe",
+      "title": "Child of Woe",
+      "number": "11",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Child_of_Woe",
+      "nodes": [],
+      "gates": [],
+      "nation": "windurst"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-bastok-crossroads-of-time",
+      "title": "Crossroads of Time",
+      "number": "12",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crossroads_of_Time",
+      "nodes": [],
+      "gates": [],
+      "nation": "bastok"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-sandoria-crossroads-of-time",
+      "title": "Crossroads of Time",
+      "number": "12",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crossroads_of_Time",
+      "nodes": [],
+      "gates": [],
+      "nation": "sandoria"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-windurst-crossroads-of-time",
+      "title": "Crossroads of Time",
+      "number": "12",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Crossroads_of_Time",
+      "nodes": [],
+      "gates": [],
+      "nation": "windurst"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-bastok-the-saviors-bond",
+      "title": "The Savior's Bond",
+      "number": "13",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Savior's_Bond",
+      "nodes": [],
+      "gates": [],
+      "nation": "bastok"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-sandoria-the-saviors-bond",
+      "title": "The Savior's Bond",
+      "number": "13",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Savior's_Bond",
+      "nodes": [],
+      "gates": [],
+      "nation": "sandoria"
+    },
+    {
+      "id": "ffxiclopedia-wings-goddess-quests-windurst-the-saviors-bond",
+      "title": "The Savior's Bond",
+      "number": "13",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Savior's_Bond",
+      "nodes": [],
+      "gates": [],
+      "nation": "windurst"
+    }
+  ]
+}

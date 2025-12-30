@@ -36,11 +36,47 @@ class MissionDataLoader {
 
     func loadAllMissionSets() throws -> [MissionSet] {
         let filenames = [
+            // Nation Missions
             "ffxiclopedia-bastok",
             "ffxiclopedia-sandoria",
             "ffxiclopedia-windurst",
-            "zilart",
-            "promathia"
+
+            // Expansion Missions (in chronological order)
+            "ffxiclopedia-zilart",
+            "ffxiclopedia-promathia",
+            "ffxiclopedia-aht-urhgan",
+            "ffxiclopedia-wings-goddess",
+            "ffxiclopedia-seekers-adoulin",
+            "ffxiclopedia-rhapsodies",
+            "ffxiclopedia-voracious-resurgence",
+
+            // Other Mission Types
+            "ffxiclopedia-campaign",
+            "ffxiclopedia-coalition"
+        ]
+
+        return try filenames.compactMap { filename in
+            try? loadMissionSet(filename: filename)
+        }
+    }
+
+    func loadAllQuestSets() throws -> [MissionSet] {
+        let filenames = [
+            // Nation Quests
+            "ffxiclopedia-bastok-quests",
+            "ffxiclopedia-sandoria-quests",
+            "ffxiclopedia-windurst-quests",
+            "ffxiclopedia-jeuno-quests",
+
+            // Expansion Quests
+            "ffxiclopedia-aht-urhgan-quests",
+            "ffxiclopedia-abyssea-quests",
+            "ffxiclopedia-adoulin-quests",
+            "ffxiclopedia-crystal-war-quests",
+            "ffxiclopedia-wings-goddess-quests",
+
+            // Other Quest Types
+            "ffxiclopedia-outlands-quests"
         ]
 
         return try filenames.compactMap { filename in

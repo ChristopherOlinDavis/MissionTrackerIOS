@@ -43,10 +43,51 @@ struct MissionSetRowView: View {
         totalMissions > 0 ? Double(completedMissions) / Double(totalMissions) : 0
     }
 
+    private var setRequirements: [Gate] {
+        // Get gates from first mission that are expansion/set-level requirements
+        guard let firstMission = missionSet.missions.first else { return [] }
+        return firstMission.gates.filter { gate in
+            gate.type == .other && (
+                gate.requirement.lowercased().contains("expansion") ||
+                gate.requirement.lowercased().contains("rank")
+            )
+        }
+    }
+
+    private var isNationMission: Bool {
+        missionSet.category == "nation"
+    }
+
     var body: some View {
         VStack(alignment: .leading, spacing: 8) {
             Text(missionSet.name)
                 .font(.headline)
+
+            // Show nation mission indicator
+            if isNationMission {
+                HStack(spacing: 4) {
+                    Image(systemName: "info.circle.fill")
+                        .font(.caption2)
+                        .foregroundColor(.blue)
+                    Text("Only one nation required")
+                        .font(.caption2)
+                        .foregroundColor(.blue)
+                }
+            }
+
+            // Show set-level requirements if any
+            if !setRequirements.isEmpty {
+                ForEach(setRequirements) { gate in
+                    HStack(spacing: 4) {
+                        Image(systemName: "lock.fill")
+                            .font(.caption2)
+                            .foregroundColor(.orange)
+                        Text(gate.requirement)
+                            .font(.caption2)
+                            .foregroundColor(.orange)
+                    }
+                }
+            }
 
             HStack {
                 Label("\(totalMissions) missions", systemImage: "list.bullet")
@@ -71,7 +112,7 @@ struct MissionSetRowView: View {
     NavigationStack {
         MissionSetListView(
             missionSets: [],
-            progressTracker: MissionProgressTracker()
+            progressTracker: MissionProgressTracker(characterManager: CharacterManager())
         )
     }
 }

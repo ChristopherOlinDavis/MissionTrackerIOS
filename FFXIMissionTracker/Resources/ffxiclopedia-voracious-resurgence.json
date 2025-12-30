@@ -1,0 +1,3138 @@
+{
+  "id": "ffxiclopedia-voracious-resurgence",
+  "name": "FFXIclopedia - The Voracious Resurgence Missions",
+  "category": "expansion",
+  "source": "FFXIclopedia",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:The_Voracious_Resurgence_Missions",
+  "lastScraped": "2025-12-29T17:29:36.845Z",
+  "lastKnownUpdate": "2025-12-29T17:29:36.845Z",
+  "totalMissions": 45,
+  "missions": [
+    {
+      "id": "ffxiclopedia-voracious-resurgence-the-gloom-phantom-s-approach",
+      "title": "The Gloom Phantom's Approach",
+      "number": "1-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Gloom_Phantom%27s_Approach",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-gloom-phantom-s-approach-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Gumbah at Bastok Mines (J-7), in the back room of the house on the upper level.",
+          "description": "Speak with Gumbah at Bastok Mines (J-7), in the back room of the house on the upper level.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-gloom-phantom-s-approach-node-2",
+          "orderIndex": 1,
+          "title": "Enter Zeruhn Mines from Bastok Mines on foot for a cutscene.",
+          "description": "Enter Zeruhn Mines from Bastok Mines on foot for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-gloom-phantom-s-approach-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-gloom-phantom-s-approach-node-3",
+          "orderIndex": 2,
+          "title": "(optional) Speak to Makarim at Zeruhn Mines (H-11).",
+          "description": "(optional) Speak to Makarim at Zeruhn Mines (H-11).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-gloom-phantom-s-approach-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-gloom-phantom-s-approach-node-4",
+          "orderIndex": 3,
+          "title": "Check the Disturbed Dirt at Zeruhn Mines (K-10).",
+          "description": "Check the Disturbed Dirt at Zeruhn Mines (K-10).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-gloom-phantom-s-approach-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-gloom-phantom-s-approach-node-5",
+          "orderIndex": 4,
+          "title": "Check the same Disturbed Dirt again to spawn the Gloom Phantom.",
+          "description": "Check the same Disturbed Dirt again to spawn the Gloom Phantom.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-gloom-phantom-s-approach-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-gloom-phantom-s-approach-node-6",
+          "orderIndex": 5,
+          "title": "Once it is defeated, check the Disturbed Dirt a third time to receive your reward.",
+          "description": "Once it is defeated, check the Disturbed Dirt a third time to receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-gloom-phantom-s-approach-node-5"
+          ]
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-gloom-phantom-s-approach-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-voracious-resurgence-the-gloom-phantom-s-approach-node-1",
+          "requirement": "Completion of the Rhapsodies of Vana'diel Missions",
+          "description": "Completion of the Rhapsodies of Vana'diel Missions"
+        }
+      ],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Gloom_Phantom_27s_Approach.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6b/Bastok-mines.png/revision/latest?cb=20080722171106",
+          "alt": "Bastok-mines"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6b/Bastok-mines.png/revision/latest?cb=20080722171106",
+          "alt": "Bastok-mines"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/7d/ZeruhnMines.png/revision/latest?cb=20051016123104",
+          "alt": "ZeruhnMines"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-the-brygid-cup",
+      "title": "The Brygid Cup",
+      "number": "1-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Brygid_Cup",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-brygid-cup-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Gumbah at Bastok Mines (J-7), in the back room of the house on the upper level.",
+          "description": "Speak to Gumbah at Bastok Mines (J-7), in the back room of the house on the upper level.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-brygid-cup-node-2",
+          "orderIndex": 1,
+          "title": "Speak to Brygid at Bastok Markets (K-9).",
+          "description": "Speak to Brygid at Bastok Markets (K-9).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-brygid-cup-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-brygid-cup-node-3",
+          "orderIndex": 2,
+          "title": "Choose one of five NPCs' outfit to copy.",
+          "description": "Choose one of five NPCs' outfit to copy. Only if you have the gear to be able to copy Azima (S), will you attain 1st place. Azima / Azima (S) Head - Witch Hat / Coven Hat (Harvest Festival) Body - Marduk's Jubbah (Salvage) / Inyanga Jubbah (Ambuscade) Hands - Marduk's Dastanas (Salvage) / Inyanga Dastanas (Ambuscade) Legs - Marduk's Shalwar (Salvage) / Inyanga Shalwar (Ambuscade) Feet - Sorcerer's Sabots (BLM Relic) / Archmage's Sabots (BLM Reforged Relic) Naji Head - None Body - Gavial Mail (Bonecraft 103) Hands - None Legs - Royal Squire's Breeches (8,000 San d'Oria Conquest Points) Feet - Battle Boots (Leathercraft 66) Black Mud Head - Wool Hat (Clothcraft 40 or 10,924 gil) Body - Doublet (60 Sparks of Eminence) Hands - None Legs - Slops (50 Sparks of Eminence) Feet - Ash Clogs (50 Sparks of Eminence) Michea Head - None Body - Gambison (250 Sparks of Eminence) Hands - None Legs - Brais (60 Sparks of Eminence) Feet - Gaiters (60 Sparks of Eminence) Nbu Latteh Head - None Body - Bronze Harness (50 Sparks of Eminence) Hands - None Legs - Scale Cuisses (60 Sparks of Eminence) Feet - Scale Greaves (60 Sparks of Eminence)",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-brygid-cup-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-brygid-cup-node-4",
+          "orderIndex": 3,
+          "title": "Speak to Brygid again and select the one you have chosen.",
+          "description": "Speak to Brygid again and select the one you have chosen.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-brygid-cup-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-brygid-cup-node-5",
+          "orderIndex": 4,
+          "title": "Speak to Ruenda at Port Bastok (E-7) outside the Steaming Sheep Restaurant.",
+          "description": "Speak to Ruenda at Port Bastok (E-7) outside the Steaming Sheep Restaurant.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-brygid-cup-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-brygid-cup-node-6",
+          "orderIndex": 5,
+          "title": "Return to Brygid for your reward.",
+          "description": "Return to Brygid for your reward. For discussions about the rankings of race and outfit combinations, see the discussion page.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-brygid-cup-node-5"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Brygid_Cup.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6b/Bastok-mines.png/revision/latest?cb=20080722171106",
+          "alt": "Bastok-mines"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/fa/Bastok-markets.png/revision/latest?cb=20080722171104",
+          "alt": "Bastok-markets"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/d/de/Bastok-port.png/revision/latest?cb=20080722171107",
+          "alt": "Bastok-port"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-the-destiny-destroyers",
+      "title": "The Destiny Destroyers",
+      "number": "1-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Destiny_Destroyers",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-destiny-destroyers-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Gumbah at Bastok Mines (J-7), in the back room of the house on the upper level.",
+          "description": "Speak to Gumbah at Bastok Mines (J-7), in the back room of the house on the upper level.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-destiny-destroyers-node-2",
+          "orderIndex": 1,
+          "title": "Head to Korroloka Tunnel, Map 1 (D-9) and select the Stalagmite point of interest for a cutscene.",
+          "description": "Head to Korroloka Tunnel, Map 1 (D-9) and select the Stalagmite point of interest for a cutscene. The Survival Guide at Bastok Mines can take you to either Zeruhn Mines or the Altepa end of Korroloka Tunnel.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-destiny-destroyers-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-destiny-destroyers-node-3",
+          "orderIndex": 2,
+          "title": "Select the Stalagmite again to spawn and fight Gloom Phantom, Dazbog and Magh Bihu.",
+          "description": "Select the Stalagmite again to spawn and fight Gloom Phantom, Dazbog and Magh Bihu.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-destiny-destroyers-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-destiny-destroyers-node-4",
+          "orderIndex": 3,
+          "title": "Once they are defeated, select the Stalagmite a third time for another cutscene.",
+          "description": "Once they are defeated, select the Stalagmite a third time for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-destiny-destroyers-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-destiny-destroyers-node-5",
+          "orderIndex": 4,
+          "title": "Return to Gumbah at Bastok Mines (J-7) for a cutscene and your rewards.",
+          "description": "Return to Gumbah at Bastok Mines (J-7) for a cutscene and your rewards.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-destiny-destroyers-node-4"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Destiny_Destroyers.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6b/Bastok-mines.png/revision/latest?cb=20080722171106",
+          "alt": "Bastok-mines"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b0/Korroloka_Tunnel_Map_1.jpg/revision/latest?cb=20080123193431",
+          "alt": "Korroloka Tunnel Map 1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6b/Bastok-mines.png/revision/latest?cb=20080722171106",
+          "alt": "Bastok-mines"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-kupipi-s-dilemma",
+      "title": "Kupipi's Dilemma",
+      "number": "2-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Kupipi%27s_Dilemma",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-kupipi-s-dilemma-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Kupipi at Heavens Tower, Map 2 (H-6), behind the desk.",
+          "description": "Speak to Kupipi at Heavens Tower, Map 2 (H-6), behind the desk.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-kupipi-s-dilemma-node-2",
+          "orderIndex": 1,
+          "title": "Speak to Sassa-Kotassa, then trade him a Red Grass Cloth .",
+          "description": "Speak to Sassa-Kotassa, then trade him a Red Grass Cloth .",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-kupipi-s-dilemma-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-kupipi-s-dilemma-node-3",
+          "orderIndex": 2,
+          "title": "Speak to Sheelala, then trade her a Yagudo Drink .",
+          "description": "Speak to Sheelala, then trade her a Yagudo Drink .",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-kupipi-s-dilemma-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-kupipi-s-dilemma-node-4",
+          "orderIndex": 3,
+          "title": "Speak to Habida-Jubida, then trade him a Dream Flower Petal .",
+          "description": "Speak to Habida-Jubida, then trade him a Dream Flower Petal .",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-kupipi-s-dilemma-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-kupipi-s-dilemma-node-5",
+          "orderIndex": 4,
+          "title": "Speak to Kupipi again, then trade her a Ripe White Rolanberry or a White Rolanberry .",
+          "description": "Speak to Kupipi again, then trade her a Ripe White Rolanberry or a White Rolanberry . Optional: Talk to Sassa-Kotassa, Sheelala, and Habida-Jubida for additional dialogue.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-kupipi-s-dilemma-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-kupipi-s-dilemma-node-6",
+          "orderIndex": 5,
+          "title": "Speak to Shantotto at Windurst Walls (K-7) for your reward.",
+          "description": "Speak to Shantotto at Windurst Walls (K-7) for your reward.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-kupipi-s-dilemma-node-5"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Kupipi_27s_Dilemma.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/d/d5/01829.png/revision/latest/scale-to-width-down/16?cb=20180222002140",
+          "alt": "01829"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6b/04558.png/revision/latest/scale-to-width-down/16?cb=20180222041755",
+          "alt": "04558"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/67/04090.png/revision/latest/scale-to-width-down/16?cb=20201110135256",
+          "alt": "04090"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/8/85/06604.png/revision/latest/scale-to-width-down/16?cb=20201110135720",
+          "alt": "06604"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/c1/06605.png/revision/latest/scale-to-width-down/16?cb=20201110135822",
+          "alt": "06605"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/7a/HeavensTower2.png/revision/latest?cb=20080404013736",
+          "alt": "HeavensTower2"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/4b/RedGrassCloth.png/revision/latest?cb=20080115104255",
+          "alt": "RedGrassCloth"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-the-cardians-duty",
+      "title": "The Cardians' Duty",
+      "number": "2-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Cardians%27_Duty",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Shantotto at Windurst Walls (K-7).",
+          "description": "Speak to Shantotto at Windurst Walls (K-7).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-2",
+          "orderIndex": 1,
+          "title": "Speak to Kupipi at Heavens Tower, Map 2 (H-6).",
+          "description": "Speak to Kupipi at Heavens Tower, Map 2 (H-6).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-3",
+          "orderIndex": 2,
+          "title": "Speak to Sassa-Kotassa at Heavens Tower, Map 2 (H-7).",
+          "description": "Speak to Sassa-Kotassa at Heavens Tower, Map 2 (H-7).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-4",
+          "orderIndex": 3,
+          "title": "Speak to Sheelala at Heavens Tower, Map 2 (H-9).",
+          "description": "Speak to Sheelala at Heavens Tower, Map 2 (H-9).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-5",
+          "orderIndex": 4,
+          "title": "Speak to Habida-Jubida at Heavens Tower, Map 2 (G-9).",
+          "description": "Speak to Habida-Jubida at Heavens Tower, Map 2 (G-9).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-6",
+          "orderIndex": 5,
+          "title": "Examine the Disturbed Earth point of interest at East Sarutabaruta (J-8) for a cutscene.",
+          "description": "Examine the Disturbed Earth point of interest at East Sarutabaruta (J-8) for a cutscene. Unity warping to East Sarutabaruta (Content level 99 and below) will place you close to it.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-7",
+          "orderIndex": 6,
+          "title": "Examine the Disturbed Earth again to begin a battle.",
+          "description": "Examine the Disturbed Earth again to begin a battle. You have 15 minutes to complete the battle. Buffs do not wear when the battle commences. This battle is appropriate for an i117 character with five trusts. You face four Yagudo - 2x Yagudo Underling, 1x Yagudo Centurion, and 1x Yagudo Vicar. King of Spades fights on your side. If he dies, the Yagudo will despawn and you will have to attempt again. To make another attempt, simply check the Disturbed Earth. You may get a message saying you must return later, but you only need wait ten seconds.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-8",
+          "orderIndex": 7,
+          "title": "Examine the Disturbed Earth a final time for another cutscene.",
+          "description": "Examine the Disturbed Earth a final time for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-9",
+          "orderIndex": 8,
+          "title": "Optional: Talk to Sassa-Kotassa, Sheelala, and Habida-Jubida at Heavens Tower for additional dialogu",
+          "description": "Optional: Talk to Sassa-Kotassa, Sheelala, and Habida-Jubida at Heavens Tower for additional dialogue.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-10",
+          "orderIndex": 9,
+          "title": "Speak to Kupipi at Heavens Tower, Map 2 (H-6) for your reward.",
+          "description": "Speak to Kupipi at Heavens Tower, Map 2 (H-6) for your reward.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-cardians-duty-node-9"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Cardians_27_Duty.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b8/Windurst-walls.png/revision/latest?cb=20080722161301",
+          "alt": "Windurst-walls"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b8/Windurst-walls.png/revision/latest?cb=20080722161301",
+          "alt": "Windurst-walls"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/09/East_Sarutabaruta.png/revision/latest?cb=20081025141230",
+          "alt": "East Sarutabaruta"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-zhuu-buxu-s-gambit",
+      "title": "Zhuu Buxu's Gambit",
+      "number": "2-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Zhuu_Buxu%27s_Gambit",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-zhuu-buxu-s-gambit-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Kupipi at Heavens Tower, Map 2 (H-6).",
+          "description": "Speak with Kupipi at Heavens Tower, Map 2 (H-6).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-zhuu-buxu-s-gambit-node-2",
+          "orderIndex": 1,
+          "title": "Speak with Tosuka-Porika inside the Optistery at Windurst Waters, North (G-8).",
+          "description": "Speak with Tosuka-Porika inside the Optistery at Windurst Waters, North (G-8).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-zhuu-buxu-s-gambit-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-zhuu-buxu-s-gambit-node-3",
+          "orderIndex": 2,
+          "title": "Examine the Worn Chest behind the Wistaria Doors at Giddeus, Underground Level (F-6) to start the fi",
+          "description": "Examine the Worn Chest behind the Wistaria Doors at Giddeus, Underground Level (F-6) to start the fight against the Yagudo Lookout. Travel to the Sarutabaruta > Giddeus Home Point, then head north and drop down to the lower map at point E (G-8) and follow the path to the Wistaria Doors at (F-6/7).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-zhuu-buxu-s-gambit-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-zhuu-buxu-s-gambit-node-4",
+          "orderIndex": 3,
+          "title": "Defeat the Yagudo Lookout.",
+          "description": "Defeat the Yagudo Lookout. A trivial encounter for a solo iLv119 character.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-zhuu-buxu-s-gambit-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-zhuu-buxu-s-gambit-node-5",
+          "orderIndex": 4,
+          "title": "Examine the Worn Chest again to obtain the Strange doll.",
+          "description": "Examine the Worn Chest again to obtain the Strange doll.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-zhuu-buxu-s-gambit-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-zhuu-buxu-s-gambit-node-6",
+          "orderIndex": 5,
+          "title": "Speak with Tosuka-Porika at Windurst Waters, North (G-8) to lose the Strange doll and receive your r",
+          "description": "Speak with Tosuka-Porika at Windurst Waters, North (G-8) to lose the Strange doll and receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-zhuu-buxu-s-gambit-node-5"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Zhuu_Buxu_27s_Gambit.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/7a/HeavensTower2.png/revision/latest?cb=20080404013736",
+          "alt": "HeavensTower2"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b9/Windurst-waters-north.png/revision/latest?cb=20080722162951",
+          "alt": "Windurst-waters-north"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-star-onion-fortune",
+      "title": "Star Onion Fortune",
+      "number": "2-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Star_Onion_Fortune",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-star-onion-fortune-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Tosuka-Porika inside the Optistery at Windurst Waters, North (G-8) to receive the Strange",
+          "description": "Speak with Tosuka-Porika inside the Optistery at Windurst Waters, North (G-8) to receive the Strange doll again.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-star-onion-fortune-node-2",
+          "orderIndex": 1,
+          "title": "Speak with Kohlo-Lakolo behind the warehouses at Port Windurst (G-5) to lose the Strange doll and re",
+          "description": "Speak with Kohlo-Lakolo behind the warehouses at Port Windurst (G-5) to lose the Strange doll and receive the Piece of evidence.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-star-onion-fortune-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-star-onion-fortune-node-3",
+          "orderIndex": 2,
+          "title": "Examine the Piece of evidence.",
+          "description": "Examine the Piece of evidence.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-star-onion-fortune-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-star-onion-fortune-node-4",
+          "orderIndex": 3,
+          "title": "Speak with Kohlo-Lakolo again to lose the Piece of evidence.",
+          "description": "Speak with Kohlo-Lakolo again to lose the Piece of evidence.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-star-onion-fortune-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-star-onion-fortune-node-5",
+          "orderIndex": 4,
+          "title": "Travel to The Boyahda Tree and examine a specific Muggy Air point, found around Knight Crawlers, to ",
+          "description": "Travel to The Boyahda Tree and examine a specific Muggy Air point, found around Knight Crawlers, to spawn the Templar Crawler. Unity warping to The Sanctuary of Zi'Tah (Content level 122) will place you near the entrance to The Boyahda Tree. The specific Muggy Air point you require is randomly chosen, but will appear with the shimmering glow whilst this part of the mission is active. Muggy Air points appear on The Boyahda Tree, Map 1 at (D-5), (H-6), and (H-9). Please add others you may find.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-star-onion-fortune-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-star-onion-fortune-node-6",
+          "orderIndex": 5,
+          "title": "Defeat the Templar Crawler to receive the Sublime lucky egg.",
+          "description": "Defeat the Templar Crawler to receive the Sublime lucky egg. A trivial encounter for a solo iLv119 character.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-star-onion-fortune-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-star-onion-fortune-node-7",
+          "orderIndex": 6,
+          "title": "Speak with Kohlo-Lakolo behind the warehouses at Port Windurst (G-5) to lose the Sublime lucky egg a",
+          "description": "Speak with Kohlo-Lakolo behind the warehouses at Port Windurst (G-5) to lose the Sublime lucky egg and obtain your reward.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-star-onion-fortune-node-6"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Star_Onion_Fortune.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/c8/06471.png/revision/latest/scale-to-width-down/16?cb=20210112162722",
+          "alt": "06471"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b9/Windurst-waters-north.png/revision/latest?cb=20080722162951",
+          "alt": "Windurst-waters-north"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-the-doll-whisperer",
+      "title": "The Doll Whisperer",
+      "number": "2-5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Doll_Whisperer",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-doll-whisperer-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Kohlo-Lakolo behind the warehouses at Port Windurst (G-5).",
+          "description": "Speak with Kohlo-Lakolo behind the warehouses at Port Windurst (G-5).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-doll-whisperer-node-2",
+          "orderIndex": 1,
+          "title": "Optional: Talk to the Star Onion Brigade kids nearby for additional dialogue.",
+          "description": "Optional: Talk to the Star Onion Brigade kids nearby for additional dialogue.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-doll-whisperer-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-doll-whisperer-node-3",
+          "orderIndex": 2,
+          "title": "Examine the Secluded Spot at West Sarutabaruta (J-8), near the Rose Tower.",
+          "description": "Examine the Secluded Spot at West Sarutabaruta (J-8), near the Rose Tower.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-doll-whisperer-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-doll-whisperer-node-4",
+          "orderIndex": 3,
+          "title": "Examine the Secluded Spot a second time to fight Chepelle.",
+          "description": "Examine the Secluded Spot a second time to fight Chepelle. Chepelle is a Beastmaster and appears with Chepelle's Tiger, summoning Chepelle's Sheep and Chepelle's Rabbit during the course of the battle. All three can be present simultaneously. A trivial encounter for an iLv119 character with 5x Alter Egos.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-doll-whisperer-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-doll-whisperer-node-5",
+          "orderIndex": 4,
+          "title": "Examine the Secluded Spot a third time.",
+          "description": "Examine the Secluded Spot a third time.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-doll-whisperer-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-doll-whisperer-node-6",
+          "orderIndex": 5,
+          "title": "Speak with Kohlo-Lakolo behind the warehouses at Port Windurst (G-5) to receive the Magicked doll.",
+          "description": "Speak with Kohlo-Lakolo behind the warehouses at Port Windurst (G-5) to receive the Magicked doll.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-doll-whisperer-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-doll-whisperer-node-7",
+          "orderIndex": 6,
+          "title": "Optional: Talk to the Star Onion Brigade kids nearby again for additional dialogue.",
+          "description": "Optional: Talk to the Star Onion Brigade kids nearby again for additional dialogue.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-doll-whisperer-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-doll-whisperer-node-8",
+          "orderIndex": 7,
+          "title": "Speak with Kupipi at Heavens Tower, Map 2 (H-6) to obtain your rewards.",
+          "description": "Speak with Kupipi at Heavens Tower, Map 2 (H-6) to obtain your rewards.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-doll-whisperer-node-7"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Doll_Whisperer.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/71/06598.png/revision/latest/scale-to-width-down/16?cb=20200910125612",
+          "alt": "06598"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/af/22299.png/revision/latest/scale-to-width-down/16?cb=20201210145400",
+          "alt": "22299"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b9/Windurst-waters-north.png/revision/latest?cb=20080722162951",
+          "alt": "Windurst-waters-north"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-dancing-prince",
+      "title": "Dancing Prince",
+      "number": "3-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Dancing_Prince",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-dancing-prince-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Halver at Chateau d'Oraguille (I-9) for a cutscene with Destin.",
+          "description": "Speak with Halver at Chateau d'Oraguille (I-9) for a cutscene with Destin.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-dancing-prince-node-2",
+          "orderIndex": 1,
+          "title": "Speak with Rahal at Chateau d'Oraguille (H-9).",
+          "description": "Speak with Rahal at Chateau d'Oraguille (H-9).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-dancing-prince-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-dancing-prince-node-3",
+          "orderIndex": 2,
+          "title": "Speak with Quemaricond who runs to and fro around Davoi (H-7).",
+          "description": "Speak with Quemaricond who runs to and fro around Davoi (H-7).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-dancing-prince-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-dancing-prince-node-4",
+          "orderIndex": 3,
+          "title": "Enter the Monastic Cavern at Davoi (H-11).",
+          "description": "Enter the Monastic Cavern at Davoi (H-11).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-dancing-prince-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-dancing-prince-node-5",
+          "orderIndex": 4,
+          "title": "Check the Ritual Site at Monastic Cavern (H-10) to spawn an Orcish Bewitcher.",
+          "description": "Check the Ritual Site at Monastic Cavern (H-10) to spawn an Orcish Bewitcher. The Orcish Bewitcher is a Staff-wielding Black Mage Orc with access to Dark Knight Absorb spells. It will use Manafont once. This battle is easy to win for a character in i119 gear with five alter egos.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-dancing-prince-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-dancing-prince-node-6",
+          "orderIndex": 5,
+          "title": "Once the Orcish Bewitcher is dead, you will receive the Orcish battle plan.",
+          "description": "Once the Orcish Bewitcher is dead, you will receive the Orcish battle plan.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-dancing-prince-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-dancing-prince-node-7",
+          "orderIndex": 6,
+          "title": "Speak with Quemaricond at Davoi (H-7) again to receive Quemaricond's report.",
+          "description": "Speak with Quemaricond at Davoi (H-7) again to receive Quemaricond's report.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-dancing-prince-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-dancing-prince-node-8",
+          "orderIndex": 7,
+          "title": "Speak with Rahal at Chateau d'Oraguille (H-9) to complete the mission and receive the reward.",
+          "description": "Speak with Rahal at Chateau d'Oraguille (H-9) to complete the mission and receive the reward.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-dancing-prince-node-7"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Dancing_Prince.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/2f/ChateauDOraguille.png/revision/latest/scale-to-width-down/512?cb=20111111153345",
+          "alt": "ChateauDOraguille"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-claidie-s-concern",
+      "title": "Claidie's Concern",
+      "number": "3-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Claidie%27s_Concern",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-claidie-s-concern-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Halver at Chateau d'Oraguille (I-9).",
+          "description": "Speak with Halver at Chateau d'Oraguille (I-9).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-claidie-s-concern-node-2",
+          "orderIndex": 1,
+          "title": "Approach Queen Leaute's Garden for a cutscene with Chalvatot and Claidie.",
+          "description": "Approach Queen Leaute's Garden for a cutscene with Chalvatot and Claidie.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-claidie-s-concern-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-claidie-s-concern-node-3",
+          "orderIndex": 2,
+          "title": "Ensure you have a Sickle and travel to Attohwa Chasm (H-8) to find a unique Harvesting Point.",
+          "description": "Ensure you have a Sickle and travel to Attohwa Chasm (H-8) to find a unique Harvesting Point. The Harvesting Point is found in the northwest corner of (H-8)",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-claidie-s-concern-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-claidie-s-concern-node-4",
+          "orderIndex": 3,
+          "title": "Trade the Sickle to the Harvesting Point to receive the Solidago flower.",
+          "description": "Trade the Sickle to the Harvesting Point to receive the Solidago flower.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-claidie-s-concern-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-claidie-s-concern-node-5",
+          "orderIndex": 4,
+          "title": "Speak with Chalvatot at Chateau d'Oraguille (F-7).",
+          "description": "Speak with Chalvatot at Chateau d'Oraguille (F-7).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-claidie-s-concern-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-claidie-s-concern-node-6",
+          "orderIndex": 5,
+          "title": "Speak with Halver at Chateau d'Oraguille (I-9) to complete the mission and receive the reward.",
+          "description": "Speak with Halver at Chateau d'Oraguille (I-9) to complete the mission and receive the reward.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-claidie-s-concern-node-5"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Claidie_27s_Concern.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/a0/01020.png/revision/latest/scale-to-width-down/16?cb=20180221232139",
+          "alt": "01020"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/a0/01020.png/revision/latest/scale-to-width-down/16?cb=20180221232139",
+          "alt": "01020"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/a0/01020.png/revision/latest/scale-to-width-down/16?cb=20180221232139",
+          "alt": "01020"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/2f/ChateauDOraguille.png/revision/latest/scale-to-width-down/512?cb=20111111153345",
+          "alt": "ChateauDOraguille"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/c7/Sickle.jpg/revision/latest?cb=20080610022026",
+          "alt": "Sickle"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-curilla-unleashed",
+      "title": "Curilla Unleashed",
+      "number": "3-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Curilla_Unleashed",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-curilla-unleashed-node-1",
+          "orderIndex": 0,
+          "title": "Zone, then speak with Halver at Chateau d'Oraguille (I-9) to recieve Missive to Altennia.",
+          "description": "Zone, then speak with Halver at Chateau d'Oraguille (I-9) to recieve Missive to Altennia.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-curilla-unleashed-node-2",
+          "orderIndex": 1,
+          "title": "Travel to Ranguemont Pass (J-8) and select the Vicious Claw Marks to spawn the Harnessed Smilidon.",
+          "description": "Travel to Ranguemont Pass (J-8) and select the Vicious Claw Marks to spawn the Harnessed Smilidon. This is an easy battle for a solo iLv119 character without Alter-Egos.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-curilla-unleashed-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-curilla-unleashed-node-3",
+          "orderIndex": 2,
+          "title": "After defeating the Harnessed Smilodon, select the Vicious Claw Marks again for a cutscene.",
+          "description": "After defeating the Harnessed Smilodon, select the Vicious Claw Marks again for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-curilla-unleashed-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-curilla-unleashed-node-4",
+          "orderIndex": 3,
+          "title": "Speak with Halver at Chateau d'Oraguille (I-9).",
+          "description": "Speak with Halver at Chateau d'Oraguille (I-9).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-curilla-unleashed-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-curilla-unleashed-node-5",
+          "orderIndex": 4,
+          "title": "Select the door marked Prince Royal's Room at Chateau d'Oraguille (H-7).",
+          "description": "Select the door marked Prince Royal's Room at Chateau d'Oraguille (H-7).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-curilla-unleashed-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-curilla-unleashed-node-6",
+          "orderIndex": 5,
+          "title": "Travel to Bostaunieux Oubliette, Map 1 (H-9).",
+          "description": "Travel to Bostaunieux Oubliette, Map 1 (H-9). Prepare for a fight and select the Frigid Confluence to spawn Trion. Trion uses Invincible and his strongest attacks go through Utstusemi shadows.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-curilla-unleashed-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-curilla-unleashed-node-7",
+          "orderIndex": 6,
+          "title": "Speak with Curilla at Chateau d'Oraguille (I-9) to complete the mission and receive the reward and t",
+          "description": "Speak with Curilla at Chateau d'Oraguille (I-9) to complete the mission and receive the reward and title.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-curilla-unleashed-node-6"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Curilla_Unleashed.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/64/26414.png/revision/latest/scale-to-width-down/16?cb=20210310103328",
+          "alt": "26414"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/2f/ChateauDOraguille.png/revision/latest/scale-to-width-down/512?cb=20111111153345",
+          "alt": "ChateauDOraguille"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-run-excenmille-run",
+      "title": "Run, Excenmille, Run!",
+      "number": "3-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Run,_Excenmille,_Run!",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-run-excenmille-run-node-1",
+          "orderIndex": 0,
+          "title": "Zone and wait until the next game day, then speak with Halver at Chateau d'Oraguille (I-9).",
+          "description": "Zone and wait until the next game day, then speak with Halver at Chateau d'Oraguille (I-9).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-run-excenmille-run-node-2",
+          "orderIndex": 1,
+          "title": "Speak with Rahal in the Royal Knights' Quarters at Chateau d'Oraguille (H-9).",
+          "description": "Speak with Rahal in the Royal Knights' Quarters at Chateau d'Oraguille (H-9)",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-run-excenmille-run-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-run-excenmille-run-node-3",
+          "orderIndex": 2,
+          "title": "Travel to Beaucedine Glacier (H-8), prepare for combat, and select the Ferric Stench to spawn a Harn",
+          "description": "Travel to Beaucedine Glacier (H-8), prepare for combat, and select the Ferric Stench to spawn a Harnessed Smilidon, Orcish Atlatl, Orcish Praetor, and Orcish Axeman. Defeat them to receive a Carmine Swallows' map. It is near the Survival Guide. Everything is susceptible to sleep. This battle is appropriate for an i119 character with five Alter Egos.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-run-excenmille-run-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-run-excenmille-run-node-4",
+          "orderIndex": 3,
+          "title": "After defeating the enemies, select the Ferric Stench again for a cutscene.",
+          "description": "After defeating the enemies, select the Ferric Stench again for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-run-excenmille-run-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-run-excenmille-run-node-5",
+          "orderIndex": 4,
+          "title": "Head to J-6, on the same level as and near to the Mirror Pond, to find a Point of Interest.",
+          "description": "Head to J-6, on the same level as and near to the Mirror Pond, to find a Point of Interest. Select this for a cutscene and your reward. A slightly quick way to get there is to Unity warp to Fei'Yin (Content level 128), and then exit south to the pond.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-run-excenmille-run-node-4"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Run__Excenmille__Run_.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/d/d7/26271.png/revision/latest/scale-to-width-down/16?cb=20210402100759",
+          "alt": "26271"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/2f/ChateauDOraguille.png/revision/latest/scale-to-width-down/512?cb=20111111153345",
+          "alt": "ChateauDOraguille"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-of-knights-and-orcs",
+      "title": "Of Knights and Orcs",
+      "number": "3-5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Of_Knights_and_Orcs",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-of-knights-and-orcs-node-1",
+          "orderIndex": 0,
+          "title": "Enter Fei'Yin from Beaucedine Glacier for a cutscene to begin the mission.",
+          "description": "Enter Fei'Yin from Beaucedine Glacier for a cutscene to begin the mission.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-of-knights-and-orcs-node-2",
+          "orderIndex": 1,
+          "title": "Go to the basement level and inspect the Talos at Fei'Yin, Map 2 (H-7).",
+          "description": "Go to the basement level and inspect the Talos at Fei'Yin, Map 2 (H-7).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-of-knights-and-orcs-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-of-knights-and-orcs-node-3",
+          "orderIndex": 2,
+          "title": "Trade a Doll Gizmo to the Talos.",
+          "description": "Trade a Doll Gizmo to the Talos. Doll Gizmo s can be obtained from the Auction House or dropped/stolen from the Manipulator in the Temple of Uggalepih, Map 2 (J-10).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-of-knights-and-orcs-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-of-knights-and-orcs-node-4",
+          "orderIndex": 3,
+          "title": "Return to the Point of Interest at Beaucedine Glacier (J-6) and select it for a cutscene.",
+          "description": "Return to the Point of Interest at Beaucedine Glacier (J-6) and select it for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-of-knights-and-orcs-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-of-knights-and-orcs-node-5",
+          "orderIndex": 4,
+          "title": "Prepare for combat and check the Point of Interest again to spawn Slackjawed Mukdrom.",
+          "description": "Prepare for combat and check the Point of Interest again to spawn Slackjawed Mukdrom. You are assisted by Excenmille. This is an easy battle for a solo iLv119 character without Alter-Egos.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-of-knights-and-orcs-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-of-knights-and-orcs-node-6",
+          "orderIndex": 5,
+          "title": "Select the Point of Interest a third time for another cutscene.",
+          "description": "Select the Point of Interest a third time for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-of-knights-and-orcs-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-of-knights-and-orcs-node-7",
+          "orderIndex": 6,
+          "title": "Return to Chateau d'Oraguille.",
+          "description": "Return to Chateau d'Oraguille.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-of-knights-and-orcs-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-of-knights-and-orcs-node-8",
+          "orderIndex": 7,
+          "title": "Optional: Speak with Rahal for additional dialogue.",
+          "description": "Optional: Speak with Rahal for additional dialogue.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-of-knights-and-orcs-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-of-knights-and-orcs-node-9",
+          "orderIndex": 8,
+          "title": "Select the door marked Prince Royal's Room at Chateau d'Oraguille (H-7) for a cutscene, you rewards ",
+          "description": "Select the door marked Prince Royal's Room at Chateau d'Oraguille (H-7) for a cutscene, you rewards and the title.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-of-knights-and-orcs-node-8"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Of_Knights_and_Orcs.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b9/01268.png/revision/latest/scale-to-width-down/16?cb=20180221234051",
+          "alt": "01268"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/71/06598.png/revision/latest/scale-to-width-down/16?cb=20200910125612",
+          "alt": "06598"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/d/d0/21623.png/revision/latest/scale-to-width-down/16?cb=20210402110729",
+          "alt": "21623"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b9/01268.png/revision/latest/scale-to-width-down/16?cb=20180221234051",
+          "alt": "01268"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b9/01268.png/revision/latest/scale-to-width-down/16?cb=20180221234051",
+          "alt": "01268"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/4a/Doll_gizmo.png/revision/latest?cb=20080110184411",
+          "alt": "Doll gizmo"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-best-served-cold",
+      "title": "Best Served Cold",
+      "number": "4-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Best_Served_Cold",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-best-served-cold-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Gumbah at Bastok Mines (J-7) - Inside a house on the upper walkway, in the back room.",
+          "description": "Speak with Gumbah at Bastok Mines (J-7) - Inside a house on the upper walkway, in the back room.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-best-served-cold-node-2",
+          "orderIndex": 1,
+          "title": "Speak with Drangord at Bastok Mines (D-7).",
+          "description": "Speak with Drangord at Bastok Mines (D-7).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-best-served-cold-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-best-served-cold-node-3",
+          "orderIndex": 2,
+          "title": "Enter Zeruhn Mines from Bastok Mines for a cutscene.",
+          "description": "Enter Zeruhn Mines from Bastok Mines for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-best-served-cold-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-best-served-cold-node-4",
+          "orderIndex": 3,
+          "title": "Optional: Speak with Gavergo, Lasthenes, Drake Fang, and/or Zelman for additional dialogue.",
+          "description": "Optional: Speak with Gavergo, Lasthenes, Drake Fang, and/or Zelman for additional dialogue.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-best-served-cold-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-best-served-cold-node-5",
+          "orderIndex": 4,
+          "title": "Check the Quadav Inquest at Zeruhn Mines (I-9) for a cutscene.",
+          "description": "Check the Quadav Inquest at Zeruhn Mines (I-9) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-best-served-cold-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-best-served-cold-node-6",
+          "orderIndex": 5,
+          "title": "Check the Quadav Inquest again to spawn Do'Bho Venomtail.",
+          "description": "Check the Quadav Inquest again to spawn Do'Bho Venomtail. He is assisted by a Brass Quadav, a Copper Quadav, and an Old Quadav. This battle is appropriate for an i119 character with five Alter Egos. Applying a Silence effect or similar to Do'Bho Venomtail as soon as possible is recommended to prevent his destructive magics.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-best-served-cold-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-best-served-cold-node-7",
+          "orderIndex": 6,
+          "title": "Check the Quadav Inquest a third time for a cutscene to earn your reward and end the mission.",
+          "description": "Check the Quadav Inquest a third time for a cutscene to earn your reward and end the mission.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-best-served-cold-node-6"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Best_Served_Cold.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/e/e4/26219.png/revision/latest/scale-to-width-down/16?cb=20210510130423",
+          "alt": "26219"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6b/Bastok-mines.png/revision/latest?cb=20080722171106",
+          "alt": "Bastok-mines"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-cornelia-s-call-to-action",
+      "title": "Cornelia's Call to Action",
+      "number": "4-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Cornelia%27s_Call_to_Action",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-cornelia-s-call-to-action-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Iron Eater at Metalworks (J-8), outside the President's Office to begin the mission.",
+          "description": "Speak with Iron Eater at Metalworks (J-8), outside the President's Office to begin the mission. Optional: Talk to Naji for additional dialogue.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-cornelia-s-call-to-action-node-2",
+          "orderIndex": 1,
+          "title": "Enter Palborough Mines from North Gustaberg for a cutscene.",
+          "description": "Enter Palborough Mines from North Gustaberg for a cutscene. A quick way to reach the North Gustaberg entrance is to warp to the Home Point in Palborough Mines then Escape out.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-cornelia-s-call-to-action-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-cornelia-s-call-to-action-node-3",
+          "orderIndex": 2,
+          "title": "Check the Perversion's Refuge at Palborough Mines, Map 3 (H-9) for a cutscene.",
+          "description": "Check the Perversion's Refuge at Palborough Mines, Map 3 (H-9) for a cutscene. This is very close to the Home Point in Palborough Mines",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-cornelia-s-call-to-action-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-cornelia-s-call-to-action-node-4",
+          "orderIndex": 3,
+          "title": "Check the Perversion's Refuge again to spawn the Mind-warped Scorpion.",
+          "description": "Check the Perversion's Refuge again to spawn the Mind-warped Scorpion. This battle is appropriate for an i119 character with five Alter Egos.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-cornelia-s-call-to-action-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-cornelia-s-call-to-action-node-5",
+          "orderIndex": 4,
+          "title": "Check the Perversion's Refuge a third time for a cutscene and to receive Iapetus .",
+          "description": "Check the Perversion's Refuge a third time for a cutscene and to receive Iapetus .",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-cornelia-s-call-to-action-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-cornelia-s-call-to-action-node-6",
+          "orderIndex": 5,
+          "title": "Speak with Iron Eater at Metalworks (J-8), outside the President's Office for a cutscene, to receive",
+          "description": "Speak with Iron Eater at Metalworks (J-8), outside the President's Office for a cutscene, to receive 12x Seafood Gratin , the Title, and to end the mission.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-cornelia-s-call-to-action-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-cornelia-s-call-to-action-node-7",
+          "orderIndex": 6,
+          "title": "Optional: Speak with Iron Eater, Naji, and/or Ayame for additional dialogue.",
+          "description": "Optional: Speak with Iron Eater, Naji, and/or Ayame for additional dialogue.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-cornelia-s-call-to-action-node-6"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Cornelia_27s_Call_to_Action.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/fe/21886.png/revision/latest/scale-to-width-down/16?cb=20210510131706",
+          "alt": "21886"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/0c/06611.png/revision/latest/scale-to-width-down/16?cb=20210510131704",
+          "alt": "06611"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-naja-the-ambitious",
+      "title": "Naja the Ambitious",
+      "number": "5-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Naja_the_Ambitious",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-naja-the-ambitious-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Naja Salaheem at Aht Urhgan Whitegate (I-10); upstairs to begin the mission.",
+          "description": "Speak with Naja Salaheem at Aht Urhgan Whitegate (I-10); upstairs to begin the mission.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-naja-the-ambitious-node-2",
+          "orderIndex": 1,
+          "title": "Check the Savage Scars at Wajaom Woodlands (H-13) for a cutscene.",
+          "description": "Check the Savage Scars at Wajaom Woodlands (H-13) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-naja-the-ambitious-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-naja-the-ambitious-node-3",
+          "orderIndex": 2,
+          "title": "Check the Savage Scars again to spawn the Returned Soulflayer.",
+          "description": "Check the Savage Scars again to spawn the Returned Soulflayer. This battle is appropriate for an iLv119 character with five Alter Egos.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-naja-the-ambitious-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-naja-the-ambitious-node-4",
+          "orderIndex": 3,
+          "title": "Check the Savage Scars a third time for a cutscene and to receive Lock of golden hair.",
+          "description": "Check the Savage Scars a third time for a cutscene and to receive Lock of golden hair.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-naja-the-ambitious-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-naja-the-ambitious-node-5",
+          "orderIndex": 4,
+          "title": "Speak with Naja Salaheem at Aht Urhgan Whitegate (I-10); upstairs for a cutscene, to receive a Ziame",
+          "description": "Speak with Naja Salaheem at Aht Urhgan Whitegate (I-10); upstairs for a cutscene, to receive a Ziamet Khud , a Ziamet Peti , a Ziamet Bazubands , a Ziamet Salvars and a Ziamet Nails , and to end the mission.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-naja-the-ambitious-node-4"
+          ]
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-naja-the-ambitious-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-voracious-resurgence-naja-the-ambitious-node-1",
+          "requirement": "Completion of the Treasures of Aht Urhgan Missions",
+          "description": "Completion of the Treasures of Aht Urhgan Missions"
+        }
+      ],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Naja_the_Ambitious.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/ce/23792.png/revision/latest/scale-to-width-down/16?cb=20210811230826",
+          "alt": "23792"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/20/23793.png/revision/latest/scale-to-width-down/16?cb=20210712112543",
+          "alt": "23793"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/00/23794.png/revision/latest/scale-to-width-down/16?cb=20210811230854",
+          "alt": "23794"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/f0/23795.png/revision/latest/scale-to-width-down/16?cb=20210712112624",
+          "alt": "23795"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/4f/23796.png/revision/latest/scale-to-width-down/16?cb=20210712112638",
+          "alt": "23796"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/ce/23792.png/revision/latest/scale-to-width-down/16?cb=20210811230826",
+          "alt": "23792"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/20/23793.png/revision/latest/scale-to-width-down/16?cb=20210712112543",
+          "alt": "23793"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/00/23794.png/revision/latest/scale-to-width-down/16?cb=20210811230854",
+          "alt": "23794"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/f0/23795.png/revision/latest/scale-to-width-down/16?cb=20210712112624",
+          "alt": "23795"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/4f/23796.png/revision/latest/scale-to-width-down/16?cb=20210712112638",
+          "alt": "23796"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/c1/AhtUrhganWhitegate.png/revision/latest?cb=20060423141108",
+          "alt": "AhtUrhganWhitegate"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-raubahn-the-blue",
+      "title": "Raubahn the Blue",
+      "number": "5-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Raubahn_the_Blue",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-raubahn-the-blue-node-1",
+          "orderIndex": 0,
+          "title": "Select the Imperial Whitegate at Aht Urhgan Whitegate (L-9) to begin the mission.",
+          "description": "Select the Imperial Whitegate at Aht Urhgan Whitegate (L-9) to begin the mission.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-raubahn-the-blue-node-2",
+          "orderIndex": 1,
+          "title": "Check the Savage Scars at Caedarva Mire, Map 4 (I-6) for a cutscene.",
+          "description": "Check the Savage Scars at Caedarva Mire, Map 4 (I-6) for a cutscene. From Aht Urhgan Whitegate, take the Runic Portal to the Nyzul Isle Staging Point. Head through the doors to the north and then head west to arrive at the northeast transporter. When you arrive, take the eastern transporter. Once through that, head due north to exit Alzadaal Undersea Ruins and arrive at Hediva Isle in Caedarva Mire. A Unity Concord NPC will also teleport you to Hediva Isle (Content Level 135).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-raubahn-the-blue-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-raubahn-the-blue-node-3",
+          "orderIndex": 2,
+          "title": "Check the Savage Scars again to spawn the Arisen Soulflayer and 3x Descended Winebibbers.",
+          "description": "Check the Savage Scars again to spawn the Arisen Soulflayer and 3x Descended Winebibbers. This battle is a challenge for a basic iLv119 character with five Alter Egos. You are joined by Uran-Mafran.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-raubahn-the-blue-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-raubahn-the-blue-node-4",
+          "orderIndex": 3,
+          "title": "Check the Savage Scars a third time for a cutscene.",
+          "description": "Check the Savage Scars a third time for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-raubahn-the-blue-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-raubahn-the-blue-node-5",
+          "orderIndex": 4,
+          "title": "Return to the Imperial Whitegate at Aht Urhgan Whitegate (L-9) to end the mission and receive your r",
+          "description": "Return to the Imperial Whitegate at Aht Urhgan Whitegate (L-9) to end the mission and receive your reward, Mnejing's receiver.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-raubahn-the-blue-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-raubahn-the-blue-node-6",
+          "orderIndex": 5,
+          "title": "Additionally, when now speaking with Elijah in Upper Jeuno (G-6), the Records of Eminence Other > Ro",
+          "description": "Additionally, when now speaking with Elijah in Upper Jeuno (G-6), the Records of Eminence Other > RoE Quests 4 will now be available after a short dialogue.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-raubahn-the-blue-node-5"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Raubahn_the_Blue.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/c1/AhtUrhganWhitegate.png/revision/latest?cb=20060423141108",
+          "alt": "AhtUrhganWhitegate"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/8/85/CaedarvaMire4.png/revision/latest?cb=20070719093258",
+          "alt": "CaedarvaMire4"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-ghatsad-s-quandary",
+      "title": "Ghatsad's Quandary",
+      "number": "5-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Ghatsad%27s_Quandary",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-ghatsad-s-quandary-node-1",
+          "orderIndex": 0,
+          "title": "Megomak lives within the fortress walls of Mount Zhayolm and requires a Cast metal plate to reach fr",
+          "description": "Megomak lives within the fortress walls of Mount Zhayolm and requires a Cast metal plate to reach from the Halvung Staging Point.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Ghatsad_27s_Quandary.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/8/8c/MM01.png/revision/latest/scale-to-width-down/180?cb=20200418214735",
+          "alt": "General directions to reach Megomak"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/8/8c/MM01.png/revision/latest/scale-to-width-down/180?cb=20200418214735",
+          "alt": "General directions to reach Megomak"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/c1/AhtUrhganWhitegate.png/revision/latest?cb=20060423141108",
+          "alt": "AhtUrhganWhitegate"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-the-revelation",
+      "title": "The Revelation",
+      "number": "5-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Revelation",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-revelation-node-1",
+          "orderIndex": 0,
+          "title": "One is at Aydeewa Subterrane, Map 2 (K-7).",
+          "description": "One is at Aydeewa Subterrane, Map 2 (K-7)",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-revelation-node-2",
+          "orderIndex": 1,
+          "title": "One is at Aydeewa Subterrane, Map 2 (J-9) (it's on the line bordering I-9 and J-9).",
+          "description": "One is at Aydeewa Subterrane, Map 2 (J-9) (it's on the line bordering I-9 and J-9)",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-revelation-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-revelation-node-3",
+          "orderIndex": 2,
+          "title": "One is at Aydeewa Subterrane, Map 5 (F-8).",
+          "description": "One is at Aydeewa Subterrane, Map 5 (F-8)",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-revelation-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Revelation.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/c1/AhtUrhganWhitegate.png/revision/latest?cb=20060423141108",
+          "alt": "AhtUrhganWhitegate"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/fc/WajaomWoodlands.png/revision/latest?cb=20081113184203",
+          "alt": "WajaomWoodlands"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/ce/AydeewaSubterrane2.png/revision/latest?cb=20060622143214",
+          "alt": "AydeewaSubterrane2"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-tateeya-s-worries",
+      "title": "Tateeya's Worries",
+      "number": "5-5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Tateeya%27s_Worries",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-tateeya-s-worries-node-1",
+          "orderIndex": 0,
+          "title": "You will fight four enemies, including a powerful Black Mage and a Monk that is very resistant to sl",
+          "description": "You will fight four enemies, including a powerful Black Mage and a Monk that is very resistant to sleep.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-tateeya-s-worries-node-2",
+          "orderIndex": 1,
+          "title": "Glyphweaver Sikool Ja's weapon must be broken to win the fight, otherwise he'll remain at 1%.",
+          "description": "Glyphweaver Sikool Ja's weapon must be broken to win the fight, otherwise he'll remain at 1%. To do this you need to weaponskill as the NM is doing a melee attack or very shortly after.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-tateeya-s-worries-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-tateeya-s-worries-node-3",
+          "orderIndex": 2,
+          "title": "If the NM hits 1% you will do 0 damage, consider bringing some forms of Regain or Meditate either fr",
+          "description": "If the NM hits 1% you will do 0 damage, consider bringing some forms of Regain or Meditate either from main or subjob as appropriate.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-tateeya-s-worries-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Tateeya_27s_Worries.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/02/22032.png/revision/latest/scale-to-width-down/16?cb=20210811230707",
+          "alt": "22032"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/1/11/2021_September_Voracious_Resurgence_2.jpg/revision/latest?cb=20210910132701",
+          "alt": "2021 September Voracious Resurgence 2"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-the-seagull-phratrie",
+      "title": "The Seagull Phratrie",
+      "number": "5-6",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Seagull_Phratrie",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-seagull-phratrie-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: The Seagull Phratrie",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Seagull_Phratrie.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/22/02219.png/revision/latest/scale-to-width-down/16?cb=20180222004628",
+          "alt": "02219"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/02/05449.png/revision/latest/scale-to-width-down/16?cb=20180222091130",
+          "alt": "05449"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/5/5a/2021_September_Voracious_Resurgence_3.jpg/revision/latest?cb=20210910132700",
+          "alt": "2021 September Voracious Resurgence 3"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/22/02219.png/revision/latest/scale-to-width-down/16?cb=20180222004628",
+          "alt": "02219"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-the-sea-sage",
+      "title": "The Sea Sage",
+      "number": "5-7",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Sea_Sage",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-sea-sage-node-1",
+          "orderIndex": 0,
+          "title": "The fastest route is using the Caedarva Mire Survival Guide and walking east to enter Arrapago Reef.",
+          "description": "The fastest route is using the Caedarva Mire Survival Guide and walking east to enter Arrapago Reef.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Sea_Sage.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/22/02219.png/revision/latest/scale-to-width-down/16?cb=20180222004628",
+          "alt": "02219"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/02/22032.png/revision/latest/scale-to-width-down/16?cb=20210811230707",
+          "alt": "22032"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/60/22043.png/revision/latest/scale-to-width-down/16?cb=20210910140214",
+          "alt": "22043"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-sky-moon-incantrix",
+      "title": "Sky, Moon, Incantrix",
+      "number": "6-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Sky,_Moon,_Incantrix",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-sky-moon-incantrix-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Reikuu at Reisenjima (K-8), near Ingress #6.",
+          "description": "Speak with Reikuu at Reisenjima (K-8), near Ingress #6.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-sky-moon-incantrix-node-2",
+          "orderIndex": 1,
+          "title": "Speak with Incantrix, reached via Ingress #10.",
+          "description": "Speak with Incantrix, reached via Ingress #10.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-sky-moon-incantrix-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-sky-moon-incantrix-node-3",
+          "orderIndex": 2,
+          "title": "Check the Suspicious Overgrowth at Reisenjima (H-6).",
+          "description": "Check the Suspicious Overgrowth at Reisenjima (H-6).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-sky-moon-incantrix-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-sky-moon-incantrix-node-4",
+          "orderIndex": 3,
+          "title": "Trade three Hoptoad s and an Eastern Ginger to the Suspicious Overgrowth.",
+          "description": "Trade three Hoptoad s and an Eastern Ginger to the Suspicious Overgrowth. Hoptoad s can be fished up from the river at Reisenjima (G-8) (Ingress #2) using a Fly Lure. Eastern Ginger can be harvested from Wajaom Woodlands and Bhaflau Thickets.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-sky-moon-incantrix-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-sky-moon-incantrix-node-5",
+          "orderIndex": 4,
+          "title": "Speak with Reikuu to complete the mission and obtain the reward.",
+          "description": "Speak with Reikuu to complete the mission and obtain the reward.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-sky-moon-incantrix-node-4"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Sky__Moon__Incantrix.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/d/d7/06613.png/revision/latest/scale-to-width-down/16?cb=20211110214237",
+          "alt": "06613"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/8/8e/02645.png/revision/latest/scale-to-width-down/16?cb=20180222011014",
+          "alt": "02645"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/d/d7/06613.png/revision/latest/scale-to-width-down/16?cb=20211110214237",
+          "alt": "06613"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/8/8e/02645.png/revision/latest/scale-to-width-down/16?cb=20180222011014",
+          "alt": "02645"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/75/Hoptoad.png/revision/latest?cb=20211112234337",
+          "alt": "Hoptoad"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-nii-s-last-stand",
+      "title": "Nii's Last Stand",
+      "number": "6-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Nii%27s_Last_Stand",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-nii-s-last-stand-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Reikuu at Reisenjima (K-8).",
+          "description": "Speak with Reikuu at Reisenjima (K-8).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-nii-s-last-stand-node-2",
+          "orderIndex": 1,
+          "title": "Speak with Incantrix, reached via Ingress #10.",
+          "description": "Speak with Incantrix, reached via Ingress #10.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-nii-s-last-stand-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-nii-s-last-stand-node-3",
+          "orderIndex": 2,
+          "title": "Speak with Reikuu again.",
+          "description": "Speak with Reikuu again.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-nii-s-last-stand-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-nii-s-last-stand-node-4",
+          "orderIndex": 3,
+          "title": "Check the Babbling Brook at Reisenjima (F-5) (Ingress #4).",
+          "description": "Check the Babbling Brook at Reisenjima (F-5) (Ingress #4).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-nii-s-last-stand-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-nii-s-last-stand-node-5",
+          "orderIndex": 4,
+          "title": "Speak with Incantrix again.",
+          "description": "Speak with Incantrix again.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-nii-s-last-stand-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-nii-s-last-stand-node-6",
+          "orderIndex": 5,
+          "title": "Check the Aspirant's Grounds at Reisenjima (K-7) (Ingress #6) for a cutscene and your Aspirant's can",
+          "description": "Check the Aspirant's Grounds at Reisenjima (K-7) (Ingress #6) for a cutscene and your Aspirant's canteen",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-nii-s-last-stand-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-nii-s-last-stand-node-7",
+          "orderIndex": 6,
+          "title": "Check the Aspirant's Grounds a second time to enter and commence the fight.",
+          "description": "Check the Aspirant's Grounds a second time to enter and commence the fight. Trusts cannot be summoned within the Aspirant's Grounds. Buffs do not wear off.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-nii-s-last-stand-node-6"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Nii_27s_Last_Stand.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/4c/21530.png/revision/latest/scale-to-width-down/16?cb=20211110214423",
+          "alt": "21530"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-dance-of-the-tengu",
+      "title": "Dance of the Tengu",
+      "number": "6-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Dance_of_the_Tengu",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-dance-of-the-tengu-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Reikuu at Reisenjima (K-8), near Ingress #6.",
+          "description": "Speak with Reikuu at Reisenjima (K-8), near Ingress #6.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-dance-of-the-tengu-node-2",
+          "orderIndex": 1,
+          "title": "Inspect the Babbling Brook at at Reisenjima (F-5), near Ingress #4 for a cutscene.",
+          "description": "Inspect the Babbling Brook at at Reisenjima (F-5), near Ingress #4 for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-dance-of-the-tengu-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-dance-of-the-tengu-node-3",
+          "orderIndex": 2,
+          "title": "Inspect the Babbling Brook again to enter the battlefield.",
+          "description": "Inspect the Babbling Brook again to enter the battlefield.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-dance-of-the-tengu-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Dance_of_the_Tengu.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/1/1b/22044.png/revision/latest/scale-to-width-down/16?cb=20211210161450",
+          "alt": "22044"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/40/26273.png/revision/latest/scale-to-width-down/16?cb=20211210161445",
+          "alt": "26273"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-raebrimm-s-rebirth",
+      "title": "Raebrimm's Rebirth",
+      "number": "7-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Raebrimm%27s_Rebirth",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-raebrimm-s-rebirth-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Gumbah at Bastok Mines (J-7) - Inside a house on the upper walkway, in the back room.",
+          "description": "Speak with Gumbah at Bastok Mines (J-7) - Inside a house on the upper walkway, in the back room.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-raebrimm-s-rebirth-node-2",
+          "orderIndex": 1,
+          "title": "Speak with Dancing Wolf at Rabao (G-7).",
+          "description": "Speak with Dancing Wolf at Rabao (G-7).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-raebrimm-s-rebirth-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-raebrimm-s-rebirth-node-3",
+          "orderIndex": 2,
+          "title": "Inspect the ??? at Quicksand Caves, Map 5 (G-11).",
+          "description": "Inspect the ??? at Quicksand Caves, Map 5 (G-11). Solo, non-Galka players will need a Loadstone to open the doors leading to this chamber. This is accessed via Western Altepa Desert (G-5) (entrance #6).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-raebrimm-s-rebirth-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-raebrimm-s-rebirth-node-4",
+          "orderIndex": 3,
+          "title": "Inspect the ??? at Quicksand Caves, Map 7 (H-8).",
+          "description": "Inspect the ??? at Quicksand Caves, Map 7 (H-8). This is accessed via Western Altepa Desert (D-12) (entrance #4) and then Quicksand Caves, Map 4 (L-8) (exit D). Players who have unlocked the Proto-Waypoint to Quicksand Caves can teleport directly to Map 4 then take exit D. Six enemies will spawn immediately with no prior dialogue or cutscene, so prepare for combat beforehand. This battle is a good challenge for a solo player in basic iLv119 gear with 5x alter-egos.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-raebrimm-s-rebirth-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-raebrimm-s-rebirth-node-5",
+          "orderIndex": 4,
+          "title": "Inspect the ??? a second time for a cutscene and your reward.",
+          "description": "Inspect the ??? a second time for a cutscene and your reward.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-raebrimm-s-rebirth-node-4"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Raebrimm_27s_Rebirth.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6b/Bastok-mines.png/revision/latest?cb=20080722171106",
+          "alt": "Bastok-mines"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/42/Rabao.png/revision/latest?cb=20081020021952",
+          "alt": "Rabao"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-uran-mafran-of-the-maelstrom",
+      "title": "Uran-Mafran of the Maelstrom",
+      "number": "7-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Uran-Mafran_of_the_Maelstrom",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-uran-mafran-of-the-maelstrom-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Dancing Wolf at Rabao (G-7).",
+          "description": "Speak with Dancing Wolf at Rabao (G-7).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-uran-mafran-of-the-maelstrom-node-2",
+          "orderIndex": 1,
+          "title": "Pass through the Altepa Gate for a cutscene.",
+          "description": "Pass through the Altepa Gate for a cutscene. The Altepa Gate needs to be opened with a sequence of switches. Before following the guide on the Altepa Gate page to do so, it may be worth checking the current status of the switches by seeing which, if any, pillars at Western Altepa Desert (I-7) are sunken (already activated).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-uran-mafran-of-the-maelstrom-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-uran-mafran-of-the-maelstrom-node-3",
+          "orderIndex": 2,
+          "title": "Inspect the Journey's End at Quicksand Caves, Map 6 (K-10) to initiate battle.",
+          "description": "Inspect the Journey's End at Quicksand Caves, Map 6 (K-10) to initiate battle. This battle is a difficult challenge for a solo player in basic iLv119 gear with 5x alter-egos.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-uran-mafran-of-the-maelstrom-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-uran-mafran-of-the-maelstrom-node-4",
+          "orderIndex": 3,
+          "title": "Inspect the Journey's End at Quicksand Caves, Map 6 (K-10) a second time for a cutscene.",
+          "description": "Inspect the Journey's End at Quicksand Caves, Map 6 (K-10) a second time for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-uran-mafran-of-the-maelstrom-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-uran-mafran-of-the-maelstrom-node-5",
+          "orderIndex": 4,
+          "title": "Speak with Gumbah at Bastok Mines (J-7) - Inside a house on the upper walkway, in the back room to c",
+          "description": "Speak with Gumbah at Bastok Mines (J-7) - Inside a house on the upper walkway, in the back room to claim your reward and title.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-uran-mafran-of-the-maelstrom-node-4"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Uran_Mafran_of_the_Maelstrom.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/fd/25415.png/revision/latest/scale-to-width-down/16?cb=20220210143548",
+          "alt": "25415"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-koru-moru-s-hypothesis",
+      "title": "Koru-Moru's Hypothesis",
+      "number": "7-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Koru-Moru%27s_Hypothesis",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-koru-moru-s-hypothesis-node-1",
+          "orderIndex": 0,
+          "title": "Luminicloth drops from just about every Ghost in the game.",
+          "description": "Luminicloth drops from just about every Ghost in the game.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-koru-moru-s-hypothesis-node-2",
+          "orderIndex": 1,
+          "title": "Spectral Goldenrod only drops from Haunts in Kuftal Tunnel or Srei Aps in Uleguerand Range.",
+          "description": "Spectral Goldenrod only drops from Haunts in Kuftal Tunnel or Srei Aps in Uleguerand Range.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-koru-moru-s-hypothesis-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-koru-moru-s-hypothesis-node-3",
+          "orderIndex": 2,
+          "title": "Spectral Crimson only drops from Fomors who spawn at night in Misareaux Coast or Lufaise Meadows.",
+          "description": "Spectral Crimson only drops from Fomors who spawn at night in Misareaux Coast or Lufaise Meadows.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-koru-moru-s-hypothesis-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Koru_Moru_27s_Hypothesis.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/47/25416.png/revision/latest/scale-to-width-down/16?cb=20220510122003",
+          "alt": "25416"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-altennia-burns-bright",
+      "title": "Altennia Burns Bright",
+      "number": "7-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Altennia_Burns_Bright",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-altennia-burns-bright-node-1",
+          "orderIndex": 0,
+          "title": "There are 7 correct Mining Points and 5 wrong ones.",
+          "description": "There are 7 correct Mining Points and 5 wrong ones. The correct spots are: Map 5 (G-8), Map 3 (J-7), Map 3 (F-7), Map 4 (F-7), Map 1 (F-9), Map 1 (G-8), Map 7 (I-10).",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Altennia_Burns_Bright.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b3/25414.png/revision/latest/scale-to-width-down/16?cb=20220510121752",
+          "alt": "25414"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6a/ICminingmaproutes.jpg/revision/latest/scale-to-width-down/180?cb=20080711022615",
+          "alt": "Ifrit's Cauldron Mining"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6a/ICminingmaproutes.jpg/revision/latest/scale-to-width-down/180?cb=20080711022615",
+          "alt": "Ifrit's Cauldron Mining"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-maat-on-the-rampage",
+      "title": "Maat on the Rampage",
+      "number": "8-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Maat_on_the_Rampage",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-maat-on-the-rampage-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Maat on the Rampage",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Maat_on_the_Rampage.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/ce/Rulude-gardens.png/revision/latest?cb=20081018153017",
+          "alt": "Rulude-gardens"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/42/Jeuno-lower.png/revision/latest?cb=20081018200259",
+          "alt": "Jeuno-lower"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-not-just-a-pretty-face",
+      "title": "Not Just a Pretty Face",
+      "number": "8-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Not_Just_a_Pretty_Face",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-not-just-a-pretty-face-node-1",
+          "orderIndex": 0,
+          "title": "Has roughly 216k hit points.",
+          "description": "Has roughly 216k hit points. Uses Hundred Fists and Mighty Strikes.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-not-just-a-pretty-face-node-2",
+          "orderIndex": 1,
+          "title": "Gains a potent, permanent Ice Spikes effect after using Ice Roar.",
+          "description": "Gains a potent, permanent Ice Spikes effect after using Ice Roar. These spikes do more damage the lower Echion's health gets.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-not-just-a-pretty-face-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Not_Just_a_Pretty_Face.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/42/Jeuno-lower.png/revision/latest?cb=20081018200259",
+          "alt": "Jeuno-lower"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/02/Qufim_Island.png/revision/latest?cb=20090507114749",
+          "alt": "Qufim Island"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-delkfutt-the-great",
+      "title": "Delkfutt the Great",
+      "number": "8-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Delkfutt_the_Great",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-delkfutt-the-great-node-1",
+          "orderIndex": 0,
+          "title": "At level cap it may be quicker to travel to the active campaign battle and contribute to its complet",
+          "description": "At level cap it may be quicker to travel to the active campaign battle and contribute to its completion than wait for it to end on its own.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Delkfutt_the_Great.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/02/Jeuno-upper.png/revision/latest?cb=20081018153003",
+          "alt": "Jeuno-upper"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/8/8f/Jeuno-port.png/revision/latest?cb=20081018152947",
+          "alt": "Jeuno-port"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/91/Sandoria-South-S.png/revision/latest?cb=20071130142938",
+          "alt": "Sandoria-South-S"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-oshasha-violation",
+      "title": "Oshasha Violation",
+      "number": "9-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Oshasha_Violation",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-oshasha-violation-node-1",
+          "orderIndex": 0,
+          "title": "Complete mission",
+          "description": "Complete the mission: Oshasha Violation",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Oshasha_Violation.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/96/-ex5_data-_m_257_00_%28DirectX_Texture_%28DXT3%29%2C_512x512%29.png/revision/latest?cb=20130331092746",
+          "alt": "-ex5 data- m 257 00 (DirectX Texture (DXT3), 512x512)"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6d/Marjami_Marked_Map.png/revision/latest/scale-to-width-down/512?cb=20180903012127",
+          "alt": "Marjami Marked Map"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-phantasmic-heroes",
+      "title": "Phantasmic Heroes",
+      "number": "9-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Phantasmic_Heroes",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-phantasmic-heroes-node-1",
+          "orderIndex": 0,
+          "title": "Head to Western Adoulin (H-12) and speak with Marjoirelle for a cutscene.",
+          "description": "Head to Western Adoulin (H-12) and speak with Marjoirelle for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-phantasmic-heroes-node-2",
+          "orderIndex": 1,
+          "title": "Head to Leafallia (H-8) and click on the Odyssean Passage.",
+          "description": "Head to Leafallia (H-8) and click on the Odyssean Passage.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-phantasmic-heroes-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-phantasmic-heroes-node-3",
+          "orderIndex": 2,
+          "title": "Click on the nearby Test of Talents for a cutscene.",
+          "description": "Click on the nearby Test of Talents for a cutscene. Click on it again to enter a battlefield.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-phantasmic-heroes-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-phantasmic-heroes-node-4",
+          "orderIndex": 3,
+          "title": "Emerge victorious and return to Celennia Memorial Library and speak with Andreine for your rewards.",
+          "description": "Emerge victorious and return to Celennia Memorial Library and speak with Andreine for your rewards.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-phantasmic-heroes-node-3"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Phantasmic_Heroes.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/5/5c/22302.png/revision/latest/scale-to-width-down/16?cb=20220811164056",
+          "alt": "22302"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation",
+      "title": "Skokkr Undrborn's Temptation",
+      "number": "9-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Skokkr_Undrborn%27s_Temptation",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Glowing Hearth at Eastern Adoulin (H-6) for a cutscene featuring Oshasha.",
+          "description": "Speak with Glowing Hearth at Eastern Adoulin (H-6) for a cutscene featuring Oshasha.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation-node-2",
+          "orderIndex": 1,
+          "title": "Speak with Oscarnot inside the Silver Knife for a cutscene with Oshasha, Oscarnot, and The Destiny D",
+          "description": "Speak with Oscarnot inside the Silver Knife for a cutscene with Oshasha, Oscarnot, and The Destiny Destroyers.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation-node-3",
+          "orderIndex": 2,
+          "title": "Speak with Gama-Shama until he mentions Runje Desaali.",
+          "description": "Speak with Gama-Shama until he mentions Runje Desaali. (If the bidding closes for the Auria Collection you will need to talk to Zemerine before talking to Gama-Shama.)",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation-node-4",
+          "orderIndex": 3,
+          "title": "Exit to Eastern Adoulin and speak with Runje Desaali at Eastern Adoulin (J-10).",
+          "description": "Exit to Eastern Adoulin and speak with Runje Desaali at Eastern Adoulin (J-10). She will ask for items from 'jungle creepy crawlies' and is referring to Wildskeeper Reives.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation-node-5",
+          "orderIndex": 4,
+          "title": "Obtain an equipment reward from any Wildskeeper Reive.",
+          "description": "Obtain an equipment reward from any Wildskeeper Reive. You can either successfully complete one or redeem a Kupon AW-WK/Mog Kupon AW-WK with a Dealer Moogle.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation-node-6",
+          "orderIndex": 5,
+          "title": "Trade the item to Runje Desaali.",
+          "description": "Trade the item to Runje Desaali. This unlocks a new dialog option 'What does Geosuke recommend?' and allows you to purchase the following for 30,000 bayld each: Esthete's Masque Esthete's Coat Esthete's Hose",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation-node-7",
+          "orderIndex": 6,
+          "title": "Equip (or lockstyle) these items, return to the Silver Knife and talk to Zemerine for another cutsce",
+          "description": "Equip (or lockstyle) these items, return to the Silver Knife and talk to Zemerine for another cutscene with Oshasha and Skhoh Undhreh",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation-node-8",
+          "orderIndex": 7,
+          "title": "Remove your costume and speak with Oscarnot for another cutscene.",
+          "description": "Remove your costume and speak with Oscarnot for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation-node-9",
+          "orderIndex": 8,
+          "title": "Exit the Silver Knife and talk to Glowing Hearth for a final cutscene and your reward.",
+          "description": "Exit the Silver Knife and talk to Glowing Hearth for a final cutscene and your reward.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-skokkr-undrborn-s-temptation-node-8"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Skokkr_Undrborn_27s_Temptation.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/96/-ex5_data-_m_257_00_%28DirectX_Texture_%28DXT3%29%2C_512x512%29.png/revision/latest?cb=20130331092746",
+          "alt": "-ex5 data- m 257 00 (DirectX Texture (DXT3), 512x512)"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/96/-ex5_data-_m_257_00_%28DirectX_Texture_%28DXT3%29%2C_512x512%29.png/revision/latest?cb=20130331092746",
+          "alt": "-ex5 data- m 257 00 (DirectX Texture (DXT3), 512x512)"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-the-prime-weapons",
+      "title": "The Prime Weapons",
+      "number": "9-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Prime_Weapons",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-prime-weapons-node-1",
+          "orderIndex": 0,
+          "title": "Enter Celennia Memorial Library and talk to Andreine for a cutscene.",
+          "description": "Enter Celennia Memorial Library and talk to Andreine for a cutscene",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-prime-weapons-node-2",
+          "orderIndex": 1,
+          "title": "Head to Leafallia and interact with the Odyssean Passage for a cutscene with Valli, Oshasha, Lerene ",
+          "description": "Head to Leafallia and interact with the Odyssean Passage for a cutscene with Valli, Oshasha, Lerene and Skokkr Undrborn.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-prime-weapons-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-prime-weapons-node-3",
+          "orderIndex": 2,
+          "title": "Acquire one Stygian Ash from any Pixie or from a player's bazaar.",
+          "description": "Acquire one Stygian Ash from any Pixie or from a player's bazaar. Grauberg (S) is an efficient farming location. Your fastest route there is to use your Lightsworm at a ??? point of interest near a Cavernous Maw in Rolanberry Fields, Batallia Downs, or Sauromugue Champaign to enter Walk of Echoes then inspect the nearby Conflux to teleport out to Witchfire Glen in Grauberg (S).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-prime-weapons-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-prime-weapons-node-4",
+          "orderIndex": 3,
+          "title": "Trade your Stygian Ash to the Odyssean Passage in Leafallia for another cutscene and a Bronze-hued t",
+          "description": "Trade your Stygian Ash to the Odyssean Passage in Leafallia for another cutscene and a Bronze-hued tag.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-prime-weapons-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-prime-weapons-node-5",
+          "orderIndex": 4,
+          "title": "You must now journey to Outer Ra'Kaznar (K-3) and interact with the Shrouded Workroom there for anot",
+          "description": "You must now journey to Outer Ra'Kaznar (K-3) and interact with the Shrouded Workroom there for another cutscene. This expends your Bronze-hued tag There are no good shortcuts here; bring as much movement speed+ and sources of sneak/invisible as you can muster. You may have to clear some Colonization Reives on your way there, and there are sight/magic aggressive Umbrils near the Shrouded Workroom.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-prime-weapons-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-prime-weapons-node-6",
+          "orderIndex": 5,
+          "title": "Return to Leafallia and interact once again with the Odyssean Passage for a final cutscene and your ",
+          "description": "Return to Leafallia and interact once again with the Odyssean Passage for a final cutscene and your reward.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-prime-weapons-node-5"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Prime_Weapons.html"
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-to-movalpolos",
+      "title": "To Movalpolos!",
+      "number": "10-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/To_Movalpolos!",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-to-movalpolos-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Gumbah at Bastok Mines (J-7) to begin this mission.",
+          "description": "Talk to Gumbah at Bastok Mines (J-7) to begin this mission.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-to-movalpolos-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Tarnotik at Oldton Movalpolos (K-10).",
+          "description": "Talk to Tarnotik at Oldton Movalpolos (K-10).",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-to-movalpolos-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-to-movalpolos-node-3",
+          "orderIndex": 2,
+          "title": "Inspect the entrance to Mine Shaft 2716.",
+          "description": "Inspect the entrance to Mine Shaft 2716",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-to-movalpolos-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-to-movalpolos-node-4",
+          "orderIndex": 3,
+          "title": "Inspect it again to enter a battlefield.",
+          "description": "Inspect it again to enter a battlefield. This fight is best handled by a balanced party, but a player with high enough damage output and item level trusts can brute force the encounter.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-to-movalpolos-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-to-movalpolos-node-5",
+          "orderIndex": 4,
+          "title": "You receive your reward upon completion of the battle.",
+          "description": "You receive your reward upon completion of the battle.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-to-movalpolos-node-4"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_To_Movalpolos_.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6b/Bastok-mines.png/revision/latest?cb=20080722171106",
+          "alt": "Bastok-mines"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/99/Movalpolos-oldton.png/revision/latest?cb=20081021000209",
+          "alt": "Movalpolos-oldton"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-magh-bihu-on-the-prowl",
+      "title": "Magh Bihu on the Prowl",
+      "number": "10-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Magh_Bihu_on_the_Prowl",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-magh-bihu-on-the-prowl-node-1",
+          "orderIndex": 0,
+          "title": "Head to The Boyahda Tree, Map 1 (F-4) and speak with the Mandragora Warden.",
+          "description": "Head to The Boyahda Tree, Map 1 (F-4) and speak with the Mandragora Warden. The fastest way there is via the Proto-Waypoint warp to the zone.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-magh-bihu-on-the-prowl-node-2",
+          "orderIndex": 1,
+          "title": "The Mandragora Warden wants an Acidic Humus.",
+          "description": "The Mandragora Warden wants an Acidic Humus. Acquire one and trade it to them for a cutscene with Magh Bihu.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-magh-bihu-on-the-prowl-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-magh-bihu-on-the-prowl-node-3",
+          "orderIndex": 2,
+          "title": "The Mandragora Warden will now require a Watermelon to continue the mission.",
+          "description": "The Mandragora Warden will now require a Watermelon to continue the mission. Trade them one for a very easy minigame and a final cutscene and your reward.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-magh-bihu-on-the-prowl-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Magh_Bihu_on_the_Prowl.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/5/5d/02948.png/revision/latest/scale-to-width-down/16?cb=20180222012518",
+          "alt": "02948"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/1/1e/04491.png/revision/latest/scale-to-width-down/16?cb=20180222041217",
+          "alt": "04491"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/c0/Acidic_Humus.jpg/revision/latest?cb=20100712040117",
+          "alt": "Acidic Humus"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-101-dazbogs",
+      "title": "101 Dazbogs",
+      "number": "10-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/101_Dazbogs",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-101-dazbogs-node-1",
+          "orderIndex": 0,
+          "title": "Dazbog wants 6 hunks of Fat Worm Meat.",
+          "description": "Dazbog wants 6 hunks of Fat Worm Meat. This drops off Boulder Eaters in Gustav Tunnel, Map 2 (I-7) and deeper. Unity Concord warp (content level 128) is the most direct route there.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_101_Dazbogs.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/4f/09936.png/revision/latest/scale-to-width-down/16?cb=20221110172805",
+          "alt": "09936"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/5/57/Fat_Worm_Meat.png/revision/latest?cb=20221219183613",
+          "alt": "Fat Worm Meat"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-kipdrix-the-faithful",
+      "title": "Kipdrix the Faithful",
+      "number": "10-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Kipdrix_the_Faithful",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-kipdrix-the-faithful-node-1",
+          "orderIndex": 0,
+          "title": "Travel to Oldton Movalpolos (K-10) and speak with Tarnotik.",
+          "description": "Travel to Oldton Movalpolos (K-10) and speak with Tarnotik.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-kipdrix-the-faithful-node-2",
+          "orderIndex": 1,
+          "title": "Enter Mine Shaft 2716 for a cutscene.",
+          "description": "Enter Mine Shaft 2716 for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-kipdrix-the-faithful-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-kipdrix-the-faithful-node-3",
+          "orderIndex": 2,
+          "title": "Return to Tarnotik for another cutscene.",
+          "description": "Return to Tarnotik for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-kipdrix-the-faithful-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-kipdrix-the-faithful-node-4",
+          "orderIndex": 3,
+          "title": "Head for the Throne Room and examine the Throne Room door for another cutscene.",
+          "description": "Head for the Throne Room and examine the Throne Room door for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-kipdrix-the-faithful-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-kipdrix-the-faithful-node-5",
+          "orderIndex": 4,
+          "title": "Examine the Throne Room door to enter a battlefield.",
+          "description": "Examine the Throne Room door to enter a battlefield.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-kipdrix-the-faithful-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-kipdrix-the-faithful-node-6",
+          "orderIndex": 5,
+          "title": "Emerge victorious for another cutscene and your reward.",
+          "description": "Emerge victorious for another cutscene and your reward",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-kipdrix-the-faithful-node-5"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Kipdrix_the_Faithful.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/99/Movalpolos-oldton.png/revision/latest?cb=20081021000209",
+          "alt": "Movalpolos-oldton"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-duke-alloces-s-decision",
+      "title": "Duke Alloces's Decision",
+      "number": "10-5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Duke_Alloces%27s_Decision",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-duke-alloces-s-decision-node-1",
+          "orderIndex": 0,
+          "title": "Travel to Xarcabard (J-9) and examine the Heroes' Gambit point of interest for a cutscene.",
+          "description": "Travel to Xarcabard (J-9) and examine the Heroes' Gambit point of interest for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-duke-alloces-s-decision-node-2",
+          "orderIndex": 1,
+          "title": "Travel to Castle Zvahl Keep, Map 4 (G-7) (Near Home Point #1) and examine the Valhallan Rift for a c",
+          "description": "Travel to Castle Zvahl Keep, Map 4 (G-7) (Near Home Point #1) and examine the Valhallan Rift for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-duke-alloces-s-decision-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-duke-alloces-s-decision-node-3",
+          "orderIndex": 2,
+          "title": "Examine the rift again to enter a Battlefield.",
+          "description": "Examine the rift again to enter a Battlefield. When victorious you receive Despairing psyche.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-duke-alloces-s-decision-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-duke-alloces-s-decision-node-4",
+          "orderIndex": 3,
+          "title": "Return to the Heroes' Gambit for another cutscene.",
+          "description": "Return to the Heroes' Gambit for another cutscene. You will lose the Despairing psyche and receive your rewards.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-duke-alloces-s-decision-node-3"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Duke_Alloces_27s_Decision.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/a8/Xarcabard.png/revision/latest?cb=20081026040517",
+          "alt": "Xarcabard"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/a2/CastleZvahlKeep4.png/revision/latest?cb=20051018220033",
+          "alt": "CastleZvahlKeep4"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-odin-s-eye",
+      "title": "Odin's Eye",
+      "number": "10-6",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Odin%27s_Eye",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-odin-s-eye-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Heroes' Gambit in Xarcabard (J-9) for a cutscene and a Despairing psyche If it ends with",
+          "description": "Examine the Heroes' Gambit in Xarcabard (J-9) for a cutscene and a Despairing psyche If it ends with \"Lost key item: Despairing psyche.\" then you just did the last cutscene of the previous mission, and must examine it again. You may have to zone to get the next cutscene.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Odin_27s_Eye.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/29/Xarcabard-map-unmarked.jpg/revision/latest/scale-to-width-down/180?cb=20230525230451",
+          "alt": "Click for map to Odin's Eye objectives"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/a8/Xarcabard.png/revision/latest?cb=20081026040517",
+          "alt": "Xarcabard"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-moglesse-oblige",
+      "title": "Moglesse Oblige",
+      "number": "11-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Moglesse_Oblige",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-moglesse-oblige-node-1",
+          "orderIndex": 0,
+          "title": "Speak with the Moogle inside your home nation's Mog House for a cutscene.",
+          "description": "Speak with the Moogle inside your home nation's Mog House for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-moglesse-oblige-node-2",
+          "orderIndex": 1,
+          "title": "Head to the Stone Circle in La Theine Plateau (G-6) and inspect the ??? within it for another cutsce",
+          "description": "Head to the Stone Circle in La Theine Plateau (G-6) and inspect the ??? within it for another cutscene. Teleporting via a Unity Concord NPC warp (Level 99) puts you very close to this spot",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-moglesse-oblige-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-moglesse-oblige-node-3",
+          "orderIndex": 2,
+          "title": "Head to La Theine Plateau (H-10) and inspect the Moogle Meeting for another cutscene.",
+          "description": "Head to La Theine Plateau (H-10) and inspect the Moogle Meeting for another cutscene. This is near the Geomagnetic Fount and can be directly accessed for players who have completed Middle Lands Investigation. Without it you're in for a lengthy traversal of Ordelle's Caves to reach it.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-moglesse-oblige-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-moglesse-oblige-node-4",
+          "orderIndex": 3,
+          "title": "Inspect the Moogle Meeting again to enter a battlefield.",
+          "description": "Inspect the Moogle Meeting again to enter a battlefield. Emerge victorious for a final cutscene and your rewards.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-moglesse-oblige-node-3"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Moglesse_Oblige.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/2d/La_Theine_Plateau.png/revision/latest?cb=20081030170438",
+          "alt": "La Theine Plateau"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/2d/La_Theine_Plateau.png/revision/latest?cb=20081030170438",
+          "alt": "La Theine Plateau"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-the-voracious-beast",
+      "title": "The Voracious Beast",
+      "number": "11-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Voracious_Beast",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-voracious-beast-node-1",
+          "orderIndex": 0,
+          "title": "Examine the Heroes' Gambit at Xarcabard (J-9) for a cutscene.",
+          "description": "Examine the Heroes' Gambit at Xarcabard (J-9) for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-voracious-beast-node-2",
+          "orderIndex": 1,
+          "title": "Examine the Valhallan Rift at Castle Zvahl Keep, Map 4 (G-7) for another cutsene.",
+          "description": "Examine the Valhallan Rift at Castle Zvahl Keep, Map 4 (G-7) for another cutsene. This is right next to Home Point #1",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-voracious-beast-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-voracious-beast-node-3",
+          "orderIndex": 2,
+          "title": "Examine it again to enter the first of two battlefields.",
+          "description": "Examine it again to enter the first of two battlefields. Emerge victorious for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-voracious-beast-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-voracious-beast-node-4",
+          "orderIndex": 3,
+          "title": "You must now eqiup a Stage Two Prime Weapon in order to queue for and enter the second battlefield.",
+          "description": "You must now eqiup a Stage Two Prime Weapon in order to queue for and enter the second battlefield. Loughnashade and Duban do not count towards this. You may remove the weapon once inside. Emerge victorious for a cutscene and Vial of Chaos's blood",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-voracious-beast-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-voracious-resurgence-the-voracious-beast-node-5",
+          "orderIndex": 4,
+          "title": "Return to the Heroes' Gambit at Xarcabard (J-9) for a final cutscene and your choice of ring.",
+          "description": "Return to the Heroes' Gambit at Xarcabard (J-9) for a final cutscene and your choice of ring.",
+          "dependencies": [
+            "ffxiclopedia-voracious-resurgence-the-voracious-beast-node-4"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Voracious_Beast.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/a2/26225.png/revision/latest/scale-to-width-down/16?cb=20230524131239",
+          "alt": "26225"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/a2/26226.png/revision/latest/scale-to-width-down/16?cb=20230524131241",
+          "alt": "26226"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/a6/26227.png/revision/latest/scale-to-width-down/16?cb=20230524131242",
+          "alt": "26227"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/03/26228.png/revision/latest/scale-to-width-down/16?cb=20230524131243",
+          "alt": "26228"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/8/80/26229.png/revision/latest/scale-to-width-down/16?cb=20230524131245",
+          "alt": "26229"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/8/80/26230.png/revision/latest/scale-to-width-down/16?cb=20230524131246",
+          "alt": "26230"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bb/26231.png/revision/latest/scale-to-width-down/16?cb=20230524131248",
+          "alt": "26231"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-voracious-resurgence-your-decision",
+      "title": "Your Decision",
+      "number": "11-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Your_Decision",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-voracious-resurgence-your-decision-node-1",
+          "orderIndex": 0,
+          "title": "This is the last chapter in The Voracious Resurgence storyline.",
+          "description": "This is the last chapter in The Voracious Resurgence storyline. It is automatically activated after finishing The Voracious Beast. It marks the end of your journey in this mission line, congratulations!",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Your_Decision.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/99/Movalpolos-oldton.png/revision/latest?cb=20081021000209",
+          "alt": "Movalpolos-oldton"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/0c/Gusgen-mines_4.png/revision/latest?cb=20081026044423",
+          "alt": "Gusgen-mines 4"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/79/Boyahda-tree_1.png/revision/latest?cb=20081020231206",
+          "alt": "Boyahda-tree 1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1088 @@
+{
+  "id": "ffxiclopedia-promathia",
+  "name": "FFXIclopedia - Chains of Promathia Missions",
+  "category": "expansion",
+  "source": "FFXIclopedia",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Chains_of_Promathia_Missions",
+  "lastScraped": "2025-12-29T17:29:37.066Z",
+  "lastKnownUpdate": "2025-12-29T17:29:37.066Z",
+  "totalMissions": 19,
+  "missions": [
+    {
+      "id": "ffxiclopedia-promathia-the-rites-of-life",
+      "title": "The Rites of Life",
+      "number": "PM1-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Rites_of_Life",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-the-rites-of-life-node-1",
+          "orderIndex": 0,
+          "title": "To start this mission, enter Lower Delkfutt's Tower for a cutscene after installing the Chains of Pr",
+          "description": "To start this mission, enter Lower Delkfutt's Tower for a cutscene after installing the Chains of Promathia expansion pack.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-rites-of-life-node-2",
+          "orderIndex": 1,
+          "title": "After the cutscene has finished, enter Upper Jeuno for another cutscene.",
+          "description": "After the cutscene has finished, enter Upper Jeuno for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-rites-of-life-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-rites-of-life-node-3",
+          "orderIndex": 2,
+          "title": "After the second cutscene finishes, speak to Monberaux (G-10, inside the Infirmary) for final cutsce",
+          "description": "After the second cutscene finishes, speak to Monberaux (G-10, inside the Infirmary) for final cutscene and a Mysterious Amulet.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-rites-of-life-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-rites-of-life-node-4",
+          "orderIndex": 3,
+          "title": "*Important note* There are still two more people in Jeuno that you will need to speak to during the ",
+          "description": "*Important note* There are still two more people in Jeuno that you will need to speak to during the next mission.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-rites-of-life-node-3"
+          ]
+        }
+      ],
+      "gates": [
+        {
+          "id": "ffxiclopedia-promathia-the-rites-of-life-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-promathia-the-rites-of-life-node-1",
+          "requirement": "Chains of Promathia expansion",
+          "description": "Chains of Promathia expansion"
+        }
+      ],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Rites_of_Life.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/1/10/CoPtitle.jpg/revision/latest/scale-to-width-down/180?cb=20050801141259",
+          "alt": "CoPtitle"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/1/10/CoPtitle.jpg/revision/latest/scale-to-width-down/180?cb=20050801141259",
+          "alt": "CoPtitle"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/75/Bahamut_photo_03.jpg/revision/latest/scale-to-width-down/180?cb=20050801142023",
+          "alt": "Bahamut"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/75/Bahamut_photo_03.jpg/revision/latest/scale-to-width-down/180?cb=20050801142023",
+          "alt": "Bahamut"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/3/36/DelkfuttsTower1.png/revision/latest?cb=20081024191730",
+          "alt": "DelkfuttsTower1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/02/Jeuno-upper.png/revision/latest?cb=20081018153003",
+          "alt": "Jeuno-upper"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-the-mothercrystals",
+      "title": "The Mothercrystals",
+      "number": "1-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Mothercrystals",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-the-mothercrystals-node-1",
+          "orderIndex": 0,
+          "title": "Head to any of the Shattered Telepoints at Crag of Mea, Crag of Dem, Crag of Holla to enter Promyvio",
+          "description": "Head to any of the Shattered Telepoints at Crag of Mea, Crag of Dem, Crag of Holla to enter Promyvion. If you have entered one of the 3 areas before and then go to another without clearing the one you previously enter, you have to seal your memories of the previous one, which you will be prompted to do when checking the Shattered Telepoint at a different Crag.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Mothercrystals.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/1/1d/PromyvionDem.png/revision/latest/scale-to-width-down/185?cb=20051018211928",
+          "alt": "Promyvion - Dem"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/1/1d/PromyvionDem.png/revision/latest/scale-to-width-down/185?cb=20051018211928",
+          "alt": "Promyvion - Dem"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/8/83/PromyvionHolla.png/revision/latest/scale-to-width-down/185?cb=20060205042317",
+          "alt": "Promyvion - Holla"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/8/83/PromyvionHolla.png/revision/latest/scale-to-width-down/185?cb=20060205042317",
+          "alt": "Promyvion - Holla"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9c/PromyvionMea.png/revision/latest/scale-to-width-down/185?cb=20051018212320",
+          "alt": "Promyvion - Mea"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9c/PromyvionMea.png/revision/latest/scale-to-width-down/185?cb=20051018212320",
+          "alt": "Promyvion - Mea"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-the-lost-city",
+      "title": "The Lost City",
+      "number": "PM2-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Lost_City",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-the-lost-city-node-1",
+          "orderIndex": 0,
+          "title": "Head to the top floor of Tavnazian Safehold and pass through the Walnut Door at K-9.",
+          "description": "Head to the top floor of Tavnazian Safehold and pass through the Walnut Door at K-9. To save some time, consider doing the Tavnazian Safehold map quest Unforgiven at the same time, as you can get the key item on the way to Despachiaire.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-lost-city-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Despachiaire at K-10 for a cutscene.",
+          "description": "Talk to Despachiaire at K-10 for a cutscene. (Optional) Talk to Justinius at J-6, as he will warn you not to go to the Sewer Entrance.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-lost-city-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-lost-city-node-3",
+          "orderIndex": 2,
+          "title": "Head all the way down to the basement level and examine the Sewer Entrance at I-7, at the zone to Ph",
+          "description": "Head all the way down to the basement level and examine the Sewer Entrance at I-7, at the zone to Phomiuna Aqueducts. During the cutscene, you will be able to trigger the next mission Distant Beliefs.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-lost-city-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Lost_City.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/7d/Despa_photo_03.jpg/revision/latest/scale-to-width-down/120?cb=20080425052917",
+          "alt": "Despachiaire"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/f3/Tavnazian-Safehold-1.jpg/revision/latest?cb=20050413025021",
+          "alt": "Tavnazian-Safehold-1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/f3/Tavnazian-Safehold-1.jpg/revision/latest?cb=20050413025021",
+          "alt": "Tavnazian-Safehold-1"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-the-call-of-the-wyrmking",
+      "title": "The Call of the Wyrmking",
+      "number": "PM3-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Call_of_the_Wyrmking",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-the-call-of-the-wyrmking-node-1",
+          "orderIndex": 0,
+          "title": "Head to Port Bastok (Home Point #3) and approach the Departures Entrance to the Air Travel Agency at",
+          "description": "Head to Port Bastok (Home Point #3) and approach the Departures Entrance to the Air Travel Agency at F-7 to receive a cutscene. Note: If the cutscene does not activate, zone and try again.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-call-of-the-wyrmking-node-2",
+          "orderIndex": 1,
+          "title": "Then go to the Metalworks and talk to Cid (H-8).",
+          "description": "Then go to the Metalworks and talk to Cid (H-8).",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-call-of-the-wyrmking-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Call_of_the_Wyrmking.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/0a/SouthGustaberg.png/revision/latest/scale-to-width-down/180?cb=20080112030119",
+          "alt": "South Gustaberg"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/0a/SouthGustaberg.png/revision/latest/scale-to-width-down/180?cb=20080112030119",
+          "alt": "South Gustaberg"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest/scale-to-width-down/180?cb=20080722171107",
+          "alt": "Metalworks"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/73/South_Gustaberg.jpg/revision/latest?cb=20080120173513",
+          "alt": "South Gustaberg"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/d/de/Bastok-port.png/revision/latest?cb=20080722171107",
+          "alt": "Bastok-port"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-the-road-forks",
+      "title": "The Road Forks",
+      "number": "PM3-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Road_Forks",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-the-road-forks-node-1",
+          "orderIndex": 0,
+          "title": "It's strongly recommended you finish Rhapsodies of Vana'diel up to a minimum of Desert Winds, Both P",
+          "description": "It's strongly recommended you finish Rhapsodies of Vana'diel up to a minimum of Desert Winds, Both Paths Taken, or, ideally, completely finish the mission line before continuing Chains of Promathia. There are numerous Promathia missions that lock Rhapsodies missions until they're completed.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-road-forks-node-2",
+          "orderIndex": 1,
+          "title": "This is a long mission, with a lot of legwork and two NM fights.",
+          "description": "This is a long mission, with a lot of legwork and two NM fights.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-road-forks-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-road-forks-node-3",
+          "orderIndex": 2,
+          "title": "This mission is divided into 2 parts - San d'Oria route and Windurst route.",
+          "description": "This mission is divided into 2 parts - San d'Oria route and Windurst route. Route details are given below. You can complete the routes in either order, and you can even do them both at the same time. Both the San d'Oria and Windurst routes must be completed to finish this mission.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-road-forks-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Road_Forks.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/3/3c/ParradamoTor.JPG/revision/latest/scale-to-width-down/180?cb=20131008035038",
+          "alt": " Visual Guide (Click to Enlarge)"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/0d/NorthernSandOria.png/revision/latest?cb=20060307152243",
+          "alt": "NorthernSandOria"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/0d/NorthernSandOria.png/revision/latest?cb=20060307152243",
+          "alt": "NorthernSandOria"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/0d/NorthernSandOria.png/revision/latest?cb=20060307152243",
+          "alt": "NorthernSandOria"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-tending-aged-wounds",
+      "title": "Tending Aged Wounds",
+      "number": "PM3-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Tending_Aged_Wounds",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-tending-aged-wounds-node-1",
+          "orderIndex": 0,
+          "title": "Zone into Lower Jeuno to get a cutscene.",
+          "description": "Zone into Lower Jeuno to get a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-promathia-tending-aged-wounds-node-2",
+          "orderIndex": 1,
+          "title": "Go to Lower Jeuno (Home Point #2) and inspect the door of the Tenshodo Headquarters to receive the f",
+          "description": "Go to Lower Jeuno (Home Point #2) and inspect the door of the Tenshodo Headquarters to receive the final cutscene of this mission.",
+          "dependencies": [
+            "ffxiclopedia-promathia-tending-aged-wounds-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Tending_Aged_Wounds.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/42/Jeuno-lower.png/revision/latest?cb=20081018200259",
+          "alt": "Jeuno-lower"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/42/Jeuno-lower.png/revision/latest?cb=20081018200259",
+          "alt": "Jeuno-lower"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-sheltering-doubt",
+      "title": "Sheltering Doubt",
+      "number": "PM4-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Sheltering_Doubt",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-sheltering-doubt-node-1",
+          "orderIndex": 0,
+          "title": "Return to Tavnazian Safehold for a cutscene.",
+          "description": "Return to Tavnazian Safehold for a cutscene. (Home Point #3 is closest to your next objective.) Tavnazian Safehold Auction House will now be accessible. You will now be able to do the Lufaise Meadows supplies quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-promathia-sheltering-doubt-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Despachiaire (K-10) on the top floor, through the entrance with Fouagine beside it, and insi",
+          "description": "Talk to Despachiaire (K-10) on the top floor, through the entrance with Fouagine beside it, and inside the Walnut door at the back. You may need to speak to him 2 times; you'll know you've got it when you get a cut scene involving Tenzen. (Not the one about the Mithran sin hunters). Note: there are multiple Walnut Doors, the correct door is located at (K-9).",
+          "dependencies": [
+            "ffxiclopedia-promathia-sheltering-doubt-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-sheltering-doubt-node-3",
+          "orderIndex": 2,
+          "title": "(optional) Talk to Justinius (J-6) on the top floor.",
+          "description": "(optional) Talk to Justinius (J-6) on the top floor.",
+          "dependencies": [
+            "ffxiclopedia-promathia-sheltering-doubt-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-sheltering-doubt-node-4",
+          "orderIndex": 3,
+          "title": "Head to Misareaux Coast (via Tavnazian Safehold Home Point #1 and then through the southwest exit at",
+          "description": "Head to Misareaux Coast (via Tavnazian Safehold Home Point #1 and then through the southwest exit at (G-6) to Misareaux Coast) and inspect the Dilapidated Gate at (I-11) (Snowmint Point).",
+          "dependencies": [
+            "ffxiclopedia-promathia-sheltering-doubt-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-sheltering-doubt-node-5",
+          "orderIndex": 4,
+          "title": "If the cutscene appears bugged and will not allow you to continue, disable your 60 FPS plugin if you",
+          "description": "If the cutscene appears bugged and will not allow you to continue, disable your 60 FPS plugin if you are using one and restart the game.",
+          "dependencies": [
+            "ffxiclopedia-promathia-sheltering-doubt-node-4"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Sheltering_Doubt.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/f3/Tavnazian-Safehold-1.jpg/revision/latest?cb=20050413025021",
+          "alt": "Tavnazian-Safehold-1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/f3/Tavnazian-Safehold-1.jpg/revision/latest?cb=20050413025021",
+          "alt": "Tavnazian-Safehold-1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/f3/Tavnazian-Safehold-1.jpg/revision/latest?cb=20050413025021",
+          "alt": "Tavnazian-Safehold-1"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-the-savage",
+      "title": "The Savage",
+      "number": "PM4-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Savage",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-the-savage-node-1",
+          "orderIndex": 0,
+          "title": "Head to Riverne - Site #B01 via the Dilapidated Gate at (F-7) of Misareaux Coast for a cutscene.",
+          "description": "Head to Riverne - Site #B01 via the Dilapidated Gate at (F-7) of Misareaux Coast for a cutscene. You can go to the Riverne - Site #A01 Home Point and use Escape, exit through the gate and then re-enter to get the cutscene. Unity warp 128 to Misareaux Coast puts you right at the gate.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-savage-node-2",
+          "orderIndex": 1,
+          "title": "Proceed to Monarch Linn.",
+          "description": "Proceed to Monarch Linn. Head southwest and enter the first Spatial Displacement. The Wyverns in this area drop Giant Scales. You will need one to reach Monarch Linn, two if you want to activate the geomagnetic fount. Be careful of the Blazedrakes, as they will sight aggro at any level. Travel westward to the Unstable Displacement at (G-8)/(H-8) and trade a Giant Scale to it. Continue northwest to the Spatial Displacement at (F-6). To unlock the geomagnetic fount, continue southwest and enter the Spatial Displacement at the tip of (E-7), then trade your second Giant Scale to the Unstable Displacement in front of you, then continue south through the next Spatial Displacement until you find the Stone Monument. The fount is just behind it. Enter the Spatial Displacement on the southeast side of (E-7). Monarch Linn is just ahead.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-savage-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-savage-node-3",
+          "orderIndex": 2,
+          "title": "Enter the battlefield for The Savage.",
+          "description": "Enter the battlefield for The Savage. (see testimonials)",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-savage-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-savage-node-4",
+          "orderIndex": 3,
+          "title": "After defeating Ouryu, head to Tavnazian Safehold (Home Point #3) and talk to Justinius at (J-6) on ",
+          "description": "After defeating Ouryu, head to Tavnazian Safehold (Home Point #3) and talk to Justinius at (J-6) on the upper level for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-savage-node-3"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Savage.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/1/11/Misareaux-coast.png/revision/latest?cb=20081025142615",
+          "alt": "Misareaux-coast"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/f3/Tavnazian-Safehold-1.jpg/revision/latest?cb=20050413025021",
+          "alt": "Tavnazian-Safehold-1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/1/11/Misareaux-coast.png/revision/latest?cb=20081025142615",
+          "alt": "Misareaux-coast"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-the-secrets-of-worship",
+      "title": "The Secrets of Worship",
+      "number": "PM4-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Secrets_of_Worship",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-the-secrets-of-worship-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Justinius at (J-6) on the third floor (upstairs) of Tavnazian Safehold.",
+          "description": "Speak with Justinius at (J-6) on the third floor (upstairs) of Tavnazian Safehold. (Near Homepoint #3) You may get the cutscene for Uninvited Guests. If you are given a Monarch Linn Patrol Permit, simply speak to him again. (You may need to speak to him twice as he may reference the Uninvited Guests quest again.)",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Secrets_of_Worship.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/a1/Sacrarium_1.png/revision/latest/scale-to-width-down/180?cb=20081025144828",
+          "alt": "Ground Map"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/a1/Sacrarium_1.png/revision/latest/scale-to-width-down/180?cb=20081025144828",
+          "alt": "Ground Map"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/ae/Sacrarium_2.png/revision/latest/scale-to-width-down/180?cb=20081025144847",
+          "alt": "Lower Map"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/ae/Sacrarium_2.png/revision/latest/scale-to-width-down/180?cb=20081025144847",
+          "alt": "Lower Map"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/bf/Exclusive.png/revision/latest?cb=20110520150756",
+          "alt": "Exclusive"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-slanderous-utterings",
+      "title": "Slanderous Utterings",
+      "number": "PM4-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Slanderous_Utterings",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-slanderous-utterings-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Despachiaire located in Tavnazian Safehold (K-9/K-10) (Home Point #3).",
+          "description": "Talk to Despachiaire located in Tavnazian Safehold (K-9/K-10) (Home Point #3).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-promathia-slanderous-utterings-node-2",
+          "orderIndex": 1,
+          "title": "Enter Sealion's Den located in Tavnazian Safehold (H-9) (Home Point #2).",
+          "description": "Enter Sealion's Den located in Tavnazian Safehold (H-9) (Home Point #2).",
+          "dependencies": [
+            "ffxiclopedia-promathia-slanderous-utterings-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-slanderous-utterings-node-3",
+          "orderIndex": 2,
+          "title": "Inspect the Iron Gate in Sealion's Den (H-6).",
+          "description": "Inspect the Iron Gate in Sealion's Den (H-6). Optional: Sueleen, near the gate, will comment on the mission.",
+          "dependencies": [
+            "ffxiclopedia-promathia-slanderous-utterings-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Slanderous_Utterings.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/f3/Tavnazian-Safehold-1.jpg/revision/latest?cb=20050413025021",
+          "alt": "Tavnazian-Safehold-1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/3/30/SealionsDen.png/revision/latest?cb=20051204153407",
+          "alt": "SealionsDen"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/f3/Tavnazian-Safehold-1.jpg/revision/latest?cb=20050413025021",
+          "alt": "Tavnazian-Safehold-1"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-the-enduring-tumult-of-war",
+      "title": "The Enduring Tumult of War",
+      "number": "PM5-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Enduring_Tumult_of_War",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-1",
+          "orderIndex": 0,
+          "title": "If you're not on or past Both Paths Taken of Rhapsodies of Vana'diel, it's strongly recommended you ",
+          "description": "If you're not on or past Both Paths Taken of Rhapsodies of Vana'diel, it's strongly recommended you finish that before continuing. You will not be able to progress in that mission line until you flag Three Paths.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-2",
+          "orderIndex": 1,
+          "title": "Optional: Head to the top floor of the Tavnazian Safehold and go behind the Walnut Door at (K-10) / ",
+          "description": "Optional: Head to the top floor of the Tavnazian Safehold and go behind the Walnut Door at (K-10) / (J-9) border and talk to Despachiaire for a cutscene. You may get a cutscene regarding the Sin Hunters. Talk with Despachiaire again for a cutscene with both Despachiaire and Ulmia.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-3",
+          "orderIndex": 2,
+          "title": "Optional: Go to Northern San d'Oria (L-6) and talk to Chasalvige (Cathedral - Manuscript Room).",
+          "description": "Optional: Go to Northern San d'Oria (L-6) and talk to Chasalvige (Cathedral - Manuscript Room). He will have no information on events you describe and suggest to ask around at Port San d'Oria.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-4",
+          "orderIndex": 3,
+          "title": "Optional: Go to Port San d'Oria (H-6) and talk to Anoki for a cutscene where he will have hard time ",
+          "description": "Optional: Go to Port San d'Oria (H-6) and talk to Anoki for a cutscene where he will have hard time believing you. Talk with him again for dialog where he suggests you ask around at the other agencies as long as you do not mind your sanity being questioned.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-5",
+          "orderIndex": 4,
+          "title": "Go to Port Bastok for a cutscene and to start the Chapter 5 - The Return Home.",
+          "description": "Go to Port Bastok for a cutscene and to start the Chapter 5 - The Return Home. (You may teleport to Port Bastok from a Home Point.) If you go to Port Bastok without talking to Anoki, you will get an alternate cutscene, where Louverance expresses surprise over the speed at which \"you adventurers\" can move around. This alternate cutscene is not available at the Melody Minstrel. The alternate cutscene does not seem to play if you use a home point teleport into the zone. The alternate cutscene does not seem to play if you home point into Bastok Markets and run into Port Bastok.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-6",
+          "orderIndex": 5,
+          "title": "Talk to Cid for a cutscene at Metalworks (H-8), the second floor up.",
+          "description": "Talk to Cid for a cutscene at Metalworks (H-8), the second floor up.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-7",
+          "orderIndex": 6,
+          "title": "Enter Pso'Xja at (F-7) in Beaucedine Glacier for a cutscene.",
+          "description": "Enter Pso'Xja at (F-7) in Beaucedine Glacier for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-8",
+          "orderIndex": 7,
+          "title": "Follow the path forward (you should not drop down any holes), until you find a stone door.",
+          "description": "Follow the path forward (you should not drop down any holes), until you find a stone door. Check it, and the Golem named Nunyunuwi will spawn. Any job at around level 75, and even considerably lower, can defeat this with variable difficulty/speed. (see testimonials) This NM has approximately 3500 HP, though offset by a strong Auto Regen trait. Nunyunuwi only has to be defeated one time. It is not required to defeat every time one passes the door.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-9",
+          "orderIndex": 8,
+          "title": "After Nunyunuwi is defeated, check the Stone Door once more to move onward.",
+          "description": "After Nunyunuwi is defeated, check the Stone Door once more to move onward.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-10",
+          "orderIndex": 9,
+          "title": "Once through, proceed to the elevator and use it to go to the lower level.",
+          "description": "Once through, proceed to the elevator and use it to go to the lower level. Level 50 (or below): It is advisable to cast Sneak or use a Silent Oil before heading down with the elevator. Do not cast magic while on the elevator. If your level is low enough, you will aggravate monsters in range on the way down. Sitting/Resting will effectively aggravate the monsters as well, regardless of the level of a character.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-9"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-11",
+          "orderIndex": 10,
+          "title": "When the elevator reaches the bottom, take the path/hallway that leads to another Stone Door.",
+          "description": "When the elevator reaches the bottom, take the path/hallway that leads to another Stone Door.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-10"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-12",
+          "orderIndex": 11,
+          "title": "Check the Stone Door for a cutscene which will take you to Promyvion - Vahzl, where you will get ano",
+          "description": "Check the Stone Door for a cutscene which will take you to Promyvion - Vahzl, where you will get another cutscene and start the next mission. You will also obtain the Light of Vahzl as you enter.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-enduring-tumult-of-war-node-11"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Enduring_Tumult_of_War.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/03/Pso%27xja_Composite.PNG/revision/latest/scale-to-width-down/180?cb=20101118134051",
+          "alt": "Pso'xja Composite Map"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/03/Pso%27xja_Composite.PNG/revision/latest/scale-to-width-down/180?cb=20101118134051",
+          "alt": "Pso'xja Composite Map"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/d/de/Bastok-port.png/revision/latest?cb=20080722171107",
+          "alt": "Bastok-port"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/1/17/PsoXja1.png/revision/latest?cb=20051018213223",
+          "alt": "PsoXja1"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-three-paths",
+      "title": "Three Paths",
+      "number": "PM5-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Three_Paths",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-three-paths-node-1",
+          "orderIndex": 0,
+          "title": "Head to the Metalworks and talk to Cid (H-8) to get started.",
+          "description": "Head to the Metalworks and talk to Cid (H-8) to get started. If you talked to Cid at the end of the previous mission, you have already started this mission. Check your Mission log to see if \"The Three Paths\" is listed. It does not matter which path you choose when you talk to Cid as they can be completed in any order. You can be working on more than one section at a time.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-promathia-three-paths-node-2",
+          "orderIndex": 1,
+          "title": "Complete all three paths below to complete the mission.",
+          "description": "Complete all three paths below to complete the mission.",
+          "dependencies": [
+            "ffxiclopedia-promathia-three-paths-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Three_Paths.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-for-whom-the-verse-is-sung",
+      "title": "For Whom the Verse is Sung",
+      "number": "PM6-1",
+      "url": "https://ffxiclopedia.fandom.com/wiki/For_Whom_the_Verse_is_Sung",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-for-whom-the-verse-is-sung-node-1",
+          "orderIndex": 0,
+          "title": "Head to Ru'Lude Gardens (Home Point #1) and talk to Pherimociel at (G-6), inside the Guard Post of t",
+          "description": "Head to Ru'Lude Gardens (Home Point #1) and talk to Pherimociel at (G-6), inside the Guard Post of the Grand Duke Palace for a cutscene. It may take a few tries to get the correct dialogue.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-promathia-for-whom-the-verse-is-sung-node-2",
+          "orderIndex": 1,
+          "title": "Head to Upper Jeuno (Home Point #1) and click on the door to the Marble Bridge Eatery at (F-7) for a",
+          "description": "Head to Upper Jeuno (Home Point #1) and click on the door to the Marble Bridge Eatery at (F-7) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-promathia-for-whom-the-verse-is-sung-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-for-whom-the-verse-is-sung-node-3",
+          "orderIndex": 2,
+          "title": "Zone back into Ru'Lude Gardens for a cutscene.",
+          "description": "Zone back into Ru'Lude Gardens for a cutscene. (Home Point #1 will place you closest to your next destination)",
+          "dependencies": [
+            "ffxiclopedia-promathia-for-whom-the-verse-is-sung-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_For_Whom_the_Verse_is_Sung.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/ce/Rulude-gardens.png/revision/latest?cb=20081018153017",
+          "alt": "Rulude-gardens"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/02/Jeuno-upper.png/revision/latest?cb=20081018153003",
+          "alt": "Jeuno-upper"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/ce/Rulude-gardens.png/revision/latest?cb=20081018153017",
+          "alt": "Rulude-gardens"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-more-questions-than-answers",
+      "title": "More Questions Than Answers",
+      "number": "PM6-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/More_Questions_Than_Answers",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-more-questions-than-answers-node-1",
+          "orderIndex": 0,
+          "title": "Head to Ru'Lude Gardens (Home Point #1) and talk to Pherimociel at (G-6) for a cutscene.",
+          "description": "Head to Ru'Lude Gardens (Home Point #1) and talk to Pherimociel at (G-6) for a cutscene. This may yet again need a few tries for the correct dialogue. The mission dialog begins \"You adventurers are quick to hear the news!\".",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-promathia-more-questions-than-answers-node-2",
+          "orderIndex": 1,
+          "title": "Check the Audience Chamber door upstairs at (H-6) for a cutscene with Prishe, Ulmia, Esha'ntarl and ",
+          "description": "Check the Audience Chamber door upstairs at (H-6) for a cutscene with Prishe, Ulmia, Esha'ntarl and Louverance (you may have to click the door twice if you participate in Voidwatch).",
+          "dependencies": [
+            "ffxiclopedia-promathia-more-questions-than-answers-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-more-questions-than-answers-node-3",
+          "orderIndex": 2,
+          "title": "Head to Selbina and talk to Mathilde at (H-9), inside of the Weavers' Guild (inside the door closest",
+          "description": "Head to Selbina and talk to Mathilde at (H-9), inside of the Weavers' Guild (inside the door closest to the Home Point, near the sheep pen), for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-promathia-more-questions-than-answers-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-more-questions-than-answers-node-4",
+          "orderIndex": 3,
+          "title": "Optional: Talk to Mathilde again for more dialogue.",
+          "description": "Optional: Talk to Mathilde again for more dialogue.",
+          "dependencies": [
+            "ffxiclopedia-promathia-more-questions-than-answers-node-3"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_More_Questions_Than_Answers.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/ce/Rulude-gardens.png/revision/latest?cb=20081018153017",
+          "alt": "Rulude-gardens"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/ce/Rulude-gardens.png/revision/latest?cb=20081018153017",
+          "alt": "Rulude-gardens"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/5/5e/Selbina.png/revision/latest?cb=20080310033012",
+          "alt": "Selbina"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-one-to-be-feared",
+      "title": "One to be Feared",
+      "number": "PM6-4",
+      "url": "https://ffxiclopedia.fandom.com/wiki/One_to_be_Feared",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-one-to-be-feared-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Cid at Metalworks for a quick cutscene.",
+          "description": "Talk to Cid at Metalworks for a quick cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-promathia-one-to-be-feared-node-2",
+          "orderIndex": 1,
+          "title": "Head to the Tavnazian Safehold (Home Point #2 is the fastest option).",
+          "description": "Head to the Tavnazian Safehold (Home Point #2 is the fastest option).",
+          "dependencies": [
+            "ffxiclopedia-promathia-one-to-be-feared-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-one-to-be-feared-node-3",
+          "orderIndex": 2,
+          "title": "Enter Sealion's Den for a quick cutscene.",
+          "description": "Enter Sealion's Den for a quick cutscene. Optional: Talk to Sueleen (near the gate) for additional dialogue.",
+          "dependencies": [
+            "ffxiclopedia-promathia-one-to-be-feared-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-one-to-be-feared-node-4",
+          "orderIndex": 3,
+          "title": "Click on the Iron Gate ahead for a cutscene.",
+          "description": "Click on the Iron Gate ahead for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-promathia-one-to-be-feared-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-one-to-be-feared-node-5",
+          "orderIndex": 4,
+          "title": "Examine the Iron Gate again to enter the battlefield for One to be Feared.",
+          "description": "Examine the Iron Gate again to enter the battlefield for One to be Feared. (see testimonials) (see strategies)",
+          "dependencies": [
+            "ffxiclopedia-promathia-one-to-be-feared-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-one-to-be-feared-node-6",
+          "orderIndex": 5,
+          "title": "After defeating Ultima, the party will be teleported to Lufaise Meadows.",
+          "description": "After defeating Ultima, the party will be teleported to Lufaise Meadows. This is when the players will receive a Ducal Guard's Ring which completes the mission. Anyone who has already completed the mission before will be teleported to Sealion's Den.",
+          "dependencies": [
+            "ffxiclopedia-promathia-one-to-be-feared-node-5"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_One_to_be_Feared.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/3/30/SealionsDen.png/revision/latest?cb=20051204153407",
+          "alt": "SealionsDen"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-flames-in-the-darkness",
+      "title": "Flames in the Darkness",
+      "number": "PM7-2",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Flames_in_the_Darkness",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-flames-in-the-darkness-node-1",
+          "orderIndex": 0,
+          "title": "Head to Misareaux Coast and check the Dilapidated Gate at (F-7) for cutscene with Tenzen.",
+          "description": "Head to Misareaux Coast and check the Dilapidated Gate at (F-7) for cutscene with Tenzen. Fastest route is to use the Unity Warp 122 to Misareaux Coast. Otherwise you can use the Home Point warp to either Riverne - Site A01 or Riverne - Site B01 and use Escape, placing you just inside the gated area. Exit and re-enter the gate to receive the cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-promathia-flames-in-the-darkness-node-2",
+          "orderIndex": 1,
+          "title": "Head to Sealion's Den and talk to Sueleen at (H-6).",
+          "description": "Head to Sealion's Den and talk to Sueleen at (H-6). Fastest route is Tavnazian Safehold (Home Point #2) and walk directly south. You may have to speak with her twice to get the cutscene, which is very brief. The correct cutscene starts with \"You just missed them!\".",
+          "dependencies": [
+            "ffxiclopedia-promathia-flames-in-the-darkness-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-promathia-flames-in-the-darkness-node-3",
+          "orderIndex": 2,
+          "title": "Head to Ru'Lude Gardens (Home Point #1) and approach the Palace at (H-7).",
+          "description": "Head to Ru'Lude Gardens (Home Point #1) and approach the Palace at (H-7). While you're here, it's strongly recommended you now talk with Taillegeas at (I-7) to get Trust: Cherukiki. She is a good Trust and you only have a small window to get her before she's unavailable. She won't be available again until after finishing Chains of Promathia in full Choose the default option \"I want to see how this plays out\" to get Trust: Cherukiki. If in the cutscene you choose \"Let me get my hammer\" Cherukiki will warp away and you will not get it.",
+          "dependencies": [
+            "ffxiclopedia-promathia-flames-in-the-darkness-node-2"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Flames_in_the_Darkness.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/1/11/Misareaux-coast.png/revision/latest?cb=20081025142615",
+          "alt": "Misareaux-coast"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/3/30/SealionsDen.png/revision/latest?cb=20051204153407",
+          "alt": "SealionsDen"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/ce/Rulude-gardens.png/revision/latest?cb=20081018153017",
+          "alt": "Rulude-gardens"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-fire-in-the-eyes-of-men",
+      "title": "Fire in the Eyes of Men",
+      "number": "PM7-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/Fire_in_the_Eyes_of_Men",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-fire-in-the-eyes-of-men-node-1",
+          "orderIndex": 0,
+          "title": "Head to Mine Shaft #2716 and check the Shaft Entrance for a cutscene.",
+          "description": "Head to Mine Shaft #2716 and check the Shaft Entrance for a cutscene. Best access is via the Home Point #1. M-9 (Entrance to Mine Shaft 2716) in Newton Movalpolos. Should have gotten this during COP 5-3. If you didn't get the Home Point, you may want to bring a Snow Lily for trading to Tarnotik in Oldton Movalpolos at (K-10) to be warped here.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Fire_in_the_Eyes_of_Men.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/ae/NewtonMovalpolos.png/revision/latest?cb=20061204151440",
+          "alt": "NewtonMovalpolos"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/99/Movalpolos-oldton.png/revision/latest?cb=20081021000209",
+          "alt": "Movalpolos-oldton"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-the-warrior-s-path",
+      "title": "The Warrior's Path",
+      "number": "PM7-5",
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Warrior%27s_Path",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-the-warrior-s-path-node-1",
+          "orderIndex": 0,
+          "title": "Head to Sealion's Den and click on the \"Iron Gate\" for a Cutscene.",
+          "description": "Head to Sealion's Den and click on the \"Iron Gate\" for a Cutscene. After the Cutscene you can click the \"Iron Gate\" ones more for the airship fight, \"The Warrior's Path\".",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-promathia-the-warrior-s-path-node-2",
+          "orderIndex": 1,
+          "title": "Originally uncapped, then capped at 75 in the March 2007 update, and now, uncapped again, but still ",
+          "description": "Originally uncapped, then capped at 75 in the March 2007 update, and now, uncapped again, but still with the Level Restriction effect (TP and all buffs are removed upon entering the battlefield. Food effects are not removed.) Soloable at level 75+ with Alter Egos. Easy at Item Level.",
+          "dependencies": [
+            "ffxiclopedia-promathia-the-warrior-s-path-node-1"
+          ]
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Warrior_27s_Path.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/75/Chebukki_siblings.jpg/revision/latest/scale-to-width-down/180?cb=20070813155929",
+          "alt": "Chebukki siblings"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b7/Exclamation.gif/revision/latest/scale-to-width-down/14?cb=20061130211020",
+          "alt": "Verification Needed"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/45/Tenzen.JPG/revision/latest/scale-to-width-down/150?cb=20080118060938",
+          "alt": "Tenzen of the Far East"
+        }
+      ]
+    },
+    {
+      "id": "ffxiclopedia-promathia-when-angels-fall",
+      "title": "When Angels Fall",
+      "number": "PM8-3",
+      "url": "https://ffxiclopedia.fandom.com/wiki/When_Angels_Fall",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-promathia-when-angels-fall-node-1",
+          "orderIndex": 0,
+          "title": "Enter The Garden of Ru'Hmet for a cutscene.",
+          "description": "Enter The Garden of Ru'Hmet for a cutscene. You will receive Mysterious Amulet Key Item The easiest way to get there is via Home Point near the Gate of the Gods in the Grand Palace of Hu'Xzoi Players who have already acquired their key items in Parts I and II in the past don't need to do it again.",
+          "dependencies": []
+        }
+      ],
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_When_Angels_Fall.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/a1/Cop8-3a.jpg/revision/latest/scale-to-width-down/185?cb=20060722203746",
+          "alt": "1st Floor with route suggestions to the race specific Key Items, Title and the elevator. The teleporters need to be used to \"zone\" to the other floors."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/68/CoP8-3b.jpg/revision/latest/scale-to-width-down/185?cb=20100513015427",
+          "alt": "2nd Floor with route suggestions to the race specific Key Items, Title and the Brands."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/4a/Cop8-3c.jpg/revision/latest/scale-to-width-down/185?cb=20060722203831",
+          "alt": "3rd Floor with route suggestions to the race specific Key Items and Title."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6f/COP8-3b.jpg/revision/latest/scale-to-width-down/185?cb=20051115042848",
+          "alt": "Map with only the routes to the Brands. Where the first lines end, at the pink spots, are warp fields which are walked into, there is no need to use anything to \"zone\" and thus any aggression possibly attained on the way will be gone."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/42/COP8-3b2.jpg/revision/latest/scale-to-width-down/185?cb=20070227161454",
+          "alt": "Closeup of the routes to the Brands."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/1/13/Cop8-3e.jpg/revision/latest/scale-to-width-down/185?cb=20060722220609",
+          "alt": "Closeup of an alternative map of the routes to the Brands."
+        }
+      ]
+    }
+  ]
+}

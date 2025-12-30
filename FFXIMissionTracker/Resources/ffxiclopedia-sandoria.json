@@ -49,7 +49,14 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Smash_the_Orcish_Scouts.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6c/SouthernSandOria.png/revision/latest?cb=20080812195328",
+          "alt": "SouthernSandOria"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-sandoria-save-the-children",
@@ -139,7 +146,26 @@
           ]
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Save_the_Children.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/3/3b/Ghelsba-outpost_1.png/revision/latest/scale-to-width-down/180?cb=20081024195054",
+          "alt": "Ghelsba Outpost 1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/3/3b/Ghelsba-outpost_1.png/revision/latest/scale-to-width-down/180?cb=20081024195054",
+          "alt": "Ghelsba Outpost 1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/0d/NorthernSandOria.png/revision/latest?cb=20060307152243",
+          "alt": "NorthernSandOria"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/3/3b/Ghelsba-outpost_1.png/revision/latest?cb=20081024195054",
+          "alt": "Ghelsba-outpost 1"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-sandoria-the-rescue-drill",
@@ -251,7 +277,18 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Rescue_Drill.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/2d/La_Theine_Plateau.png/revision/latest/scale-to-width-down/180?cb=20081030170438",
+          "alt": "La Theine Plateau"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/2d/La_Theine_Plateau.png/revision/latest?cb=20081030170438",
+          "alt": "La Theine Plateau"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-sandoria-the-davoi-report",
@@ -354,7 +391,14 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Davoi_Report.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/0d/NorthernSandOria.png/revision/latest?cb=20060307152243",
+          "alt": "NorthernSandOria"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-sandoria-infiltrate-davoi",
@@ -419,7 +463,22 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Infiltrate_Davoi.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/2f/ChateauDOraguille.png/revision/latest/scale-to-width-down/512?cb=20111111153345",
+          "alt": "ChateauDOraguille"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/cd/Davoi.png/revision/latest?cb=20060825142025",
+          "alt": "Davoi"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/2f/ChateauDOraguille.png/revision/latest/scale-to-width-down/512?cb=20111111153345",
+          "alt": "ChateauDOraguille"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-sandoria-the-crystal-spring",
@@ -460,7 +519,22 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Crystal_Spring.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/2f/ChateauDOraguille.png/revision/latest/scale-to-width-down/512?cb=20111111153345",
+          "alt": "ChateauDOraguille"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/2f/ChateauDOraguille.png/revision/latest/scale-to-width-down/512?cb=20111111153345",
+          "alt": "ChateauDOraguille"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/e/e1/JugnerForest.png/revision/latest?cb=20081021004021",
+          "alt": "JugnerForest"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-sandoria-magicite-san-d-oria",
@@ -514,7 +588,14 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Magicite__San_d_27Oria_.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/ce/Rulude-gardens.png/revision/latest?cb=20081018153017",
+          "alt": "Rulude-gardens"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-sandoria-the-ruins-of-fei-yin",
@@ -607,7 +688,14 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Ruins_of_Fei_27Yin.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/0d/NorthernSandOria.png/revision/latest?cb=20060307152243",
+          "alt": "NorthernSandOria"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-sandoria-the-shadow-lord",
@@ -713,7 +801,34 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Shadow_Lord.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/29/CastleZvahlBaileys1.png/revision/latest/scale-to-width-down/70?cb=20080125001419",
+          "alt": "Baileys I"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/ff/CastleZvahlBaileys2.png/revision/latest/scale-to-width-down/70?cb=20090906023251",
+          "alt": "Baileys II"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/c2/CastleZvahlKeep1.png/revision/latest/scale-to-width-down/70?cb=20051018215959",
+          "alt": "Keep I"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/2f/CastleZvahlKeep2.png/revision/latest/scale-to-width-down/70?cb=20051018220013",
+          "alt": "Keep II"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/22/CastleZvahlKeep3.png/revision/latest/scale-to-width-down/70?cb=20081026035550",
+          "alt": "Keep III"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/a2/CastleZvahlKeep4.png/revision/latest/scale-to-width-down/70?cb=20051018220033",
+          "alt": "Keep IV"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-sandoria-leaute-s-last-wishes",
@@ -733,7 +848,18 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Leaute_27s_Last_Wishes.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/7d/WesternAltepaDesert.png/revision/latest/scale-to-width-down/180?cb=20051016130947",
+          "alt": "Western Altepa Desert"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b7/Exclamation.gif/revision/latest/scale-to-width-down/14?cb=20061130211020",
+          "alt": "Verification Needed"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-sandoria-ranperre-s-final-rest",
@@ -866,7 +992,14 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Ranperre_27s_Final_Rest.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/21/King-ranperres-tomb_1-NM.png/revision/latest/scale-to-width-down/180?cb=20091228082645",
+          "alt": "King Ranperre's Tomb 1"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-sandoria-the-secret-weapon",
@@ -935,7 +1068,8 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Secret_Weapon.html"
     },
     {
       "id": "ffxiclopedia-sandoria-lightbringer",
@@ -978,7 +1112,22 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Lightbringer.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/e/eb/TempleofUggalepih2.png/revision/latest/scale-to-width-down/180?cb=20091114194750",
+          "alt": "Temple of Uggalepih 2"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/1/13/TempleofUggalepih4.png/revision/latest/scale-to-width-down/180?cb=20080124230118",
+          "alt": "Temple of Uggalepih 4"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/48/Temple_of_Uggalepih_Composite.PNG/revision/latest/scale-to-width-down/180?cb=20081221150845",
+          "alt": "Composite Map"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-sandoria-the-heir-to-the-light",
@@ -1018,7 +1167,8 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Heir_to_the_Light.html"
     }
   ]
 }

@@ -8,92 +8,38 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var missionSets: [MissionSet] = []
-    @State private var progressTracker = MissionProgressTracker()
-    @State private var isLoading = true
-    @State private var errorMessage: String?
+    @State private var characterManager = CharacterManager()
+    @State private var progressTracker: MissionProgressTracker
+    @State private var selectedTab = 0
 
-    var body: some View {
-        NavigationStack {
-            Group {
-                if isLoading {
-                    ProgressView("Loading missions...")
-                } else if let error = errorMessage {
-                    VStack(spacing: 16) {
-                        Image(systemName: "exclamationmark.triangle.fill")
-                            .font(.system(size: 48))
-                            .foregroundColor(.orange)
-
-                        Text("Error Loading Missions")
-                            .font(.headline)
-
-                        Text(error)
-                            .font(.caption)
-                            .foregroundColor(.secondary)
-                            .multilineTextAlignment(.center)
-                            .padding(.horizontal)
-
-                        Button("Retry") {
-                            loadMissions()
-                        }
-                        .buttonStyle(.borderedProminent)
-                    }
-                } else if missionSets.isEmpty {
-                    VStack(spacing: 16) {
-                        Image(systemName: "doc.text.magnifyingglass")
-                            .font(.system(size: 48))
-                            .foregroundColor(.secondary)
-
-                        Text("No Missions Found")
-                            .font(.headline)
-
-                        Text("Add mission JSON files to the app bundle")
-                            .font(.caption)
-                            .foregroundColor(.secondary)
-                    }
-                } else {
-                    MissionSetListView(
-                        missionSets: missionSets,
-                        progressTracker: progressTracker
-                    )
-                    .toolbar {
-                        ToolbarItem(placement: .navigationBarTrailing) {
-                            Menu {
-                                Button(role: .destructive) {
-                                    progressTracker.resetProgress()
-                                } label: {
-                                    Label("Reset All Progress", systemImage: "arrow.counterclockwise")
-                                }
-                            } label: {
-                                Image(systemName: "ellipsis.circle")
-                            }
-                        }
-                    }
-                }
-            }
-        }
-        .onAppear {
-            loadMissions()
-        }
+    init() {
+        let charManager = CharacterManager()
+        _characterManager = State(initialValue: charManager)
+        _progressTracker = State(initialValue: MissionProgressTracker(characterManager: charManager))
     }
 
-    private func loadMissions() {
-        isLoading = true
-        errorMessage = nil
+    var body: some View {
+        TabView(selection: $selectedTab) {
+            MissionsTabView(progressTracker: $progressTracker)
+                .tabItem {
+                    Label("Missions", systemImage: "list.bullet.clipboard")
+                }
+                .tag(0)
 
-        Task {
-            do {
-                let sets = try MissionDataLoader.shared.loadAllMissionSets()
-                await MainActor.run {
-                    self.missionSets = sets
-                    self.isLoading = false
+            QuestsTabView(progressTracker: $progressTracker)
+                .tabItem {
+                    Label("Quests", systemImage: "book")
                 }
-            } catch {
-                await MainActor.run {
-                    self.errorMessage = error.localizedDescription
-                    self.isLoading = false
+                .tag(1)
+
+            SettingsTabView(
+                characterManager: characterManager,
+                progressTracker: $progressTracker
+            )
+                .tabItem {
+                    Label("Settings", systemImage: "gearshape")
                 }
-            }
+                .tag(2)
         }
     }
 }

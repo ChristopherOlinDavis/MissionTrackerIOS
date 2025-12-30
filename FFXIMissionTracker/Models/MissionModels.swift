@@ -47,6 +47,18 @@ struct Gate: Codable, Identifiable, Hashable {
     let description: String
 }
 
+// MARK: - Mission Image
+struct MissionImage: Codable, Hashable {
+    let src: String
+    let alt: String
+}
+
+// MARK: - Reward
+struct Reward: Codable, Hashable {
+    let name: String
+    let type: String? // "item", "gil", "exp", "keyitem", etc.
+}
+
 // MARK: - Mission
 struct Mission: Codable, Identifiable, Hashable {
     let id: String
@@ -55,6 +67,10 @@ struct Mission: Codable, Identifiable, Hashable {
     let url: String?
     let nodes: [MissionNode]
     let gates: [Gate]
+    let htmlFile: String?
+    let images: [MissionImage]?
+    let nation: String?
+    let rewards: [Reward]?
 
     var zones: [String] {
         let uniqueZones = Set(nodes.compactMap { $0.location?.zone })

@@ -24,7 +24,9 @@ struct MissionListView: View {
             }
         }
         .navigationTitle(missionSet.name)
+        #if os(iOS)
         .navigationBarTitleDisplayMode(.inline)
+        #endif
     }
 }
 
@@ -108,7 +110,7 @@ struct MissionRowView: View {
                 totalMissions: 0,
                 missions: []
             ),
-            progressTracker: MissionProgressTracker()
+            progressTracker: MissionProgressTracker(characterManager: CharacterManager())
         )
     }
 }

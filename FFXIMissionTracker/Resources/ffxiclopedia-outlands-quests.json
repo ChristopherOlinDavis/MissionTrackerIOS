@@ -1,0 +1,2279 @@
+{
+  "id": "ffxiclopedia-outlands-quests",
+  "name": "FFXIclopedia - Outlands Quests",
+  "category": "quest",
+  "source": "FFXIclopedia",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Outlands_Quests",
+  "lastScraped": "2025-12-29T17:29:38.105Z",
+  "lastKnownUpdate": "2025-12-29T17:29:38.105Z",
+  "totalMissions": 50,
+  "missions": [
+    {
+      "id": "ffxiclopedia-outlands-quests-chasing-dreams",
+      "title": "Chasing Dreams",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Chasing_Dreams",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-chasing-dreams-node-1",
+          "orderIndex": 0,
+          "title": "First head to Rabao and talk to Rudolfo near the Auction House (J-7).",
+          "description": "First head to Rabao and talk to Rudolfo near the Auction House (J-7). You will get a cutscene involving a man named Chelvadurai, who is looking for his daughter, Sanctia.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-chasing-dreams-node-2",
+          "orderIndex": 1,
+          "title": "Next head over by the tent close to the oasis and talk to Zoriboh at (F-6/7).",
+          "description": "Next head over by the tent close to the oasis and talk to Zoriboh at (F-6/7). You will get a cutscene. He will ask you to go find Sanctia.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-chasing-dreams-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-cloak-and-dagger",
+      "title": "Cloak and Dagger",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Cloak_and_Dagger",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-cloak-and-dagger-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Jakoh Wahcondalo in Kazham (J-9) who will give you the Dagger of Trials and a Weapon Trainin",
+          "description": "Talk to Jakoh Wahcondalo in Kazham (J-9) who will give you the Dagger of Trials and a Weapon Training Guide.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-cloak-and-dagger-node-2",
+          "orderIndex": 1,
+          "title": "The Dagger of Trials has a latent effect that is active when the number of \"Weapon Skill Points\" it ",
+          "description": "The Dagger of Trials has a latent effect that is active when the number of \"Weapon Skill Points\" it has accumulated is less than 300. The goal is to \"break\" the weapon by performing weaponskills and skillchains until the latent effect on the Dagger of Trials no longer functions. Please note the actual description of the weapon will not change. You must open your equipment menu and check if you are still receiving the elemental bonuses. The text, \"Latent Effect: HP+20, etc. etc.\" will STILL BE THERE. See the section below for details on Weapon Skill Points.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-cloak-and-dagger-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-cloak-and-dagger-node-3",
+          "orderIndex": 2,
+          "title": "Optionally, you may talk to Jakoh Wahcondalo at any time to \"give up\" and cancel the quest.",
+          "description": "Optionally, you may talk to Jakoh Wahcondalo at any time to \"give up\" and cancel the quest.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-cloak-and-dagger-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-cloak-and-dagger-node-4",
+          "orderIndex": 3,
+          "title": "Once the latent effect has been removed from the dagger, return to Kazham and trade the Dagger of Tr",
+          "description": "Once the latent effect has been removed from the dagger, return to Kazham and trade the Dagger of Trials back to Jakoh Wahcondalo. She will take the weapon and give a Map to the Annals of Truth with instructions to head to Gustav Tunnel.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-cloak-and-dagger-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-cloak-and-dagger-node-5",
+          "orderIndex": 4,
+          "title": "Travel to Gustav Tunnel (Unity Teleport Level 128) and find (J-8) on the second map; click the ??? t",
+          "description": "Travel to Gustav Tunnel (Unity Teleport Level 128) and find (J-8) on the second map; click the ??? to spawn the quest NM named Baronial Bat. Be careful of the undead that roam the area.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-cloak-and-dagger-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-cloak-and-dagger-node-6",
+          "orderIndex": 5,
+          "title": "Once the Baronial Bat is dead, return to the ??? and examine it to obtain the Annals of Truth.",
+          "description": "Once the Baronial Bat is dead, return to the ??? and examine it to obtain the Annals of Truth.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-cloak-and-dagger-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-cloak-and-dagger-node-7",
+          "orderIndex": 6,
+          "title": "Return the Annals of Truth to Jakoh Wahcondalo and she will award the weapon skill Evisceration.",
+          "description": "Return the Annals of Truth to Jakoh Wahcondalo and she will award the weapon skill Evisceration.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-cloak-and-dagger-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-divine-might",
+      "title": "Divine Might",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Divine_Might",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-divine-might-node-1",
+          "orderIndex": 0,
+          "title": "Enter the Shrine of Ru'Avitau from the south entrance.",
+          "description": "Enter the Shrine of Ru'Avitau from the south entrance. After arriving in Ru'Aun Gardens, take the center portal to the main island. Travel straight to the center of the island. Straying too far to either side aggros the Groundskeepers.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-divine-might-node-2",
+          "orderIndex": 1,
+          "title": "Examine the unmarked target on the wall directly in front of you.",
+          "description": "Examine the unmarked target on the wall directly in front of you. REMEMBER TO CHECK THE \"BLANK\" NPC MARKER TWICE. ONCE TO FLAG ARK ANGELS MISSION, THEN A SECOND TIME TO FLAG DIVINE MIGHT QUEST \"Divine Might\" now appears in the \"Outlands\" section of your current quests. Players without the quest active can join in the fight, but receive no credit.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-divine-might-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-divine-might-repeat",
+      "title": "Divine Might (Repeat)",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Divine_Might_(Repeat)",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-divine-might-repeat-node-1",
+          "orderIndex": 0,
+          "title": "Drop your current earring.",
+          "description": "Drop your current earring.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-divine-might-repeat-node-2",
+          "orderIndex": 1,
+          "title": "Receive the quest at the unmarked target (G/H-11) in the main entrance of The Shrine of Ru'Avitau.",
+          "description": "Receive the quest at the unmarked target (G/H-11) in the main entrance of The Shrine of Ru'Avitau. The quest appears as a second Divine Might quest in your quest log with a different description.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-divine-might-repeat-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-divine-might-repeat-node-3",
+          "orderIndex": 2,
+          "title": "Obtain a Light Ore.",
+          "description": "Obtain a Light Ore.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-divine-might-repeat-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-divine-might-repeat-node-4",
+          "orderIndex": 3,
+          "title": "If you need a new Ark Pentasphere, obtain an Illuminink and Parchment as well.",
+          "description": "If you need a new Ark Pentasphere, obtain an Illuminink and Parchment as well.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-divine-might-repeat-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-divine-might-repeat-node-5",
+          "orderIndex": 4,
+          "title": "Warning: if you need both the Moonlight Ore and the Ark Pentasphere, you must make TWO separate trad",
+          "description": "Warning: if you need both the Moonlight Ore and the Ark Pentasphere, you must make TWO separate trades. If all three items are traded, only the Moonlight Ore will be obtained.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-divine-might-repeat-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-divine-might-repeat-node-6",
+          "orderIndex": 5,
+          "title": "Trade the Light Ore to Ro'Maeve's Qu'Hau Spring during the Full Moon between 18:00 and 6:00 to recei",
+          "description": "Trade the Light Ore to Ro'Maeve's Qu'Hau Spring during the Full Moon between 18:00 and 6:00 to receive the Moonlight Ore. As of May 2019, and most likely earlier, the weather requirement is removed. Each individual restarting this quest must possess their own Moonlight Ore.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-divine-might-repeat-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-divine-might-repeat-node-7",
+          "orderIndex": 6,
+          "title": "Trade the Illuminink and Parchment to Ro'Maeve's Qu'Hau Spring during the Full Moon between 18:00 an",
+          "description": "Trade the Illuminink and Parchment to Ro'Maeve's Qu'Hau Spring during the Full Moon between 18:00 and 6:00 to obtain an Ark Pentasphere. Only one alliance member needs the Ark Pentasphere to initiate the battle. As of May 2019, and most likely earlier, the weather requirement is removed.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-divine-might-repeat-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-divine-might-repeat-node-8",
+          "orderIndex": 7,
+          "title": "Enter and complete the Divine Might battlefield at La'Loff Amphitheater.",
+          "description": "Enter and complete the Divine Might battlefield at La'Loff Amphitheater.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-divine-might-repeat-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-divine-might-repeat-node-9",
+          "orderIndex": 8,
+          "title": "Return to the unmarked target in The Shrine of Ru'Avitau to pick up a new earring.",
+          "description": "Return to the unmarked target in The Shrine of Ru'Avitau to pick up a new earring.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-divine-might-repeat-node-8"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-don-t-forget-the-antidote",
+      "title": "Don't Forget the Antidote",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Don%27t_Forget_the_Antidote",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-don-t-forget-the-antidote-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Edigey.",
+          "description": "Talk to Edigey. He needs Desert Venom so he can make an antidote for desert caravans. Desert Venom drops from Doom Scorpion in Eastern Altepa Desert and Tulwar Scorpion in Western Altepa Desert or can be bought at Auction House Category: Others > Misc",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-don-t-forget-the-antidote-node-2",
+          "orderIndex": 1,
+          "title": "Trade the Desert Venom to Edigey for your reward.",
+          "description": "Trade the Desert Venom to Edigey for your reward. The first time you trade it to him, you will receive the Dotanuki. Each subsequent time you repeat the quest, you will receive 1800 gil.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-don-t-forget-the-antidote-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-even-more-gullible-s-travels",
+      "title": "Even More Gullible's Travels",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Even_More_Gullible%27s_Travels",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-even-more-gullible-s-travels-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Magriffon.",
+          "description": "Talk to Magriffon.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-even-more-gullible-s-travels-node-2",
+          "orderIndex": 1,
+          "title": "Trade him the 15,000-35,000 gil that he asks of you.",
+          "description": "Trade him the 15,000-35,000 gil that he asks of you. You will receive the title \"Even More Gullible's Travels\", and the Treasure Map.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-even-more-gullible-s-travels-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-even-more-gullible-s-travels-node-3",
+          "orderIndex": 2,
+          "title": "Examine all three Blue Rafflesia in Yuhtunga Jungle at (F-7), (H-10), and (I-12).",
+          "description": "Examine all three Blue Rafflesia in Yuhtunga Jungle at (F-7), (H-10), and (I-12). Each one will contain a Rafflesia Nectar. After clicking on the final plant, you are told that the pollen makes you dizzy. Rafflesia Nectar has no use and can be sold at the shop.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-even-more-gullible-s-travels-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-even-more-gullible-s-travels-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Magriffon to complete the quest.",
+          "description": "Talk to Magriffon to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-even-more-gullible-s-travels-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-everyone-s-grudge",
+      "title": "Everyone's Grudge",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Everyone%27s_Grudge",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-everyone-s-grudge-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Magephaud, who offers to tell you about the dangerous Tonberry attack Everyone's Grudge if y",
+          "description": "Talk to Magephaud, who offers to tell you about the dangerous Tonberry attack Everyone's Grudge if you pay him 3 Gold Beastcoins.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-everyone-s-grudge-node-2",
+          "orderIndex": 1,
+          "title": "Trade 3 Gold Beastcoins to Magephaud to receive the Tonberry key and complete the quest.",
+          "description": "Trade 3 Gold Beastcoins to Magephaud to receive the Tonberry key and complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-everyone-s-grudge-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-everyone-s-grudging",
+      "title": "Everyone's Grudging",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Everyone%27s_Grudging",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-everyone-s-grudging-node-1",
+          "orderIndex": 0,
+          "title": "To be able to start this quest, you must have, at any point in the past, traded an Unlit Lantern to ",
+          "description": "To be able to start this quest, you must have, at any point in the past, traded an Unlit Lantern to an Altar of Rancor and received a Rancor Flame (e.g. during The Temple of Uggalepih).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-everyone-s-grudging-node-2",
+          "orderIndex": 1,
+          "title": "You must zone out of Kazham after completing the previous quest A Question of Taste.",
+          "description": "You must zone out of Kazham after completing the previous quest A Question of Taste.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-everyone-s-grudging-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-everyone-s-grudging-node-3",
+          "orderIndex": 2,
+          "title": "Speak with Jakoh Wahcondalo who will tell you to leave her village.",
+          "description": "Speak with Jakoh Wahcondalo who will tell you to leave her village. The other NPCs in the room tell you to go the Den of Rancor/Temple of Uggalepih complex to be cleansed and then come back.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-everyone-s-grudging-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-everyone-s-grudging-node-4",
+          "orderIndex": 3,
+          "title": "You get the title Excommunicate of Kazham as soon as this quest becomes active.",
+          "description": "You get the title Excommunicate of Kazham as soon as this quest becomes active.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-everyone-s-grudging-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-everyone-s-grudging-node-5",
+          "orderIndex": 4,
+          "title": "Travel to the Den of Rancor via either Home Point #1 or #2, or the level 128 Unity Concord NPC telep",
+          "description": "Travel to the Den of Rancor via either Home Point #1 or #2, or the level 128 Unity Concord NPC teleport and make your way to Map 1.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-everyone-s-grudging-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-everyone-s-grudging-node-6",
+          "orderIndex": 5,
+          "title": "Obtain an Unlit Lantern from the Tonberry Imprecators here, then head to the Altar of Rancor at D/E-",
+          "description": "Obtain an Unlit Lantern from the Tonberry Imprecators here, then head to the Altar of Rancor at D/E-5. Please note that these are not the lanterns that open the gate to the Sacrificial Chamber.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-everyone-s-grudging-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-everyone-s-grudging-node-7",
+          "orderIndex": 6,
+          "title": "Trade the Unlit Lantern to the Altar of Rancor to receive a Rancor Flame .",
+          "description": "Trade the Unlit Lantern to the Altar of Rancor to receive a Rancor Flame .",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-everyone-s-grudging-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-everyone-s-grudging-node-8",
+          "orderIndex": 7,
+          "title": "Head to the other Altar of Rancor at I/J-13.",
+          "description": "Head to the other Altar of Rancor at I/J-13. Trade the Rancor Flame to it and you ill receive an Unlit Lantern .",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-everyone-s-grudging-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-everyone-s-grudging-node-9",
+          "orderIndex": 8,
+          "title": "Repeat this another three times to spawn a bomb NM called Rancor Torch which you must defeat.",
+          "description": "Repeat this another three times to spawn a bomb NM called Rancor Torch which you must defeat.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-everyone-s-grudging-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-everyone-s-grudging-node-10",
+          "orderIndex": 9,
+          "title": "Head back to Kazham and talk to the Chieftainess for your reward.",
+          "description": "Head back to Kazham and talk to the Chieftainess for your reward.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-everyone-s-grudging-node-9"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-fish-favors-the-bold",
+      "title": "Fish Favors the Bold",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Fish_Favors_the_Bold",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-fish-favors-the-bold-node-1",
+          "orderIndex": 0,
+          "title": "Prerequisite: Before you can begin this quest you must Fish up 100 different fish.",
+          "description": "Prerequisite: Before you can begin this quest you must Fish up 100 different fish. List of possible fish can be found here: Fish. You may check you progress with Katsunaga in Mhaura after completing the quest Fisherman's Heart.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-fish-favors-the-bold-node-2",
+          "orderIndex": 1,
+          "title": "You must have completed the Indomitable Spirit quest and obtained your Ebisu Fishing Rod.",
+          "description": "You must have completed the Indomitable Spirit quest and obtained your Ebisu Fishing Rod.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-fish-favors-the-bold-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-fish-favors-the-bold-node-3",
+          "orderIndex": 2,
+          "title": "Have installed and registered the following content: Rise of the Zilart / Chains of Promathia / Trea",
+          "description": "Have installed and registered the following content: Rise of the Zilart / Chains of Promathia / Treasures of Aht Urhgan / Wings of the Goddess / Seekers of Adoulin / Scars of Abyssea",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-fish-favors-the-bold-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-fish-favors-the-bold-node-4",
+          "orderIndex": 3,
+          "title": "Talk to Irmilant to start the quest.",
+          "description": "Talk to Irmilant to start the quest.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-fish-favors-the-bold-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-fish-favors-the-bold-node-5",
+          "orderIndex": 4,
+          "title": "You must fish (in any order) the following 5 Legendary fish: Matsya, Dragon's Tabernacle, Quicksilve",
+          "description": "You must fish (in any order) the following 5 Legendary fish: Matsya, Dragon's Tabernacle, Quicksilver Blade, Phantom Serpent, Lord of Ulbuka.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-fish-favors-the-bold-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-fish-favors-the-bold-node-6",
+          "orderIndex": 5,
+          "title": "Trade in each fish to Irmilant after you have caught one.",
+          "description": "Trade in each fish to Irmilant after you have caught one.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-fish-favors-the-bold-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-fish-favors-the-bold-node-7",
+          "orderIndex": 6,
+          "title": "After all five fish have been accepted, trade your Ebisu Fishing Rod to Irmilant to have it upgraded",
+          "description": "After all five fish have been accepted, trade your Ebisu Fishing Rod to Irmilant to have it upgraded to an Ebisu Fishing Rod +1.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-fish-favors-the-bold-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-forge-your-destiny",
+      "title": "Forge Your Destiny",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Forge_Your_Destiny",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-forge-your-destiny-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Jaucribaix, in Norg on the upper level at the end of the hallway, (K-8), who will tell you a",
+          "description": "Talk to Jaucribaix, in Norg on the upper level at the end of the hallway, (K-8), who will tell you about the ways of a samurai. He requests a Bomb Steel and Sacred Branch and will tell you that if you want to know how to get those items to go talk to his assistants.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-forge-your-destiny-node-2",
+          "orderIndex": 1,
+          "title": "Go down the long steps and talk to Aeka, (I-8), who will give you the Oriental Steel.",
+          "description": "Go down the long steps and talk to Aeka, (I-8), who will give you the Oriental Steel.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-forge-your-destiny-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-forge-your-destiny-node-3",
+          "orderIndex": 2,
+          "title": "Next talk to Ranemaud, (I-7), who will give you the Sacred Sprig.",
+          "description": "Next talk to Ranemaud, (I-7), who will give you the Sacred Sprig.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-forge-your-destiny-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-greetings-to-the-guardian",
+      "title": "Greetings to the Guardian",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Greetings_to_the_Guardian",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-greetings-to-the-guardian-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Hari Pakhroib (I-11) to start the quest.",
+          "description": "Talk to Hari Pakhroib (I-11) to start the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-greetings-to-the-guardian-node-2",
+          "orderIndex": 1,
+          "title": "You will need to obtain a bunch of Wild Pamamas.",
+          "description": "You will need to obtain a bunch of Wild Pamamas. They drop from Opo-opos in Yuhtunga Jungle. They can also be purchased from the Auction House under Food > Ingredients.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-greetings-to-the-guardian-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-greetings-to-the-guardian-node-3",
+          "orderIndex": 2,
+          "title": "Take your Wild Pamamas to Ifrit's Cauldron's (G-6) entrance in Yhoator Jungle.",
+          "description": "Take your Wild Pamamas to Ifrit's Cauldron's (G-6) entrance in Yhoator Jungle. Note: Silent Oil & Prism Powder are recommended as Bombs aggro to magic and have long sensory range. Don't worry about the Ice Clusters unless you want to explore. There are no flame spouts along this path.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-greetings-to-the-guardian-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-greetings-to-the-guardian-node-4",
+          "orderIndex": 3,
+          "title": "Take the first right and follow the path to tunnel C on the first map.",
+          "description": "Take the first right and follow the path to tunnel C on the first map.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-greetings-to-the-guardian-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-greetings-to-the-guardian-node-5",
+          "orderIndex": 4,
+          "title": "Then just follow that path into the second map where you will find the Altar of Ashes at (I-9).",
+          "description": "Then just follow that path into the second map where you will find the Altar of Ashes at (I-9).",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-greetings-to-the-guardian-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-greetings-to-the-guardian-node-6",
+          "orderIndex": 5,
+          "title": "You do not need to actually shout your name, just trade the Wild Pamamas to the altar.",
+          "description": "You do not need to actually shout your name, just trade the Wild Pamamas to the altar.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-greetings-to-the-guardian-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-greetings-to-the-guardian-node-7",
+          "orderIndex": 6,
+          "title": "Return to Hari Pakhroib and speak with her to collect your 5k.",
+          "description": "Return to Hari Pakhroib and speak with her to collect your 5k.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-greetings-to-the-guardian-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-greetings-to-the-guardian-node-8",
+          "orderIndex": 7,
+          "title": "You may repeat this quest, but you must zone from Kazham before you can get it again.",
+          "description": "You may repeat this quest, but you must zone from Kazham before you can get it again. Warping to the nearby Home Point is sufficient. Upon repeating this quest you may have to obtain a Wild Melon, or Wild Pineapple.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-greetings-to-the-guardian-node-7"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-gullible-s-travels",
+      "title": "Gullible's Travels",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Gullible%27s_Travels",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-gullible-s-travels-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Magriffon.",
+          "description": "Talk to Magriffon.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-gullible-s-travels-node-2",
+          "orderIndex": 1,
+          "title": "Trade him the amount of gil he asks for.",
+          "description": "Trade him the amount of gil he asks for.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-gullible-s-travels-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-i-ll-take-the-big-box",
+      "title": "I'll Take the Big Box",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/I%27ll_Take_the_Big_Box",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-i-ll-take-the-big-box-node-1",
+          "orderIndex": 0,
+          "title": "With your main job as Ninja, speak with Ryoma (H-8) in Norg who will give you the quest and tell you",
+          "description": "With your main job as Ninja, speak with Ryoma (H-8) in Norg who will give you the quest and tell you to track down Ensetsu (I-5) in Port Bastok. You must zone after completing the quest 20 in Pirate Years for Ryoma to give you the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-i-ll-take-the-big-box-node-2",
+          "orderIndex": 1,
+          "title": "Ensetsu will tell of a new player in the story, Leodarion (F-8), who resides in Rabao.",
+          "description": "Ensetsu will tell of a new player in the story, Leodarion (F-8), who resides in Rabao. He will not mention his name - he will tell you to track down the grandson that used to live in a tent somewhere in Altepa Desert.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-i-ll-take-the-big-box-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-i-ll-take-the-big-box-node-3",
+          "orderIndex": 2,
+          "title": "Obtain an Oak Pole and head to Rabao.",
+          "description": "Obtain an Oak Pole and head to Rabao.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-i-ll-take-the-big-box-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-i-ll-take-the-big-box-node-4",
+          "orderIndex": 3,
+          "title": "Leodarion will ask you for the Oak Pole.",
+          "description": "Leodarion will ask you for the Oak Pole. Trade it to him and wait until the next Vana'diel day before speaking to him again. He will then give you the Seance Staff and tell you to head to Mhaura. Leodarion will not accept an Oak Pole +1. Take note not to get an Oak Staff",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-i-ll-take-the-big-box-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-i-ll-take-the-big-box-node-5",
+          "orderIndex": 4,
+          "title": "From Mhaura, board the ferry to Selbina around 16:00 or midnight (if you are boarding from Selbina, ",
+          "description": "From Mhaura, board the ferry to Selbina around 16:00 or midnight (if you are boarding from Selbina, take the ferry that departs 16.00, and re-board in Mhaura). Be careful not to board the ferry to Al Zahbi by mistake. Check with the NPC to see where the ship is heading. There is a chance Pirates will spawn on the ferry.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-i-ll-take-the-big-box-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-i-ll-take-the-big-box-node-6",
+          "orderIndex": 5,
+          "title": "Once you have departed, head onto the deck and a ghost named Enagakure will spawn.",
+          "description": "Once you have departed, head onto the deck and a ghost named Enagakure will spawn. Enagakure will only spawn from 20:00 to 4:00; like most Ghost type monsters. If you board the 16:00 ferry to Selbina, the NM will spawn at 20:00. Enagakure will NOT spawn on the Selbina to Mhaura ride. You do not need to be Ninja for the NM to spawn; however, you must possess the Seance Staff. Does not spawn claimed.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-i-ll-take-the-big-box-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-i-ll-take-the-big-box-node-7",
+          "orderIndex": 6,
+          "title": "Defeat Enagakure, and Leodarion will meet you when the ship docks for a cutscene completing the ques",
+          "description": "Defeat Enagakure, and Leodarion will meet you when the ship docks for a cutscene completing the quest. If your inventory was full, you don't have to fight the NM again. Just make room in your inventory, zone out, then back into Selbina. The cutscene will play again.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-i-ll-take-the-big-box-node-6"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-indomitable-spirit",
+      "title": "Indomitable Spirit",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Indomitable_Spirit",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-indomitable-spirit-node-1",
+          "orderIndex": 0,
+          "title": "You must have the Serpent Rumors Key Item to flag this quest.",
+          "description": "You must have the Serpent Rumors Key Item to flag this quest. Purchased from Fennella for 95,000 Fishing Guild Points at Adept (78+) and higher rank.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-indomitable-spirit-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Irmilant to start the quest.",
+          "description": "Talk to Irmilant to start the quest.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-indomitable-spirit-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-indomitable-spirit-node-3",
+          "orderIndex": 2,
+          "title": "He requests a Saber Shoot and Opal Silk, which can be obtained via the Inside the Belly quest involv",
+          "description": "He requests a Saber Shoot and Opal Silk, which can be obtained via the Inside the Belly quest involving Zaldon. Saber Shoot can be obtained by trading Gugrusaurus to Zaldon. Gugrusaurus bite on the Ship bound for Mhaura and Ship bound for Selbina during pirate attacks, on the Manaclipper during the routes to and from Purgonorgo Isle that are closest to Purgonorgo Isle, as well as on the Open sea route to Al Zahbi and Open sea route to Mhaura (no special requirements for these ferries). Gugrusaurus bite on Meatball and Drill Calamary. Drill Calamary can be obtained from the Inside the Belly quest by trading Sea Zombies to Zaldon. Occasionally the Pirate's Chart Quest also yields a Drill Calamary. Drill Calamary are a common Repeat Login Campaign item for 100 login points each from the Greeter Moogle. Gugrusaurus can be obtained from the mog garden Coastal Fishing Net. Opal Silk can be obtained by trading Lik to Zaldon. Lik can be caught in Leremieu Lagoon in Lufaise Meadows. Lik bite on Minnow and Dwarf Pugil. Dwarf Pugils can be obtained by trading a Cave Cherax to Zaldon. Occasionally the Brigand's Chart Quest or the Pirate's Chart Quest will also yield a Dwarf Pugil. They now can also be gotten for 100 monthly login points each from the Greeter Moogle. Lik can be obtained from the mog garden Pond Dredger.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-indomitable-spirit-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-indomitable-spirit-node-4",
+          "orderIndex": 3,
+          "title": "Trade both items to Irmilant.",
+          "description": "Trade both items to Irmilant.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-indomitable-spirit-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-indomitable-spirit-node-5",
+          "orderIndex": 4,
+          "title": "Return after the following Conquest update and talk to Irmilant to receive your reward.",
+          "description": "Return after the following Conquest update and talk to Irmilant to receive your reward.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-indomitable-spirit-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-it-s-not-your-vault",
+      "title": "It's Not Your Vault",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/It%27s_Not_Your_Vault",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-it-s-not-your-vault-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Keal at (H-8) to start the quest.",
+          "description": "Speak to Keal at (H-8) to start the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-it-s-not-your-vault-node-2",
+          "orderIndex": 1,
+          "title": "Exit Norg (A) and make your way to the door marked (B).",
+          "description": "Exit Norg (A) and make your way to the door marked (B).",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-it-s-not-your-vault-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-it-s-not-your-vault-node-3",
+          "orderIndex": 2,
+          "title": "Turn right and head to the door marked (C); then continue to the door at (D).",
+          "description": "Turn right and head to the door marked (C); then continue to the door at (D).",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-it-s-not-your-vault-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-it-s-not-your-vault-node-4",
+          "orderIndex": 3,
+          "title": "You should now be in a room with a boarded floor.",
+          "description": "You should now be in a room with a boarded floor. Examine the ??? (E) in the room to receive a Sealed Iron Box.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-it-s-not-your-vault-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-it-s-not-your-vault-node-5",
+          "orderIndex": 4,
+          "title": "Return to Norg (or, if your Homepoint is set at Norg, just Warp or get KO'd) and talk to Keal to rec",
+          "description": "Return to Norg (or, if your Homepoint is set at Norg, just Warp or get KO'd) and talk to Keal to receive Tonko: Ichi",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-it-s-not-your-vault-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-it-s-not-your-vault-node-6",
+          "orderIndex": 5,
+          "title": "Alternate Map.",
+          "description": "Alternate Map.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-it-s-not-your-vault-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-like-a-shining-subligar",
+      "title": "Like a Shining Subligar",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Like_a_Shining_Subligar",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-like-a-shining-subligar-node-1",
+          "orderIndex": 0,
+          "title": "Trade 10 Rusty Subligaria to Heiji, who is situated at the top of the ramp, just to the left of the ",
+          "description": "Trade 10 Rusty Subligaria to Heiji, who is situated at the top of the ramp, just to the left of the large staircase in the main room. Despite the quest description text, he will accept multiple subligaria in each trade.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-like-a-shining-subligar-node-2",
+          "orderIndex": 1,
+          "title": "He will give you the scroll of Kurayami: Ichi.",
+          "description": "He will give you the scroll of Kurayami: Ichi",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-like-a-shining-subligar-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-like-shining-leggings",
+      "title": "Like Shining Leggings",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Like_Shining_Leggings",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-like-shining-leggings-node-1",
+          "orderIndex": 0,
+          "title": "Trade 10 Rusty Leggings (these can be attained by fishing starting areas or by the auction house) to",
+          "description": "Trade 10 Rusty Leggings (these can be attained by fishing starting areas or by the auction house) to Heizo, who is situated at the top of the ramp, just to the left of the large staircase in the main room. Despite the in-game description text, he will accept multiple leggings in one trade.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-like-shining-leggings-node-2",
+          "orderIndex": 1,
+          "title": "He will give you the scroll of Dokumori: Ichi.",
+          "description": "He will give you the scroll of Dokumori: Ichi",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-like-shining-leggings-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-mama-mia",
+      "title": "Mama Mia",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Mama_Mia",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-mama-mia-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Mamaulabion to start the quest.",
+          "description": "Speak to Mamaulabion to start the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-mama-mia-node-2",
+          "orderIndex": 1,
+          "title": "He wants you to obtain for him super-duper rare items that can only be obtained from the high level ",
+          "description": "He wants you to obtain for him super-duper rare items that can only be obtained from the high level Avatar battles. He needs the following: Bubbly Water (Trial by Wind). Egil's Torch (Trial by Fire). Eye of Nept (Trial by Water). Desert Light (Trial by Earth). Elder Branch (Trial by Lightning). Rust 'B' Gone (Trial by Ice). Ancients' Key (The Moonlit Path).",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-mama-mia-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-mama-mia-node-3",
+          "orderIndex": 2,
+          "title": "The items can be traded as you receive them.",
+          "description": "The items can be traded as you receive them. Mamaulabion will hold onto all of them until he receives the seventh.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-mama-mia-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-mama-mia-node-4",
+          "orderIndex": 3,
+          "title": "Items must be traded one at a time.",
+          "description": "Items must be traded one at a time.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-mama-mia-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-mama-mia-node-5",
+          "orderIndex": 4,
+          "title": "Speak to Mamaulabion after JP Midnight following the day you turned in your final item to receive th",
+          "description": "Speak to Mamaulabion after JP Midnight following the day you turned in your final item to receive the Evoker's Ring.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-mama-mia-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-mama-mia-node-6",
+          "orderIndex": 5,
+          "title": "If you dispose of any of the items required for the quest prior to turning them in, you can obtain t",
+          "description": "If you dispose of any of the items required for the quest prior to turning them in, you can obtain them again by completing the relevant Trial battles again. If you have turned in an item for the quest but not yet completed it, you are still allowed to choose that item as a reward after defeating the relevant avatar, so choose carefully! Mamaulabion will inform you of the items delivered thus far, as of the May 2011 update. Upon completion of this quest, the above items no longer appear in the rewards list for defeating the Prime Avatars.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-mama-mia-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-missionary-man",
+      "title": "Missionary Man",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Missionary_Man",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-missionary-man-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Rauteinot in Kazham (G-9).",
+          "description": "Speak with Rauteinot in Kazham (G-9). He asks you to retrieve a slab of Elshimo Marble from Yuhtunga Jungle. Elshimo Marble is Rare/Ex item and it drops from Ivory Lizards (level 32-35) in Yuhtunga Jungle. They appear the most in Yuhtunga Jungle (K-7). Be prepared to take a significant amount of time just farming ONE slab of marble. Reports of going over 50 kills to actually obtain one Marble are not uncommon.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-missionary-man-node-2",
+          "orderIndex": 1,
+          "title": "Trade the Elshimo Marble to Rauteinot to receive Rauteinot's Parcel.",
+          "description": "Trade the Elshimo Marble to Rauteinot to receive Rauteinot's Parcel.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-missionary-man-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-missionary-man-node-3",
+          "orderIndex": 2,
+          "title": "Bring the parcel to Mulaujeant in Northern San d'Oria (E-5).",
+          "description": "Bring the parcel to Mulaujeant in Northern San d'Oria (E-5). He is on the second level, a few steps North of the Blacksmith's Guild.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-missionary-man-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-missionary-man-node-4",
+          "orderIndex": 3,
+          "title": "Wait one minute and talk to Mulaujeant again to receive a Sublime Statue of the Goddess to give to R",
+          "description": "Wait one minute and talk to Mulaujeant again to receive a Sublime Statue of the Goddess to give to Rauteinot. You used to have to wait 1 whole real life day but there might have been an update to change it to just 1 minute real life.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-missionary-man-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-missionary-man-node-5",
+          "orderIndex": 4,
+          "title": "Take the statue to Rauteinot in Kazham to receive a scroll of Teleport-Yhoat.",
+          "description": "Take the statue to Rauteinot in Kazham to receive a scroll of Teleport-Yhoat.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-missionary-man-node-4"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-open-sesame",
+      "title": "Open Sesame",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Open_Sesame",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-open-sesame-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Lokpix (located right beside the Altepa telepoint, to which you can easily teleport with th",
+          "description": "Speak to Lokpix (located right beside the Altepa telepoint, to which you can easily teleport with the corresponding white magic spell) and answer yes to both his questions. Note: This step does not need to be accomplished first but must be done prior to trading the items to him.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-open-sesame-node-2",
+          "orderIndex": 1,
+          "title": "Obtain a Tremorstone by checking a ??? near the protocrystal in the Cloister of Tremors.",
+          "description": "Obtain a Tremorstone by checking a ??? near the protocrystal in the Cloister of Tremors. This quest does not need to be active to obtain the Tremorstone. Tip: A quick way to get here is to have level 20 or higher Summoner and follow the quest Trial Size Trial by Earth and obtain the Mini Tuning Fork of Earth to warp there instantly. Please note that if you completed this quest in the past, you cannot take this shortcut. Also see talk page for suggestion of directions. You can also use Quicksand Caves Home Point #2. If you don't have it, Unity warp to Quicksand Caves (Level 125 category) and grab it.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-open-sesame-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-open-sesame-node-3",
+          "orderIndex": 2,
+          "title": "Obtain one of the following (your choice): Meteorite, dropped by Crawlers in West Sarutabaruta (only",
+          "description": "Obtain one of the following (your choice): Meteorite, dropped by Crawlers in West Sarutabaruta (only Crawlers around Starfall Hillock can drop the item), or excavated from the Mineral Vein in the Mog Garden. Soil Gem, mid-level Goldsmithing, or Auction House. Twelve Soil Geodes, dropped by high level monsters on Earthday or in earth weather. Can also be purchased from the Auction House.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-open-sesame-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-open-sesame-node-4",
+          "orderIndex": 3,
+          "title": "Trade the Tremorstone and other item(s) to Lokpix to receive a Loadstone.",
+          "description": "Trade the Tremorstone and other item(s) to Lokpix to receive a Loadstone.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-open-sesame-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-personal-hygiene",
+      "title": "Personal Hygiene",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Personal_Hygiene",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-personal-hygiene-node-1",
+          "orderIndex": 0,
+          "title": "Upon completion of Even More Gullible's Travels you will be bathed in a scent from the Rafflesia flo",
+          "description": "Upon completion of Even More Gullible's Travels you will be bathed in a scent from the Rafflesia flowers. This is a scent that Opo-Opos love but Mithra hate. To get rid of this scent, you start by talking to Gatih Mijurabi in M&P's Market in Kazham. She'll mention that you have to go stand under a hot spring somewhere \"deep under the sea.\"",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-personal-hygiene-node-2",
+          "orderIndex": 1,
+          "title": "Note: Although you can start this quest before The Opo-opo and I, if you ever plan to do The Opo-opo",
+          "description": "Note: Although you can start this quest before The Opo-opo and I, if you ever plan to do The Opo-opo and I, do not get the scent washed off until you have started The Opo-opo and I. Otherwise you will need to get the scent reapplied later (See below). Once you have started that quest, the scent is no longer necessary.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-personal-hygiene-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-personal-hygiene-node-3",
+          "orderIndex": 2,
+          "title": "The hot spring is in Korroloka Tunnel at G-9 of the 3rd Map on the right.",
+          "description": "The hot spring is in Korroloka Tunnel at G-9 of the 3rd Map on the right. If you enter from the Zeruhn Mines, head to point B to reach the third map. If you enter from the Eastern Altepa Desert, head to point C to reach the third map.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-personal-hygiene-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-personal-hygiene-node-4",
+          "orderIndex": 3,
+          "title": "There are three Jammer Leeches guarding the waterfall.",
+          "description": "There are three Jammer Leeches guarding the waterfall. The mobs are roughly level 60,they will aggro at level 85 and they link. Leeches aggro sound and track via scent. Killing the Leeches is not required for the completion of the quest; they can be avoided by applying Sneak. The leeches can be slept while you wait the 5 minutes as well(by you or someone outside of your party and kited to Zeruhn Mines zone. SCH/RDM does well with this using the JA to make SleepII and Gravit become -ga.) I stood in the furthest corner of the eastern spring and when sneak ran out, I just slept the leech (as 75RDM/37BLM). As long as you are out of range of the other leeches to link, this works wonderfully.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-personal-hygiene-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-personal-hygiene-node-5",
+          "orderIndex": 4,
+          "title": "Stand under the waterfall for roughly five minutes.",
+          "description": "Stand under the waterfall for roughly five minutes. When you leave the waterfall, you will receive a message that tells you the scent has been removed. Upon reaching the waterfall, there will be a message that goes: \"The water in this spring is pleasant and tepid. This looks like a nice place to warm yourself up.\" If you leave the waterfall too early, there will be a message that goes: \"You are not warm enough yet. You will need to spend more time than that in the spring to get your body heated up.\" When you have been under the waterfall for the required amount of time, when you walk away from the waterfall you will receive the message: \"Your whole body is piping hot, and the smell of the Rafflesia pollen is gone!\"",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-personal-hygiene-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-personal-hygiene-node-6",
+          "orderIndex": 5,
+          "title": "Return to Gatih Mijurabi in Kazham for completion of the quest and your reward of the Mithran Stone.",
+          "description": "Return to Gatih Mijurabi in Kazham for completion of the quest and your reward of the Mithran Stone.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-personal-hygiene-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-secret-of-the-damp-scroll",
+      "title": "Secret of the Damp Scroll",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Secret_of_the_Damp_Scroll",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-secret-of-the-damp-scroll-node-1",
+          "orderIndex": 0,
+          "title": "Before beginning the quest you need to acquire a Damp Scroll.",
+          "description": "Before beginning the quest you need to acquire a Damp Scroll. Damp Scrolls can be acquired in two ways: Fish it up in the Sea Serpent Grotto Buy it at the Auction House under Other -> Miscellaneous",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-secret-of-the-damp-scroll-node-2",
+          "orderIndex": 1,
+          "title": "With the Damp Scroll in your inventory, go and talk to Shivivi at (J-8) in Norg to start the quest.",
+          "description": "With the Damp Scroll in your inventory, go and talk to Shivivi at (J-8) in Norg to start the quest. Shivivi tells you to dip the scroll in the hot spring on Horlais Peak.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-secret-of-the-damp-scroll-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-secret-of-the-damp-scroll-node-3",
+          "orderIndex": 2,
+          "title": "From West Ronfaure head to Ghelsba Outpost.",
+          "description": "From West Ronfaure head to Ghelsba Outpost. Stick to the left wall to enter Yughott Grotto. Run through the grotto and exit at the top entrance to Fort Ghelsba at (K-5). From this exit hug the left wall to enter Yughott Grotto through the hut at (J-8). Take the exit at (J-9) to Horlais Peak's hot spring. Alternatively, if you have completed Beyond Infinity, you can pay 750 gil to teleport to Horlais Peak via Domenic in Lower Jeuno. Domenic places you in the battlefield lobby; exit to Yughott Grotto and enter Horlais Peak's hot spring area from (J-8).",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-secret-of-the-damp-scroll-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-secret-of-the-damp-scroll-node-4",
+          "orderIndex": 3,
+          "title": "Trade the scroll to the hot spring to complete the quest and receive a scroll of Jubaku: Ichi.",
+          "description": "Trade the scroll to the hot spring to complete the quest and receive a scroll of Jubaku: Ichi.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-secret-of-the-damp-scroll-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-skyward-ho-voidwatcher",
+      "title": "Skyward Ho, Voidwatcher!",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Skyward_Ho,_Voidwatcher!",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-skyward-ho-voidwatcher-node-1",
+          "orderIndex": 0,
+          "title": "This quest automatically begins upon receiving your Ashen Stratum Abyssite III from Kieran.",
+          "description": "This quest automatically begins upon receiving your Ashen Stratum Abyssite III from Kieran. Defeat all of the Tier III Zilart NMs. Aello in Ru'Aun Gardens. Rifts are located at (G-5), (I-11) or (J-6). Qilin in The Shrine of Ru'Avitau. Rifts are located on Map 3 at (F-6), (F-9) or (J-6). Uptala in Ve'Lugannon Palace. Rifts are located at (D-5), (G-13) or (M-8).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-skyward-ho-voidwatcher-node-2",
+          "orderIndex": 1,
+          "title": "After defeating all 3, return to Norg and speak to Kieran at (H-8).",
+          "description": "After defeating all 3, return to Norg and speak to Kieran at (H-8). Note: You cannot get the next cutscene if you do not speak to Kieran first. If you speak to Gilgamesh then Kieran, you must zone to get the cutscene from Gilgamesh.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-skyward-ho-voidwatcher-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-skyward-ho-voidwatcher-node-3",
+          "orderIndex": 2,
+          "title": "Speak to Gilgamesh at (L-8) for a cutscene to complete this quest.",
+          "description": "Speak to Gilgamesh at (L-8) for a cutscene to complete this quest.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-skyward-ho-voidwatcher-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-soul-searching",
+      "title": "Soul Searching",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Soul_Searching",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-soul-searching-node-1",
+          "orderIndex": 0,
+          "title": "You must first have completed Zilart Mission 7 - The Chamber of Oracles.",
+          "description": "You must first have completed Zilart Mission 7 - The Chamber of Oracles.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-soul-searching-node-2",
+          "orderIndex": 1,
+          "title": "Once you have received the Key Item: Prismatic Fragment you can return to Sanctuary of Zi'Tah.",
+          "description": "Once you have received the Key Item: Prismatic Fragment you can return to Sanctuary of Zi'Tah.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-soul-searching-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-soul-searching-node-3",
+          "orderIndex": 2,
+          "title": "Check the Cermet Headstone (I-7).",
+          "description": "Check the Cermet Headstone (I-7). You will receive a cutscene and the Bat Earring.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-soul-searching-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-stop-your-whining",
+      "title": "Stop Your Whining",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Stop_Your_Whining",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-stop-your-whining-node-1",
+          "orderIndex": 0,
+          "title": "Travel to Norg and enter the Buccaneer's Quarters (J-8).",
+          "description": "Travel to Norg and enter the Buccaneer's Quarters (J-8).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-stop-your-whining-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Washu standing on the right side of the wall in front of a door.",
+          "description": "Talk to Washu standing on the right side of the wall in front of a door.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-stop-your-whining-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-stop-your-whining-node-3",
+          "orderIndex": 2,
+          "title": "Washu will give you the Empty Barrel and tells you to fill it with Opo-Opo brew found in a Yhoator J",
+          "description": "Washu will give you the Empty Barrel and tells you to fill it with Opo-Opo brew found in a Yhoator Jungle tree.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-stop-your-whining-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-stop-your-whining-node-4",
+          "orderIndex": 3,
+          "title": "You will need to examine the ??? that spawns at random points in Yhoator Jungle.",
+          "description": "You will need to examine the ??? that spawns at random points in Yhoator Jungle. Consult the map to the right for the possible spawn points. The spawn points are noted in Light Blue.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-stop-your-whining-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-stop-your-whining-node-5",
+          "orderIndex": 4,
+          "title": "Once you find the ??? the key item becomes Barrel of Opo-Opo Brew.",
+          "description": "Once you find the ??? the key item becomes Barrel of Opo-Opo Brew. An example of what this looks like can be seen in the picture to the right.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-stop-your-whining-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-stop-your-whining-node-6",
+          "orderIndex": 5,
+          "title": "Return to Washu and she will give you a scroll of Hojo: Ichi.",
+          "description": "Return to Washu and she will give you a scroll of Hojo: Ichi",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-stop-your-whining-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-thanks-for-all-the-fish",
+      "title": "Thanks for All the Fish",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Thanks_for_All_the_Fish",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-thanks-for-all-the-fish-node-1",
+          "orderIndex": 0,
+          "title": "Obtain a Lu Shang's Fishing Rod (you don't have to finish The Rivalry - The Competition and can just",
+          "description": "Obtain a Lu Shang's Fishing Rod (you don't have to finish The Rivalry - The Competition and can just buy it) and complete the initial Records of Eminence objective, First Step Forward.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-thanks-for-all-the-fish-node-2",
+          "orderIndex": 1,
+          "title": "Travel to (F-8) Rabao and speak with Jourdenaux to flag this quest.",
+          "description": "Travel to (F-8) Rabao and speak with Jourdenaux to flag this quest.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-thanks-for-all-the-fish-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-thanks-for-all-the-fish-node-3",
+          "orderIndex": 2,
+          "title": "Reel in 60 types of fish with any fishing rod you choose.",
+          "description": "Reel in 60 types of fish with any fishing rod you choose. Jourdenaux quote: \"First, I'll need you to reel in a large variety of fish. Let's see...yes, 60 different species will work. I leave it to you to choose which rod to employ.\" Any fish you have already fished up since Fisherman's Heart was added to the game count. If you have already done 60+, he will continue onto the next step automatically.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-thanks-for-all-the-fish-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-thanks-for-all-the-fish-node-4",
+          "orderIndex": 3,
+          "title": "Speaking to Jourdenaux again after fulfilling this requirement will unlock a new category of Records",
+          "description": "Speaking to Jourdenaux again after fulfilling this requirement will unlock a new category of Records of Eminence objectives: Fishing > Fishing (Tenacity).",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-thanks-for-all-the-fish-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-thanks-for-all-the-fish-node-5",
+          "orderIndex": 4,
+          "title": "Complete all the trials listed under this new category.",
+          "description": "Complete all the trials listed under this new category. All the trials require the use of Lu Shang's Fishing Rod to complete. For fishing trials that require X amount of catches, catching multiple fish at once with a single cast, by using lures such as the Rogue Rig, Robber Rig, and Sabiki Rig to catch small fish that are attracted to them, will have each fish caught count toward progressing the trial.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-thanks-for-all-the-fish-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-thanks-for-all-the-fish-node-6",
+          "orderIndex": 5,
+          "title": "Upon completion of the trials, return to Jourdenaux and relinquish your Lu Shang's Fishing Rod to hi",
+          "description": "Upon completion of the trials, return to Jourdenaux and relinquish your Lu Shang's Fishing Rod to him, who will reward you with the Lu Shang's Fishing Rod +1. It will be tagged with your server name, and a number indicating how many other players on your server have completed the quest and obtained the rod before you. Note that the original Lu Shang's Fishing Rod is lost in this process, and that the +1 rod is , untradeable and unsellable to other players. The rod is otherwise identical to the original version, including the possibility of breaking it, with the broken version also being Rare/Ex. Jourdenaux is able to fix the rod if you trade it to him along with an Ancient Lumber. The rod may also be repaired through Woodworking as with the original Lu Shang rod, but this will cause it to temporarily lose its server/number tag. Jourdenaux is able to restore the tag for you.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-thanks-for-all-the-fish-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-the-firebloom-tree",
+      "title": "The Firebloom Tree",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Firebloom_Tree",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-the-firebloom-tree-node-1",
+          "orderIndex": 0,
+          "title": "Soun Abralah wants (key item) Firebloom Tree Wood\u2014which does not burn even when thrown into the infe",
+          "description": "Soun Abralah wants (key item) Firebloom Tree Wood\u2014which does not burn even when thrown into the inferno of Ifrit's Cauldron.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-firebloom-tree-node-2",
+          "orderIndex": 1,
+          "title": "Obtain the Northern Vine, Southern Vine, Eastern Vine and Western Vine (key items) from (H-9) in Yuh",
+          "description": "Obtain the Northern Vine, Southern Vine, Eastern Vine and Western Vine (key items) from (H-9) in Yuhtunga Jungle.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-firebloom-tree-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-firebloom-tree-node-3",
+          "orderIndex": 2,
+          "title": "Once you have all four, travel to Ifrit's Cauldron and find a Flame Spout.",
+          "description": "Once you have all four, travel to Ifrit's Cauldron and find a Flame Spout. Use the flame spout, and you'll get a message back indicating that one of the vines you cut burned up while the remaining ones are fine. Find another flame spout and continue until you are left with one vine from the most protected side of the tree. There are a total of four flame spouts in Ifrit's Cauldron and you'll need to visit three different spouts to complete this quest.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-firebloom-tree-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-firebloom-tree-node-4",
+          "orderIndex": 3,
+          "title": "Note: If you check the flame spout while its down, you'll get the message \"Through the cracks in the",
+          "description": "Note: If you check the flame spout while its down, you'll get the message \"Through the cracks in the rocks, you can see the bubbling lava churning slowly.\" You'll have to wait until the flame rises again to get the option of exposing the vines.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-firebloom-tree-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-firebloom-tree-node-5",
+          "orderIndex": 4,
+          "title": "Tip: The last two flame sprouts are the most dangerous, and each guarded by pair of aggressive bombs",
+          "description": "Tip: The last two flame sprouts are the most dangerous, and each guarded by pair of aggressive bombs that check as Decent Challenge to level 75. Fortunately, you only have to touch one of them. You can either quickly check the first one that you come to when the bombs are facing away and use a Prism Powder or Warp item and hope you don't get caught, or you can trek across to the last flame spout that is near the zone. If you are capable of taking a couple hits, you can simply zone, if you happen to aggro, to Yuhtunga Jungle and use your Chocobo Whistle to quickly revisit the Firebloom Tree. If you aren't a high defense or high evasion job, or if you can't quickly Sleepga the bombs prior to running to the zone, be sure to make an attempt to use a Prism Powder and get to the zone without aggroing.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-firebloom-tree-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-firebloom-tree-node-6",
+          "orderIndex": 5,
+          "title": "When the last vine burns up, you'll receive the message, Now you must return to the Firebloom Tree.",
+          "description": "When the last vine burns up, you'll receive the message, Now you must return to the Firebloom Tree. If for some reason, you aren't able to finish this quest until later and you forgot which vine was able to withstand the heat, check your Temporary Key Items to see which vine is remaining. Using Ifrit's_Cauldron/Maps#Map_1, go to the flame spouts in this order: Flame spout (H-6) B > C > K > L Flame spout (H-6)/(H-7) E > H > N Flame spout (I-10)",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-firebloom-tree-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-firebloom-tree-node-7",
+          "orderIndex": 6,
+          "title": "Go back to Yuhtunga Jungle and examine the side of the Firebloom Tree that withstood the flame spout",
+          "description": "Go back to Yuhtunga Jungle and examine the side of the Firebloom Tree that withstood the flame spouts; you will receive the key item Firebloom Tree Wood. If you click the wrong root it'll just give you an arbitrary message that a vine has already been removed from that root. When you've burned up 3 of the vines and click the correct root, you'll be given the option to remove a piece of wood.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-firebloom-tree-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-firebloom-tree-node-8",
+          "orderIndex": 7,
+          "title": "Talk to Soun Abralah to be rewarded.",
+          "description": "Talk to Soun Abralah to be rewarded.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-firebloom-tree-node-7"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-the-immortal-lu-shang",
+      "title": "The Immortal Lu Shang",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Immortal_Lu_Shang",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-the-immortal-lu-shang-node-1",
+          "orderIndex": 0,
+          "title": "You first need to obtain a Broken Lu Shang's Rod before you may activate this quest.",
+          "description": "You first need to obtain a Broken Lu Shang's Rod before you may activate this quest.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-the-kuftal-tour",
+      "title": "The Kuftal Tour",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Kuftal_Tour",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-the-kuftal-tour-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Datta, who asks you to participate in a tour of Kuftal Tunnel.",
+          "description": "Talk to Datta, who asks you to participate in a tour of Kuftal Tunnel.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-kuftal-tour-node-2",
+          "orderIndex": 1,
+          "title": "Make a party of two members below level 40.",
+          "description": "Make a party of two members below level 40. There is no level cap, so your actual job level must be level 40 or below. Level Sync works on this quest. Thus, you only need one level 40 or below player in the party, and then Level Sync to his or her level. You can avoid aggro by renting a Chocobo to get there, and, once inside the tunnel, the only monsters around are Lizards who do not aggro.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-kuftal-tour-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-kuftal-tour-node-3",
+          "orderIndex": 2,
+          "title": "Travel to Kuftal Tunnel via Survival Guide (or Western Altepa Desert) and examine the ??? that is ju",
+          "description": "Travel to Kuftal Tunnel via Survival Guide (or Western Altepa Desert) and examine the ??? that is just inside the entrance above the edge of the cliff to get a cutscene with Hawk Nose. Your party must be close to the ??? in order to receive cs.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-kuftal-tour-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-kuftal-tour-node-4",
+          "orderIndex": 3,
+          "title": "Then return to Datta to get another cutscene and finish the quest.",
+          "description": "Then return to Datta to get another cutscene and finish the quest. Alter Egos cannot be used to complete this quest. However, after completing this quest, you can watch the cutscene with Hawk Nose again at the Goblin Footprint in Kuftal Tunnel. If you summon Alter Egos with Trust Magic and then rewatch this quest's cutscene, you'll see your summoned Alter Egos in the cutscene.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-kuftal-tour-node-3"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-the-missing-piece",
+      "title": "The Missing Piece",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Missing_Piece",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-the-missing-piece-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Alfesar in Rabao (H-7).",
+          "description": "Talk to Alfesar in Rabao (H-7). He needs your help in finding an Ancient tablet fragment in the Quicksand Caves. The fragment spawns at one of five randomly chosen locations in the Quicksand Caves. Spawn points on Map 1: (H-6), (H-10), (E-9) Spawn points on Map 2: (D-9), (L-11)",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-the-opo-opo-and-i",
+      "title": "The Opo-opo and I",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Opo-opo_and_I",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-the-opo-opo-and-i-node-1",
+          "orderIndex": 0,
+          "title": "The order they are listed in Widescan is the same as the correct order to trade them items.",
+          "description": "The order they are listed in Widescan is the same as the correct order to trade them items. This can be a good way to go through the list if one has multiple consecutive items.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-opo-opo-and-i-node-2",
+          "orderIndex": 1,
+          "title": "For a complete walkthrough on this quest, see Guide To Getting Your Opo-opo Crown.",
+          "description": "For a complete walkthrough on this quest, see Guide To Getting Your Opo-opo Crown.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-opo-opo-and-i-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-opo-opo-and-i-node-3",
+          "orderIndex": 2,
+          "title": "4 free inventory slots will be needed for the rewards (Opo-opo Crown and 3 Pamamas).",
+          "description": "4 free inventory slots will be needed for the rewards (Opo-opo Crown and 3 Pamamas).",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-opo-opo-and-i-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-opo-opo-and-i-node-4",
+          "orderIndex": 3,
+          "title": "Three of the last five items on this list (Giant Fish Bones, Ancient Salt, and Lucky Egg) are Rare/E",
+          "description": "Three of the last five items on this list (Giant Fish Bones, Ancient Salt, and Lucky Egg) are Rare/Ex, so you can not purchase them from Auction House/Bazaar. They can be delivered from another character on your account.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-opo-opo-and-i-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-opo-opo-and-i-node-5",
+          "orderIndex": 4,
+          "title": "If you forget where you left off and come back and don't remember which one you traded to last, no w",
+          "description": "If you forget where you left off and come back and don't remember which one you traded to last, no worries. Just talk to them and they will say \"Opopopopo! Opop-opo! Opo-opo!\" and do a /bow motion to let you know you've done that part of the quest. Just move on to the next one until you get one that says \"Opo-opo?\" and you will know you have not traded an item to that Opo-opo.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-opo-opo-and-i-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-opo-opo-and-i-node-6",
+          "orderIndex": 5,
+          "title": "It's very easy to fix whatever you have messed up when trading the items.",
+          "description": "It's very easy to fix whatever you have messed up when trading the items. All you need to do is get all the previous items you have traded to the Opo-opos and start from the beginning. For example: Say you have traded items to Lulupp, Kukupp, Mumupp, and Roropp. All you need to do is gather those items again and trade them to the appropriate Opo-opos. They WILL NOT take the new items but it does still count. Once you've traded them just continue as usual and you will receive your Opo-opo Crown.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-opo-opo-and-i-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-the-potential-within",
+      "title": "The Potential Within",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Potential_Within",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-the-potential-within-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Jaucribaix in Norg as Samurai level 71+ to receive the Tachi of Trials and a Weapon Training",
+          "description": "Talk to Jaucribaix in Norg as Samurai level 71+ to receive the Tachi of Trials and a Weapon Training Guide. Your Great Katana skill must be at base 250 or higher. Gear and merits do not count towards your skill when activating this quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-potential-within-node-2",
+          "orderIndex": 1,
+          "title": "Use the Tachi of Trials until the latent effect disappears.",
+          "description": "Use the Tachi of Trials until the latent effect disappears. You must perform Weapon Skills and Skillchains on monsters that directly grant experience points. Weapon Skills performed under Level Sync count. Weapon Skills performed in Reives will count. You receive 5 points for opening/soloing a weaponskill, 7 points for closing a Lv.1 Skillchain, 9 points for closing a Lv.2 Skillchain and 11 points for closing a level 3 Skillchain. You must accumulate 300 total points. The latent effect vanishes when you have accumulated 300 WS points. You do not need to unequip and reequip the weapon for the latent effect to disappear.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-potential-within-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-potential-within-node-3",
+          "orderIndex": 2,
+          "title": "Once you no longer receive the latent effect, head back to Norg and trade the Tachi of Trials back t",
+          "description": "Once you no longer receive the latent effect, head back to Norg and trade the Tachi of Trials back to Jaucribaix. The weapon is lost and you receive a Map to the Annals of Truth and instructions to head to Kuftal Tunnel. NOTE:You can be any job from this part forward.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-potential-within-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-potential-within-node-4",
+          "orderIndex": 3,
+          "title": "Once in Kuftal Tunnel go to (L-7) on the map to the right and click the ??? to spawn the NM named Ke",
+          "description": "Once in Kuftal Tunnel go to (L-7) on the map to the right and click the ??? to spawn the NM named Kettenkaefer.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-potential-within-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-potential-within-node-5",
+          "orderIndex": 4,
+          "title": "Once the NM is dead, reexamine the ??? to obtain the Annals of Truth.",
+          "description": "Once the NM is dead, reexamine the ??? to obtain the Annals of Truth.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-potential-within-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-potential-within-node-6",
+          "orderIndex": 5,
+          "title": "Bring this back to Jaucribaix for your reward.",
+          "description": "Bring this back to Jaucribaix for your reward.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-potential-within-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-the-sacred-katana",
+      "title": "The Sacred Katana",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Sacred_Katana",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-the-sacred-katana-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Jaucribaix in Norg (K-8) as a Samurai; he asks you to bring him the Mumeito he gave you when",
+          "description": "Talk to Jaucribaix in Norg (K-8) as a Samurai; he asks you to bring him the Mumeito he gave you when you became a Samurai and a Handful of Crystal Scales. If you dropped the Mumeito, Ranemaud will sell you another one for 30,000 gil after you accept the quest.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-sacred-katana-node-2",
+          "orderIndex": 1,
+          "title": "NOTE: From this point on, you can finish this quest on any job, including getting the reward.",
+          "description": "NOTE: From this point on, you can finish this quest on any job, including getting the reward.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-sacred-katana-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-sacred-katana-node-3",
+          "orderIndex": 2,
+          "title": "Obtain a Sack of Fish Bait from Goblin Robbers in the Sanctuary of Zi'Tah.",
+          "description": "Obtain a Sack of Fish Bait from Goblin Robbers in the Sanctuary of Zi'Tah. Many Goblin Robbers can be found at (H-8) north of the outpost.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-sacred-katana-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-sacred-katana-node-4",
+          "orderIndex": 3,
+          "title": "Trade the Sack of Fish Bait to the ??? at (E-8) near a lake in the Sanctuary of Zi'Tah to spawn a pu",
+          "description": "Trade the Sack of Fish Bait to the ??? at (E-8) near a lake in the Sanctuary of Zi'Tah to spawn a pugil NM: Isonade. You can spawn this NM on any job. Use Sneak to prevent the NM from aggroing the trader.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-sacred-katana-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-sacred-katana-node-5",
+          "orderIndex": 4,
+          "title": "Defeat Isonade and reexamine the ??? to obtain a Handful of Crystal Scales.",
+          "description": "Defeat Isonade and reexamine the ??? to obtain a Handful of Crystal Scales. If you change areas or lose connection, you will need another Sack of Fish Bait to spawn and defeat Isonade again. Be sure to check the ??? after defeating Isonade. If you have multiple people on the quest, you only need to kill Isonade once. Therefore, one Sack of Fish Bait is enough for the entire group.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-sacred-katana-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-sacred-katana-node-6",
+          "orderIndex": 5,
+          "title": "Return to Norg and trade the Mumeito to Jaucribaix to complete the quest.",
+          "description": "Return to Norg and trade the Mumeito to Jaucribaix to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-sacred-katana-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-the-sahagin-s-stash",
+      "title": "The Sahagin's Stash",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Sahagin%27s_Stash",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-the-sahagin-s-stash-node-1",
+          "orderIndex": 0,
+          "title": "Obtain a Silver Beastcoin.",
+          "description": "Obtain a Silver Beastcoin. You can buy it from the Auction House under Others > Beast-made.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-the-search-for-goldmane",
+      "title": "The Search for Goldmane",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/The_Search_for_Goldmane",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-1",
+          "orderIndex": 0,
+          "title": "Talk to Zoriboh and agree to start the quest to receive the Care package (key item).",
+          "description": "Talk to Zoriboh and agree to start the quest to receive the Care package (key item).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-2",
+          "orderIndex": 1,
+          "title": "Go to Tavnazian Safehold and talk with Quelveuiat ((I-10), 1st Floor near \"Altar of the Dawn\" ) for ",
+          "description": "Go to Tavnazian Safehold and talk with Quelveuiat ((I-10), 1st Floor near \"Altar of the Dawn\" ) for a cutscene.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-3",
+          "orderIndex": 2,
+          "title": "Get a Copper Key from a Riverne Vulture in Riverne - Site #A01.",
+          "description": "Get a Copper Key from a Riverne Vulture in Riverne - Site #A01. You will also need to kill a Firedrake for a Giant Scale to get through the Unstable Displacements.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-4",
+          "orderIndex": 3,
+          "title": "At Riverne - Site #A01 go through the portals to the island at I-11.",
+          "description": "At Riverne - Site #A01 go through the portals to the island at I-11. You will receive a cutscene upon reaching the island. Trade the Copper Key to the Trunk (a treasure box) there for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-5",
+          "orderIndex": 4,
+          "title": "Go to the Bastok Metalworks upper floor and talk to Vladinek at H-8 in the Craftsmen's Eatery for a ",
+          "description": "Go to the Bastok Metalworks upper floor and talk to Vladinek at H-8 in the Craftsmen's Eatery for a long cutscene.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-6",
+          "orderIndex": 5,
+          "title": "Go to Bibiki Bay and take the Manaclipper to Purgonorgo Isle.",
+          "description": "Go to Bibiki Bay and take the Manaclipper to Purgonorgo Isle. To board the Manaclipper, you need to buy a ticket from Tswe Panipahr.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-7",
+          "orderIndex": 6,
+          "title": "There are multiple Manaclipper that go to different islands.",
+          "description": "There are multiple Manaclipper that go to different islands. Speak to Fheli Lapatzuo (H-7) at the docks before boarding a boat to make sure it's the correct one.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-8",
+          "orderIndex": 7,
+          "title": "Go to the beach at F-9 by the Weathered Boat.",
+          "description": "Go to the beach at F-9 by the Weathered Boat.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-9",
+          "orderIndex": 8,
+          "title": "Select the Weathered Boat for a short cutscene.",
+          "description": "Select the Weathered Boat for a short cutscene. The NM Rohemolipaud, an Elvaan Ranger around level 55, will spawn after the cutscene is done.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-8"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-10",
+          "orderIndex": 9,
+          "title": "Once about 1400 damage is done to him, or the fight goes on long enough, he will use Camouflage and ",
+          "description": "Once about 1400 damage is done to him, or the fight goes on long enough, he will use Camouflage and run off, ending the fight.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-the-search-for-goldmane-node-9"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-trial-by-fire",
+      "title": "Trial by Fire",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Trial_by_Fire",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-trial-by-fire-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Ronta-Onta in Kazham.",
+          "description": "Speak to Ronta-Onta in Kazham. If you have sufficient fame, he will give you a Tuning fork of fire.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-trial-by-water",
+      "title": "Trial by Water",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Trial_by_Water",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-trial-by-water-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Edal-Tahdal in Norg.",
+          "description": "Speak to Edal-Tahdal in Norg. If you have sufficient fame, he will give you a Tuning fork of water.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-trial-by-water-node-2",
+          "orderIndex": 1,
+          "title": "Travel to Den of Rancor and find the Cloister of Tides.",
+          "description": "Travel to Den of Rancor and find the Cloister of Tides. Use Home Point #2 or Unity Accolades warp for the fastest way there. Otherwise you're in for a long walk",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-trial-by-water-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-trial-by-wind",
+      "title": "Trial by Wind",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Trial_by_Wind",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-trial-by-wind-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Agado-Pugado in Rabao.",
+          "description": "Speak to Agado-Pugado in Rabao. If you have sufficient fame, he will give you a Tuning fork of wind.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-trial-by-wind-node-2",
+          "orderIndex": 1,
+          "title": "Travel to Cape Teriggan and head to the Cloister of Gales.",
+          "description": "Travel to Cape Teriggan and head to the Cloister of Gales. To get to the Cloister of Gales, travel to F-7 in Cape Teriggan. From here, follow a tunnel west, off the map.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-trial-by-wind-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-trial-size-trial-by-fire",
+      "title": "Trial Size Trial by Fire",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Trial_Size_Trial_by_Fire",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-trial-size-trial-by-fire-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Dodmos in Kazham, located at J-9 near the homepoint crystal.",
+          "description": "Speak to Dodmos in Kazham, located at J-9 near the homepoint crystal. You must speak to Dodmos as a Summoner.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-trial-size-trial-by-fire-node-2",
+          "orderIndex": 1,
+          "title": "If you qualify, he will give you a Mini Tuning Fork of Fire.",
+          "description": "If you qualify, he will give you a Mini Tuning Fork of Fire.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-trial-size-trial-by-fire-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-trial-size-trial-by-water",
+      "title": "Trial Size Trial by Water",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Trial_Size_Trial_by_Water",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-trial-size-trial-by-water-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Verctissa (H-9) in Norg.",
+          "description": "Speak to Verctissa (H-9) in Norg. You must speak to Verctissa as a Summoner.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-trial-size-trial-by-water-node-2",
+          "orderIndex": 1,
+          "title": "If you qualify, she will give you a Mini Tuning Fork of Water.",
+          "description": "If you qualify, she will give you a Mini Tuning Fork of Water.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-trial-size-trial-by-water-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-trial-size-trial-by-wind",
+      "title": "Trial Size Trial by Wind",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Trial_Size_Trial_by_Wind",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-trial-size-trial-by-wind-node-1",
+          "orderIndex": 0,
+          "title": "Speak to Rahi Fohlatti in Rabao.",
+          "description": "Speak to Rahi Fohlatti in Rabao. You must speak to Rahi Fohlatti as a Summoner.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-trial-size-trial-by-wind-node-2",
+          "orderIndex": 1,
+          "title": "If you qualify, she will give you a Mini Tuning Fork of Wind.",
+          "description": "If you qualify, she will give you a Mini Tuning Fork of Wind.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-trial-size-trial-by-wind-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-true-will",
+      "title": "True Will",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/True_Will",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-true-will-node-1",
+          "orderIndex": 0,
+          "title": "Ryoma in Norg sends you to Yhoator Jungle at (I-7).",
+          "description": "Ryoma in Norg sends you to Yhoator Jungle at (I-7). The fastest way there is via the Yhoator Jungle Survival Guide.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-true-will-node-2",
+          "orderIndex": 1,
+          "title": "Examine the ??? at (I-7) to spawn 3 NM Sahagins:.",
+          "description": "Examine the ??? at (I-7) to spawn 3 NM Sahagins:",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-true-will-node-1"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-voidwatch-ops-border-crossing",
+      "title": "Voidwatch Ops: Border Crossing",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Voidwatch_Ops:_Border_Crossing",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-voidwatch-ops-border-crossing-node-1",
+          "orderIndex": 0,
+          "title": "Speak with Kieran at (I-8) in Norg for a cutscene.",
+          "description": "Speak with Kieran at (I-8) in Norg for a cutscene. Accept his offer to receive an Ashen Stratum Abyssite.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-voidwatch-ops-border-crossing-node-2",
+          "orderIndex": 1,
+          "title": "Speak to Hildegard in Kazham at (F-9) to gain access to the Elshimo series of Voidwatch battles.",
+          "description": "Speak to Hildegard in Kazham at (F-9) to gain access to the Elshimo series of Voidwatch battles. This flags the quest VW Op. #054: Elshimo List.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-voidwatch-ops-border-crossing-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-voidwatch-ops-border-crossing-node-3",
+          "orderIndex": 2,
+          "title": "Speak to Gushing Spring in Rabao at (G-8) (near the Nomad Moogles) to gain access to the Altepa seri",
+          "description": "Speak to Gushing Spring in Rabao at (G-8) (near the Nomad Moogles) to gain access to the Altepa series of Voidwatch battles. This flags the quest VW Op. #101: Detour to Zepwell. Speaking to each NPC consequently allows teleportation to those areas via Atmacite Refiner and is necessary to gain progress. If you have already defeated the VWNMs prior to speaking to the NPCs, you do not need to defeat them again. Speak to the to NPCs and then return directly to Kieran.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-voidwatch-ops-border-crossing-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-voidwatch-ops-border-crossing-node-4",
+          "orderIndex": 3,
+          "title": "Kill all of the Tier I Zilart VWNMs (total of 6 NMs: 3 for each quest) as designated by the quests.",
+          "description": "Kill all of the Tier I Zilart VWNMs (total of 6 NMs: 3 for each quest) as designated by the quests.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-voidwatch-ops-border-crossing-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-voidwatch-ops-border-crossing-node-5",
+          "orderIndex": 4,
+          "title": "Speak to Hildegard in Kazham and Gushing Spring in Rabao for cutscenes, completing their respective ",
+          "description": "Speak to Hildegard in Kazham and Gushing Spring in Rabao for cutscenes, completing their respective quests.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-voidwatch-ops-border-crossing-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-voidwatch-ops-border-crossing-node-6",
+          "orderIndex": 5,
+          "title": "After completing both quests, return to Norg and talk to Kieran.",
+          "description": "After completing both quests, return to Norg and talk to Kieran. (Your KI upgrades with the quest VW Op. #115: Li'Telor Variant.)",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-voidwatch-ops-border-crossing-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-vw-op-054-elshimo-list",
+      "title": "VW Op. 054: Elshimo List",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/VW_Op._054:_Elshimo_List",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-vw-op-054-elshimo-list-node-1",
+          "orderIndex": 0,
+          "title": "After starting Voidwatch Ops: Border Crossing, speak to Hildegard in Kazham at (F-9).",
+          "description": "After starting Voidwatch Ops: Border Crossing, speak to Hildegard in Kazham at (F-9).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-vw-op-054-elshimo-list-node-2",
+          "orderIndex": 1,
+          "title": "Defeat the 3 Tier I Zilart NMs in the Elshimo Region Holy Moly in the Yuhtunga Jungle.",
+          "description": "Defeat the 3 Tier I Zilart NMs in the Elshimo Region Holy Moly in the Yuhtunga Jungle. Rifts are located at (F-11), (G-6), or (J-7). Ildebrann in the Ifrit's Cauldron. Rifts are located at on Map 3 at (F-9) or on Map 5 at (F-9), (I-6). Neith in the Temple of Uggalepih. Rifts are located on Map 1 at (I-9), (K-6) or on Map 2 at (G-8).",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-vw-op-054-elshimo-list-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-vw-op-054-elshimo-list-node-3",
+          "orderIndex": 2,
+          "title": "Return to Hildegard to finish this quest.",
+          "description": "Return to Hildegard to finish this quest.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-vw-op-054-elshimo-list-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-vw-op-101-detour-to-zepwell",
+      "title": "VW Op. 101: Detour to Zepwell",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/VW_Op._101:_Detour_to_Zepwell",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-vw-op-101-detour-to-zepwell-node-1",
+          "orderIndex": 0,
+          "title": "After starting Voidwatch Ops: Border Crossing, speak to Gushing Spring in Rabao at (G-8) (near the N",
+          "description": "After starting Voidwatch Ops: Border Crossing, speak to Gushing Spring in Rabao at (G-8) (near the Nomad Moogles).",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-vw-op-101-detour-to-zepwell-node-2",
+          "orderIndex": 1,
+          "title": "Defeat the 3 Tier I Zilart NMs in the Kuzotz Region.",
+          "description": "Defeat the 3 Tier I Zilart NMs in the Kuzotz Region. Sabotender Campeador in the Western Altepa Desert. Rifts are located at (G-10), (H-5) or (L-6). Tangaroa in the Kuftal Tunnel. Rifts are located on Map 2 at (F-8), (J-9) or on Map 3 at (I-8). Malleator Maurok in the Quicksand Caves. Rifts are located on Map 3 at (G-9) or .",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-vw-op-101-detour-to-zepwell-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-vw-op-101-detour-to-zepwell-node-3",
+          "orderIndex": 2,
+          "title": "Return to Gushing Spring to finish this quest.",
+          "description": "Return to Gushing Spring to finish this quest.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-vw-op-101-detour-to-zepwell-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-vw-op-115-li-telor-variant",
+      "title": "VW Op. 115: Li'Telor Variant",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/VW_Op._115:_Li%27Telor_Variant",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-vw-op-115-li-telor-variant-node-1",
+          "orderIndex": 0,
+          "title": "Travel to Norg and speak to Kieran (H-8) for a cutscene.",
+          "description": "Travel to Norg and speak to Kieran (H-8) for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-vw-op-115-li-telor-variant-node-2",
+          "orderIndex": 1,
+          "title": "Talk to Gilgamesh (L-8) for another cutscene.",
+          "description": "Talk to Gilgamesh (L-8) for another cutscene.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-vw-op-115-li-telor-variant-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-vw-op-115-li-telor-variant-node-3",
+          "orderIndex": 2,
+          "title": "Speak to Kieran again for a cutscene that upgrades your Ashen Stratum Abyssite to a Ashen Stratum Ab",
+          "description": "Speak to Kieran again for a cutscene that upgrades your Ashen Stratum Abyssite to a Ashen Stratum Abyssite II (the quest is flagged at this point).",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-vw-op-115-li-telor-variant-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-vw-op-115-li-telor-variant-node-4",
+          "orderIndex": 3,
+          "title": "Defeat all of the Tier II Zilart NMs.",
+          "description": "Defeat all of the Tier II Zilart NMs. Cath Palug in The Sanctuary of Zi'Tah. Rifts are located at (E-9), (F-8), and (G-10). Modron in The Boyahda Tree. Rifts are located on Map 1 (G-5), (K-8), and on Map 2 at (F-7). Mimic King in Ro'Maeve. Rifts are located at (E-7), (I-9), and (K-7).",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-vw-op-115-li-telor-variant-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-vw-op-115-li-telor-variant-node-5",
+          "orderIndex": 4,
+          "title": "Return to Norg and speak to Kieran (H-8) to receive your Ashen Stratum Abyssite III.",
+          "description": "Return to Norg and speak to Kieran (H-8) to receive your Ashen Stratum Abyssite III.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-vw-op-115-li-telor-variant-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-vw-op-115-li-telor-variant-node-6",
+          "orderIndex": 5,
+          "title": "The quest Skyward Ho, Voidwatcher! is flagged automatically.",
+          "description": "The quest Skyward Ho, Voidwatcher! is flagged automatically.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-vw-op-115-li-telor-variant-node-5"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-wandering-souls",
+      "title": "Wandering Souls",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Wandering_Souls",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-wandering-souls-node-1",
+          "orderIndex": 0,
+          "title": "You must first have Zilart Mission 5 - Headstone Pilgrimage activated.",
+          "description": "You must first have Zilart Mission 5 - Headstone Pilgrimage activated.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-wandering-souls-node-2",
+          "orderIndex": 1,
+          "title": "After completing your business for ZM5 at the Cermet Headstone in Cape Teriggan, trade a Rain Lily t",
+          "description": "After completing your business for ZM5 at the Cermet Headstone in Cape Teriggan, trade a Rain Lily to the headstone. You will get a cutscene. Rain Lilies can be purchased from Areebah in Upper Jeuno, Dabih Jajalioh in Ru'Lude Gardens or from Auction House: Materials >> Alchemy.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-wandering-souls-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-wandering-souls-node-3",
+          "orderIndex": 2,
+          "title": "At the end of the cutscene, you will receive the Flagellant's Rope.",
+          "description": "At the end of the cutscene, you will receive the Flagellant's Rope.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-wandering-souls-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-wrath-of-the-opo-opos",
+      "title": "Wrath of the Opo-opos",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Wrath_of_the_Opo-opos",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-wrath-of-the-opo-opos-node-1",
+          "orderIndex": 0,
+          "title": "You must first have Zilart Mission 5 - Headstone Pilgrimage activated or completed.",
+          "description": "You must first have Zilart Mission 5 - Headstone Pilgrimage activated or completed.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-wrath-of-the-opo-opos-node-2",
+          "orderIndex": 1,
+          "title": "After completing your business for ZM5 at the Cermet Headstone in Yuhtunga Jungle, trade a Garnet to",
+          "description": "After completing your business for ZM5 at the Cermet Headstone in Yuhtunga Jungle, trade a Garnet to the headstone. You will get a cutscene. Garnets can be obtained from various Treasure Chests, purchased at the Auction House (under Materials > Goldsmithing) or synthesized.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-wrath-of-the-opo-opos-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-wrath-of-the-opo-opos-node-3",
+          "orderIndex": 2,
+          "title": "At the end of the cutscene, you will receive the Opo-opo Necklace.",
+          "description": "At the end of the cutscene, you will receive the Opo-opo Necklace.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-wrath-of-the-opo-opos-node-2"
+          ]
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-yomi-okuri",
+      "title": "Yomi Okuri",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/Yomi_Okuri",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-yomi-okuri-node-1",
+          "orderIndex": 0,
+          "title": "After completing The Sacred Katana, you must change areas (logging out does not count as zoning) bef",
+          "description": "After completing The Sacred Katana, you must change areas (logging out does not count as zoning) before you can initiate this quest.",
+          "dependencies": []
+        }
+      ],
+      "gates": []
+    },
+    {
+      "id": "ffxiclopedia-outlands-quests-you-call-that-a-knife",
+      "title": "You Call That a Knife?",
+      "number": null,
+      "url": "https://ffxiclopedia.fandom.com/wiki/You_Call_That_a_Knife%3F",
+      "nodes": [
+        {
+          "id": "ffxiclopedia-outlands-quests-you-call-that-a-knife-node-1",
+          "orderIndex": 0,
+          "title": "Mhebi Juhbily tells you to go away and shoos you away from the Shed she's standing in front of.",
+          "description": "Mhebi Juhbily tells you to go away and shoos you away from the Shed she's standing in front of. Trade the Sandfish to her, then run around behind her and check the Shed for a cutscene.",
+          "dependencies": []
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-you-call-that-a-knife-node-2",
+          "orderIndex": 1,
+          "title": "Speak with Vah Keshura in the Ryuhkowa's Mercenary Merchandise who will tell you about a kitchen in ",
+          "description": "Speak with Vah Keshura in the Ryuhkowa's Mercenary Merchandise who will tell you about a kitchen in Temple of Uggalepih and an evil chef. Talk to her again for additional dialogue.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-you-call-that-a-knife-node-1"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-you-call-that-a-knife-node-3",
+          "orderIndex": 2,
+          "title": "Obtain a Tonberry Board from either a Tonberry Pursuer in the Temple of Uggalepih, or from a Tonberr",
+          "description": "Obtain a Tonberry Board from either a Tonberry Pursuer in the Temple of Uggalepih, or from a Tonberry Shadower in Yhoator Jungle, or from a Tonberry Trailer in Den of Rancor.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-you-call-that-a-knife-node-2"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-you-call-that-a-knife-node-4",
+          "orderIndex": 3,
+          "title": "Travel to the Temple of Uggalepih using the Survival Guide.",
+          "description": "Travel to the Temple of Uggalepih using the Survival Guide. If you don't have it registered, enter the Temple from J-12 in Yhoator Jungle, then head right and follow the path until you arrive at the junction at H-9 and head North. Once you arrive at the next intersection at G-7, head North again to the Survival Guide.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-you-call-that-a-knife-node-3"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-you-call-that-a-knife-node-5",
+          "orderIndex": 4,
+          "title": "Head North and zone back into Yhoator Jungle then, staying on the ledge, head left and zone back int",
+          "description": "Head North and zone back into Yhoator Jungle then, staying on the ledge, head left and zone back into the Temple at H-11.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-you-call-that-a-knife-node-4"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-you-call-that-a-knife-node-6",
+          "orderIndex": 5,
+          "title": "Head West then south until you reach a gate.",
+          "description": "Head West then south until you reach a gate. Head through the gate and keep heading south until you reach H-10. Once there, turn west and go past the Granite Door.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-you-call-that-a-knife-node-5"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-you-call-that-a-knife-node-7",
+          "orderIndex": 6,
+          "title": "Speak with Chef Nonberry, then trade them the Tonberry Board and you will receive Nonberry's Knife.",
+          "description": "Speak with Chef Nonberry, then trade them the Tonberry Board and you will receive Nonberry's Knife. If you trade anything other than a Tonberry Board to Chef Nonberry, they will take the item traded and summon four chef NMs: Cook Nalberry who is a THF, Cook Minberry who is a NIN, Cook Solberry who is a BLM, and Cook Fulberry who is a SMN. They're capable of using their 2-hours and can be dangerous. It's recommended not to pop these.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-you-call-that-a-knife-node-6"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-you-call-that-a-knife-node-8",
+          "orderIndex": 7,
+          "title": "Optional: Speak with Vah Keshura again for additional dialogue.",
+          "description": "Optional: Speak with Vah Keshura again for additional dialogue.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-you-call-that-a-knife-node-7"
+          ]
+        },
+        {
+          "id": "ffxiclopedia-outlands-quests-you-call-that-a-knife-node-9",
+          "orderIndex": 8,
+          "title": "Return to Mhebi Juhbily to complete the quest.",
+          "description": "Return to Mhebi Juhbily to complete the quest.",
+          "dependencies": [
+            "ffxiclopedia-outlands-quests-you-call-that-a-knife-node-8"
+          ]
+        }
+      ],
+      "gates": []
+    }
+  ]
+}

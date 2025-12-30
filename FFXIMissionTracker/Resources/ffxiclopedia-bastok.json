@@ -61,7 +61,22 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Zeruhn_Report.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6b/Bastok-mines.png/revision/latest/scale-to-width-down/180?cb=20080722171106",
+          "alt": "(Bas. Mines). Zeruh is all the way on the left."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/7d/ZeruhnMines.png/revision/latest/scale-to-width-down/180?cb=20051016123104",
+          "alt": "Zeruhn Mines"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest/scale-to-width-down/180?cb=20080722171107",
+          "alt": "Metalworks."
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-a-geological-survey",
@@ -131,7 +146,34 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_A_Geological_Survey.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/73/South_Gustaberg.jpg/revision/latest/scale-to-width-down/180?cb=20080120173513",
+          "alt": "(S.Gustaberg) Dangruf is all the way on the left."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/73/South_Gustaberg.jpg/revision/latest/scale-to-width-down/180?cb=20080120173513",
+          "alt": "(S.Gustaberg) Dangruf is all the way on the left."
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/8/8d/Dangruf_wadi.png/revision/latest/scale-to-width-down/180?cb=20060302152124",
+          "alt": "Dangruf Wadi"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/8/8d/Dangruf_wadi.png/revision/latest/scale-to-width-down/180?cb=20060302152124",
+          "alt": "Dangruf Wadi"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/73/South_Gustaberg.jpg/revision/latest?cb=20080120173513",
+          "alt": "South Gustaberg"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-fetichism",
@@ -172,7 +214,22 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Fetichism.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b7/Exclamation.gif/revision/latest/scale-to-width-down/14?cb=20061130211020",
+          "alt": "Verification Needed"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/Rare.png/revision/latest?cb=20110520150127",
+          "alt": "Rare"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b7/Exclamation.gif/revision/latest/scale-to-width-down/14?cb=20061130211020",
+          "alt": "Verification Needed"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-the-crystal-line",
@@ -229,7 +286,22 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Crystal_Line.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b0/Konschtat_Highlands.png/revision/latest/scale-to-width-down/180?cb=20081026044719",
+          "alt": "Konschtat Highlands"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest/scale-to-width-down/180?cb=20080722171107",
+          "alt": "Metalworks (Cid, Naji, and Ayame)"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest/scale-to-width-down/180?cb=20080722171107",
+          "alt": "Metalworks (Cid, Naji, and Ayame)"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-wading-beasts",
@@ -249,7 +321,14 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Wading_Beasts.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest/scale-to-width-down/180?cb=20080722171107",
+          "alt": "Metalworks for Alois (J-8)."
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-the-emissary",
@@ -269,7 +348,8 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Emissary.html"
     },
     {
       "id": "ffxiclopedia-bastok-the-four-musketeers",
@@ -301,7 +381,14 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Four_Musketeers.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-to-the-forsaken-mines",
@@ -395,7 +482,22 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_To_the_Forsaken_Mines.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/02/Gusgen-mines_1.png/revision/latest/scale-to-width-down/180?cb=20081026044342",
+          "alt": "Gusgen Mines"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6b/Bastok-mines.png/revision/latest?cb=20080722171106",
+          "alt": "Bastok-mines"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b9/Windurst-waters-north.png/revision/latest?cb=20080722162951",
+          "alt": "Windurst-waters-north"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-jeuno-mission",
@@ -489,7 +591,54 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Jeuno__Mission_.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/7b/DelkfuttsTower0.png/revision/latest/scale-to-width-down/185?cb=20051208144837",
+          "alt": "Lower Tower - Basement"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/3/36/DelkfuttsTower1.png/revision/latest/scale-to-width-down/185?cb=20081024191730",
+          "alt": "Lower Tower - Fl. 1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/42/DelkfuttsTower2.png/revision/latest/scale-to-width-down/185?cb=20081024191744",
+          "alt": "Lower Tower - Fl. 2"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/3/3c/DelkfuttsTower3.png/revision/latest/scale-to-width-down/185?cb=20081024191757",
+          "alt": "Lower Tower - Fl. 3"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/fe/DelkfuttsTower4.png/revision/latest/scale-to-width-down/185?cb=20081024191817",
+          "alt": "Middle Tower - Fl. 4"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/a3/DelkfuttsTower5.png/revision/latest/scale-to-width-down/185?cb=20081024191915",
+          "alt": "Middle Tower - Fl. 5"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/67/DelkfuttsTower6.png/revision/latest/scale-to-width-down/185?cb=20081024191928",
+          "alt": "Middle Tower - Fl. 6"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/1/1d/DelkfuttsTower7.png/revision/latest/scale-to-width-down/185?cb=20081024191940",
+          "alt": "Middle Tower - Fl. 7"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/f5/DelkfuttsTower8.png/revision/latest/scale-to-width-down/185?cb=20081024191951",
+          "alt": "Middle Tower - Fl. 8"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9f/DelkfuttsTower9.png/revision/latest/scale-to-width-down/185?cb=20081024192010",
+          "alt": "Middle Tower - Fl. 9"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/be/DelkfuttsTower10.png/revision/latest/scale-to-width-down/185?cb=20081024192051",
+          "alt": "Upper Tower - Fl. 10"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-magicite-bastok",
@@ -564,7 +713,46 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Magicite__Bastok_.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/f4/Ulrich_reports.png/revision/latest/scale-to-width-down/180?cb=20191114002339",
+          "alt": " reports the deaths of  and  to ,  and "
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/1/14/Beadeaux1.png/revision/latest/scale-to-width-down/180?cb=20060324143440",
+          "alt": "Beadeaux Map 1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/28/Beadeaux2.png/revision/latest/scale-to-width-down/180?cb=20060324143456",
+          "alt": "Beadeaux Map 2"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/cd/Davoi.png/revision/latest/scale-to-width-down/180?cb=20060825142025",
+          "alt": "Davoi"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/e/ec/CastleOztroja1.png/revision/latest/scale-to-width-down/180?cb=20060323184451",
+          "alt": "Castle Oztroja Map 1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/e/ea/CastleOztroja3.png/revision/latest/scale-to-width-down/180?cb=20060323184739",
+          "alt": "Castle Oztroja Map 3"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/9/9b/CastleOztroja7.png/revision/latest/scale-to-width-down/180?cb=20060323184920",
+          "alt": "Castle Oztroja Map 7"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/8/8a/CastleOztroja2.png/revision/latest/scale-to-width-down/180?cb=20060323184538",
+          "alt": "Castle Oztroja Map 2"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/ce/Rulude-gardens.png/revision/latest?cb=20081018153017",
+          "alt": "Rulude-gardens"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-darkness-rising",
@@ -638,7 +826,22 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Darkness_Rising.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/cf/FeiYin1.png/revision/latest?cb=20081031183132",
+          "alt": "FeiYin1"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-xarcabard-land-of-truths",
@@ -727,7 +930,42 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Xarcabard__Land_of_Truths.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/29/CastleZvahlBaileys1.png/revision/latest/scale-to-width-down/70?cb=20080125001419",
+          "alt": "Baileys Map 1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/f/ff/CastleZvahlBaileys2.png/revision/latest/scale-to-width-down/70?cb=20090906023251",
+          "alt": "Baileys Map 2"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/c2/CastleZvahlKeep1.png/revision/latest/scale-to-width-down/70?cb=20051018215959",
+          "alt": "Keep Map 1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/2f/CastleZvahlKeep2.png/revision/latest/scale-to-width-down/70?cb=20051018220013",
+          "alt": "Keep Map 2"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/22/CastleZvahlKeep3.png/revision/latest/scale-to-width-down/70?cb=20081026035550",
+          "alt": "Keep Map 3"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/a/a2/CastleZvahlKeep4.png/revision/latest/scale-to-width-down/70?cb=20051018220033",
+          "alt": "Keep Map 4"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-return-of-the-talekeeper",
@@ -832,7 +1070,26 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Return_of_the_Talekeeper.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b7/Exclamation.gif/revision/latest/scale-to-width-down/14?cb=20061130211020",
+          "alt": "Verification Needed"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6b/Bastok-mines.png/revision/latest?cb=20080722171106",
+          "alt": "Bastok-mines"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/7d/ZeruhnMines.png/revision/latest?cb=20051016123104",
+          "alt": "ZeruhnMines"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6b/Bastok-mines.png/revision/latest?cb=20080722171106",
+          "alt": "Bastok-mines"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-the-pirate-s-cove",
@@ -864,7 +1121,22 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Pirate_27s_Cove.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/2/23/YhoatorJungle.png/revision/latest/scale-to-width-down/180?cb=20060915213926",
+          "alt": "Yhoator Jungle"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/c/c5/IfritsCauldron1.png/revision/latest/scale-to-width-down/180?cb=20080123202316",
+          "alt": "Ifrits Cauldron"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b7/Exclamation.gif/revision/latest/scale-to-width-down/14?cb=20061130211020",
+          "alt": "Verification Needed"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-the-final-image",
@@ -916,7 +1188,22 @@
           ]
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Final_Image.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/b/b7/Exclamation.gif/revision/latest/scale-to-width-down/14?cb=20061130211020",
+          "alt": "Verification Needed"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-on-my-way",
@@ -973,7 +1260,22 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_On_My_Way.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6b/Bastok-mines.png/revision/latest?cb=20080722171106",
+          "alt": "Bastok-mines"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-the-chains-that-bind-us",
@@ -1052,7 +1354,22 @@
           ]
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Chains_That_Bind_Us.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/d/d5/Quicksand-caves_1.png/revision/latest?cb=20120826051253",
+          "alt": "Quicksand-caves 1"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-enter-the-talekeeper",
@@ -1170,7 +1487,22 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Enter_the_Talekeeper.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/7d/ZeruhnMines.png/revision/latest?cb=20051016123104",
+          "alt": "ZeruhnMines"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/6/6b/Bastok-mines.png/revision/latest?cb=20080722171106",
+          "alt": "Bastok-mines"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/7/7d/ZeruhnMines.png/revision/latest?cb=20051016123104",
+          "alt": "ZeruhnMines"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-the-salt-of-the-earth",
@@ -1239,7 +1571,22 @@
           }
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Salt_of_the_Earth.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/4/42/Rabao.png/revision/latest?cb=20081020021952",
+          "alt": "Rabao"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-where-two-paths-converge",
@@ -1288,7 +1635,18 @@
           ]
         }
       ],
-      "gates": []
+      "gates": [],
+      "htmlFile": "ffxiclopedia_fandom_com_wiki_Where_Two_Paths_Converge.html",
+      "images": [
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        },
+        {
+          "src": "https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107",
+          "alt": "Metalworks"
+        }
+      ]
     }
   ]
 }
