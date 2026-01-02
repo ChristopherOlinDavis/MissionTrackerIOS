@@ -3,7 +3,7 @@
   "name": "Chains of Promathia",
   "category": "expansion",
   "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Chains_of_Promathia_Missions",
-  "lastScraped": "2025-12-29T17:46:07.724Z",
+  "lastScraped": "2025-12-30T11:12:17.206Z",
   "missions": [
     {
       "id": "promathia-the-call-of-the-wyrmking",
@@ -196,7 +196,10 @@
         "category": "expansion",
         "missionSet": "promathia",
         "minLevel": null,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "Light of Vahzl"
+        ]
       }
     },
     {
@@ -364,7 +367,10 @@
         "category": "expansion",
         "missionSet": "promathia",
         "minLevel": null,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "Tavnazian Ring"
+        ]
       }
     },
     {
@@ -411,7 +417,10 @@
         "category": "expansion",
         "missionSet": "promathia",
         "minLevel": null,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "Access to Phomiuna Aqueducts"
+        ]
       }
     },
     {
@@ -466,29 +475,6 @@
           ],
           "location": {
             "zone": "Mathilde again for more dialogue"
-          }
-        }
-      ],
-      "metadata": {
-        "category": "expansion",
-        "missionSet": "promathia",
-        "minLevel": null,
-        "difficulty": "medium"
-      }
-    },
-    {
-      "id": "promathia-the-mothercrystals",
-      "title": "The Mothercrystals",
-      "number": "1-3",
-      "nodes": [
-        {
-          "id": "promathia-the-mothercrystals-node-1",
-          "orderIndex": 0,
-          "title": "Head to any of the Shattered Telepoints at Crag of Mea, Crag of Dem, Crag of Holla to enter Promyvion.",
-          "description": "Head to any of the Shattered Telepoints at Crag of Mea, Crag of Dem, Crag of Holla to enter Promyvion..",
-          "dependencies": [],
-          "location": {
-            "zone": "any of the Shattered Telepoints at Crag of Mea"
           }
         }
       ],
@@ -573,7 +559,11 @@
         "category": "expansion",
         "missionSet": "promathia",
         "minLevel": null,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "1500 Exp (Once per day, upon completing the BC)",
+          "Ducal Guard's Ring"
+        ]
       }
     },
     {
@@ -597,7 +587,10 @@
         "category": "expansion",
         "missionSet": "promathia",
         "minLevel": 65,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "1000 EXP"
+        ]
       }
     },
     {
@@ -630,7 +623,10 @@
         "category": "expansion",
         "missionSet": "promathia",
         "minLevel": null,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "1000 EXP"
+        ]
       }
     },
     {
@@ -732,7 +728,10 @@
         "category": "expansion",
         "missionSet": "promathia",
         "minLevel": null,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "1500 EXP"
+        ]
       }
     },
     {
@@ -756,7 +755,10 @@
         "category": "expansion",
         "missionSet": "promathia",
         "minLevel": null,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "Access to Sacrarium (Given at the start of the quest after interacting with the Walnut Door)"
+        ]
       }
     },
     {
@@ -968,7 +970,10 @@
         "category": "expansion",
         "missionSet": "promathia",
         "minLevel": null,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "Mysterious Amulet"
+        ]
       }
     },
     {
@@ -1004,7 +1009,11 @@
         "category": "expansion",
         "missionSet": "promathia",
         "minLevel": null,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "1000 Experience Points/Limit Points for each battlefield cleared.",
+          "Trust: Shikaree Z"
+        ]
       }
     },
     {
@@ -1036,7 +1045,13 @@
         "category": "expansion",
         "missionSet": "promathia",
         "minLevel": null,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "1000 Exp (Once per day, upon completing the BC)",
+          "Access to Al'Taieu",
+          "Access to Limbus",
+          "Ability to Reforge Artifact Armor."
+        ]
       }
     },
     {
@@ -1056,7 +1071,10 @@
         "category": "expansion",
         "missionSet": "promathia",
         "minLevel": null,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "1000 Exp (Once per Day)"
+        ]
       }
     },
     {
@@ -1104,7 +1122,37 @@
         "category": "expansion",
         "missionSet": "promathia",
         "minLevel": null,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "1000 EXP"
+        ]
+      }
+    },
+    {
+      "id": "promathia-the-mothercrystals",
+      "title": "The Mothercrystals",
+      "number": "1-3",
+      "nodes": [
+        {
+          "id": "promathia-the-mothercrystals-node-1",
+          "orderIndex": 0,
+          "title": "Head to any of the Shattered Telepoints at Crag of Mea, Crag of Dem, Crag of Holla to enter Promyvion.",
+          "description": "Head to any of the Shattered Telepoints at Crag of Mea, Crag of Dem, Crag of Holla to enter Promyvion..",
+          "dependencies": [],
+          "location": {
+            "zone": "any of the Shattered Telepoints at Crag of Mea"
+          }
+        }
+      ],
+      "metadata": {
+        "category": "expansion",
+        "missionSet": "promathia",
+        "minLevel": null,
+        "difficulty": "medium",
+        "rewards": [
+          "Access to Lufaise Meadows, Tavnazian Safehold, and Misareaux Coast",
+          "1500 Experience Points per boss (4500 EXP total)"
+        ]
       }
     }
   ]

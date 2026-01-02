@@ -95,8 +95,8 @@ struct SettingsTabView: View {
                         }
                     }
 
-                    // Features
-                    Section("Features") {
+                    // Advanced Features
+                    Section("Advanced Features") {
                         NavigationLink {
                             ProgressStatisticsView(
                                 characterManager: characterManager,
@@ -140,80 +140,6 @@ struct SettingsTabView: View {
                                         .font(.subheadline)
                                         .fontWeight(.medium)
                                     Text("Backup and share character progress data")
-                                        .font(.caption)
-                                        .foregroundColor(.secondary)
-                                }
-                            }
-                            .padding(.vertical, 4)
-                        }
-
-                        NavigationLink {
-                            SearchFilterView(
-                                progressTracker: progressTracker,
-                                missionSets: missionSets,
-                                questSets: questSets
-                            )
-                        } label: {
-                            HStack(alignment: .top, spacing: 12) {
-                                Image(systemName: "magnifyingglass")
-                                    .font(.title3)
-                                    .foregroundColor(.orange)
-                                    .frame(width: 24)
-
-                                VStack(alignment: .leading, spacing: 4) {
-                                    Text("Search & Filter")
-                                        .font(.subheadline)
-                                        .fontWeight(.medium)
-                                    Text("Find specific missions/quests by name, zone, or reward")
-                                        .font(.caption)
-                                        .foregroundColor(.secondary)
-                                }
-                            }
-                            .padding(.vertical, 4)
-                        }
-
-                        NavigationLink {
-                            ChecklistModeView(
-                                progressTracker: progressTracker,
-                                missionSets: missionSets,
-                                questSets: questSets
-                            )
-                        } label: {
-                            HStack(alignment: .top, spacing: 12) {
-                                Image(systemName: "checklist")
-                                    .font(.title3)
-                                    .foregroundColor(.blue)
-                                    .frame(width: 24)
-
-                                VStack(alignment: .leading, spacing: 4) {
-                                    Text("Checklist Mode")
-                                        .font(.subheadline)
-                                        .fontWeight(.medium)
-                                    Text("Simplified view for tracking current objectives")
-                                        .font(.caption)
-                                        .foregroundColor(.secondary)
-                                }
-                            }
-                            .padding(.vertical, 4)
-                        }
-
-                        NavigationLink {
-                            WikiLinksView(
-                                missionSets: missionSets,
-                                questSets: questSets
-                            )
-                        } label: {
-                            HStack(alignment: .top, spacing: 12) {
-                                Image(systemName: "link")
-                                    .font(.title3)
-                                    .foregroundColor(.cyan)
-                                    .frame(width: 24)
-
-                                VStack(alignment: .leading, spacing: 4) {
-                                    Text("Wiki Links")
-                                        .font(.subheadline)
-                                        .fontWeight(.medium)
-                                    Text("Quick access to FFXIclopedia pages for each mission")
                                         .font(.caption)
                                         .foregroundColor(.secondary)
                                 }

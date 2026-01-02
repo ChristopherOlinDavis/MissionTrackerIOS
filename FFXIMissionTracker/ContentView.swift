@@ -32,6 +32,18 @@ struct ContentView: View {
                 }
                 .tag(1)
 
+            UnityNMsTabView(progressTracker: $progressTracker)
+                .tabItem {
+                    Label("Unity NMs", systemImage: "flag.2.crossed")
+                }
+                .tag(2)
+
+            ROETabView(progressTracker: $progressTracker)
+                .tabItem {
+                    Label("Records", systemImage: "trophy")
+                }
+                .tag(3)
+
             SettingsTabView(
                 characterManager: characterManager,
                 progressTracker: $progressTracker
@@ -39,7 +51,7 @@ struct ContentView: View {
                 .tabItem {
                     Label("Settings", systemImage: "gearshape")
                 }
-                .tag(2)
+                .tag(4)
         }
     }
 }

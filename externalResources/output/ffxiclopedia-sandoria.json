@@ -1,11 +1,11 @@
 {
   "id": "ffxiclopedia-sandoria",
-  "name": "San d'Oria Missions",
+  "name": "FFXIclopedia - San d'Oria Missions",
   "category": "nation",
   "source": "FFXIclopedia",
-  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Missions",
-  "lastScraped": "2025-12-29T23:03:49.565Z",
-  "lastKnownUpdate": "2025-12-29T23:03:49.565Z",
+  "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:San_d%27Oria_Missions",
+  "lastScraped": "2025-12-30T14:52:22.222Z",
+  "lastKnownUpdate": "2025-12-30T14:52:22.222Z",
   "totalMissions": 14,
   "missions": [
     {
@@ -18,35 +18,26 @@
           "id": "ffxiclopedia-sandoria-smash-the-orcish-scouts-node-1",
           "orderIndex": 0,
           "title": "Talk to a San d'Orian Gate Guard to accept the mission.",
-          "description": "Talk to a San d'Orian Gate Guard to accept the mission..",
-          "dependencies": [],
-          "location": {
-            "zone": "a San d'Orian Gate Guard to accept the mission"
-          }
+          "description": "Talk to a San d'Orian Gate Guard to accept the mission.",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-sandoria-smash-the-orcish-scouts-node-2",
           "orderIndex": 1,
-          "title": "Defeat Orcish Fodder in either West Ronfaure, Ghelsba Outpost or La Theine Plateau to obtain an Orcish Axe.",
-          "description": "Defeat Orcish Fodder in either West Ronfaure, Ghelsba Outpost or La Theine Plateau to obtain an Orcish Axe..",
+          "title": "Defeat Orcish Fodder in either West Ronfaure, Ghelsba Outpost or La Theine Plateau to obtain an Orci",
+          "description": "Defeat Orcish Fodder in either West Ronfaure, Ghelsba Outpost or La Theine Plateau to obtain an Orcish Axe.",
           "dependencies": [
             "ffxiclopedia-sandoria-smash-the-orcish-scouts-node-1"
-          ],
-          "location": {
-            "zone": "either West Ronfaure"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-smash-the-orcish-scouts-node-3",
           "orderIndex": 2,
           "title": "Return to San d'Oria and trade the Orcish Axe to the San d'Orian Gate Guard to complete the mission.",
-          "description": "Return to San d'Oria and trade the Orcish Axe to the San d'Orian Gate Guard to complete the mission..",
+          "description": "Return to San d'Oria and trade the Orcish Axe to the San d'Orian Gate Guard to complete the mission.",
           "dependencies": [
             "ffxiclopedia-sandoria-smash-the-orcish-scouts-node-2"
-          ],
-          "location": {
-            "zone": "San d'Oria and trade the Orcish Axe to the San d'Orian Gate Guard to complete the mission"
-          }
+          ]
         }
       ],
       "gates": []
@@ -61,79 +52,59 @@
           "id": "ffxiclopedia-sandoria-save-the-children-node-1",
           "orderIndex": 0,
           "title": "Talk to a San d'Orian Gate Guard to accept the mission.",
-          "description": "Talk to a San d'Orian Gate Guard to accept the mission..",
-          "dependencies": [],
-          "location": {
-            "zone": "a San d'Orian Gate Guard to accept the mission"
-          }
+          "description": "Talk to a San d'Orian Gate Guard to accept the mission.",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-sandoria-save-the-children-node-2",
           "orderIndex": 1,
           "title": "Talk to Arnau in the Cathedral in Northern San d'Oria (M-6) for a cutscene.",
-          "description": "Talk to Arnau in the Cathedral in Northern San d'Oria (M-6) for a cutscene..",
+          "description": "Talk to Arnau in the Cathedral in Northern San d'Oria (M-6) for a cutscene. If you are repeating this mission, you don't have to talk to Arnau again.",
           "dependencies": [
             "ffxiclopedia-sandoria-save-the-children-node-1"
-          ],
-          "location": {
-            "coordinates": "M-6",
-            "zone": "Arnau in the Cathedral in Northern San d'Oria"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-save-the-children-node-3",
           "orderIndex": 2,
-          "title": "Prepare to fight the 3 Orcs:",
-          "description": "Prepare to fight the 3 Orcs:.",
+          "title": "Prepare to fight the 3 Orcs: Fodderchief Vokdek (Warrior) Strongarm Zodvad (Ranger) Sureshot Snatgat",
+          "description": "Prepare to fight the 3 Orcs: Fodderchief Vokdek (Warrior) Strongarm Zodvad (Ranger) Sureshot Snatgat (Ranger)",
           "dependencies": [
             "ffxiclopedia-sandoria-save-the-children-node-2"
-          ],
-          "location": {
-            "zone": "fight the 3 Orcs"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-save-the-children-node-4",
           "orderIndex": 3,
-          "title": "Head to Ghelsba Outpost and go to (G-10)",
-          "description": "Head to Ghelsba Outpost and go to (G-10). Check the Hut Door and enter the battlefield for \"Save the Children\".",
+          "title": "Head to Ghelsba Outpost and go to (G-10).",
+          "description": "Head to Ghelsba Outpost and go to (G-10). Check the Hut Door and enter the battlefield for \"Save the Children\". The time limit for this battle is 10 minutes. Buffs will wear upon entry. Level Restriction at 99. Trust Magic can be used (as of 12/10/2015 version update). Make sure to cast Trust Magic after entering the battlefield, as the alter ego(s) will despawn if summoned beforehand. Only characters that either are on this mission and ready to fight, or those who have completed it before, regardless of current Allegiance, may enter the battlefield.",
           "dependencies": [
             "ffxiclopedia-sandoria-save-the-children-node-3"
-          ],
-          "location": {
-            "coordinates": "G-10",
-            "zone": "Ghelsba Outpost and go to"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-save-the-children-node-5",
           "orderIndex": 4,
           "title": "Defeat the Orcs to obtain an Orcish Hut Key.",
-          "description": "Defeat the Orcs to obtain an Orcish Hut Key..",
+          "description": "Defeat the Orcs to obtain an Orcish Hut Key.",
           "dependencies": [
             "ffxiclopedia-sandoria-save-the-children-node-4"
-          ],
-          "location": {
-            "zone": "obtain an Orcish Hut Key"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-save-the-children-node-6",
           "orderIndex": 5,
-          "title": "After you are teleported out of the battlefield, check the hut door again for a cutscene",
-          "description": "After you are teleported out of the battlefield, check the hut door again for a cutscene. Afterwards, click the hut door again until it's non-responsive.",
+          "title": "After you are teleported out of the battlefield, check the hut door again for a cutscene.",
+          "description": "After you are teleported out of the battlefield, check the hut door again for a cutscene. Afterwards, click the hut door again until it's non-responsive. This will save you a travel.",
           "dependencies": [
             "ffxiclopedia-sandoria-save-the-children-node-5"
-          ],
-          "location": {
-            "zone": "for a cutscene"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-save-the-children-node-7",
           "orderIndex": 6,
           "title": "Return to San d'Oria and speak to a Gate Guard to complete the mission.",
-          "description": "Return to San d'Oria and speak to a Gate Guard to complete the mission..",
+          "description": "Return to San d'Oria and speak to a Gate Guard to complete the mission. Optional: Return to the Cathedral after speaking with the guard and speak to Arnau for an additional cutscene.",
           "dependencies": [
             "ffxiclopedia-sandoria-save-the-children-node-6"
           ]
@@ -151,30 +122,23 @@
           "id": "ffxiclopedia-sandoria-the-rescue-drill-node-1",
           "orderIndex": 0,
           "title": "{San d'Oria} Talk to a San d'Orian Gate Guard to accept the mission.",
-          "description": "{San d'Oria} Talk to a San d'Orian Gate Guard to accept the mission..",
-          "dependencies": [],
-          "location": {
-            "zone": "a San d'Orian Gate Guard to accept the mission"
-          }
+          "description": "{San d'Oria} Talk to a San d'Orian Gate Guard to accept the mission. 12 crystals will max out the rank 2 bar (this might be outdated info now) If your rank bar is empty, trading 1 crystal is enough to enable this mission. (Confirmed: Ultramagnus and Ninawheeler of Phoenix, 13Jan2021)",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-sandoria-the-rescue-drill-node-2",
           "orderIndex": 1,
           "title": "{La Theine Plateau E-6} Talk to Galaihaurat at the southern part of (E-6).",
-          "description": "{La Theine Plateau E-6} Talk to Galaihaurat at the southern part of (E-6)..",
+          "description": "{La Theine Plateau E-6} Talk to Galaihaurat at the southern part of (E-6). Get there quickly by Unity warp to La Theine Plateau (\"Content level 99 and below\").",
           "dependencies": [
             "ffxiclopedia-sandoria-the-rescue-drill-node-1"
-          ],
-          "location": {
-            "coordinates": "E-6",
-            "zone": "Galaihaurat at the southern part of"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-rescue-drill-node-3",
           "orderIndex": 2,
           "title": "{La Theine Plateau F-6} Find Equesobillot by heading east and north, around the top of the canyon.",
-          "description": "{La Theine Plateau F-6} Find Equesobillot by heading east and north, around the top of the canyon..",
+          "description": "{La Theine Plateau F-6} Find Equesobillot by heading east and north, around the top of the canyon.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-rescue-drill-node-2"
           ]
@@ -183,33 +147,25 @@
           "id": "ffxiclopedia-sandoria-the-rescue-drill-node-4",
           "orderIndex": 3,
           "title": "{La Theine Canyon} Talk to each of the knights as you head towards (F-7) to enter Ordelle's Cave #1.",
-          "description": "{La Theine Canyon} Talk to each of the knights as you head towards (F-7) to enter Ordelle's Cave #1..",
+          "description": "{La Theine Canyon} Talk to each of the knights as you head towards (F-7) to enter Ordelle's Cave #1. Equesobillot > Deaufrain > Vicorpasse(captain) > Augevinne > Yaucevouchat > Laurisse > Narvecaint Careful of the Goblin Tinkerer down east of Galaihaurat if you're not Lv18+. Funguars down in the Canyon are Lv18+ and will aggro to sound.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-rescue-drill-node-3"
-          ],
-          "location": {
-            "coordinates": "F-7",
-            "zone": "each of the knights as you head towards"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-rescue-drill-node-5",
           "orderIndex": 4,
           "title": "{Ordelle's Caves} Follow the left wall (15s walking) and talk to Ruillont hiding in a small pond.",
-          "description": "{Ordelle's Caves} Follow the left wall (15s walking) and talk to Ruillont hiding in a small pond..",
+          "description": "{Ordelle's Caves} Follow the left wall (15s walking) and talk to Ruillont hiding in a small pond. \"Confound it! If only I had my sword, I'd cut through these friends single-handedly...\"",
           "dependencies": [
             "ffxiclopedia-sandoria-the-rescue-drill-node-4"
-          ],
-          "location": {
-            "zone": "Ruillont hiding in a small pond",
-            "npc": "Ruillont hiding"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-rescue-drill-node-6",
           "orderIndex": 5,
           "title": "{La Theine Plateau} One of the first three knights (random) will give you Ruillont's bronze sword.",
-          "description": "{La Theine Plateau} One of the first three knights (random) will give you Ruillont's bronze sword..",
+          "description": "{La Theine Plateau} One of the first three knights (random) will give you Ruillont's bronze sword. Deaufrain or Equesobillot (F-6), who are both on the ramp into the canyon. Galaihaurat (E-6) all the way back up by the road west of the Canyon (first knight spoken to). You will get an actual bronze sword in your inventory so make space.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-rescue-drill-node-5"
           ]
@@ -218,37 +174,28 @@
           "id": "ffxiclopedia-sandoria-the-rescue-drill-node-7",
           "orderIndex": 6,
           "title": "{Ordelle's Caves} Trade the bronze sword to Ruillont.",
-          "description": "{Ordelle's Caves} Trade the bronze sword to Ruillont..",
+          "description": "{Ordelle's Caves} Trade the bronze sword to Ruillont.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-rescue-drill-node-6"
-          ],
-          "location": {
-            "zone": "Ruillont"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-rescue-drill-node-8",
           "orderIndex": 7,
           "title": "{La Theine Plateau F-6} Talk to Vicorpasse back outside, at the beginning of the canyon.",
-          "description": "{La Theine Plateau F-6} Talk to Vicorpasse back outside, at the beginning of the canyon..",
+          "description": "{La Theine Plateau F-6} Talk to Vicorpasse back outside, at the beginning of the canyon. CRITICAL: He will give you a Rescue Training Certificate.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-rescue-drill-node-7"
-          ],
-          "location": {
-            "zone": "Vicorpasse back outside"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-rescue-drill-node-9",
           "orderIndex": 8,
           "title": "{San d'Oria}Talk to a San d'Orian Gate Guard to complete the mission.",
-          "description": "{San d'Oria}Talk to a San d'Orian Gate Guard to complete the mission..",
+          "description": "{San d'Oria}Talk to a San d'Orian Gate Guard to complete the mission. There is now a Survival Guide just inside Ordelle Cave. Use it to return to Northern San d’Oria if you have already activated it.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-rescue-drill-node-8"
-          ],
-          "location": {
-            "zone": "a San d'Orian Gate Guard to complete the mission"
-          }
+          ]
         }
       ],
       "gates": []
@@ -262,56 +209,42 @@
         {
           "id": "ffxiclopedia-sandoria-the-davoi-report-node-1",
           "orderIndex": 0,
-          "title": "Precaution: If you are low-leveled, you may want to bring a few Silent Oils and Prism Powders to avoid aggro from monsters",
-          "description": "Precaution: If you are low-leveled, you may want to bring a few Silent Oils and Prism Powders to avoid aggro from monsters.",
-          "dependencies": [],
-          "location": {
-            "zone": "bring a few Silent Oils and Prism Powders to avoid aggro from monsters"
-          }
+          "title": "Precaution: If you are low-leveled, you may want to bring a few Silent Oils and Prism Powders to avo",
+          "description": "Precaution: If you are low-leveled, you may want to bring a few Silent Oils and Prism Powders to avoid aggro from monsters. Orcs detect by sight and Bats detect by sound.",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-sandoria-the-davoi-report-node-2",
           "orderIndex": 1,
           "title": "Talk to a San d'Orian Gate Guard to accept the mission.",
-          "description": "Talk to a San d'Orian Gate Guard to accept the mission..",
+          "description": "Talk to a San d'Orian Gate Guard to accept the mission. If you traded one crystal to unlock the previous mission, trading one more crystal to a Temple Knight provides the required rank points for this mission. Repeating Bat Hunt once should also give the required rank points.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-davoi-report-node-1"
-          ],
-          "location": {
-            "zone": "a San d'Orian Gate Guard to accept the mission"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-davoi-report-node-3",
           "orderIndex": 2,
           "title": "Head to Jugner Forest and enter Davoi at (G-12).",
-          "description": "Head to Jugner Forest and enter Davoi at (G-12)..",
+          "description": "Head to Jugner Forest and enter Davoi at (G-12). Survival Guide or Unity warping to Jugner Forest (\"Content level 122\") are fast ways to get there.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-davoi-report-node-2"
-          ],
-          "location": {
-            "coordinates": "G-12",
-            "zone": "Jugner Forest and enter Davoi at"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-davoi-report-node-4",
           "orderIndex": 3,
           "title": "Upon entering Davoi, speak to Zantaviat, who is hiding next to a tree to learn about his report.",
-          "description": "Upon entering Davoi, speak to Zantaviat, who is hiding next to a tree to learn about his report..",
+          "description": "Upon entering Davoi, speak to Zantaviat, who is hiding next to a tree to learn about his report.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-davoi-report-node-3"
-          ],
-          "location": {
-            "zone": "Zantaviat",
-            "npc": "Zantaviat"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-davoi-report-node-5",
           "orderIndex": 4,
           "title": "Walk south until you reach a pond.",
-          "description": "Walk south until you reach a pond..",
+          "description": "Walk south until you reach a pond.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-davoi-report-node-4"
           ]
@@ -319,39 +252,29 @@
         {
           "id": "ffxiclopedia-sandoria-the-davoi-report-node-6",
           "orderIndex": 5,
-          "title": "At the pond's south end, there is a ! point",
+          "title": "At the pond's south end, there is a ! point.",
           "description": "At the pond's south end, there is a ! point. Check the point to receive a Lost Document.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-davoi-report-node-5"
-          ],
-          "location": {
-            "zone": "receive a Lost Document"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-davoi-report-node-7",
           "orderIndex": 6,
           "title": "Return the Lost Document to Zantaviat to receive the Temple Knights' Davoi Report.",
-          "description": "Return the Lost Document to Zantaviat to receive the Temple Knights' Davoi Report..",
+          "description": "Return the Lost Document to Zantaviat to receive the Temple Knights' Davoi Report.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-davoi-report-node-6"
-          ],
-          "location": {
-            "zone": "Zantaviat to receive the Temple Knights' Davoi Report"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-davoi-report-node-8",
           "orderIndex": 7,
-          "title": "Head to the Cathedral in Northern San d'Oria at (M-6) and enter the Papal Chambers on the third floor to complete the mission.",
-          "description": "Head to the Cathedral in Northern San d'Oria at (M-6) and enter the Papal Chambers on the third floor to complete the mission..",
+          "title": "Head to the Cathedral in Northern San d'Oria at (M-6) and enter the Papal Chambers on the third floo",
+          "description": "Head to the Cathedral in Northern San d'Oria at (M-6) and enter the Papal Chambers on the third floor to complete the mission. If you speak to a San d'Orian Gate Guard to try to turn in the report, he or she will refuse and tell you to deliver the report to the prince personally.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-davoi-report-node-7"
-          ],
-          "location": {
-            "coordinates": "M-6",
-            "zone": "the Cathedral in Northern San d'Oria at"
-          }
+          ]
         }
       ],
       "gates": []
@@ -366,57 +289,44 @@
           "id": "ffxiclopedia-sandoria-infiltrate-davoi-node-1",
           "orderIndex": 0,
           "title": "San d'Oria - Accept the mission from the gate guard.",
-          "description": "San d'Oria - Accept the mission from the gate guard..",
+          "description": "San d'Oria - Accept the mission from the gate guard.",
           "dependencies": []
         },
         {
           "id": "ffxiclopedia-sandoria-infiltrate-davoi-node-2",
           "orderIndex": 1,
-          "title": "Chateau d'Oraguille (H-7) - and interact with the Door: Prince Royal's Rm to speak with Prince Trion.",
-          "description": "Chateau d'Oraguille (H-7) - and interact with the Door: Prince Royal's Rm to speak with Prince Trion..",
+          "title": "Chateau d'Oraguille (H-7) - and interact with the Door: Prince Royal's Rm to speak with Prince Trion",
+          "description": "Chateau d'Oraguille (H-7) - and interact with the Door: Prince Royal's Rm to speak with Prince Trion.",
           "dependencies": [
             "ffxiclopedia-sandoria-infiltrate-davoi-node-1"
-          ],
-          "location": {
-            "coordinates": "H-7"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-infiltrate-davoi-node-3",
           "orderIndex": 2,
           "title": "Jugner Forest (G-12) - Enter Davoi.",
-          "description": "Jugner Forest (G-12) - Enter Davoi..",
+          "description": "Jugner Forest (G-12) - Enter Davoi.",
           "dependencies": [
             "ffxiclopedia-sandoria-infiltrate-davoi-node-2"
-          ],
-          "location": {
-            "coordinates": "G-12"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-infiltrate-davoi-node-4",
           "orderIndex": 3,
           "title": "Davoi (H-7) - Talk to Quemaricond.",
-          "description": "Davoi (H-7) - Talk to Quemaricond..",
+          "description": "Davoi (H-7) - Talk to Quemaricond. Hug the right wall until the path turns north and you will find a three-way intersection. Make a left and you will come upon a bridge (H-7). Stay on the bridge and remain Invisible as long as you can. An NPC Quemaricond will walk towards you. When the orcs on the west side of the bridge are looking away, drop invisibility and talk to this NPC to receive the Royal Knights' Davoi Report. Alternatively, follow the NPC to the far side of the bridge. When he stops in an area clear of orcs, drop invisibility and talk to him to get the key item.",
           "dependencies": [
             "ffxiclopedia-sandoria-infiltrate-davoi-node-3"
-          ],
-          "location": {
-            "coordinates": "H-7",
-            "zone": "Quemaricond"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-infiltrate-davoi-node-5",
           "orderIndex": 4,
           "title": "Return to San d'Oria and deliver the report to Prince Trion.",
-          "description": "Return to San d'Oria and deliver the report to Prince Trion..",
+          "description": "Return to San d'Oria and deliver the report to Prince Trion.",
           "dependencies": [
             "ffxiclopedia-sandoria-infiltrate-davoi-node-4"
-          ],
-          "location": {
-            "zone": "San d'Oria and deliver the report to Prince Trion"
-          }
+          ]
         }
       ],
       "gates": []
@@ -431,16 +341,13 @@
           "id": "ffxiclopedia-sandoria-the-crystal-spring-node-1",
           "orderIndex": 0,
           "title": "Trade a Crystal Bass to the gate guard.",
-          "description": "Trade a Crystal Bass to the gate guard..",
-          "dependencies": [],
-          "location": {
-            "zone": "the gate guard"
-          }
+          "description": "Trade a Crystal Bass to the gate guard. Crystal Bass can be purchased from the Auction House or can be fished in Jugner Forest at the Crystwater Spring, located at (J-9). If you catch several Crystal Bass, the remainder can be traded on repeat missions right away. One or two additional fish will unlock the next mission.",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-sandoria-the-crystal-spring-node-2",
           "orderIndex": 1,
-          "title": "After trading the Crystal Bass, you will be informed that you must visit Chateau d'Oraguille",
+          "title": "After trading the Crystal Bass, you will be informed that you must visit Chateau d'Oraguille.",
           "description": "After trading the Crystal Bass, you will be informed that you must visit Chateau d'Oraguille. There will be a cutscene upon entering between Halver, Curilla, and the Papsque.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-crystal-spring-node-1"
@@ -449,15 +356,11 @@
         {
           "id": "ffxiclopedia-sandoria-the-crystal-spring-node-3",
           "orderIndex": 2,
-          "title": "Following that cutscene, talk to the royal gardener Chalvatot (F-7) in the Chateau to complete the mission.",
-          "description": "Following that cutscene, talk to the royal gardener Chalvatot (F-7) in the Chateau to complete the mission..",
+          "title": "Following that cutscene, talk to the royal gardener Chalvatot (F-7) in the Chateau to complete the m",
+          "description": "Following that cutscene, talk to the royal gardener Chalvatot (F-7) in the Chateau to complete the mission.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-crystal-spring-node-2"
-          ],
-          "location": {
-            "coordinates": "F-7",
-            "zone": "the royal gardener Chalvatot"
-          }
+          ]
         }
       ],
       "gates": []
@@ -472,16 +375,13 @@
           "id": "ffxiclopedia-sandoria-magicite-san-d-oria-node-1",
           "orderIndex": 0,
           "title": "Talk to your embassy's receptionist in Ru'Lude Gardens to begin the mission.",
-          "description": "Talk to your embassy's receptionist in Ru'Lude Gardens to begin the mission..",
-          "dependencies": [],
-          "location": {
-            "zone": "your embassy's receptionist in Ru'Lude Gardens to begin the mission"
-          }
+          "description": "Talk to your embassy's receptionist in Ru'Lude Gardens to begin the mission.",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-sandoria-magicite-san-d-oria-node-2",
           "orderIndex": 1,
-          "title": "Check your ambassador's office door",
+          "title": "Check your ambassador's office door.",
           "description": "Check your ambassador's office door. You will receive the Archducal audience permit.",
           "dependencies": [
             "ffxiclopedia-sandoria-magicite-san-d-oria-node-1"
@@ -490,28 +390,20 @@
         {
           "id": "ffxiclopedia-sandoria-magicite-san-d-oria-node-3",
           "orderIndex": 2,
-          "title": "Check the Audience Chamber (H-6)",
+          "title": "Check the Audience Chamber (H-6).",
           "description": "Check the Audience Chamber (H-6). You will receive the Letter to Aldo.",
           "dependencies": [
             "ffxiclopedia-sandoria-magicite-san-d-oria-node-2"
-          ],
-          "location": {
-            "coordinates": "H-6",
-            "zone": "Aldo"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-magicite-san-d-oria-node-4",
           "orderIndex": 3,
-          "title": "Talk to Aldo (J-8) in Lower Jeuno, inside Neptune's Spire Inn",
-          "description": "Talk to Aldo (J-8) in Lower Jeuno, inside Neptune's Spire Inn. You will receive a Silver bell.",
+          "title": "Talk to Aldo (J-8) in Lower Jeuno, inside Neptune's Spire Inn.",
+          "description": "Talk to Aldo (J-8) in Lower Jeuno, inside Neptune's Spire Inn. You will receive a Silver bell. To gain access to the Tenshodo HQ, obtain a Tenshodo Member's Card from the quest Tenshodo Membership or buy a Tenshodo Invite on the Auction House under Others > Misc and trade it to Ghebi Damomohe. If currently on the Chains of Promathia mission A Vessel Without a Captain, its scene will appear first when interacting with the door. Talking to Aldo twice will be required after the cut-scene to prompt this mission's cut-scene.",
           "dependencies": [
             "ffxiclopedia-sandoria-magicite-san-d-oria-node-3"
-          ],
-          "location": {
-            "coordinates": "J-8",
-            "zone": "Aldo"
-          }
+          ]
         }
       ],
       "gates": []
@@ -526,85 +418,62 @@
           "id": "ffxiclopedia-sandoria-the-ruins-of-fei-yin-node-1",
           "orderIndex": 0,
           "title": "Northern San d'Oria (I-7) - Enter Chateau d'Oraguille for a cutscene.",
-          "description": "Northern San d'Oria (I-7) - Enter Chateau d'Oraguille for a cutscene..",
-          "dependencies": [],
-          "location": {
-            "coordinates": "I-7"
-          }
+          "description": "Northern San d'Oria (I-7) - Enter Chateau d'Oraguille for a cutscene. If you wish to change your allegiance at an Immigration NPC, you must view this cutscene first to be allowed to change nations.",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-sandoria-the-ruins-of-fei-yin-node-2",
           "orderIndex": 1,
           "title": "San d'Oria - Go to a Gate Guard and accept the mission.",
-          "description": "San d'Oria - Go to a Gate Guard and accept the mission..",
+          "description": "San d'Oria - Go to a Gate Guard and accept the mission.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-ruins-of-fei-yin-node-1"
-          ],
-          "location": {
-            "zone": "a Gate Guard and accept the mission"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-ruins-of-fei-yin-node-3",
           "orderIndex": 2,
           "title": "Northern San d'Oria (I-7) - Return to Halver to obtain a New Fei'Yin Seal.",
-          "description": "Northern San d'Oria (I-7) - Return to Halver to obtain a New Fei'Yin Seal..",
+          "description": "Northern San d'Oria (I-7) - Return to Halver to obtain a New Fei'Yin Seal. Note - this mission cannot be completed without the New Fei'Yin Seal.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-ruins-of-fei-yin-node-2"
-          ],
-          "location": {
-            "coordinates": "I-7",
-            "zone": "Halver to obtain a New Fei'Yin Seal"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-ruins-of-fei-yin-node-4",
           "orderIndex": 3,
           "title": "Enter Fei'Yin for a cutscene involving Zeid and Lion.",
-          "description": "Enter Fei'Yin for a cutscene involving Zeid and Lion..",
+          "description": "Enter Fei'Yin for a cutscene involving Zeid and Lion. Path to reach Fei'Yin for the first time: East Ronfaure (K-4) > Ranguemont Pass (L-4) > Beaucedine Glacier (J-4) Ranguemont Pass has tight walls so you most likely need sneak/invis if you're a low-level. Beaucedine to Fei'Yin walking tips: after exiting Ranguemont, head north to Tower (2) don't go up to tower (4) but keep going east to find a thin ridge that goes north Go north along the ridge and find and go down a slope Go south to find another down slope Go north past tower (5) to eventually reach Fei'Yin.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-ruins-of-fei-yin-node-3"
-          ],
-          "location": {
-            "zone": "for a cutscene involving Zeid and Lion"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-ruins-of-fei-yin-node-5",
           "orderIndex": 4,
-          "title": "Fei'Yin (K-8) - Upon entering head east",
-          "description": "Fei'Yin (K-8) - Upon entering head east. You will see 2 dolls.",
+          "title": "Fei'Yin (K-8) - Upon entering head east.",
+          "description": "Fei'Yin (K-8) - Upon entering head east. You will see 2 dolls. There is a cermet gate on the east wall. Click on this gate to enter Qu'Bia Arena. The majority of the monsters in Fei'Yin detect by sound, but there are several monsters that also aggro to magic, so Silent Oil is recommended. If you have been here before and checked the Home Point outside of the BCNM area, you can just teleport here.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-ruins-of-fei-yin-node-4"
-          ],
-          "location": {
-            "coordinates": "K-8",
-            "zone": "enter Qu'Bia Arena"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-ruins-of-fei-yin-node-6",
           "orderIndex": 5,
           "title": "Win the battle (see below) to obtain Burnt Seal.",
-          "description": "Win the battle (see below) to obtain Burnt Seal..",
+          "description": "Win the battle (see below) to obtain Burnt Seal. Form a level 50+ party. You may use anyone from any nation currently on Mission 5-1, as it is the same for all 3 nations. There is no longer a level 50 cap on this mission. Even if you've done this mission before with another nation, you must be on this mission or higher in your current nation to help others (otherwise, you will see \"A mysterious force is sealing the platform.\").",
           "dependencies": [
             "ffxiclopedia-sandoria-the-ruins-of-fei-yin-node-5"
-          ],
-          "location": {
-            "zone": "the battle"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-ruins-of-fei-yin-node-7",
           "orderIndex": 6,
           "title": "Report back to Halver.",
-          "description": "Report back to Halver..",
+          "description": "Report back to Halver. (Optional) Talk to Prince Trion for an additional cut scene. (Optional) Talk to Rahal and Curilla for additional dialogue. If you have not received Trust: Curilla yet, you may get this dialogue first. Also, if you haven't completed The General's Secret, Curilla may refuse to give you the additonal dialogue until The General's Secret is completed.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-ruins-of-fei-yin-node-6"
-          ],
-          "location": {
-            "zone": "Halver"
-          }
+          ]
         }
       ],
       "gates": []
@@ -619,98 +488,71 @@
           "id": "ffxiclopedia-sandoria-the-shadow-lord-node-1",
           "orderIndex": 0,
           "title": "Accept the mission from a San d'Orian Gate Guard.",
-          "description": "Accept the mission from a San d'Orian Gate Guard..",
+          "description": "Accept the mission from a San d'Orian Gate Guard.",
           "dependencies": []
         },
         {
           "id": "ffxiclopedia-sandoria-the-shadow-lord-node-2",
           "orderIndex": 1,
-          "title": "Chateau d'Oraguille - Speak to Halver",
-          "description": "Chateau d'Oraguille - Speak to Halver. Speak to Trion.",
+          "title": "Chateau d'Oraguille - Speak to Halver.",
+          "description": "Chateau d'Oraguille - Speak to Halver. Speak to Trion. Trion: click on Door: Prince Royal's Rm @ H-7 for a short cutscene.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-shadow-lord-node-1"
-          ],
-          "location": {
-            "zone": "Halver"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-shadow-lord-node-3",
           "orderIndex": 2,
           "title": "Beaucedine Glacier (F-6) - Travel to Xarcabard.",
-          "description": "Beaucedine Glacier (F-6) - Travel to Xarcabard..",
+          "description": "Beaucedine Glacier (F-6) - Travel to Xarcabard. Xarcabard is in the northwest corner of Beaucedine Glacier. You can warp to the outpost (tower 4 if you're walking) and go north then up a slope and west to Xarcabard.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-shadow-lord-node-2"
-          ],
-          "location": {
-            "coordinates": "F-6",
-            "zone": "Xarcabard"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-shadow-lord-node-4",
           "orderIndex": 3,
-          "title": "Xarcabard (D-7) - After zoning in from Beaucedine, go west-Northwest to reach and enter Castle Zvahl Baileys.",
-          "description": "Xarcabard (D-7) - After zoning in from Beaucedine, go west-Northwest to reach and enter Castle Zvahl Baileys..",
+          "title": "Xarcabard (D-7) - After zoning in from Beaucedine, go west-Northwest to reach and enter Castle Zvahl",
+          "description": "Xarcabard (D-7) - After zoning in from Beaucedine, go west-Northwest to reach and enter Castle Zvahl Baileys. If you have already gotten the Home Point #1 near the Throne Room, you can go straight to it. Note: there is no cutscene upon entering Castle Zvahl Baileys or Castle Zvahl Keep. The next cutscene is when you start the fight. Deliver supplies if you have them here, and also pick up the Teleport crystal if you haven't yet already.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-shadow-lord-node-3"
-          ],
-          "location": {
-            "coordinates": "D-7",
-            "zone": "from Beaucedine"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-shadow-lord-node-5",
           "orderIndex": 4,
           "title": "Castle Zvahl Baileys (G-8) Map 1 - Move westward to the 4-way intersection.",
-          "description": "Castle Zvahl Baileys (G-8) Map 1 - Move westward to the 4-way intersection..",
+          "description": "Castle Zvahl Baileys (G-8) Map 1 - Move westward to the 4-way intersection. Castle Zvahl Baileys (E-8) Map 1 - To reach (A), head south from here, down the stairs that you will soon come to onto a lower path, and then on to the second map through the border of E/F-8.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-shadow-lord-node-4"
-          ],
-          "location": {
-            "coordinates": "G-8",
-            "zone": "the 4-way intersection"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-shadow-lord-node-6",
           "orderIndex": 5,
-          "title": "Castle Zvahl Baileys (I-9) Map 2 - From (A), move south to the bottom of (I-9) (Orcs), then go up the stairs here.",
-          "description": "Castle Zvahl Baileys (I-9) Map 2 - From (A), move south to the bottom of (I-9) (Orcs), then go up the stairs here..",
+          "title": "Castle Zvahl Baileys (I-9) Map 2 - From (A), move south to the bottom of (I-9) (Orcs), then go up th",
+          "description": "Castle Zvahl Baileys (I-9) Map 2 - From (A), move south to the bottom of (I-9) (Orcs), then go up the stairs here. move west to G-9 (Yagudo) and go back down the stairs there (bottom-right corner of G-9) to the lower path be careful to not fall into the big hole right before the down stairs If you fall down the giant holes, you will have to look at Map 3 to reach either staircase (B) or staircase (C) back to Map 2. On the lower path again, turn left from the staircase, heading east. when you reach a gate, turn left again (going under the path you walked above earlier) take the next right turn (located at the bottom-right corner of G-8) Reach and go up another short stairway, appearing on your right (located at the middle of the right-edge of G-8) Castle Zvahl Baileys (F-8) Map 2 - Move west/left to zone into Castle Zvahl Keep",
           "dependencies": [
             "ffxiclopedia-sandoria-the-shadow-lord-node-5"
-          ],
-          "location": {
-            "coordinates": "I-9",
-            "zone": "the bottom of"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-shadow-lord-node-7",
           "orderIndex": 6,
-          "title": "Castle Zvahl Keep (J-8) Map 1- Once you enter Castle Zvahl Keep, you will have to open several gates/doors, very often in front of mobs that detect...",
-          "description": "Castle Zvahl Keep (J-8) Map 1- Once you enter Castle Zvahl Keep, you will have to open several gates/doors, very often in front of mobs that detect by sight..",
+          "title": "Castle Zvahl Keep (J-8) Map 1- Once you enter Castle Zvahl Keep, you will have to open several gates",
+          "description": "Castle Zvahl Keep (J-8) Map 1- Once you enter Castle Zvahl Keep, you will have to open several gates/doors, very often in front of mobs that detect by sight. (H-6) Map 1 (A) or (H-10) Map 1 (B) - Get to Map 2 via either spot. (E-8) Map 2 (C) - From (A)/(B), strut through a few more doors and gates to reach (C). (G-9) Map 3 (E) - teleport devices. Use middle device up to go up north, go south to use a device to go more south, go into the center room to use device and go southwest, go back northwest into center room again to enter Map 4 via (E). These devices will cancel the Invisible effect after they are used. They will turn on and off from time to time, so you may have to wait on one before it teleports you.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-shadow-lord-node-6"
-          ],
-          "location": {
-            "coordinates": "J-8",
-            "zone": "front of mobs that detect by sight"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-shadow-lord-node-8",
           "orderIndex": 7,
-          "title": "Castle Zvahl Keep (G-7) Map 4 - Make your way west, across the bridge, to reach the Throne Room",
-          "description": "Castle Zvahl Keep (G-7) Map 4 - Make your way west, across the bridge, to reach the Throne Room. Examine the Ore Door to view a cutscene.",
+          "title": "Castle Zvahl Keep (G-7) Map 4 - Make your way west, across the bridge, to reach the Throne Room.",
+          "description": "Castle Zvahl Keep (G-7) Map 4 - Make your way west, across the bridge, to reach the Throne Room. Examine the Ore Door to view a cutscene. When ready, examine again and select \"The Shadow Lord Battle\" to enter the BC battle. Ore Door is next to Home Point #1.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-shadow-lord-node-7"
-          ],
-          "location": {
-            "coordinates": "G-7",
-            "zone": "reach the Throne Room"
-          }
+          ]
         }
       ],
       "gates": []
@@ -724,16 +566,20 @@
         {
           "id": "ffxiclopedia-sandoria-leaute-s-last-wishes-node-1",
           "orderIndex": 0,
-          "title": "Upon receiving this mission, talk to Halver, who will instruct you to speak to the king",
-          "description": "Upon receiving this mission, talk to Halver, who will instruct you to speak to the king. If Halver simply says \"The king is waiting.\", then you're being given another quest, not the mission.",
-          "dependencies": [],
-          "location": {
-            "zone": "Halver",
-            "npc": "Halver"
-          }
+          "title": "Upon receiving this mission, talk to Halver, who will instruct you to speak to the king.",
+          "description": "Upon receiving this mission, talk to Halver, who will instruct you to speak to the king. If Halver simply says \"The king is waiting.\", then you're being given another quest, not the mission. You'll know it's the mission by the quest log being long.",
+          "dependencies": []
         }
       ],
-      "gates": []
+      "gates": [
+        {
+          "id": "ffxiclopedia-sandoria-leaute-s-last-wishes-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-sandoria-leaute-s-last-wishes-node-1",
+          "requirement": "Sufficient Rank Points",
+          "description": "Sufficient Rank Points"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-sandoria-ranperre-s-final-rest",
@@ -745,26 +591,23 @@
           "id": "ffxiclopedia-sandoria-ranperre-s-final-rest-node-1",
           "orderIndex": 0,
           "title": "The mission guard will instruct you to talk to Prince Trion.",
-          "description": "The mission guard will instruct you to talk to Prince Trion..",
+          "description": "The mission guard will instruct you to talk to Prince Trion.",
           "dependencies": []
         },
         {
           "id": "ffxiclopedia-sandoria-ranperre-s-final-rest-node-2",
           "orderIndex": 1,
-          "title": "Examine the Door: Prince Royal's Rm located at H-7 in Chateau d'Oraguille for a cutscene with Prince Trion.",
-          "description": "Examine the Door: Prince Royal's Rm located at H-7 in Chateau d'Oraguille for a cutscene with Prince Trion..",
+          "title": "Examine the Door: Prince Royal's Rm located at H-7 in Chateau d'Oraguille for a cutscene with Prince",
+          "description": "Examine the Door: Prince Royal's Rm located at H-7 in Chateau d'Oraguille for a cutscene with Prince Trion.",
           "dependencies": [
             "ffxiclopedia-sandoria-ranperre-s-final-rest-node-1"
-          ],
-          "location": {
-            "zone": "Chateau d'Oraguille for a cutscene with Prince Trion"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-ranperre-s-final-rest-node-3",
           "orderIndex": 2,
           "title": "After the cutscene with Prince Trion, head for {Ranperre's Tomb - H-8 - Map 1}.",
-          "description": "After the cutscene with Prince Trion, head for {Ranperre's Tomb - H-8 - Map 1}..",
+          "description": "After the cutscene with Prince Trion, head for {Ranperre's Tomb - H-8 - Map 1}.",
           "dependencies": [
             "ffxiclopedia-sandoria-ranperre-s-final-rest-node-2"
           ]
@@ -773,100 +616,84 @@
           "id": "ffxiclopedia-sandoria-ranperre-s-final-rest-node-4",
           "orderIndex": 3,
           "title": "Head on out to East Ronfaure, where you will head out to the Tomb.",
-          "description": "Head on out to East Ronfaure, where you will head out to the Tomb..",
+          "description": "Head on out to East Ronfaure, where you will head out to the Tomb.",
           "dependencies": [
             "ffxiclopedia-sandoria-ranperre-s-final-rest-node-3"
-          ],
-          "location": {
-            "zone": "East Ronfaure"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-ranperre-s-final-rest-node-5",
           "orderIndex": 4,
-          "title": "Inspect the Heavy Stone Door located at H-8 of the first map to spawn 3 skeleton NMs - Corrupted Yorgos (WAR), accompanied by Corrupted Soffeil (BLM)...",
-          "description": "Inspect the Heavy Stone Door located at H-8 of the first map to spawn 3 skeleton NMs - Corrupted Yorgos (WAR), accompanied by Corrupted Soffeil (BLM) and Corrupted Ulbrig (BLM)..",
+          "title": "Inspect the Heavy Stone Door located at H-8 of the first map to spawn 3 skeleton NMs - Corrupted Yor",
+          "description": "Inspect the Heavy Stone Door located at H-8 of the first map to spawn 3 skeleton NMs - Corrupted Yorgos (WAR), accompanied by Corrupted Soffeil (BLM) and Corrupted Ulbrig (BLM). Make sure to have Sneak active before inspecting the door or all 3 skeletons will aggro you immediately! They do not link and can be safely taken down one at a time. Alternatively, you only need to defeat one of them if you let the others despawn before defeating the first. Bring a level 60+ party through East Ronfaure to King Ranperre's Tomb. Or, you can use the Survival Guide there if you've registered it Most level 85 jobs can solo this mission. For fight strategies: (see testimonials). You may need to wait up to 1 minute from their spawn time to enter the Heavy Stone Door, even if the NMs have already been defeated. After winning the fight, you will not need to fight again to enter, even after zoning out or disconnecting.",
           "dependencies": [
             "ffxiclopedia-sandoria-ranperre-s-final-rest-node-4"
-          ],
-          "location": {
-            "zone": "spawn 3 skeleton NMs - Corrupted Yorgos"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-ranperre-s-final-rest-node-6",
           "orderIndex": 5,
           "title": "After defeating them, inspect the Heavy Stone Door again and enter.",
-          "description": "After defeating them, inspect the Heavy Stone Door again and enter..",
+          "description": "After defeating them, inspect the Heavy Stone Door again and enter.",
           "dependencies": [
             "ffxiclopedia-sandoria-ranperre-s-final-rest-node-5"
-          ],
-          "location": {
-            "zone": "and enter"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-ranperre-s-final-rest-node-7",
           "orderIndex": 6,
           "title": "Inspect the tombstone in this room and, after a cutscene, you will get a Ancient San d'Orian book.",
-          "description": "Inspect the tombstone in this room and, after a cutscene, you will get a Ancient San d'Orian book..",
+          "description": "Inspect the tombstone in this room and, after a cutscene, you will get a Ancient San d'Orian book. Optional: After the cutscene at King Ranperre's Tomb, if you inspect Prince Trion's door or talk to Perfaumand stationed at Prince Trion's door, you will get a short cutscene with Perfaumand telling you to talk to the gate guard.",
           "dependencies": [
             "ffxiclopedia-sandoria-ranperre-s-final-rest-node-6"
-          ],
-          "location": {
-            "zone": "this room and"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-ranperre-s-final-rest-node-8",
           "orderIndex": 7,
-          "title": "Talk to a gate guard three times",
+          "title": "Talk to a gate guard three times.",
           "description": "Talk to a gate guard three times. You no longer have to zone after being told that deciphering the book will take a while.",
           "dependencies": [
             "ffxiclopedia-sandoria-ranperre-s-final-rest-node-7"
-          ],
-          "location": {
-            "zone": "a gate guard three times"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-ranperre-s-final-rest-node-9",
           "orderIndex": 8,
-          "title": "The gate guard instructs you to return to Prince Trion in Chateau d'Oraguille",
+          "title": "The gate guard instructs you to return to Prince Trion in Chateau d'Oraguille.",
           "description": "The gate guard instructs you to return to Prince Trion in Chateau d'Oraguille. Do so now.",
           "dependencies": [
             "ffxiclopedia-sandoria-ranperre-s-final-rest-node-8"
-          ],
-          "location": {
-            "zone": "return to Prince Trion in Chateau d'Oraguille"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-ranperre-s-final-rest-node-10",
           "orderIndex": 9,
           "title": "Return to the Heavy Stone Door in King Ranperre's Tomb and inspect it for another cutscene.",
-          "description": "Return to the Heavy Stone Door in King Ranperre's Tomb and inspect it for another cutscene..",
+          "description": "Return to the Heavy Stone Door in King Ranperre's Tomb and inspect it for another cutscene. Optional: After the cutscene at King Ranperre's Tomb, if you inspect Prince Trion's door or talk to Perfaumand stationed at Prince Trion's door, you will get a short cutscene with Perfaumand similar to the cutscene you had when you came back with the Ancient San d'Orian book from before.",
           "dependencies": [
             "ffxiclopedia-sandoria-ranperre-s-final-rest-node-9"
-          ],
-          "location": {
-            "zone": "the Heavy Stone Door in King Ranperre's Tomb and inspect it for another cutscene"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-ranperre-s-final-rest-node-11",
           "orderIndex": 10,
           "title": "Talk to the gate guard to finish this mission.",
-          "description": "Talk to the gate guard to finish this mission..",
+          "description": "Talk to the gate guard to finish this mission.",
           "dependencies": [
             "ffxiclopedia-sandoria-ranperre-s-final-rest-node-10"
-          ],
-          "location": {
-            "zone": "the gate guard to finish this mission"
-          }
+          ]
         }
       ],
-      "gates": []
+      "gates": [
+        {
+          "id": "ffxiclopedia-sandoria-ranperre-s-final-rest-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-sandoria-ranperre-s-final-rest-node-1",
+          "requirement": "Sufficient Rank Points",
+          "description": "Sufficient Rank Points"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-sandoria-the-secret-weapon",
@@ -877,62 +704,45 @@
         {
           "id": "ffxiclopedia-sandoria-the-secret-weapon-node-1",
           "orderIndex": 0,
-          "title": "Talk to the gate guard when you have enough rank points",
-          "description": "Talk to the gate guard when you have enough rank points. Instead of offering you the list of missions, the gate guard will tell you: \"Go to the garden for further instructions.\".",
-          "dependencies": [],
-          "location": {
-            "zone": "the gate guard when you have enough rank points"
-          }
+          "title": "Talk to the gate guard when you have enough rank points.",
+          "description": "Talk to the gate guard when you have enough rank points. Instead of offering you the list of missions, the gate guard will tell you: \"Go to the garden for further instructions.\"",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-sandoria-the-secret-weapon-node-2",
           "orderIndex": 1,
           "title": "Go to Queen Leaute's Garden (F-7) Chateau d'Oraguille for a cutscene.",
-          "description": "Go to Queen Leaute's Garden (F-7) Chateau d'Oraguille for a cutscene..",
+          "description": "Go to Queen Leaute's Garden (F-7) Chateau d'Oraguille for a cutscene.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-secret-weapon-node-1"
-          ],
-          "location": {
-            "coordinates": "F-7",
-            "zone": "Queen Leaute's Garden"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-secret-weapon-node-3",
           "orderIndex": 2,
           "title": "Return to the gate guard to receive the actual mission.",
-          "description": "Return to the gate guard to receive the actual mission..",
+          "description": "Return to the gate guard to receive the actual mission.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-secret-weapon-node-2"
-          ],
-          "location": {
-            "zone": "the gate guard to receive the actual mission"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-secret-weapon-node-4",
           "orderIndex": 3,
-          "title": "Get ready to fight and head to the battlefield at Horlais Peak, accessible via travelling through Ghelsba Outpost and Yughott Grotto, or Yughott...",
-          "description": "Get ready to fight and head to the battlefield at Horlais Peak, accessible via travelling through Ghelsba Outpost and Yughott Grotto, or Yughott Grotto Home Point #1 (J-6), or Domenic for 750 gil if Beyond Infinity is complete..",
+          "title": "Get ready to fight and head to the battlefield at Horlais Peak, accessible via travelling through Gh",
+          "description": "Get ready to fight and head to the battlefield at Horlais Peak, accessible via travelling through Ghelsba Outpost and Yughott Grotto, or Yughott Grotto Home Point #1 (J-6), or Domenic for 750 gil if Beyond Infinity is complete. The battle can be won solo, on certain jobs. (Most - if not all - jobs can easily solo this by subbing Scholar.) (see testimonials) A maximum of 6 characters that are currently on the mission, or have previously completed it (may have switched allegiance even), will be allowed to enter the battlefield. Buffs will wear off upon entering. There is no Experience Points loss upon defeat. On the battlefield, you will find 3 Orcs and 2 Warmachines: Darokbok of Clan Reaper (PLD) Derakbak of Clan Wolf (DRG) Jagidbod of Clan Reaper (RNG) Reaper Clan Warmachine Wolf Clan Warmachine Attacking even one of them will aggravate them all regardless of how it is done. All of them are level 68. The Orcs have ~4000 HP, the Warmachines have ~1800, and the Wyvern ~1000. It is not necessary to defeat the Orc Dragoon's Wyvern to finish the Fight and get the cutscene, it can stay slept the whole time. All of them are susceptible to both Sleep and Lullaby, however Darokbok of Clan Reaper is more resistant due to its Resist Sleep trait; they can be slept using Elemental Seal + Sleepga II/Sleepga, or Horde Lullaby. The Orcs will use their respective 1-hrs when they get below 50% health.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-secret-weapon-node-3"
-          ],
-          "location": {
-            "coordinates": "J-6",
-            "zone": "fight and head to the battlefield at Horlais Peak"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-secret-weapon-node-5",
           "orderIndex": 4,
-          "title": "After successfully defeating the orcs and warmachines, you obtain the Crystal dowser",
-          "description": "After successfully defeating the orcs and warmachines, you obtain the Crystal dowser.",
+          "title": "After successfully defeating the orcs and warmachines, you obtain the Crystal dowser report back to ",
+          "description": "After successfully defeating the orcs and warmachines, you obtain the Crystal dowser report back to a gate guard to finish up the mission.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-secret-weapon-node-4"
-          ],
-          "location": {
-            "zone": "the Crystal dowser"
-          }
+          ]
         }
       ],
       "gates": []
@@ -947,35 +757,26 @@
           "id": "ffxiclopedia-sandoria-lightbringer-node-1",
           "orderIndex": 0,
           "title": "(San d'Oria) Accept the mission from a gate guard.",
-          "description": "(San d'Oria) Accept the mission from a gate guard..",
-          "dependencies": [],
-          "location": {
-            "zone": "San d'Oria"
-          }
+          "description": "(San d'Oria) Accept the mission from a gate guard.",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-sandoria-lightbringer-node-2",
           "orderIndex": 1,
           "title": "(Chateau) Go to the king for a cutscene.",
-          "description": "(Chateau) Go to the king for a cutscene..",
+          "description": "(Chateau) Go to the king for a cutscene.",
           "dependencies": [
             "ffxiclopedia-sandoria-lightbringer-node-1"
-          ],
-          "location": {
-            "zone": "Chateau"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-lightbringer-node-3",
           "orderIndex": 2,
-          "title": "(Chateau) Talk to Rahal in the Royal Knights' Quarters",
-          "description": "(Chateau) Talk to Rahal in the Royal Knights' Quarters.",
+          "title": "(Chateau) Talk to Rahal in the Royal Knights' Quarters He will give you the Crystal dowser.",
+          "description": "(Chateau) Talk to Rahal in the Royal Knights' Quarters He will give you the Crystal dowser. Before heading out, check if you already have a Prelate Key in your inventory storage. It's an ex/rare item so you can only hold one. Bring it along to open a door. Optional: Talk to Curilla for additional dialogue.",
           "dependencies": [
             "ffxiclopedia-sandoria-lightbringer-node-2"
-          ],
-          "location": {
-            "zone": "Chateau"
-          }
+          ]
         }
       ],
       "gates": []
@@ -989,33 +790,27 @@
         {
           "id": "ffxiclopedia-sandoria-the-heir-to-the-light-node-1",
           "orderIndex": 0,
-          "title": "Accept the mission",
-          "description": "Accept the mission.",
+          "title": "Accept the mission.",
+          "description": "Accept the mission",
           "dependencies": []
         },
         {
           "id": "ffxiclopedia-sandoria-the-heir-to-the-light-node-2",
           "orderIndex": 1,
           "title": "Zone into Northern San d'Oria for a very long cutscene (~5min).",
-          "description": "Zone into Northern San d'Oria for a very long cutscene (~5min)..",
+          "description": "Zone into Northern San d'Oria for a very long cutscene (~5min).",
           "dependencies": [
             "ffxiclopedia-sandoria-the-heir-to-the-light-node-1"
-          ],
-          "location": {
-            "zone": "Northern San d'Oria for a very long cutscene"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-sandoria-the-heir-to-the-light-node-3",
           "orderIndex": 2,
           "title": "At the end of the first cutscene, zone into the Chateau d'Oraguille for another cutscene.",
-          "description": "At the end of the first cutscene, zone into the Chateau d'Oraguille for another cutscene..",
+          "description": "At the end of the first cutscene, zone into the Chateau d'Oraguille for another cutscene. During this cutscene you will be given orders to head to Qu'Bia Arena. Optional: Rahal, Aramaviont, Milchupain, Curilla, Halver, Nachou and Perfaumand have additional dialogue. Now gather a full party of level 70+. Only players that have previously done the mission, or are currently doing the mission, can enter the BCNM; i.e., if you know someone that has a different current allegiance (say, to Windurst), but has completed San d'Oria's Mission storyline, they can assist. Having a mage that can Sleepga is useful for this mission. Sleepga II is not necessary as these Orcs will fall quickly to a level 75 DD job. Alter Egos may be summoned after entering Qu'Bia Arena.",
           "dependencies": [
             "ffxiclopedia-sandoria-the-heir-to-the-light-node-2"
-          ],
-          "location": {
-            "zone": "the Chateau d'Oraguille for another cutscene"
-          }
+          ]
         }
       ],
       "gates": []

@@ -24,6 +24,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6429C65FD17C48F1BC3F2332 /* unity-nms.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = unity-nms.json; sourceTree = "<group>"; };
+		394E703BF1464267934F7A49 /* UnityNMModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnityNMModels.swift; sourceTree = "<group>"; };
+		C293F1FBB2094B06813E15ED /* UnityNMDataLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnityNMDataLoader.swift; sourceTree = "<group>"; };
+		55B511C7CAF0447FBF2A171C /* UNMCategoryListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UNMCategoryListView.swift; sourceTree = "<group>"; };
+		F876CF66BF5B4F81A2767D8F /* UNMListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UNMListView.swift; sourceTree = "<group>"; };
+		8DD3550CF2F94CCAB5735EE9 /* UNMDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UNMDetailView.swift; sourceTree = "<group>"; };
 		8324EFA02F0343AF00704342 /* FFXIMissionTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FFXIMissionTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8324EFAF2F0343B000704342 /* FFXIMissionTrackerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FFXIMissionTrackerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8324EFB92F0343B000704342 /* FFXIMissionTrackerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FFXIMissionTrackerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -218,7 +224,8 @@
 		8324EFAD2F0343B000704342 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
-			files = (
+			files = (				2F7C04820C874596A53F31D6 /* unity-nms.json in Resources */,
+
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -242,7 +249,12 @@
 		8324EFAB2F0343B000704342 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
-			files = (
+			files = (				04811BA384124CAE85C94382 /* UnityNMModels.swift in Sources */,
+				C8868AF934F043C5B4BFFBFB /* UnityNMDataLoader.swift in Sources */,
+				FA86D3B0166F448A8C401861 /* UNMCategoryListView.swift in Sources */,
+				8BA6C85CB2F14FBB8D5E35E4 /* UNMListView.swift in Sources */,
+				19273CE4052B4D0F9223ACF7 /* UNMDetailView.swift in Sources */,
+
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

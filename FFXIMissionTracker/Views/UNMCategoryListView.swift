@@ -1,53 +1,56 @@
 //
-//  QuestSetListView.swift
+//  UNMCategoryListView.swift
 //  FFXIMissionTracker
 //
-//  Created by Chris Davis on 12/29/25.
+//  Created by Chris Davis on 1/1/26.
 //
 
 import SwiftUI
 
-struct QuestSetListView: View {
-    let questSets: [MissionSet]
+struct UNMCategoryListView: View {
+    let unmLoader: UnityNMDataLoader
     @Bindable var progressTracker: MissionProgressTracker
 
     @State private var searchText = ""
     @State private var showCompletedOnly = false
     @State private var showIncompleteOnly = false
 
-    private var allQuests: [(mission: Mission, setName: String)] {
-        var results: [(mission: Mission, setName: String)] = []
-        for set in questSets {
-            for quest in set.missions {
-                results.append((quest, set.name))
+    private var allNMs: [(nm: UnityNotoriousMonster, categoryName: String)] {
+        var results: [(nm: UnityNotoriousMonster, categoryName: String)] = []
+        for category in unmLoader.categoryGroups {
+            for nm in category.nms {
+                results.append((nm, category.name))
             }
         }
         return results
     }
 
-    private var filteredQuests: [(mission: Mission, setName: String)] {
-        var filtered = allQuests
+    private var filteredNMs: [(nm: UnityNotoriousMonster, categoryName: String)] {
+        var filtered = allNMs
 
         // Apply search filter
         if !searchText.isEmpty {
             filtered = filtered.filter { item in
-                let quest = item.mission
+                let nm = item.nm
 
-                // Search in title
-                if quest.title.localizedCaseInsensitiveContains(searchText) {
+                // Search in name
+                if nm.nm.localizedCaseInsensitiveContains(searchText) {
                     return true
                 }
 
-                // Search in zones
-                if quest.zones.contains(where: { $0.localizedCaseInsensitiveContains(searchText) }) {
+                // Search in zone
+                if nm.zone.localizedCaseInsensitiveContains(searchText) {
+                    return true
+                }
+
+                // Search in category
+                if item.categoryName.localizedCaseInsensitiveContains(searchText) {
                     return true
                 }
 
                 // Search in rewards
-                if let rewards = quest.rewards {
-                    if rewards.contains(where: { $0.name.localizedCaseInsensitiveContains(searchText) }) {
-                        return true
-                    }
+                if nm.notableRewards.contains(where: { $0.item.localizedCaseInsensitiveContains(searchText) }) {
+                    return true
                 }
 
                 return false
@@ -56,16 +59,16 @@ struct QuestSetListView: View {
 
         // Apply completion filters
         if showCompletedOnly {
-            filtered = filtered.filter { progressTracker.isMissionCompleted($0.mission) }
+            filtered = filtered.filter { progressTracker.isItemCompleted($0.nm.id, category: .unityNM) }
         } else if showIncompleteOnly {
-            filtered = filtered.filter { !progressTracker.isMissionCompleted($0.mission) }
+            filtered = filtered.filter { !progressTracker.isItemCompleted($0.nm.id, category: .unityNM) }
         }
 
         return filtered
     }
 
-    private var groupedQuests: [String: [(mission: Mission, setName: String)]] {
-        Dictionary(grouping: filteredQuests, by: { $0.setName })
+    private var groupedNMs: [String: [(nm: UnityNotoriousMonster, categoryName: String)]] {
+        Dictionary(grouping: filteredNMs, by: { $0.categoryName })
     }
 
     private var shouldShowSearchResults: Bool {
@@ -80,7 +83,7 @@ struct QuestSetListView: View {
                 HStack {
                     Image(systemName: "magnifyingglass")
                         .foregroundColor(.secondary)
-                    TextField("Search quests, zones, rewards...", text: $searchText)
+                    TextField("Search NMs, zones, rewards...", text: $searchText)
                         .textFieldStyle(.plain)
 
                     if !searchText.isEmpty {
@@ -136,7 +139,7 @@ struct QuestSetListView: View {
             // Results
             if shouldShowSearchResults {
                 // Search results view
-                if filteredQuests.isEmpty {
+                if filteredNMs.isEmpty {
                     VStack(spacing: 16) {
                         Spacer()
                         Image(systemName: "magnifyingglass")
@@ -156,23 +159,23 @@ struct QuestSetListView: View {
                 } else {
                     List {
                         Section {
-                            Text("\(filteredQuests.count) quest(s)")
+                            Text("\(filteredNMs.count) Unity NM(s)")
                                 .font(.caption)
                                 .foregroundColor(.secondary)
                         }
 
-                        ForEach(Array(groupedQuests.keys.sorted()), id: \.self) { setName in
-                            Section(header: Text(setName)) {
-                                ForEach(groupedQuests[setName] ?? [], id: \.mission.id) { item in
+                        ForEach(Array(groupedNMs.keys.sorted()), id: \.self) { categoryName in
+                            Section(header: Text(categoryName)) {
+                                ForEach(groupedNMs[categoryName] ?? [], id: \.nm.id) { item in
                                     NavigationLink {
-                                        MissionDetailView(
-                                            mission: item.mission,
+                                        UNMDetailView(
+                                            nm: item.nm,
                                             progressTracker: progressTracker
                                         )
                                     } label: {
-                                        QuestSearchResultRow(
-                                            quest: item.mission,
-                                            isCompleted: progressTracker.isMissionCompleted(item.mission)
+                                        UNMRow(
+                                            nm: item.nm,
+                                            isCompleted: progressTracker.isItemCompleted(item.nm.id, category: .unityNM)
                                         )
                                     }
                                 }
@@ -184,32 +187,84 @@ struct QuestSetListView: View {
                     #endif
                 }
             } else {
-                // Default quest sets view
-                List(questSets) { questSet in
-                    NavigationLink(destination: MissionListView(
-                        missionSet: questSet,
+                // Default category view
+                List(unmLoader.categoryGroups) { category in
+                    NavigationLink(destination: UNMListView(
+                        category: category,
                         progressTracker: progressTracker
                     )) {
-                        QuestSetRowView(
-                            questSet: questSet,
+                        UNMCategoryRow(
+                            category: category,
                             progressTracker: progressTracker
                         )
                     }
                 }
             }
         }
-        .navigationTitle("FFXI Quests")
+        .navigationTitle("Unity Notorious Monsters")
     }
 }
 
-struct QuestSearchResultRow: View {
-    let quest: Mission
+struct UNMCategoryRow: View {
+    let category: UNMCategoryGroup
+    let progressTracker: MissionProgressTracker
+
+    private var completedNMs: Int {
+        category.nms.filter {
+            progressTracker.isItemCompleted($0.id, category: .unityNM)
+        }.count
+    }
+
+    private var totalNMs: Int {
+        category.nms.count
+    }
+
+    private var completionPercentage: Double {
+        totalNMs > 0 ? Double(completedNMs) / Double(totalNMs) : 0
+    }
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 8) {
+            Text(category.displayName)
+                .font(.headline)
+
+            HStack(spacing: 16) {
+                Label(category.levelRange, systemImage: "chart.line.uptrend.xyaxis")
+                    .font(.caption)
+                    .foregroundColor(.blue)
+
+                Label("\(category.accoladeRange) accolades", systemImage: "star.fill")
+                    .font(.caption)
+                    .foregroundColor(.purple)
+            }
+
+            HStack {
+                Label("\(totalNMs) NMs", systemImage: "flag.2.crossed")
+                    .font(.caption)
+                    .foregroundColor(.secondary)
+
+                Spacer()
+
+                Text("\(completedNMs)/\(totalNMs)")
+                    .font(.caption)
+                    .foregroundColor(.secondary)
+            }
+
+            ProgressView(value: completionPercentage)
+                .tint(.purple)
+        }
+        .padding(.vertical, 4)
+    }
+}
+
+struct UNMRow: View {
+    let nm: UnityNotoriousMonster
     let isCompleted: Bool
 
     var body: some View {
         VStack(alignment: .leading, spacing: 6) {
             HStack {
-                Text(quest.title)
+                Text(nm.nm)
                     .font(.headline)
                     .foregroundColor(isCompleted ? .secondary : .primary)
                     .strikethrough(isCompleted, color: .secondary)
@@ -223,84 +278,23 @@ struct QuestSearchResultRow: View {
                 }
             }
 
-            if let number = quest.number {
-                Text(number)
+            HStack(spacing: 4) {
+                Image(systemName: "map")
                     .font(.caption2)
-                    .padding(.horizontal, 6)
-                    .padding(.vertical, 2)
-                    .background(Color.green.opacity(0.2))
-                    .cornerRadius(4)
-            }
-
-            if !quest.zones.isEmpty {
-                HStack(spacing: 4) {
-                    Image(systemName: "map")
-                        .font(.caption2)
-                    Text(quest.zones.prefix(2).joined(separator: ", "))
-                        .font(.caption)
-                    if quest.zones.count > 2 {
-                        Text("+ \(quest.zones.count - 2) more")
-                            .font(.caption)
-                    }
-                }
-                .foregroundColor(.green)
-            }
-        }
-        .padding(.vertical, 4)
-    }
-}
-
-struct QuestSetRowView: View {
-    let questSet: MissionSet
-    let progressTracker: MissionProgressTracker
-
-    private var completedQuests: Int {
-        questSet.missions.filter { progressTracker.isMissionCompleted($0) }.count
-    }
-
-    private var totalQuests: Int {
-        questSet.missions.count
-    }
-
-    private var completionPercentage: Double {
-        totalQuests > 0 ? Double(completedQuests) / Double(totalQuests) : 0
-    }
-
-    private var isNationQuest: Bool {
-        questSet.category == "nation"
-    }
-
-    var body: some View {
-        VStack(alignment: .leading, spacing: 8) {
-            Text(questSet.name)
-                .font(.headline)
-
-            // Show nation quest indicator
-            if isNationQuest {
-                HStack(spacing: 4) {
-                    Image(systemName: "info.circle.fill")
-                        .font(.caption2)
-                        .foregroundColor(.green)
-                    Text("Optional - enhance your chosen nation")
-                        .font(.caption2)
-                        .foregroundColor(.green)
-                }
-            }
-
-            HStack {
-                Label("\(totalQuests) quests", systemImage: "book")
+                Text(nm.zone)
                     .font(.caption)
-                    .foregroundColor(.secondary)
-
-                Spacer()
-
-                Text("\(completedQuests)/\(totalQuests)")
-                    .font(.caption)
-                    .foregroundColor(.secondary)
             }
+            .foregroundColor(.blue)
 
-            ProgressView(value: completionPercentage)
-                .tint(.green)
+            HStack(spacing: 12) {
+                Label(nm.levelDisplay, systemImage: "chart.line.uptrend.xyaxis")
+                    .font(.caption2)
+                    .foregroundColor(.orange)
+
+                Label(nm.accoladesDisplay, systemImage: "star.fill")
+                    .font(.caption2)
+                    .foregroundColor(.purple)
+            }
         }
         .padding(.vertical, 4)
     }
@@ -308,8 +302,8 @@ struct QuestSetRowView: View {
 
 #Preview {
     NavigationStack {
-        QuestSetListView(
-            questSets: [],
+        UNMCategoryListView(
+            unmLoader: UnityNMDataLoader(),
             progressTracker: MissionProgressTracker(characterManager: CharacterManager())
         )
     }

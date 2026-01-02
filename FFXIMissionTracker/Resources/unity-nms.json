@@ -1,0 +1,1000 @@
+{
+  "unity_notorious_monsters": [
+    {
+      "level": 75,
+      "accolades": 200,
+      "nm": "Bounding Belinda",
+      "zone": "South Gustaberg",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["E-7", "G-7", "G-8"],
+      "unity_warp": "E-7",
+      "point_rewards": { "sparks": 500, "exp": 2500, "cp": 0 },
+      "notable_rewards": [
+        { "item": "Adsilio Boots", "url": "/wiki/Adsilio_Boots" },
+        { "item": "Adsilio Boots +1", "url": "/wiki/Adsilio_Boots_%2B1" },
+        { "item": "Emico Mantle", "url": "/wiki/Emico_Mantle" },
+        { "item": "Salire Belt", "url": "/wiki/Salire_Belt" },
+        { "item": "Belinda's Hide", "url": "/wiki/Belinda%27s_Hide" }
+      ]
+    },
+    {
+      "level": 75,
+      "accolades": 200,
+      "nm": "Hugemaw Harold",
+      "zone": "East Ronfaure",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["H-9", "J-8", "J-10"],
+      "unity_warp": "G-9",
+      "point_rewards": { "sparks": 500, "exp": 2500, "cp": 0 },
+      "notable_rewards": [
+        { "item": "Megasco Earring", "url": "/wiki/Megasco_Earring" },
+        { "item": "Setae Ring", "url": "/wiki/Setae_Ring" },
+        { "item": "Harold's Ore", "url": "/wiki/Harold%27s_Ore" }
+      ]
+    },
+    {
+      "level": 75,
+      "accolades": 200,
+      "nm": "Prickly Pitriv",
+      "zone": "East Sarutabaruta",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["G-9", "I-7", "J-9"],
+      "unity_warp": "J-8",
+      "point_rewards": { "sparks": 500, "exp": 2500, "cp": 0 },
+      "notable_rewards": [
+        { "item": "Charitoni Sling", "url": "/wiki/Charitoni_Sling" },
+        { "item": "Crested Torque", "url": "/wiki/Crested_Torque" },
+        { "item": "Dew Silk Cape", "url": "/wiki/Dew_Silk_Cape" },
+        { "item": "Dew Silk Cape +1", "url": "/wiki/Dew_Silk_Cape_%2B1" },
+        { "item": "Pitriv's Thread", "url": "/wiki/Pitriv%27s_Thread" }
+      ]
+    },
+    {
+      "level": 99,
+      "accolades": 400,
+      "nm": "Ironhorn Baldurno",
+      "zone": "La Theine Plateau",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["G-8", "G-9", "I-9"],
+      "unity_warp": "H-8",
+      "point_rewards": { "sparks": 750, "exp": 4000, "cp": 0 },
+      "notable_rewards": [
+        { "item": "Thorfinn Shield", "url": "/wiki/Thorfinn_Shield" },
+        { "item": "Thorfinn Shield +1", "url": "/wiki/Thorfinn_Shield_%2B1" },
+        { "item": "Grit Earring", "url": "/wiki/Grit_Earring" },
+        { "item": "Bleating Mantle", "url": "/wiki/Bleating_Mantle" },
+        { "item": "Baldurno's Horn", "url": "/wiki/Baldurno%27s_Horn" }
+      ]
+    },
+    {
+      "level": 99,
+      "accolades": 400,
+      "nm": "Sleepy Mabel",
+      "zone": "Konschtat Highlands",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["F-5", "G-9", "H-8"],
+      "unity_warp": "G-7",
+      "point_rewards": { "sparks": 750, "exp": 4000, "cp": 0 },
+      "notable_rewards": [
+        { "item": "Damani Horn", "url": "/wiki/Damani_Horn" },
+        { "item": "Damani Horn +1", "url": "/wiki/Damani_Horn_%2B1" },
+        { "item": "Mouflon Ring", "url": "/wiki/Mouflon_Ring" },
+        { "item": "Acipayam Belt", "url": "/wiki/Acipayam_Belt" },
+        { "item": "Sleepy Mabel's Fur", "url": "/wiki/Sleepy_Mabel%27s_Fur" }
+      ]
+    },
+    {
+      "level": 99,
+      "accolades": 400,
+      "nm": "Serpopard Ninlil",
+      "zone": "Tahrongi Canyon",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["E-9", "H-8", "I-9"],
+      "unity_warp": "J-8",
+      "point_rewards": { "sparks": 750, "exp": 4000, "cp": 0 },
+      "notable_rewards": [
+        { "item": "Narmar Boomerang", "url": "/wiki/Narmar_Boomerang" },
+        { "item": "Nekhen Ring", "url": "/wiki/Nekhen_Ring" },
+        { "item": "Cloud Hairpin", "url": "/wiki/Cloud_Hairpin" },
+        { "item": "Cloud Hairpin +1", "url": "/wiki/Cloud_Hairpin_%2B1" },
+        { "item": "Ninlil's Bone", "url": "/wiki/Ninlil%27s_Bone" }
+      ]
+    },
+    {
+      "level": 119,
+      "accolades": 1500,
+      "nm": "Abyssdiver",
+      "zone": "Buburimu Peninsula",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["H-7", "K-6", "K-9"],
+      "unity_warp": "F-6",
+      "point_rewards": { "sparks": 1000, "exp": 5000, "cp": 1000 },
+      "notable_rewards": [
+        { "item": "Wingcutter", "url": "/wiki/Wingcutter" },
+        { "item": "Wingcutter +1", "url": "/wiki/Wingcutter_%2B1" },
+        { "item": "Macabre Gauntlets", "url": "/wiki/Macabre_Gauntlets" },
+        { "item": "Macabre Gauntlets +1", "url": "/wiki/Macabre_Gauntlets_%2B1" },
+        { "item": "Abyssdiver's Feather", "url": "/wiki/Abyssdiver%27s_Feather" }
+      ]
+    },
+    {
+      "level": 119,
+      "accolades": 1500,
+      "nm": "Immanibugard",
+      "zone": "Lufaise Meadows",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["G-7", "J-9", "K-9"],
+      "unity_warp": "K-8",
+      "point_rewards": { "sparks": 1000, "exp": 5000, "cp": 1000 },
+      "notable_rewards": [
+        { "item": "Apeile Ring", "url": "/wiki/Apeile_Ring" },
+        { "item": "Apeile Ring +1", "url": "/wiki/Apeile_Ring_%2B1" },
+        { "item": "Hippomenes Socks", "url": "/wiki/Hippomenes_Socks" },
+        { "item": "Hippomenes Socks +1", "url": "/wiki/Hippomenes_Socks_%2B1" },
+        { "item": "Immanibugard's Hide", "url": "/wiki/Immanibugard%27s_Hide" }
+      ]
+    },
+    {
+      "level": 119,
+      "accolades": 1500,
+      "nm": "Intuila",
+      "zone": "Bibiki Bay",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["G-8", "H-10", "I-6"],
+      "unity_warp": "I-6",
+      "point_rewards": { "sparks": 1000, "exp": 5000, "cp": 1000 },
+      "notable_rewards": [
+        { "item": "Assiduity Pants", "url": "/wiki/Assiduity_Pants" },
+        { "item": "Assiduity Pants +1", "url": "/wiki/Assiduity_Pants_%2B1" },
+        { "item": "Nourishing Earring", "url": "/wiki/Nourishing_Earring" },
+        { "item": "Nourishing Earring +1", "url": "/wiki/Nourishing_Earring_%2B1" },
+        { "item": "Intuila's Hide", "url": "/wiki/Intuila%27s_Hide" }
+      ]
+    },
+    {
+      "level": 119,
+      "accolades": 1500,
+      "nm": "Jester Malatrix",
+      "zone": "Qufim Island",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["G-7", "G-8", "I-8"],
+      "unity_warp": "I-8",
+      "point_rewards": { "sparks": 1000, "exp": 5000, "cp": 1000 },
+      "notable_rewards": [
+        { "item": "Buramgh", "url": "/wiki/Buramgh" },
+        { "item": "Buramgh +1", "url": "/wiki/Buramgh_%2B1" },
+        { "item": "Evalach", "url": "/wiki/Evalach" },
+        { "item": "Evalach +1", "url": "/wiki/Evalach_%2B1" },
+        { "item": "Malatrix's Shard", "url": "/wiki/Malatrix%27s_Shard" }
+      ]
+    },
+    {
+      "level": 119,
+      "accolades": 1500,
+      "nm": "Orcfeltrap",
+      "zone": "Carpenters' Landing",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["H-9", "I-9", "I-11"],
+      "unity_warp": "I-11",
+      "point_rewards": { "sparks": 1000, "exp": 5000, "cp": 1000 },
+      "notable_rewards": [
+        { "item": "Shinjutsu-no-Obi", "url": "/wiki/Shinjutsu-no-Obi" },
+        { "item": "Shinjutsu-no-Obi +1", "url": "/wiki/Shinjutsu-no-Obi_%2B1" },
+        { "item": "Tancho", "url": "/wiki/Tancho" },
+        { "item": "Tancho +1", "url": "/wiki/Tancho_%2B1" },
+        { "item": "Orcfeltrap's Leaf", "url": "/wiki/Orcfeltrap%27s_Leaf" }
+      ]
+    },
+    {
+      "level": 119,
+      "accolades": 1500,
+      "nm": "Sybaritic Samantha",
+      "zone": "Yuhtunga Jungle",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["F-11", "F-10", "I-6"],
+      "unity_warp": "F-11",
+      "point_rewards": { "sparks": 1000, "exp": 5000, "cp": 1000 },
+      "notable_rewards": [
+        { "item": "Unmoving Collar", "url": "/wiki/Unmoving_Collar" },
+        { "item": "Unmoving Collar +1", "url": "/wiki/Unmoving_Collar_%2B1" },
+        { "item": "Metamorph Ring", "url": "/wiki/Metamorph_Ring" },
+        { "item": "Metamorph Ring +1", "url": "/wiki/Metamorph_Ring_%2B1" },
+        { "item": "Samantha's Vine", "url": "/wiki/Samantha%27s_Vine" }
+      ]
+    },
+    {
+      "level": 119,
+      "accolades": 1500,
+      "nm": "Valkurm Imperator",
+      "zone": "Valkurm Dunes",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["D-6", "E-8", "K-9"],
+      "unity_warp": "G-8",
+      "point_rewards": { "sparks": 1000, "exp": 5000, "cp": 1000 },
+      "notable_rewards": [
+        { "item": "Imperial Wing Hairpin", "url": "/wiki/Imperial_Wing_Hairpin" },
+        { "item": "Imperial Wing Hairpin +1", "url": "/wiki/Imperial_Wing_Hairpin_%2B1" },
+        { "item": "Regal Pumps", "url": "/wiki/Regal_Pumps" },
+        { "item": "Regal Pumps +1", "url": "/wiki/Regal_Pumps_%2B1" },
+        { "item": "Imperator's Wing", "url": "/wiki/Imperator%27s_Wing" }
+      ]
+    },
+    {
+      "level": 122,
+      "accolades": 1800,
+      "nm": "Cactrot Veloz",
+      "zone": "Eastern Altepa Desert",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["G-10", "I-5", "J-9"],
+      "unity_warp": "J-8",
+      "point_rewards": { "sparks": 1250, "exp": 6000, "cp": 1500 },
+      "notable_rewards": [
+        { "item": "Arete del Luna", "url": "/wiki/Arete_del_Luna" },
+        { "item": "Arete del Luna +1", "url": "/wiki/Arete_del_Luna_%2B1" },
+        { "item": "Mengado", "url": "/wiki/Mengado" },
+        { "item": "Mengado +1", "url": "/wiki/Mengado_%2B1" },
+        { "item": "Veloz's Needle", "url": "/wiki/Veloz%27s_Needle" }
+      ]
+    },
+    {
+      "level": 122,
+      "accolades": 1800,
+      "nm": "Emperor Arthro",
+      "zone": "Jugner Forest",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["I-6", "I-9", "J-11"],
+      "unity_warp": "I-8",
+      "point_rewards": { "sparks": 1250, "exp": 6000, "cp": 1500 },
+      "notable_rewards": [
+        { "item": "Sailfi Belt", "url": "/wiki/Sailfi_Belt" },
+        { "item": "Sailfi Belt +1", "url": "/wiki/Sailfi_Belt_%2B1" },
+        { "item": "Augury Cuisses", "url": "/wiki/Augury_Cuisses" },
+        { "item": "Augury Cuisses +1", "url": "/wiki/Augury_Cuisses_%2B1" },
+        { "item": "Arthro's Shell", "url": "/wiki/Arthro%27s_Shell" }
+      ]
+    },
+    {
+      "level": 122,
+      "accolades": 1800,
+      "nm": "Garbage Gel",
+      "zone": "Bostaunieux Oubliette",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["J-7", "J-10", "F-8"],
+      "unity_warp": "Map 2 (D-9)",
+      "point_rewards": { "sparks": 1250, "exp": 6000, "cp": 1500 },
+      "notable_rewards": [
+        { "item": "Gelatinous Ring", "url": "/wiki/Gelatinous_Ring" },
+        { "item": "Gelatinous Ring +1", "url": "/wiki/Gelatinous_Ring_%2B1" },
+        { "item": "Emeici", "url": "/wiki/Emeici" },
+        { "item": "Emeici +1", "url": "/wiki/Emeici_%2B1" },
+        { "item": "Garbage Gel's Mucus", "url": "/wiki/Garbage_Gel%27s_Mucus" }
+      ]
+    },
+    {
+      "level": 122,
+      "accolades": 1800,
+      "nm": "Joyous Green",
+      "zone": "Pashhow Marshlands",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["H-9", "I-6", "J-9"],
+      "unity_warp": "E-12",
+      "point_rewards": { "sparks": 1250, "exp": 6000, "cp": 1500 },
+      "notable_rewards": [
+        { "item": "Acuity Belt", "url": "/wiki/Acuity_Belt" },
+        { "item": "Acuity Belt +1", "url": "/wiki/Acuity_Belt_%2B1" },
+        { "item": "Canto Necklace", "url": "/wiki/Canto_Necklace" },
+        { "item": "Canto Necklace +1", "url": "/wiki/Canto_Necklace_%2B1" },
+        { "item": "Joyous's Moss", "url": "/wiki/Joyous%27s_Moss" }
+      ]
+    },
+    {
+      "level": 122,
+      "accolades": 1800,
+      "nm": "Keeper of Heiligtum",
+      "zone": "The Sanctuary of Zi'Tah",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["J-11", "K-9", "J-10"],
+      "unity_warp": "K-12",
+      "point_rewards": { "sparks": 1250, "exp": 6000, "cp": 1500 },
+      "notable_rewards": [
+        { "item": "Kunimune", "url": "/wiki/Kunimune" },
+        { "item": "Kunimune +1", "url": "/wiki/Kunimune_%2B1" },
+        { "item": "Zoar Subligar", "url": "/wiki/Zoar_Subligar" },
+        { "item": "Zoar Subligar +1", "url": "/wiki/Zoar_Subligar_%2B1" },
+        { "item": "Heiligtum's Moss", "url": "/wiki/Heiligtum%27s_Moss" }
+      ]
+    },
+    {
+      "level": 122,
+      "accolades": 1800,
+      "nm": "Tiyanak",
+      "zone": "Misareaux Coast",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["G-8", "F-8", "I-11"],
+      "unity_warp": "F-7",
+      "point_rewards": { "sparks": 1250, "exp": 6000, "cp": 1500 },
+      "notable_rewards": [
+        { "item": "Lugra Cloak", "url": "/wiki/Lugra_Cloak" },
+        { "item": "Lugra Cloak +1", "url": "/wiki/Lugra_Cloak_%2B1" },
+        { "item": "Lugra Earring", "url": "/wiki/Lugra_Earring" },
+        { "item": "Lugra Earring +1", "url": "/wiki/Lugra_Earring_%2B1" },
+        { "item": "Tiyanak's Fang", "url": "/wiki/Tiyanak%27s_Fang" }
+      ]
+    },
+    {
+      "level": 122,
+      "accolades": 1800,
+      "nm": "Voso",
+      "zone": "Labyrinth of Onzozo",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["G-6", "H-7", "I-5"],
+      "unity_warp": "G-6",
+      "point_rewards": { "sparks": 1250, "exp": 6000, "cp": 1500 },
+      "notable_rewards": [
+        { "item": "Agony Jerkin", "url": "/wiki/Agony_Jerkin" },
+        { "item": "Agony Jerkin +1", "url": "/wiki/Agony_Jerkin_%2B1" },
+        { "item": "Refined Grip", "url": "/wiki/Refined_Grip" },
+        { "item": "Refined Grip +1", "url": "/wiki/Refined_Grip_%2B1" },
+        { "item": "Voso's Hide", "url": "/wiki/Voso%27s_Hide" }
+      ]
+    },
+    {
+      "level": 122,
+      "accolades": 1800,
+      "nm": "Warblade Beak",
+      "zone": "Meriphataud Mountains",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["G-9", "I-9", "K-11"],
+      "unity_warp": "F-11",
+      "point_rewards": { "sparks": 1250, "exp": 6000, "cp": 1500 },
+      "notable_rewards": [
+        { "item": "Shigure Tekko", "url": "/wiki/Shigure_Tekko" },
+        { "item": "Shigure Tekko +1", "url": "/wiki/Shigure_Tekko_%2B1" },
+        { "item": "Handler's Earring", "url": "/wiki/Handler_Earring" },
+        { "item": "Handler's Earring +1", "url": "/wiki/Handler_Earring_%2B1" },
+        { "item": "Warblade's Hide", "url": "/wiki/Warblade%27s_Hide" }
+      ]
+    },
+    {
+      "level": 122,
+      "accolades": 1800,
+      "nm": "Woodland Mender",
+      "zone": "Yhoator Jungle",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["G-10", "H-7", "I-10"],
+      "unity_warp": "J-7",
+      "point_rewards": { "sparks": 1250, "exp": 6000, "cp": 1500 },
+      "notable_rewards": [
+        { "item": "Rosette Jaseran", "url": "/wiki/Rosette_Jaseran" },
+        { "item": "Rosette Jaseran +1", "url": "/wiki/Rosette_Jaseran_%2B1" },
+        { "item": "Pouwhenua", "url": "/wiki/Pouwhenua" },
+        { "item": "Pouwhenua +1", "url": "/wiki/Pouwhenua_%2B1" },
+        { "item": "Mender's Log", "url": "/wiki/Mender%27s_Log" }
+      ]
+    },
+    {
+      "level": 125,
+      "accolades": 2100,
+      "nm": "Arke",
+      "zone": "Sauromugue Champaign",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["G-8", "J-9", "L-7"],
+      "unity_warp": "J-6",
+      "point_rewards": { "sparks": 1500, "exp": 7500, "cp": 2000 },
+      "notable_rewards": [
+        { "item": "Ababinili", "url": "/wiki/Ababinili" },
+        { "item": "Ababinili +1", "url": "/wiki/Ababinili_%2B1" },
+        { "item": "Pukulatmuj", "url": "/wiki/Pukulatmuj" },
+        { "item": "Pukulatmuj +1", "url": "/wiki/Pukulatmuj_%2B1" },
+        { "item": "Arke's Wing", "url": "/wiki/Arke%27s_Wing" }
+      ]
+    },
+    {
+      "level": 125,
+      "accolades": 2100,
+      "nm": "Ayapec",
+      "zone": "The Boyahda Tree",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["D-6", "I-10", "H-6"],
+      "unity_warp": "Map 2 (F-6)",
+      "point_rewards": { "sparks": 1500, "exp": 7500, "cp": 2000 },
+      "notable_rewards": [
+        { "item": "Hike Khat", "url": "/wiki/Hike_Khat" },
+        { "item": "Hike Khat +1", "url": "/wiki/Hike_Khat_%2B1" },
+        { "item": "Perun", "url": "/wiki/Perun" },
+        { "item": "Perun +1", "url": "/wiki/Perun_%2B1" },
+        { "item": "Ayapec's Shell", "url": "/wiki/Ayapec%27s_Shell" }
+      ]
+    },
+    {
+      "level": 125,
+      "accolades": 2100,
+      "nm": "Azure-toothed Clawberry",
+      "zone": "Temple of Uggalepih",
+      "category": "Wanted 2",
+      "ethereal_junctions": [
+        { "map": 1, "coords": ["J-8"] },
+        { "map": 2, "coords": ["H-9", "F-7"] }
+      ],
+      "unity_warp": "Map 2 (I-6)",
+      "point_rewards": { "sparks": 1500, "exp": 7500, "cp": 2000 },
+      "notable_rewards": [
+        { "item": "Asteria Mitts", "url": "/wiki/Asteria_Mitts" },
+        { "item": "Asteria Mitts +1", "url": "/wiki/Asteria_Mitts_%2B1" },
+        { "item": "Lamassu Mitts", "url": "/wiki/Lamassu_Mitts" },
+        { "item": "Lamassu Mitts +1", "url": "/wiki/Lamassu_Mitts_%2B1" },
+        { "item": "Clawberry's Coat", "url": "/wiki/Clawberry%27s_Coat" }
+      ]
+    },
+    {
+      "level": 125,
+      "accolades": 2100,
+      "nm": "Bakunawa",
+      "zone": "Sea Serpent Grotto",
+      "category": "Wanted 2",
+      "ethereal_junctions": [
+        { "map": 4, "coords": ["J-8", "I-10", "D-9"] }
+      ],
+      "unity_warp": "Map 4 (L-5)",
+      "point_rewards": { "sparks": 1500, "exp": 7500, "cp": 2000 },
+      "notable_rewards": [
+        { "item": "Bathy Choker", "url": "/wiki/Bathy_Choker" },
+        { "item": "Bathy Choker +1", "url": "/wiki/Bathy_Choker_%2B1" },
+        { "item": "Demersal Degen", "url": "/wiki/Demersal_Degen" },
+        { "item": "Demersal Degen +1", "url": "/wiki/Demersal_Degen_%2B1" },
+        { "item": "Bakunawa's Ink", "url": "/wiki/Bakunawa%27s_Ink" }
+      ]
+    },
+    {
+      "level": 125,
+      "accolades": 2100,
+      "nm": "Beist",
+      "zone": "Xarcabard",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["I-7", "I-8", "I-9"],
+      "unity_warp": "J-9",
+      "point_rewards": { "sparks": 1500, "exp": 7500, "cp": 2000 },
+      "notable_rewards": [
+        { "item": "Adorned Helm", "url": "/wiki/Adorned_Helm" },
+        { "item": "Adorned Helm +1", "url": "/wiki/Adorned_Helm_%2B1" },
+        { "item": "Hime Domaru", "url": "/wiki/Hime_Domaru" },
+        { "item": "Hime Domaru +1", "url": "/wiki/Hime_Domaru_%2B1" },
+        { "item": "Beist's Blood", "url": "/wiki/Beist%27s_Blood" }
+      ]
+    },
+    {
+      "level": 125,
+      "accolades": 2100,
+      "nm": "Centurio XX-I",
+      "zone": "Quicksand Caves",
+      "category": "Wanted 2",
+      "ethereal_junctions": [
+        { "map": 1, "coords": ["H-12", "I-5", "I-9"] }
+      ],
+      "unity_warp": "Map 1 (J-5)",
+      "point_rewards": { "sparks": 1500, "exp": 7500, "cp": 2000 },
+      "notable_rewards": [
+        { "item": "Cohort Cloak", "url": "/wiki/Cohort_Cloak" },
+        { "item": "Cohort Cloak +1", "url": "/wiki/Cohort_Cloak_%2B1" },
+        { "item": "Kentarch Belt", "url": "/wiki/Kentarch_Belt" },
+        { "item": "Kentarch Belt +1", "url": "/wiki/Kentarch_Belt_%2B1" },
+        { "item": "Centurio's Armor", "url": "/wiki/Centurio%27s_Armor" }
+      ]
+    },
+    {
+      "level": 125,
+      "accolades": 2100,
+      "nm": "Coca",
+      "zone": "Ifrit's Cauldron",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["I-7", "F-10", "H-6"],
+      "unity_warp": "Map 3 (K-6)",
+      "point_rewards": { "sparks": 1500, "exp": 7500, "cp": 2000 },
+      "notable_rewards": [
+        { "item": "Gae Derg", "url": "/wiki/Gae_Derg" },
+        { "item": "Gae Derg +1", "url": "/wiki/Gae_Derg_%2B1" },
+        { "item": "Ajax", "url": "/wiki/Ajax" },
+        { "item": "Ajax +1", "url": "/wiki/Ajax_%2B1" },
+        { "item": "Coca's Wing", "url": "/wiki/Coca%27s_Wing" }
+      ]
+    },
+    {
+      "level": 125,
+      "accolades": 2100,
+      "nm": "Douma Weapon",
+      "zone": "Ro'Maeve",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["I-10", "G-11", "C-9"],
+      "unity_warp": "H-11",
+      "point_rewards": { "sparks": 1500, "exp": 7500, "cp": 2000 },
+      "notable_rewards": [
+        { "item": "Shomonjijoe", "url": "/wiki/Shomonjijoe" },
+        { "item": "Shomonjijoe +1", "url": "/wiki/Shomonjijoe_%2B1" },
+        { "item": "Rigorous Grip", "url": "/wiki/Rigorous_Grip" },
+        { "item": "Rigorous Grip +1", "url": "/wiki/Rigorous_Grip_%2B1" },
+        { "item": "Douma's Shard", "url": "/wiki/Douma%27s_Shard" }
+      ]
+    },
+    {
+      "level": 125,
+      "accolades": 2100,
+      "nm": "King Uropygid",
+      "zone": "Western Altepa Desert",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["F-10", "F-8", "J-6"],
+      "unity_warp": "I-7",
+      "point_rewards": { "sparks": 1500, "exp": 7500, "cp": 2000 },
+      "notable_rewards": [
+        { "item": "Stinger Bullet", "url": "/wiki/Stinger_Bullet" },
+        { "item": "Stinger Helm", "url": "/wiki/Stinger_Helm" },
+        { "item": "Stinger Helm +1", "url": "/wiki/Stinger_Helm_%2B1" },
+        { "item": "Uropygid's Needle", "url": "/wiki/Uropygid%27s_Needle" }
+      ]
+    },
+    {
+      "level": 125,
+      "accolades": 2100,
+      "nm": "Kubool Ja's Mhuufya",
+      "zone": "Wajaom Woodlands",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["K-9", "I-9", "I-8"],
+      "unity_warp": "I-10",
+      "point_rewards": { "sparks": 1500, "exp": 7500, "cp": 2000 },
+      "notable_rewards": [
+        { "item": "Zwazo Earring", "url": "/wiki/Zwazo_Earring" },
+        { "item": "Zwazo Earring +1", "url": "/wiki/Zwazo_Earring_%2B1" },
+        { "item": "Mdomo Axe", "url": "/wiki/Mdomo_Axe" },
+        { "item": "Mdomo Axe +1", "url": "/wiki/Mdomo_Axe_%2B1" },
+        { "item": "Mhuufya's Beak", "url": "/wiki/Mhuufya%27s_Beak" }
+      ]
+    },
+    {
+      "level": 125,
+      "accolades": 2100,
+      "nm": "Largantua",
+      "zone": "Beaucedine Glacier",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["J-7", "K-8", "K-9"],
+      "unity_warp": "I-9",
+      "point_rewards": { "sparks": 1500, "exp": 7500, "cp": 2000 },
+      "notable_rewards": [
+        { "item": "Emet Harness", "url": "/wiki/Emet_Harness" },
+        { "item": "Emet Harness +1", "url": "/wiki/Emet_Harness_%2B1" },
+        { "item": "Warder's Charm", "url": "/wiki/Warder%27s_Charm" },
+        { "item": "Warder's Charm +1", "url": "/wiki/Warder%27s_Charm_%2B1" },
+        { "item": "Largantua's Shard", "url": "/wiki/Largantua%27s_Shard" }
+      ]
+    },
+    {
+      "level": 125,
+      "accolades": 2100,
+      "nm": "Lumber Jill",
+      "zone": "Batallia Downs",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["E-5", "H-9", "J-7"],
+      "unity_warp": "K-8",
+      "point_rewards": { "sparks": 1500, "exp": 7500, "cp": 2000 },
+      "notable_rewards": [
+        { "item": "Grounded Mantle", "url": "/wiki/Grounded_Mantle" },
+        { "item": "Grounded Mantle +1", "url": "/wiki/Grounded_Mantle_%2B1" },
+        { "item": "Sangarius", "url": "/wiki/Sangarius" },
+        { "item": "Sangarius +1", "url": "/wiki/Sangarius_%2B1" },
+        { "item": "Jill's Spittle", "url": "/wiki/Jill%27s_Spittle" }
+      ]
+    },
+    {
+      "level": 125,
+      "accolades": 2100,
+      "nm": "Mephitas",
+      "zone": "Garlaige Citadel",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["I-6", "G-7", "H-8"],
+      "unity_warp": "Map 4 (G-6)",
+      "point_rewards": { "sparks": 1500, "exp": 7500, "cp": 2000 },
+      "notable_rewards": [
+        { "item": "Mephitas's Ring", "url": "/wiki/Mephitas%27s_Ring" },
+        { "item": "Mephitas's Ring +1", "url": "/wiki/Mephitas%27s_Ring_%2B1" },
+        { "item": "Ternion Dagger", "url": "/wiki/Ternion_Dagger" },
+        { "item": "Ternion Dagger +1", "url": "/wiki/Ternion_Dagger_%2B1" },
+        { "item": "Mephitas's Claw", "url": "/wiki/Mephitas%27s_Claw" }
+      ]
+    },
+    {
+      "level": 125,
+      "accolades": 2100,
+      "nm": "Muut",
+      "zone": "Attohwa Chasm",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["F-7", "E-8", "G-9"],
+      "unity_warp": "F-7",
+      "point_rewards": { "sparks": 1500, "exp": 7500, "cp": 2000 },
+      "notable_rewards": [
+        { "item": "Anathema Harpe", "url": "/wiki/Anathema_Harpe" },
+        { "item": "Anathema Harpe +1", "url": "/wiki/Anathema_Harpe_%2B1" },
+        { "item": "Kachimusha Kote", "url": "/wiki/Kachimusha_Kote" },
+        { "item": "Kachimusha Kote +1", "url": "/wiki/Kachimusha_Kote_%2B1" },
+        { "item": "Muut's Vestment", "url": "/wiki/Muut%27s_Vestment" }
+      ]
+    },
+    {
+      "level": 125,
+      "accolades": 2100,
+      "nm": "Specter Worm",
+      "zone": "Kuftal Tunnel",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["F-9", "H-5", "J-11"],
+      "unity_warp": "Map 2 (G-3)",
+      "point_rewards": { "sparks": 1500, "exp": 7500, "cp": 2000 },
+      "notable_rewards": [
+        { "item": "Ghastly Tathlum", "url": "/wiki/Ghastly_Tathlum" },
+        { "item": "Ghastly Tathlum +1", "url": "/wiki/Ghastly_Tathlum_%2B1" },
+        { "item": "Kladenets", "url": "/wiki/Kladenets" },
+        { "item": "Kladenets +1", "url": "/wiki/Kladenets_%2B1" },
+        { "item": "Specter's Ore", "url": "/wiki/Specter%27s_Ore" }
+      ]
+    },
+    {
+      "level": 125,
+      "accolades": 2100,
+      "nm": "Strix",
+      "zone": "Rolanberry Fields",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["E-11", "F-8", "J-8"],
+      "unity_warp": "D-11",
+      "point_rewards": { "sparks": 1500, "exp": 7500, "cp": 2000 },
+      "notable_rewards": [
+        { "item": "Magesmasher", "url": "/wiki/Magesmasher" },
+        { "item": "Magesmasher +1", "url": "/wiki/Magesmasher_%2B1" },
+        { "item": "Jute Boots", "url": "/wiki/Jute_Boots" },
+        { "item": "Jute Boots +1", "url": "/wiki/Jute_Boots_%2B1" },
+        { "item": "Strix's Tailfeather", "url": "/wiki/Strix%27s_Tailfeather" }
+      ]
+    },
+    {
+      "level": 125,
+      "accolades": 2100,
+      "nm": "Vermillion Fishfly",
+      "zone": "Lufaise Meadows",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["G-7", "J-9", "K-9"],
+      "unity_warp": "K-8",
+      "point_rewards": { "sparks": 1500, "exp": 7500, "cp": 2000 },
+      "notable_rewards": [
+        { "item": "Blistering Sallet", "url": "/wiki/Blistering_Sallet" },
+        { "item": "Blistering Sallet +1", "url": "/wiki/Blistering_Sallet_%2B1" },
+        { "item": "Cacoethic Ring", "url": "/wiki/Cacoethic_Ring" },
+        { "item": "Cacoethic Ring +1", "url": "/wiki/Cacoethic_Ring_%2B1" },
+        { "item": "Vermillion's Wing", "url": "/wiki/Vermillion%27s_Wing" }
+      ]
+    },
+    {
+      "level": 128,
+      "accolades": 2400,
+      "nm": "Azrael",
+      "zone": "Den of Rancor",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["H-5", "G-10", "G-9"],
+      "unity_warp": "Map 2 (G-12)",
+      "point_rewards": { "sparks": 1750, "exp": 9000, "cp": 2500 },
+      "notable_rewards": [
+        { "item": "Aizkora", "url": "/wiki/Aizkora" },
+        { "item": "Aizkora +1", "url": "/wiki/Aizkora_%2B1" },
+        { "item": "Alhazen Hat", "url": "/wiki/Alhazen_Hat" },
+        { "item": "Alhazen Hat +1", "url": "/wiki/Alhazen_Hat_%2B1" },
+        { "item": "Azrael's Eye", "url": "/wiki/Azrael%27s_Eye" }
+      ]
+    },
+    {
+      "level": 128,
+      "accolades": 2400,
+      "nm": "Borealis Shadow",
+      "zone": "Fei'Yin",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["I-7", "J-8", "F-9"],
+      "unity_warp": "Map 1 (F-11)",
+      "point_rewards": { "sparks": 1750, "exp": 9000, "cp": 2500 },
+      "notable_rewards": [
+        { "item": "Beheader", "url": "/wiki/Beheader" },
+        { "item": "Beheader +1", "url": "/wiki/Beheader_%2B1" },
+        { "item": "Deliverance", "url": "/wiki/Deliverance" },
+        { "item": "Deliverance +1", "url": "/wiki/Deliverance_%2B1" },
+        { "item": "Fists of Fury", "url": "/wiki/Fists_of_Fury" },
+        { "item": "Fists of Fury +1", "url": "/wiki/Fists_of_Fury_%2B1" },
+        { "item": "Paloma Bow", "url": "/wiki/Paloma_Bow" },
+        { "item": "Paloma Bow +1", "url": "/wiki/Paloma_Bow_%2B1" },
+        { "item": "Ethereal Incense", "url": "/wiki/Ethereal_Incense" }
+      ]
+    },
+    {
+      "level": 128,
+      "accolades": 2400,
+      "nm": "Camahueto",
+      "zone": "Uleguerand Range",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["G-10", "D-9", "D-8"],
+      "unity_warp": "E-9",
+      "point_rewards": { "sparks": 1750, "exp": 9000, "cp": 2500 },
+      "notable_rewards": [
+        { "item": "Hygieia Clogs", "url": "/wiki/Hygieia_Clogs" },
+        { "item": "Hygieia Clogs +1", "url": "/wiki/Hygieia_Clogs_%2B1" },
+        { "item": "Triska Scythe", "url": "/wiki/Triska_Scythe" },
+        { "item": "Triska Scythe +1", "url": "/wiki/Triska_Scythe_%2B1" },
+        { "item": "Camahueto's Fur", "url": "/wiki/Camahueto%27s_Fur" }
+      ]
+    },
+    {
+      "level": 128,
+      "accolades": 2400,
+      "nm": "Carousing Celine",
+      "zone": "Fei'Yin",
+      "category": "Wanted 2",
+      "ethereal_junctions": [
+        { "map": 1, "coords": ["I-7", "J-8", "F-9"] }
+      ],
+      "unity_warp": "Map 1 (F-11)",
+      "point_rewards": { "sparks": 1750, "exp": 9000, "cp": 2500 },
+      "notable_rewards": [
+        { "item": "Gazu Bracelets", "url": "/wiki/Gazu_Bracelets" },
+        { "item": "Gazu Bracelets +1", "url": "/wiki/Gazu_Bracelets_%2B1" },
+        { "item": "Odnowa Earring", "url": "/wiki/Odnowa_Earring" },
+        { "item": "Odnowa Earring +1", "url": "/wiki/Odnowa_Earring_%2B1" },
+        { "item": "Celine's Vine", "url": "/wiki/Celine%27s_Vine" }
+      ]
+    },
+    {
+      "level": 128,
+      "accolades": 2400,
+      "nm": "Grand Grenade",
+      "zone": "Mount Zhayolm",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["D-5", "C-6", "E-7"],
+      "unity_warp": "C-7",
+      "point_rewards": { "sparks": 1750, "exp": 9000, "cp": 2500 },
+      "notable_rewards": [
+        { "item": "Loxotic Mace", "url": "/wiki/Loxotic_Mace" },
+        { "item": "Loxotic Mace +1", "url": "/wiki/Loxotic_Mace_%2B1" },
+        { "item": "Seething Bomblet", "url": "/wiki/Seething_Bomblet" },
+        { "item": "Seething Bomblet +1", "url": "/wiki/Seething_Bomblet_%2B1" },
+        { "item": "Grand Grenade's Ash", "url": "/wiki/Grand_Grenade%27s_Ash" }
+      ]
+    },
+    {
+      "level": 128,
+      "accolades": 2400,
+      "nm": "Vedrfolnir",
+      "zone": "Cape Teriggan",
+      "category": "Wanted 1",
+      "ethereal_junctions": ["I-7", "H-8", "I-8"],
+      "unity_warp": "H-7",
+      "point_rewards": { "sparks": 1750, "exp": 9000, "cp": 2500 },
+      "notable_rewards": [
+        { "item": "Jugo Kukri", "url": "/wiki/Jugo_Kukri" },
+        { "item": "Jugo Kukri +1", "url": "/wiki/Jugo_Kukri_%2B1" },
+        { "item": "Marin Staff", "url": "/wiki/Marin_Staff" },
+        { "item": "Marin Staff +1", "url": "/wiki/Marin_Staff_%2B1" },
+        { "item": "Vedrfolnir's Wing", "url": "/wiki/Vedrfolnir%27s_Wing" }
+      ]
+    },
+    {
+      "level": 128,
+      "accolades": 2400,
+      "nm": "Vidmapire",
+      "zone": "Alzadaal Undersea Ruins",
+      "category": "Wanted 2",
+      "ethereal_junctions": [
+        { "map": 5, "coords": ["F-7", "F-10", "I-10"] }
+      ],
+      "unity_warp": "Map 5 (G-9)",
+      "point_rewards": { "sparks": 1750, "exp": 9000, "cp": 2500 },
+      "notable_rewards": [
+        { "item": "Raicho", "url": "/wiki/Raicho" },
+        { "item": "Raicho +1", "url": "/wiki/Raicho_%2B1" },
+        { "item": "Fi Follet Cape", "url": "/wiki/Fi_Follet_Cape" },
+        { "item": "Fi Follet Cape +1", "url": "/wiki/Fi_Follet_Cape_%2B1" },
+        { "item": "Vidmapire's Claw", "url": "/wiki/Vidmapire%27s_Claw" }
+      ]
+    },
+    {
+      "level": 128,
+      "accolades": 2400,
+      "nm": "Volatile Cluster",
+      "zone": "Misareaux Coast",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["G-8", "F-8", "I-11"],
+      "unity_warp": "F-7",
+      "point_rewards": { "sparks": 1750, "exp": 9000, "cp": 2500 },
+      "notable_rewards": [
+        { "item": "Aurist's Cape", "url": "/wiki/Aurist%27s_Cape" },
+        { "item": "Aurist's Cape +1", "url": "/wiki/Aurist%27s_Cape_%2B1" },
+        { "item": "Norifusa", "url": "/wiki/Norifusa" },
+        { "item": "Norifusa +1", "url": "/wiki/Norifusa_%2B1" },
+        { "item": "Volatile Cluster's Ash", "url": "/wiki/Volatile_Cluster%27s_Ash" }
+      ]
+    },
+    {
+      "level": 128,
+      "accolades": 2400,
+      "nm": "Glazemane",
+      "zone": "Cape Teriggan",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["I-7", "H-8", "I-8"],
+      "unity_warp": "H-7",
+      "point_rewards": { "sparks": 1750, "exp": 9000, "cp": 2500 },
+      "notable_rewards": [
+        { "item": "Kustawi", "url": "/wiki/Kustawi" },
+        { "item": "Kustawi +1", "url": "/wiki/Kustawi_%2B1" },
+        { "item": "Ushenzi", "url": "/wiki/Ushenzi" },
+        { "item": "Ushenzi +1", "url": "/wiki/Ushenzi_%2B1" },
+        { "item": "Glazemane's Fang", "url": "/wiki/Glazemane%27s_Fang" }
+      ]
+    },
+    {
+      "level": 128,
+      "accolades": 2400,
+      "nm": "Wyvernhunter Bambrox",
+      "zone": "Gustav Tunnel",
+      "category": "Wanted 2",
+      "ethereal_junctions": [
+        { "map": 2, "coords": ["H-6", "G-8", "F-7"] }
+      ],
+      "unity_warp": "Map 2 (H-10)",
+      "point_rewards": { "sparks": 1750, "exp": 9000, "cp": 2500 },
+      "notable_rewards": [
+        { "item": "Imati", "url": "/wiki/Imati" },
+        { "item": "Imati +1", "url": "/wiki/Imati_%2B1" },
+        { "item": "Pixquizpan", "url": "/wiki/Pixquizpan" },
+        { "item": "Pixquizpan +1", "url": "/wiki/Pixquizpan_%2B1" },
+        { "item": "Bambrox's Shawl", "url": "/wiki/Bambrox%27s_Shawl" }
+      ]
+    },
+    {
+      "level": 135,
+      "accolades": 3100,
+      "nm": "Hidhaegg",
+      "zone": "The Boyahda Tree",
+      "category": "Wanted 2",
+      "ethereal_junctions": [
+        { "map": 1, "coords": ["D-6"] },
+        { "map": 2, "coords": ["I-10"] },
+        { "map": 3, "coords": ["F-6"] }
+      ],
+      "unity_warp": "Map 2 (F-6)",
+      "point_rewards": { "sparks": 2250, "exp": 12000, "cp": 3500 },
+      "notable_rewards": [
+        { "item": "Combuster", "url": "/wiki/Combuster" },
+        { "item": "Combuster +1", "url": "/wiki/Combuster_%2B1" },
+        { "item": "Loess Barbuta", "url": "/wiki/Loess_Barbuta" },
+        { "item": "Loess Barbuta +1", "url": "/wiki/Loess_Barbuta_%2B1" },
+        { "item": "Nullis", "url": "/wiki/Nullis" },
+        { "item": "Nullis +1", "url": "/wiki/Nullis_%2B1" },
+        { "item": "Hidhaegg's Scale", "url": "/wiki/Hidhaegg%27s_Scale" }
+      ]
+    },
+    {
+      "level": 135,
+      "accolades": 3100,
+      "nm": "Sovereign Behemoth",
+      "zone": "Behemoth's Dominion",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["E-8", "G-8", "J-9"],
+      "unity_warp": "F-7",
+      "point_rewards": { "sparks": 2250, "exp": 12000, "cp": 3500 },
+      "notable_rewards": [
+        { "item": "Antitail", "url": "/wiki/Antitail" },
+        { "item": "Antitail +1", "url": "/wiki/Antitail_%2B1" },
+        { "item": "Defending Ring", "url": "/wiki/Defending_Ring" },
+        { "item": "Dominance Earring", "url": "/wiki/Dominance_Earring" },
+        { "item": "Dominance Earring +1", "url": "/wiki/Dominance_Earring_%2B1" },
+        { "item": "Loricate Torque", "url": "/wiki/Loricate_Torque" },
+        { "item": "Loricate Torque +1", "url": "/wiki/Loricate_Torque_%2B1" },
+        { "item": "Sovereign's Hide", "url": "/wiki/Sovereign%27s_Hide" }
+      ]
+    },
+    {
+      "level": 135,
+      "accolades": 3100,
+      "nm": "Tolba",
+      "zone": "Valley of Sorrows",
+      "category": "Wanted 2",
+      "ethereal_junctions": ["G-8", "F-9", "G-9"],
+      "unity_warp": "F-8",
+      "point_rewards": { "sparks": 2250, "exp": 12000, "cp": 3500 },
+      "notable_rewards": [
+        { "item": "Forfend", "url": "/wiki/Forfend" },
+        { "item": "Forfend +1", "url": "/wiki/Forfend_%2B1" },
+        { "item": "Malison", "url": "/wiki/Malison" },
+        { "item": "Malison +1", "url": "/wiki/Malison_%2B1" },
+        { "item": "Obviation Cuirass", "url": "/wiki/Obviation_Cuirass" },
+        { "item": "Obviation Cuirass +1", "url": "/wiki/Obviation_Cuirass_%2B1" },
+        { "item": "Tolba's Shell", "url": "/wiki/Tolba%27s_Shell" }
+      ]
+    },
+    {
+      "level": 135,
+      "accolades": 3100,
+      "nm": "Thu'ban",
+      "zone": "Wajaom Woodlands",
+      "category": "Wanted 3",
+      "ethereal_junctions": ["K-9", "I-8", "I-9"],
+      "unity_warp": "I-10",
+      "point_rewards": { "sparks": 2250, "exp": 12000, "cp": 3500 },
+      "notable_rewards": [
+        { "item": "Habilitator", "url": "/wiki/Habilitator" },
+        { "item": "Habilitator +1", "url": "/wiki/Habilitator_%2B1" },
+        { "item": "Tatenashi Sune-Ate", "url": "/wiki/Tatenashi_Sune-Ate" },
+        { "item": "Tatenashi Sune-Ate +1", "url": "/wiki/Tatenashi_Sune-Ate_%2B1" },
+        { "item": "Vim Torque", "url": "/wiki/Vim_Torque" },
+        { "item": "Vim Torque +1", "url": "/wiki/Vim_Torque_%2B1" },
+        { "item": "Thu'ban's Scale", "url": "/wiki/Thu%27ban%27s_Scale" }
+      ]
+    },
+    {
+      "level": 135,
+      "accolades": 3100,
+      "nm": "Sarama",
+      "zone": "Mount Zhayolm",
+      "category": "Wanted 3",
+      "ethereal_junctions": ["D-5", "C-6", "E-7"],
+      "unity_warp": "C-7",
+      "point_rewards": { "sparks": 2250, "exp": 12000, "cp": 3500 },
+      "notable_rewards": [
+        { "item": "Montante", "url": "/wiki/Montante" },
+        { "item": "Montante +1", "url": "/wiki/Montante_%2B1" },
+        { "item": "Tanmogayi", "url": "/wiki/Tanmogayi" },
+        { "item": "Tanmogayi +1", "url": "/wiki/Tanmogayi_%2B1" },
+        { "item": "Tatenashi Haidate", "url": "/wiki/Tatenashi_Haidate" },
+        { "item": "Tatenashi Haidate +1", "url": "/wiki/Tatenashi_Haidate_%2B1" },
+        { "item": "Sarama's Hide", "url": "/wiki/Sarama%27s_Hide" }
+      ]
+    },
+    {
+      "level": 135,
+      "accolades": 3100,
+      "nm": "Shedu",
+      "zone": "Caedarva Mire",
+      "category": "Wanted 3",
+      "ethereal_junctions": [
+        { "map": 4, "coords": ["H-7", "G-8", "I-7"] }
+      ],
+      "unity_warp": "Map 4 (H-9)",
+      "point_rewards": { "sparks": 2250, "exp": 12000, "cp": 3500 },
+      "notable_rewards": [
+        { "item": "Flyssa", "url": "/wiki/Flyssa" },
+        { "item": "Flyssa +1", "url": "/wiki/Flyssa_%2B1" },
+        { "item": "Septoptic", "url": "/wiki/Septoptic" },
+        { "item": "Septoptic +1", "url": "/wiki/Septoptic_%2B1" },
+        { "item": "Tatenashi Gote", "url": "/wiki/Tatenashi_Gote" },
+        { "item": "Tatenashi Gote +1", "url": "/wiki/Tatenashi_Gote_%2B1" },
+        { "item": "Shedu's Mane", "url": "/wiki/Shedu%27s_Mane" }
+      ]
+    },
+    {
+      "level": 145,
+      "accolades": 4100,
+      "nm": "Tumult Curator",
+      "zone": "Aydeewa Subterrane",
+      "category": "Wanted 3",
+      "ethereal_junctions": [
+        { "map": 2, "coords": ["J-9", "K-7", "L-8"] }
+      ],
+      "unity_warp": "Map 2 (H-10)",
+      "notes": "Special NM (marked with *)",
+      "point_rewards": { "sparks": 3000, "exp": 16500, "cp": 5000 },
+      "notable_rewards": [
+        { "item": "Comeuppances", "url": "/wiki/Comeuppances" },
+        { "item": "Comeuppances +1", "url": "/wiki/Comeuppances_%2B1" },
+        { "item": "Contemplator (Staff)", "url": "/wiki/Contemplator" },
+        { "item": "Contemplator +1", "url": "/wiki/Contemplator_%2B1" },
+        { "item": "Tatenashi Haramaki", "url": "/wiki/Tatenashi_Haramaki" },
+        { "item": "Tatenashi Haramaki +1", "url": "/wiki/Tatenashi_Haramaki_%2B1" },
+        { "item": "Tumult's Blood", "url": "/wiki/Tumult%27s_Blood" }
+      ]
+    }
+  ],
+  "metadata": {
+    "total_count": 57,
+    "level_range": { "min": 75, "max": 145 },
+    "accolade_range": { "min": 200, "max": 4100 },
+    "categories": ["Wanted 1", "Wanted 2", "Wanted 3"]
+  }
+}

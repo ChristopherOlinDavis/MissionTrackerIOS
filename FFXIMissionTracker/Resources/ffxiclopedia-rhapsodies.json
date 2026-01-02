@@ -196,7 +196,7 @@
           "type": "other",
           "afterNodeId": "ffxiclopedia-rhapsodies-the-path-untraveled-node-1",
           "requirement": "Rank 3 in home nation",
-          "description": "Rank 3 in home nation"
+          "description": "Obtain Rank 3 in your home nation by completing Journey Abroad (San d'Oria), The Emissary (Bastok), or The Three Kingdoms (Windurst)"
         }
       ],
       "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Path_Untraveled.html"
@@ -253,7 +253,7 @@
           "type": "other",
           "afterNodeId": "ffxiclopedia-rhapsodies-fate-s-call-node-1",
           "requirement": "Rank 6 in home nation",
-          "description": "Rank 6 in home nation"
+          "description": "Obtain Rank 6 in your home nation by completing The Shadow Lord (San d'Oria), Xarcabard, Land of Truths (Bastok), or The Shadow Awaits (Windurst)"
         }
       ],
       "htmlFile": "ffxiclopedia_fandom_com_wiki_Fate_27s_Call.html"
@@ -452,7 +452,15 @@
           "dependencies": []
         }
       ],
-      "gates": [],
+      "gates": [
+        {
+          "id": "ffxiclopedia-rhapsodies-spirits-awoken-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-rhapsodies-spirits-awoken-node-1",
+          "requirement": "Chains of Promathia",
+          "description": "Progress in Chains of Promathia until your current mission is The Road Forks"
+        }
+      ],
       "htmlFile": "ffxiclopedia_fandom_com_wiki_Spirits_Awoken.html",
       "images": [
         {
@@ -508,7 +516,7 @@
           "type": "other",
           "afterNodeId": "ffxiclopedia-rhapsodies-inescapable-binds-node-1",
           "requirement": "Treasures of Aht Urhgan",
-          "description": "Treasures of Aht Urhgan"
+          "description": "Progress in Treasures of Aht Urhgan until your current mission is Royal Puppeteer"
         }
       ],
       "htmlFile": "ffxiclopedia_fandom_com_wiki_Inescapable_Binds.html",
@@ -749,7 +757,15 @@
           "dependencies": []
         }
       ],
-      "gates": [],
+      "gates": [
+        {
+          "id": "ffxiclopedia-rhapsodies-of-light-and-darkness-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-rhapsodies-of-light-and-darkness-node-1",
+          "requirement": "Wings of the Goddess",
+          "description": "Progress in Wings of the Goddess until your current mission is In the Name of the Father"
+        }
+      ],
       "htmlFile": "ffxiclopedia_fandom_com_wiki_Of_Light_and_Darkness.html"
     },
     {
@@ -853,7 +869,14 @@
           ]
         }
       ],
-      "gates": [],
+      "gates": [
+        {
+          "id": "ffxiclopedia-rhapsodies-the-cursed-temple-gate-1",
+          "type": "other",
+          "requirement": "Rise of the Zilart",
+          "description": "Progress in Rise of the Zilart until your current mission is Headstone Pilgrimage"
+        }
+      ],
       "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Cursed_Temple.html",
       "images": [
         {
@@ -1181,8 +1204,8 @@
           "id": "ffxiclopedia-rhapsodies-the-crucible-gate-1",
           "type": "other",
           "afterNodeId": "ffxiclopedia-rhapsodies-the-crucible-node-1",
-          "requirement": "Seekers of Adoulin registered and installedAdoulinian charter permitCompleted Seekers of Adoulin Mission 1-7, Meeting of the Minds",
-          "description": "Seekers of Adoulin registered and installedAdoulinian charter permitCompleted Seekers of Adoulin Mission 1-7, Meeting of the Minds"
+          "requirement": "Seekers of Adoulin",
+          "description": "Progress in Seekers of Adoulin until your current mission is Meeting of the Minds"
         }
       ],
       "htmlFile": "ffxiclopedia_fandom_com_wiki_The_Crucible.html"
@@ -1268,8 +1291,8 @@
           "id": "ffxiclopedia-rhapsodies-tears-of-the-generals-gate-1",
           "type": "other",
           "afterNodeId": "ffxiclopedia-rhapsodies-tears-of-the-generals-node-1",
-          "requirement": "Ortharsyne",
-          "description": "Ortharsyne"
+          "requirement": "Seekers of Adoulin",
+          "description": "Progress in Seekers of Adoulin until your current mission is An Aimless Journey"
         }
       ],
       "htmlFile": "ffxiclopedia_fandom_com_wiki_Tears_of_the_Generals.html"
@@ -1328,8 +1351,8 @@
           "id": "ffxiclopedia-rhapsodies-gone-but-not-forgotten-gate-1",
           "type": "other",
           "afterNodeId": "ffxiclopedia-rhapsodies-gone-but-not-forgotten-node-1",
-          "requirement": "Adoulin Mission 2-7 Predators and Prey complete",
-          "description": "Adoulin Mission 2-7 Predators and Prey complete"
+          "requirement": "Seekers of Adoulin",
+          "description": "Progress in Seekers of Adoulin until your current mission is Behind the Sluices and you have the Waterway facility crank"
         }
       ],
       "htmlFile": "ffxiclopedia_fandom_com_wiki_Gone_but_Not_Forgotten.html"

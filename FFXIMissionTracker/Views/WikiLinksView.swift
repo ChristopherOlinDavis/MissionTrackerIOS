@@ -114,7 +114,9 @@ struct WikiLinksView: View {
                         }
                     }
                 }
+                #if os(iOS)
                 .listStyle(.insetGrouped)
+                #endif
             }
         }
         .navigationTitle("Wiki Links")

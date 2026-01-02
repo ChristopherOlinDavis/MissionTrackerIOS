@@ -50,7 +50,14 @@
           }
         }
       ],
-      "gates": []
+      "gates": [
+        {
+          "id": "ffxiclopedia-wings-goddess-the-queen-of-the-dance-gate-1",
+          "type": "other",
+          "requirement": "Crystal War Quests 1-3",
+          "description": "Complete nation-specific Crystal War Quests 1-3 (The Fighting Fourth/Steamed Rams/Snake on the Plains, Better Part of Valor/Gifts of the Griffon/The Tigress Stirs, and Fires of Discontent/Claws of the Griffon/The Tigress Strikes)"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-wings-goddess-while-the-cat-is-away",
@@ -164,7 +171,14 @@
           }
         }
       ],
-      "gates": []
+      "gates": [
+        {
+          "id": "ffxiclopedia-wings-goddess-in-the-name-of-the-father-gate-1",
+          "type": "other",
+          "requirement": "Crystal War Quests 4-5",
+          "description": "Complete nation-specific Crystal War Quests 4-5 (Light in the Darkness/Boy and the Beast/Knot Quite There, and Burden of Suspicion/Wrath of the Griffon/A Manifest Problem)"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-wings-goddess-sandswept-memories",
@@ -184,7 +198,14 @@
           }
         }
       ],
-      "gates": []
+      "gates": [
+        {
+          "id": "ffxiclopedia-wings-goddess-sandswept-memories-gate-1",
+          "type": "other",
+          "requirement": "Crystal War Quests 6-7",
+          "description": "Complete nation-specific Crystal War Quests 6-7 (Chasing Dreams/Born of His Blade/The Double-Edged Sword, and Fires of Discontent/Claws of the Griffon/The Tigress Strikes)"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-wings-goddess-northland-exposure",
@@ -243,7 +264,14 @@
           }
         }
       ],
-      "gates": []
+      "gates": [
+        {
+          "id": "ffxiclopedia-wings-goddess-on-thin-ice-gate-1",
+          "type": "other",
+          "requirement": "Crystal War Quests 8-9",
+          "description": "Complete nation-specific Crystal War Quests 8-9 (Whence Blows the Wind/His Majesty's Garden/The Heir to the Light, and Crescent Moon/Howl from the Heavens/Bonds of Mythril)"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-wings-goddess-proof-of-valor",

@@ -90,6 +90,24 @@ class CharacterManager {
         }
     }
 
+    // Enhanced progress data management
+    func saveProgressData(_ progressData: ProgressData, for characterId: UUID) {
+        if let index = characters.firstIndex(where: { $0.id == characterId }) {
+            characters[index].progress = progressData
+
+            // Update active character if it's the one being updated
+            if activeCharacter?.id == characterId {
+                activeCharacter = characters[index]
+            }
+
+            saveCharacters()
+        }
+    }
+
+    func getProgressData(for characterId: UUID) -> ProgressData? {
+        characters.first(where: { $0.id == characterId })?.progress
+    }
+
     // MARK: - Persistence
 
     private func saveCharacters() {

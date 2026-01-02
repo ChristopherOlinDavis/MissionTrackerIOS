@@ -1,11 +1,11 @@
 {
   "id": "ffxiclopedia-bastok",
-  "name": "Bastok Missions",
+  "name": "FFXIclopedia - Bastok Missions",
   "category": "nation",
   "source": "FFXIclopedia",
   "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Missions",
-  "lastScraped": "2025-12-29T23:03:49.524Z",
-  "lastKnownUpdate": "2025-12-29T23:03:49.527Z",
+  "lastScraped": "2025-12-30T14:52:21.164Z",
+  "lastKnownUpdate": "2025-12-30T14:52:21.165Z",
   "totalMissions": 20,
   "missions": [
     {
@@ -18,47 +18,35 @@
           "id": "ffxiclopedia-bastok-the-zeruhn-report-node-1",
           "orderIndex": 0,
           "title": "Receive the mission from any Bastok Gate Guard.",
-          "description": "Receive the mission from any Bastok Gate Guard..",
+          "description": "Receive the mission from any Bastok Gate Guard.",
           "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-the-zeruhn-report-node-2",
           "orderIndex": 1,
-          "title": "(Bastok Mines) Go to (D-7) and enter Zeruhn Mines.",
-          "description": "(Bastok Mines) Go to (D-7) and enter Zeruhn Mines..",
+          "title": "(Bas.",
+          "description": "(Bas. Mines). Zeruh is all the way on the left. (Bastok Mines) Go to (D-7) and enter Zeruhn Mines.",
           "dependencies": [
             "ffxiclopedia-bastok-the-zeruhn-report-node-1"
-          ],
-          "location": {
-            "coordinates": "D-7",
-            "zone": "Bastok Mines"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-the-zeruhn-report-node-3",
           "orderIndex": 2,
-          "title": "(Zeruhn Mines) Talk to Makarim (H-11) for the Zeruhn Report",
-          "description": "(Zeruhn Mines) Talk to Makarim (H-11) for the Zeruhn Report. He is all the way south.",
+          "title": "(Zeruhn Mines) Talk to Makarim (H-11) for the Zeruhn Report.",
+          "description": "(Zeruhn Mines) Talk to Makarim (H-11) for the Zeruhn Report. He is all the way south. Although there are creatures here in the level 75-80 range, they are not aggressive and do not aggro by sound.",
           "dependencies": [
             "ffxiclopedia-bastok-the-zeruhn-report-node-2"
-          ],
-          "location": {
-            "coordinates": "H-11",
-            "zone": "Zeruhn Mines"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-the-zeruhn-report-node-4",
           "orderIndex": 3,
-          "title": "(Metalworks) Deliver the report to Naji (J-8) outside the President's Office",
-          "description": "(Metalworks) Deliver the report to Naji (J-8) outside the President's Office.",
+          "title": "(Metalworks) Deliver the report to Naji (J-8) outside the President's Office Metalworks.",
+          "description": "(Metalworks) Deliver the report to Naji (J-8) outside the President's Office Metalworks. Side note: If you examine the Zeruhn Report before talking to Naji, the dialogue in this cutscene will be slightly different.",
           "dependencies": [
             "ffxiclopedia-bastok-the-zeruhn-report-node-3"
-          ],
-          "location": {
-            "coordinates": "J-8",
-            "zone": "Metalworks"
-          }
+          ]
         }
       ],
       "gates": []
@@ -73,62 +61,44 @@
           "id": "ffxiclopedia-bastok-a-geological-survey-node-1",
           "orderIndex": 0,
           "title": "Talk to a Bastok Gate Guard to receive the mission.",
-          "description": "Talk to a Bastok Gate Guard to receive the mission..",
-          "dependencies": [],
-          "location": {
-            "zone": "a Bastok Gate Guard to receive the mission"
-          }
+          "description": "Talk to a Bastok Gate Guard to receive the mission.",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-a-geological-survey-node-2",
           "orderIndex": 1,
           "title": "(Metalworks) Talk to Cid (H-8), inside Cid's Lab, for a Blue Acidity Tester.",
-          "description": "(Metalworks) Talk to Cid (H-8), inside Cid's Lab, for a Blue Acidity Tester..",
+          "description": "(Metalworks) Talk to Cid (H-8), inside Cid's Lab, for a Blue Acidity Tester.",
           "dependencies": [
             "ffxiclopedia-bastok-a-geological-survey-node-1"
-          ],
-          "location": {
-            "coordinates": "H-8",
-            "zone": "Metalworks"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-a-geological-survey-node-3",
           "orderIndex": 2,
           "title": "(South Gustaberg) Go to (D-9) the Dangrud Wadi entrance.",
-          "description": "(South Gustaberg) Go to (D-9) the Dangrud Wadi entrance..",
+          "description": "(South Gustaberg) Go to (D-9) the Dangrud Wadi entrance. <a href=\"https://static.wikia.nocookie.net/ffxi/images/7/73/South_Gustaberg.jpg/revision/latest?cb=20080120173513\" class=\"mw-file-description image\"><img alt=\"(S.Gustaberg) Dangruf is all the way on the left.\" src=\"https://static.wikia.nocookie.net/ffxi/images/7/73/South_Gustaberg.jpg/revision/latest/scale-to-width-down/180?cb=20080120173513\" decoding=\"async\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" data-image-name=\"South Gustaberg.jpg\" data-image-key=\"South_Gustaberg.jpg\" data-relevant=\"1\" data-src=\"https://static.wikia.nocookie.net/ffxi/images/7/73/South_Gustaberg.jpg/revision/latest/scale-to-width-down/180?cb=20080120173513\" /></a> (S.Gustaberg) Dangruf is all the way on the left.",
           "dependencies": [
             "ffxiclopedia-bastok-a-geological-survey-node-2"
-          ],
-          "location": {
-            "coordinates": "D-9",
-            "zone": "South Gustaberg"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-a-geological-survey-node-4",
           "orderIndex": 3,
           "title": "(Dangruf Wadi) Go to geyser at (I-8) and stand on the geyser to jump up the ledge.",
-          "description": "(Dangruf Wadi) Go to geyser at (I-8) and stand on the geyser to jump up the ledge..",
+          "description": "(Dangruf Wadi) Go to geyser at (I-8) and stand on the geyser to jump up the ledge. <a href=\"https://static.wikia.nocookie.net/ffxi/images/8/8d/Dangruf_wadi.png/revision/latest?cb=20060302152124\" class=\"mw-file-description image\"><img alt=\"Dangruf Wadi\" src=\"https://static.wikia.nocookie.net/ffxi/images/8/8d/Dangruf_wadi.png/revision/latest/scale-to-width-down/180?cb=20060302152124\" decoding=\"async\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" data-image-name=\"Dangruf wadi.png\" data-image-key=\"Dangruf_wadi.png\" data-relevant=\"1\" data-src=\"https://static.wikia.nocookie.net/ffxi/images/8/8d/Dangruf_wadi.png/revision/latest/scale-to-width-down/180?cb=20060302152124\" /></a> Dangruf Wadi Just hug the right/North wall after entering, it's a short walk and you'll know when you reach the ledge. This will change the Blue Acidity Tester to the Red Acidity Tester. No message will be displayed in the log to inform you of this; you may wish to check your Temporary Key Items to verify the change before leaving the area. There are 2 Goblins in the geyser area, and 1 right before the geyser area. They are level 5-8 and will sight-Aggro to players under level 15 unless they are Invisible. The geyser can take minutes to spout you up, so be ready to fight or have invisible. You can purchase Circumspection from the Grounds Tome by the entrance for 5 tabs.",
           "dependencies": [
             "ffxiclopedia-bastok-a-geological-survey-node-3"
-          ],
-          "location": {
-            "coordinates": "I-8",
-            "zone": "Dangruf Wadi"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-a-geological-survey-node-5",
           "orderIndex": 4,
           "title": "(Metalworks) Return to Cid to complete the mission.",
-          "description": "(Metalworks) Return to Cid to complete the mission..",
+          "description": "(Metalworks) Return to Cid to complete the mission.",
           "dependencies": [
             "ffxiclopedia-bastok-a-geological-survey-node-4"
-          ],
-          "location": {
-            "zone": "Metalworks"
-          }
+          ]
         }
       ],
       "gates": []
@@ -143,33 +113,26 @@
           "id": "ffxiclopedia-bastok-fetichism-node-1",
           "orderIndex": 0,
           "title": "Receive the mission from a Bastok Gate Guard.",
-          "description": "Receive the mission from a Bastok Gate Guard..",
+          "description": "Receive the mission from a Bastok Gate Guard.",
           "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-fetichism-node-2",
           "orderIndex": 1,
           "title": "Trade each of the following items to a guard to complete the mission.",
-          "description": "Trade each of the following items to a guard to complete the mission..",
+          "description": "Trade each of the following items to a guard to complete the mission. Fetich Head | Fetich Arms | Fetich Torso | Fetich Legs These items can be purchased from the Auction House. They drop from the following varieties of Quadav: Amber, Brass, Greater, Old, Onyx, and Veteran. Palborough Mines is a great place for farming due to the high density of Quadav; you need only ignore Amethyst, Copper, and Young Quadav. Palborough Mines can be reached from North Gustaberg at (K-3). It can also be reached by the Home Point if you've been there before or teleporting to \"Waughroon Shrine\" via Domenic (J-7) in Lower Jeuno if you have completed Beyond Infinity. The cutscene will differ notably depending on which Bastok Gate Guard you trade the items to. To view all of the cutscenes you will need four sets of items; however, as they are , you will need to farm each set one at a time.",
           "dependencies": [
             "ffxiclopedia-bastok-fetichism-node-1"
-          ],
-          "location": {
-            "zone": "a guard to complete the mission"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-fetichism-node-3",
           "orderIndex": 2,
           "title": "Optional: Talk to Gumbah (J-7) in an upper-level house in Bastok Mines for an extra cutscene.",
-          "description": "Optional: Talk to Gumbah (J-7) in an upper-level house in Bastok Mines for an extra cutscene..",
+          "description": "Optional: Talk to Gumbah (J-7) in an upper-level house in Bastok Mines for an extra cutscene.",
           "dependencies": [
             "ffxiclopedia-bastok-fetichism-node-2"
-          ],
-          "location": {
-            "coordinates": "J-7",
-            "zone": "Gumbah"
-          }
+          ]
         }
       ],
       "gates": []
@@ -184,49 +147,35 @@
           "id": "ffxiclopedia-bastok-the-crystal-line-node-1",
           "orderIndex": 0,
           "title": "(Metalworks)Talk to Cid (H-8).",
-          "description": "(Metalworks)Talk to Cid (H-8)..",
-          "dependencies": [],
-          "location": {
-            "coordinates": "H-8",
-            "zone": "Metalworks"
-          }
+          "description": "(Metalworks)Talk to Cid (H-8).",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-the-crystal-line-node-2",
           "orderIndex": 1,
-          "title": "Trade a crystal to the Telepoint at the Crag of Dem (or Crag of Holla or Crag of Mea)",
-          "description": "Trade a crystal to the Telepoint at the Crag of Dem (or Crag of Holla or Crag of Mea). It will become a Faded Crystal.",
+          "title": "Trade a crystal to the Telepoint at the Crag of Dem (or Crag of Holla or Crag of Mea).",
+          "description": "Trade a crystal to the Telepoint at the Crag of Dem (or Crag of Holla or Crag of Mea). It will become a Faded Crystal. (Konschtat Highlands) The easiest Crag to walk to from Bastok is the Crag of Dem (I-7) in Konschtat Highlands, which can be reached via western North Gustaberg at (E-6). The three Crags can be warped to via the Teleport-Dem, Teleport-Holla, and Teleport-Mea spells, but only if you possess the Dem gate crystal, Holla gate crystal, or Mea gate crystal respectively. It is highly recommended to check the Telepoint to obtain a Dem gate crystal.",
           "dependencies": [
             "ffxiclopedia-bastok-the-crystal-line-node-1"
-          ],
-          "location": {
-            "zone": "the Telepoint at the Crag of Dem"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-the-crystal-line-node-3",
           "orderIndex": 2,
-          "title": "(Metalworks) Trade to Cid the Faded Crystal to obtain the C",
-          "description": "(Metalworks) Trade to Cid the Faded Crystal to obtain the C. L.",
+          "title": "<a href=\"https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=200807",
+          "description": "<a href=\"https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest?cb=20080722171107\" class=\"mw-file-description image\"><img alt=\"Metalworks (Cid, Naji, and Ayame)\" src=\"https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest/scale-to-width-down/180?cb=20080722171107\" decoding=\"async\" loading=\"lazy\" width=\"180\" height=\"180\" class=\"thumbimage\" data-image-name=\"Metalworks.png\" data-image-key=\"Metalworks.png\" data-relevant=\"1\" data-src=\"https://static.wikia.nocookie.net/ffxi/images/0/07/Metalworks.png/revision/latest/scale-to-width-down/180?cb=20080722171107\" /></a> Metalworks (Cid, Naji, and Ayame) (Metalworks) Trade to Cid the Faded Crystal to obtain the C. L. Report. Optional: Talk to Naji (J-8)",
           "dependencies": [
             "ffxiclopedia-bastok-the-crystal-line-node-2"
-          ],
-          "location": {
-            "zone": "Metalworks"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-the-crystal-line-node-4",
           "orderIndex": 3,
           "title": "(Metalworks) Talk to Ayame (K-7) inside the Cannonry in Metalworks to complete the mission.",
-          "description": "(Metalworks) Talk to Ayame (K-7) inside the Cannonry in Metalworks to complete the mission..",
+          "description": "(Metalworks) Talk to Ayame (K-7) inside the Cannonry in Metalworks to complete the mission. You get additional dialogue if you spoke to Naji before Ayame.",
           "dependencies": [
             "ffxiclopedia-bastok-the-crystal-line-node-3"
-          ],
-          "location": {
-            "coordinates": "K-7",
-            "zone": "Metalworks"
-          }
+          ]
         }
       ],
       "gates": []
@@ -241,12 +190,8 @@
           "id": "ffxiclopedia-bastok-wading-beasts-node-1",
           "orderIndex": 0,
           "title": "(Metalworks) At (J-8) trade to Alois a Lizard Egg to complete the mission.",
-          "description": "(Metalworks) At (J-8) trade to Alois a Lizard Egg to complete the mission..",
-          "dependencies": [],
-          "location": {
-            "coordinates": "J-8",
-            "zone": "Metalworks"
-          }
+          "description": "(Metalworks) At (J-8) trade to Alois a Lizard Egg to complete the mission. Metalworks for Alois (J-8). This is in the Conference Room of the President's Office, Lizard Egg drops or can be Stolen from all Lizards, including the level 16-20 Steam Lizards in Dangruf Wadi. It can also be bought from the Auction House. Chomo Jinjahl (E-8) of the Cooking Guild in northern Windurst Waters also sells Lizard Egg if other players have sold to her.",
+          "dependencies": []
         }
       ],
       "gates": []
@@ -261,12 +206,8 @@
           "id": "ffxiclopedia-bastok-the-emissary-node-1",
           "orderIndex": 0,
           "title": "Talk to Naji (J-8) in Metalworks, outside the President's Office.",
-          "description": "Talk to Naji (J-8) in Metalworks, outside the President's Office..",
-          "dependencies": [],
-          "location": {
-            "coordinates": "J-8",
-            "zone": "Naji"
-          }
+          "description": "Talk to Naji (J-8) in Metalworks, outside the President's Office. After this cutscene, you will have to travel to San d'Oria and Windurst. They can be visited in either order, but the tasks, titles, and cutscenes offered will be different.",
+          "dependencies": []
         }
       ],
       "gates": []
@@ -280,25 +221,18 @@
         {
           "id": "ffxiclopedia-bastok-the-four-musketeers-node-1",
           "orderIndex": 0,
-          "title": "This mission requires a certain level of Rank Bar",
-          "description": "This mission requires a certain level of Rank Bar. Complete Wading Beasts twice or trade 1 crystal to a Conquest Overseer.",
-          "dependencies": [],
-          "location": {
-            "zone": "level of Rank Bar"
-          }
+          "title": "This mission requires a certain level of Rank Bar.",
+          "description": "This mission requires a certain level of Rank Bar. Complete Wading Beasts twice or trade 1 crystal to a Conquest Overseer. Talk to a Bastok Gate Guard to receive the mission.",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-the-four-musketeers-node-2",
           "orderIndex": 1,
           "title": "Talk to Iron Eater twice in Metalworks (J-8) in the President's Office.",
-          "description": "Talk to Iron Eater twice in Metalworks (J-8) in the President's Office..",
+          "description": "Talk to Iron Eater twice in Metalworks (J-8) in the President's Office. If you are above Level 71 and your Great Axe Skill is above 240, Iron Eater will start The Weight for your Limits. Subsequent dialogues will have him talk about this quest, and unfortunately the only way to resolve the issue is to complete the quest.",
           "dependencies": [
             "ffxiclopedia-bastok-the-four-musketeers-node-1"
-          ],
-          "location": {
-            "coordinates": "J-8",
-            "zone": "Iron Eater twice in Metalworks"
-          }
+          ]
         }
       ],
       "gates": []
@@ -312,87 +246,63 @@
         {
           "id": "ffxiclopedia-bastok-to-the-forsaken-mines-node-1",
           "orderIndex": 0,
-          "title": "This mission requires a certain level of Rank Bar",
-          "description": "This mission requires a certain level of Rank Bar. Complete Wading Beasts twice, or trade 1 crystal to a Conquest Overseer.",
-          "dependencies": [],
-          "location": {
-            "zone": "level of Rank Bar"
-          }
+          "title": "This mission requires a certain level of Rank Bar.",
+          "description": "This mission requires a certain level of Rank Bar. Complete Wading Beasts twice, or trade 1 crystal to a Conquest Overseer. Talk to a Bastok Gate Guard to receive the mission. This mission is skippable. Trade up to 2 more crystals to proceed to the next mission.",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-to-the-forsaken-mines-node-2",
           "orderIndex": 1,
           "title": "Optional: Talk to Davyad at Bastok Mines (K-6) for more information.",
-          "description": "Optional: Talk to Davyad at Bastok Mines (K-6) for more information..",
+          "description": "Optional: Talk to Davyad at Bastok Mines (K-6) for more information.",
           "dependencies": [
             "ffxiclopedia-bastok-to-the-forsaken-mines-node-1"
-          ],
-          "location": {
-            "coordinates": "K-6",
-            "zone": "Davyad at Bastok Mines"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-to-the-forsaken-mines-node-3",
           "orderIndex": 2,
           "title": "Obtain a slice of Hare Meat.",
-          "description": "Obtain a slice of Hare Meat..",
+          "description": "Obtain a slice of Hare Meat. Hare meat drops from all Rabbits, including hares in Dangruf Wadi and Palborough Mines. It can be bought on the Auction House. Chomo Jinjahl of the Cooking Guild in Windurst Waters, North (E-8) sells hare meat, if other players have sold to her. Green Thumb Moogle sells for 38g if you have the Rabbit memento.",
           "dependencies": [
             "ffxiclopedia-bastok-to-the-forsaken-mines-node-2"
-          ],
-          "location": {
-            "zone": "a slice of Hare Meat"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-to-the-forsaken-mines-node-4",
           "orderIndex": 3,
-          "title": "Travel to Gusgen Mines, which can be reached from Konschtat Highlands (L-7)",
+          "title": "Travel to Gusgen Mines, which can be reached from Konschtat Highlands (L-7).",
           "description": "Travel to Gusgen Mines, which can be reached from Konschtat Highlands (L-7). You can also use the Survival Guide to get there if you have it unlocked.",
           "dependencies": [
             "ffxiclopedia-bastok-to-the-forsaken-mines-node-3"
-          ],
-          "location": {
-            "coordinates": "L-7",
-            "zone": "Gusgen Mines"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-to-the-forsaken-mines-node-5",
           "orderIndex": 4,
-          "title": "Bandersnatches and Ghouls on the path to, and in, the spawn area are level 20-27 and will hearing- and HP-Aggro players under level 40 unless they...",
-          "description": "Bandersnatches and Ghouls on the path to, and in, the spawn area are level 20-27 and will hearing- and HP-Aggro players under level 40 unless they are Sneaked and above 75% HP.",
+          "title": "Bandersnatches and Ghouls on the path to, and in, the spawn area are level 20-27 and will hearing- a",
+          "description": "Bandersnatches and Ghouls on the path to, and in, the spawn area are level 20-27 and will hearing- and HP-Aggro players under level 40 unless they are Sneaked and above 75% HP. It is recommended to clear the area of mobs before spawning. Around 0:00-2:00 Smothered Schmidt, a level 36-38 ghost, will appear.",
           "dependencies": [
             "ffxiclopedia-bastok-to-the-forsaken-mines-node-4"
-          ],
-          "location": {
-            "zone": "clear the area of mobs before spawning"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-to-the-forsaken-mines-node-6",
           "orderIndex": 5,
-          "title": "Trade the hare meat to the ??? at Gusgen Mines, Map 1 (J-7) to spawn Blind Moby",
+          "title": "Trade the hare meat to the ??? at Gusgen Mines, Map 1 (J-7) to spawn Blind Moby.",
           "description": "Trade the hare meat to the ??? at Gusgen Mines, Map 1 (J-7) to spawn Blind Moby. It will drop a Glocolite upon defeat.",
           "dependencies": [
             "ffxiclopedia-bastok-to-the-forsaken-mines-node-5"
-          ],
-          "location": {
-            "coordinates": "J-7",
-            "zone": "spawn Blind Moby"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-to-the-forsaken-mines-node-7",
           "orderIndex": 6,
           "title": "Trade the Glocolite to a Bastok Gate Guard to complete the mission.",
-          "description": "Trade the Glocolite to a Bastok Gate Guard to complete the mission..",
+          "description": "Trade the Glocolite to a Bastok Gate Guard to complete the mission. The cutscene will differ notably depending on which Bastok Gate Guard to which you trade the items. To view all of the cutscenes you will need four Glocolites; however, as they are and , you will need to fight Blind Moby and return to Bastok four times.",
           "dependencies": [
             "ffxiclopedia-bastok-to-the-forsaken-mines-node-6"
-          ],
-          "location": {
-            "zone": "a Bastok Gate Guard to complete the mission"
-          }
+          ]
         }
       ],
       "gates": []
@@ -406,87 +316,63 @@
         {
           "id": "ffxiclopedia-bastok-jeuno-mission-node-1",
           "orderIndex": 0,
-          "title": "This mission requires a certain level of Rank Bar",
-          "description": "This mission requires a certain level of Rank Bar. Complete Wading Beasts once or twice or trade 1-3 crystals to a Conquest Overseer (quantity depending on whether or not you've done mission 3-2).",
-          "dependencies": [],
-          "location": {
-            "zone": "level of Rank Bar"
-          }
+          "title": "This mission requires a certain level of Rank Bar.",
+          "description": "This mission requires a certain level of Rank Bar. Complete Wading Beasts once or twice or trade 1-3 crystals to a Conquest Overseer (quantity depending on whether or not you've done mission 3-2). Talk to a Bastok Gate Guard to receive the mission.",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-jeuno-mission-node-2",
           "orderIndex": 1,
-          "title": "Talk to Lucius at Metalworks (I-9) in the Presidential Aide's Office",
+          "title": "Talk to Lucius at Metalworks (I-9) in the Presidential Aide's Office.",
           "description": "Talk to Lucius at Metalworks (I-9) in the Presidential Aide's Office. He will give you a Letter to the Ambassador.",
           "dependencies": [
             "ffxiclopedia-bastok-jeuno-mission-node-1"
-          ],
-          "location": {
-            "coordinates": "I-9",
-            "zone": "Lucius at Metalworks"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-jeuno-mission-node-3",
           "orderIndex": 2,
           "title": "Talk to Goggehn at Ru'Lude Gardens (H-10) in the Embassy of Bastok.",
-          "description": "Talk to Goggehn at Ru'Lude Gardens (H-10) in the Embassy of Bastok..",
+          "description": "Talk to Goggehn at Ru'Lude Gardens (H-10) in the Embassy of Bastok.",
           "dependencies": [
             "ffxiclopedia-bastok-jeuno-mission-node-2"
-          ],
-          "location": {
-            "coordinates": "H-10",
-            "zone": "Goggehn at Ru'Lude Gardens"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-jeuno-mission-node-4",
           "orderIndex": 3,
           "title": "Head to Delkfutt's Tower in Qufim, where you will need the Delkfutt Key to reach the basement.",
-          "description": "Head to Delkfutt's Tower in Qufim, where you will need the Delkfutt Key to reach the basement..",
+          "description": "Head to Delkfutt's Tower in Qufim, where you will need the Delkfutt Key to reach the basement. If you do not have the Delkfutt Key, see \"Obtaining the Delkfutt Key\" below. If you already have the Delkfutt Key because you previously completed this mission on another character for any of the 3 nations (it can be sent to other characters on the same PlayOnline account), proceed to the next step. Be aware that if you have Chains of Promathia registered and haven't started the missions yet, you'll get a very long cutscene upon entering the tower.",
           "dependencies": [
             "ffxiclopedia-bastok-jeuno-mission-node-3"
-          ],
-          "location": {
-            "zone": "Delkfutt's Tower in Qufim"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-jeuno-mission-node-5",
           "orderIndex": 4,
-          "title": "Go to Lower Delkfutt's Tower (E-8) and enter the basement stairway through the Cermet Door using the Delkfutt Key",
+          "title": "Go to Lower Delkfutt's Tower (E-8) and enter the basement stairway through the Cermet Door using the",
           "description": "Go to Lower Delkfutt's Tower (E-8) and enter the basement stairway through the Cermet Door using the Delkfutt Key. You will receive a Delkfutt Key, allowing you to safely discard the original inventory version or trade it to the Gobbie Mystery Box if you wish.",
           "dependencies": [
             "ffxiclopedia-bastok-jeuno-mission-node-4"
-          ],
-          "location": {
-            "coordinates": "E-8",
-            "zone": "Lower Delkfutt's Tower"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-jeuno-mission-node-6",
           "orderIndex": 5,
           "title": "Once in the basement, cross the large room and click on the Cermet Door at L-9 for a cutscene.",
-          "description": "Once in the basement, cross the large room and click on the Cermet Door at L-9 for a cutscene..",
+          "description": "Once in the basement, cross the large room and click on the Cermet Door at L-9 for a cutscene.",
           "dependencies": [
             "ffxiclopedia-bastok-jeuno-mission-node-5"
-          ],
-          "location": {
-            "zone": "the basement"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-jeuno-mission-node-7",
           "orderIndex": 6,
-          "title": "Return to the Bastokan Embassy in Ru'Lude Gardens, speak to the receptionist, then proceed to the ambassador's office door to receive your reward.",
-          "description": "Return to the Bastokan Embassy in Ru'Lude Gardens, speak to the receptionist, then proceed to the ambassador's office door to receive your reward..",
+          "title": "Return to the Bastokan Embassy in Ru'Lude Gardens, speak to the receptionist, then proceed to the am",
+          "description": "Return to the Bastokan Embassy in Ru'Lude Gardens, speak to the receptionist, then proceed to the ambassador's office door to receive your reward.",
           "dependencies": [
             "ffxiclopedia-bastok-jeuno-mission-node-6"
-          ],
-          "location": {
-            "zone": "the Bastokan Embassy in Ru'Lude Gardens"
-          }
+          ]
         }
       ],
       "gates": []
@@ -501,37 +387,31 @@
           "id": "ffxiclopedia-bastok-magicite-bastok-node-1",
           "orderIndex": 0,
           "title": "Unlike most missions, this mission is not offered by a Gate Guard.",
-          "description": "Unlike most missions, this mission is not offered by a Gate Guard..",
+          "description": "Unlike most missions, this mission is not offered by a Gate Guard.",
           "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-magicite-bastok-node-2",
           "orderIndex": 1,
-          "title": "This mission requires a certain level of Rank Bar",
-          "description": "This mission requires a certain level of Rank Bar. Complete 2 or 3 repeatable missions or trade 4 crystals to a Conquest Overseer.",
+          "title": "This mission requires a certain level of Rank Bar.",
+          "description": "This mission requires a certain level of Rank Bar. Complete 2 or 3 repeatable missions or trade 4 crystals to a Conquest Overseer. Morlepiche (H-10) in the upper level of Ru'Lude Gardens will accept crystals.",
           "dependencies": [
             "ffxiclopedia-bastok-magicite-bastok-node-1"
-          ],
-          "location": {
-            "zone": "level of Rank Bar"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-magicite-bastok-node-3",
           "orderIndex": 2,
           "title": "Talk to your embassy's receptionist in Ru'Lude Gardens to begin the mission.",
-          "description": "Talk to your embassy's receptionist in Ru'Lude Gardens to begin the mission..",
+          "description": "Talk to your embassy's receptionist in Ru'Lude Gardens to begin the mission.",
           "dependencies": [
             "ffxiclopedia-bastok-magicite-bastok-node-2"
-          ],
-          "location": {
-            "zone": "your embassy's receptionist in Ru'Lude Gardens to begin the mission"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-magicite-bastok-node-4",
           "orderIndex": 3,
-          "title": "Check your ambassador's office door",
+          "title": "Check your ambassador's office door.",
           "description": "Check your ambassador's office door. You will receive the Archducal audience permit.",
           "dependencies": [
             "ffxiclopedia-bastok-magicite-bastok-node-3"
@@ -540,28 +420,20 @@
         {
           "id": "ffxiclopedia-bastok-magicite-bastok-node-5",
           "orderIndex": 4,
-          "title": "Check the Audience Chamber (H-6)",
+          "title": "Check the Audience Chamber (H-6).",
           "description": "Check the Audience Chamber (H-6). You will receive the Letter to Aldo.",
           "dependencies": [
             "ffxiclopedia-bastok-magicite-bastok-node-4"
-          ],
-          "location": {
-            "coordinates": "H-6",
-            "zone": "Aldo"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-magicite-bastok-node-6",
           "orderIndex": 5,
-          "title": "Talk to Aldo (J-8) in Lower Jeuno, inside Neptune's Spire Inn",
-          "description": "Talk to Aldo (J-8) in Lower Jeuno, inside Neptune's Spire Inn. You will receive a Silver bell.",
+          "title": "Talk to Aldo (J-8) in Lower Jeuno, inside Neptune's Spire Inn.",
+          "description": "Talk to Aldo (J-8) in Lower Jeuno, inside Neptune's Spire Inn. You will receive a Silver bell. To gain access to the Tenshodo HQ, obtain a Tenshodo Member's Card from the quest Tenshodo Membership or buy a Tenshodo Invite on the Auction House under Others > Misc and trade it to Ghebi Damomohe. If currently on the Chains of Promathia mission A Vessel Without a Captain, its scene will appear first when interacting with the door. Talking to Aldo twice will be required after the cut-scene to prompt this mission's cut-scene.",
           "dependencies": [
             "ffxiclopedia-bastok-magicite-bastok-node-5"
-          ],
-          "location": {
-            "coordinates": "J-8",
-            "zone": "Aldo"
-          }
+          ]
         }
       ],
       "gates": []
@@ -576,42 +448,32 @@
           "id": "ffxiclopedia-bastok-darkness-rising-node-1",
           "orderIndex": 0,
           "title": "Optional: Talk to a Bastok Gate Guard.",
-          "description": "Optional: Talk to a Bastok Gate Guard..",
-          "dependencies": [],
-          "location": {
-            "zone": "a Bastok Gate Guard"
-          }
+          "description": "Optional: Talk to a Bastok Gate Guard.",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-darkness-rising-node-2",
           "orderIndex": 1,
-          "title": "Talk to Naji (J-8) in Metalworks outside the President's Office",
-          "description": "Talk to Naji (J-8) in Metalworks outside the President's Office. If you accept the mission, you will receive a New Fei'Yin Seal.",
+          "title": "Talk to Naji (J-8) in Metalworks outside the President's Office.",
+          "description": "Talk to Naji (J-8) in Metalworks outside the President's Office. If you accept the mission, you will receive a New Fei'Yin Seal. If you postpone the mission, you will be able to change allegiances.",
           "dependencies": [
             "ffxiclopedia-bastok-darkness-rising-node-1"
-          ],
-          "location": {
-            "coordinates": "J-8",
-            "zone": "Naji"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-darkness-rising-node-3",
           "orderIndex": 2,
           "title": "Zone into Fei'Yin for a cutscene.",
-          "description": "Zone into Fei'Yin for a cutscene..",
+          "description": "Zone into Fei'Yin for a cutscene. Players who have Home Point #1 can directly teleport or those who have completed Beyond Infinity can warp to Qu'Bia Arena by talking to Domenic (J-7) in Lower Jeuno. Once in Qu'Bia Arena, simply walk out to trigger the cutscene. You can also Unity Concord warp. If the cutscene does not trigger, then run to the entrance of Fei'Yin and zone out to Beaucedine Glacier and zone back in. The cutscene is location based. To reach Fei'Yin from San d'Oria, first travel through East Ronfaure to (K-4) to enter Ranguemont Pass. Enter Beaucedine Glacier at (L-4). Mobs along the path go up to level 90 and will sight- and hearing-Aggro to any players unless they are Sneaked and Invisible. Circumspection can be purchased from a Grounds Tome. Enter Fei'Yin at (J-4). Mobs along the path go up to level 99 and will sight- and hearing-Aggro to players unless they are Sneaked and Invisible. Examine Beaucedine Glacier/Maps closely. You will need to descend the ramps at (I-8) and (I-9).",
           "dependencies": [
             "ffxiclopedia-bastok-darkness-rising-node-2"
-          ],
-          "location": {
-            "zone": "Fei'Yin for a cutscene"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-darkness-rising-node-4",
           "orderIndex": 3,
-          "title": "Examine the Burning Circle in Qu'Bia Arena to enter the Battlefield \"The Rank 5 Mission.\"",
-          "description": "Examine the Burning Circle in Qu'Bia Arena to enter the Battlefield \"The Rank 5 Mission.\".",
+          "title": "Examine the Burning Circle in Qu'Bia Arena to enter the Battlefield \"The Rank 5 Mission.\" The entran",
+          "description": "Examine the Burning Circle in Qu'Bia Arena to enter the Battlefield \"The Rank 5 Mission.\" The entrance to Qu'Bia Arena is at (K-8) of Fei'Yin. Mobs along the path go up to level 99 and will hearing- and HP-Aggro to any players unless they are Sneaked and above 75% HP. Party members must be Rank 5+ in their current nation to join the fight. They must watch the Fei'Yin cutscene before entering the Battlefield to receive credit. This Battlefield is capped at level 99, and buffs will wear upon entry. You have a time limit of 15 minutes. (see testimonials) Your opponent for this Battlefield is Archlich Taber'quoan and several minions. Only Archlich Taber'quoan must be defeated. Archlich Taber'quoan is a Black Mage skeleton with Sleepga II and Freeze. It will use Manafont during the fight. It is susceptible to most enfeebles, including Silence. Two Ancient Sorcerers will spawn with Archlich Taber'quoan at the beginning of the fight. Ancient Warriors will periodically spawn and join the fight, usually in sets of two. The skeletons can be easily Slept.",
           "dependencies": [
             "ffxiclopedia-bastok-darkness-rising-node-3"
           ]
@@ -619,8 +481,8 @@
         {
           "id": "ffxiclopedia-bastok-darkness-rising-node-5",
           "orderIndex": 4,
-          "title": "After defeating Archlich Taber'quoan, you will gain the title \"Archmage Assassin.\" You will receive the Burnt Seal.",
-          "description": "After defeating Archlich Taber'quoan, you will gain the title \"Archmage Assassin.\" You will receive the Burnt Seal..",
+          "title": "After defeating Archlich Taber'quoan, you will gain the title \"Archmage Assassin.\" You will receive ",
+          "description": "After defeating Archlich Taber'quoan, you will gain the title \"Archmage Assassin.\" You will receive the Burnt Seal.",
           "dependencies": [
             "ffxiclopedia-bastok-darkness-rising-node-4"
           ]
@@ -629,13 +491,10 @@
           "id": "ffxiclopedia-bastok-darkness-rising-node-6",
           "orderIndex": 5,
           "title": "Return to Naji to complete the mission.",
-          "description": "Return to Naji to complete the mission..",
+          "description": "Return to Naji to complete the mission.",
           "dependencies": [
             "ffxiclopedia-bastok-darkness-rising-node-5"
-          ],
-          "location": {
-            "zone": "Naji to complete the mission"
-          }
+          ]
         }
       ],
       "gates": []
@@ -649,55 +508,42 @@
         {
           "id": "ffxiclopedia-bastok-xarcabard-land-of-truths-node-1",
           "orderIndex": 0,
-          "title": "This mission requires a certain level of Rank Bar",
+          "title": "This mission requires a certain level of Rank Bar.",
           "description": "This mission requires a certain level of Rank Bar. Complete some repeatable missions or trade 2 crystals (after completing Darkness Rising) to a Conquest Overseer.",
-          "dependencies": [],
-          "location": {
-            "zone": "level of Rank Bar"
-          }
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-xarcabard-land-of-truths-node-2",
           "orderIndex": 1,
-          "title": "See a gate guard to accept the mission",
+          "title": "See a gate guard to accept the mission.",
           "description": "See a gate guard to accept the mission. Select Xarcabard, Land of Truths.",
           "dependencies": [
             "ffxiclopedia-bastok-xarcabard-land-of-truths-node-1"
-          ],
-          "location": {
-            "zone": "accept the mission"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-xarcabard-land-of-truths-node-3",
           "orderIndex": 2,
-          "title": "After talking to the gate guard travel to the Metalworks and speak to President Karst (K-8) for a cutscene.",
-          "description": "After talking to the gate guard travel to the Metalworks and speak to President Karst (K-8) for a cutscene..",
+          "title": "After talking to the gate guard travel to the Metalworks and speak to President Karst (K-8) for a cu",
+          "description": "After talking to the gate guard travel to the Metalworks and speak to President Karst (K-8) for a cutscene.",
           "dependencies": [
             "ffxiclopedia-bastok-xarcabard-land-of-truths-node-2"
-          ],
-          "location": {
-            "coordinates": "K-8",
-            "npc": "President Karst"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-xarcabard-land-of-truths-node-4",
           "orderIndex": 3,
           "title": "Travel to the Throne Room within Castle Zvahl Keep.",
-          "description": "Travel to the Throne Room within Castle Zvahl Keep..",
+          "description": "Travel to the Throne Room within Castle Zvahl Keep. If you already have the Home Point outside the Throne Room in Castle Zvahl Keep, take it. If not don't forget to grab it when you get there. Tigers, Demons, and assorted Beastmen along the path will sight-aggro, and Ahriman will aggro by sight and sound. The highest level mob will be 53, so players below level 70 or so will need sneak/invis to avoid aggro. From Beaucedine Glacier, travel to (F-6) to enter Xarcabard. In Xarcabard, the Vahzl Gate Crystal can be obtained by checking the Telepoint at (H-8). Players with a Traverser Stone can activate the Cavernous Maw at (H-8). Enter Castle Zvahl Baileys at (D-7/D-8). Hug the outside of the map on the lower level until you get to the NW corner of (G-8). Go east under the bridge at the NW corner of (G-8), the turn left. Follow the pathway down until you get to the SE corner of (G-7). Go up the steps and go east. Go west up a set of stairs into map 2. Enter Map 2 at (F-8). Head to the Goblin circle at H-7/I-7/I-6 in Castle Zvahl Baileys Map 2 and jump all the way to the bottom. Then go down the hallway, up the steps, under the bridge, take a right, take a quick left, up the steps and take the door on the left to enter Zvahl Keep. Enter Castle Zvahl Keep at (F-8). In Castle Zvahl Keep, you can activate the Geomagnetic Fount at (H-8). Enter Map 2 at exit A (H-6) or B (H-10). Enter Map 3 at exit C (E-8). Stand on the dais in the middle of the room until a glowing symbol appears. It will teleport you to the upper level. Exit the room and stand on the dais you encounter until it teleports you again. Repeat this process two more times. The final dais will teleport you to Map 4. Enter the Throne Room at (G-7). Don't forget the Home Point!",
           "dependencies": [
             "ffxiclopedia-bastok-xarcabard-land-of-truths-node-3"
-          ],
-          "location": {
-            "zone": "the Throne Room within Castle Zvahl Keep"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-xarcabard-land-of-truths-node-5",
           "orderIndex": 4,
-          "title": "Examine the door at the end of the path to enter the Battlefield \"The Shadow Lord Battle.\"",
-          "description": "Examine the door at the end of the path to enter the Battlefield \"The Shadow Lord Battle.\".",
+          "title": "Examine the door at the end of the path to enter the Battlefield \"The Shadow Lord Battle.\" Only play",
+          "description": "Examine the door at the end of the path to enter the Battlefield \"The Shadow Lord Battle.\" Only players who are in the mission corresponding to this battle (Mission 5-2 for any of the starting nations) or have beat it under current nationality can enter the battlefield. Characters completing this mission for the second time are immediately given the defeat cut-scene and key item. Trusts can be summoned once inside the battlefield. This Battlefield has a level cap of 99. Buffs will wear upon entry. The time limit is 30 minutes. Your opponent is the Shadow Lord. The fight has two phases. In the first phase he will begin in a stance that grants him magic immunity. Every 5 minutes or after taking 1000 damage, he will change between magic stance and melee stance, which gives him physical immunity. In magic stance he will primarily use tier 2 elemental spells and debuffs. He tends to use the weaponskill Dark Nova when he is about to switch to melee stance. In melee stance he uses the weaponskills Giga Slash, Kick Back, and Umbra Smash. Monks can use Formless Strikes to bypass his physical immunity. A cutscene will play after you defeat his first phase. He will immediately attack you in phase two. In this phase he will spam Implosion. If you are attempting this fight with a lower-level party, it is typically best to zerg him. The Shadow Lord gives experience points equal to a Level 60 mob.",
           "dependencies": [
             "ffxiclopedia-bastok-xarcabard-land-of-truths-node-4"
           ]
@@ -705,26 +551,20 @@
         {
           "id": "ffxiclopedia-bastok-xarcabard-land-of-truths-node-6",
           "orderIndex": 5,
-          "title": "After the fight you receive a cutscene then you will be transported to the entrance of Castle Zvahl Baileys",
+          "title": "After the fight you receive a cutscene then you will be transported to the entrance of Castle Zvahl ",
           "description": "After the fight you receive a cutscene then you will be transported to the entrance of Castle Zvahl Baileys. You will receive the Shadow Fragment.",
           "dependencies": [
             "ffxiclopedia-bastok-xarcabard-land-of-truths-node-5"
-          ],
-          "location": {
-            "zone": "the entrance of Castle Zvahl Baileys"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-xarcabard-land-of-truths-node-7",
           "orderIndex": 6,
           "title": "Talk to President Karst to finish the mission.",
-          "description": "Talk to President Karst to finish the mission..",
+          "description": "Talk to President Karst to finish the mission.",
           "dependencies": [
             "ffxiclopedia-bastok-xarcabard-land-of-truths-node-6"
-          ],
-          "location": {
-            "zone": "President Karst to finish the mission"
-          }
+          ]
         }
       ],
       "gates": []
@@ -738,70 +578,51 @@
         {
           "id": "ffxiclopedia-bastok-return-of-the-talekeeper-node-1",
           "orderIndex": 0,
-          "title": "This mission requires a certain level of Rank Bar",
+          "title": "This mission requires a certain level of Rank Bar.",
           "description": "This mission requires a certain level of Rank Bar. Complete Wading Beasts 8-10 times or trade 4 crystals to a Conquest Overseer.",
-          "dependencies": [],
-          "location": {
-            "zone": "level of Rank Bar"
-          }
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-return-of-the-talekeeper-node-2",
           "orderIndex": 1,
           "title": "Talk to a Bastok Gate Guard to receive the mission.",
-          "description": "Talk to a Bastok Gate Guard to receive the mission..",
+          "description": "Talk to a Bastok Gate Guard to receive the mission.",
           "dependencies": [
             "ffxiclopedia-bastok-return-of-the-talekeeper-node-1"
-          ],
-          "location": {
-            "zone": "a Bastok Gate Guard to receive the mission"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-return-of-the-talekeeper-node-3",
           "orderIndex": 2,
           "title": "Go to Bastok Mines and talk to Medicine Eagle at (H-5) for a cutscene.",
-          "description": "Go to Bastok Mines and talk to Medicine Eagle at (H-5) for a cutscene..",
+          "description": "Go to Bastok Mines and talk to Medicine Eagle at (H-5) for a cutscene.",
           "dependencies": [
             "ffxiclopedia-bastok-return-of-the-talekeeper-node-2"
-          ],
-          "location": {
-            "coordinates": "H-5",
-            "npc": "Medicine Eagle"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-return-of-the-talekeeper-node-4",
           "orderIndex": 3,
-          "title": "You must then go talk to Drake Fang who is at (H-6) in Zeruhn Mines next to the boat from Palborough Mines. (You dont have to get on the boat to talk...",
-          "description": "You must then go talk to Drake Fang who is at (H-6) in Zeruhn Mines next to the boat from Palborough Mines. (You dont have to get on the boat to talk to him, just come through Zeruhn).",
+          "title": "You must then go talk to Drake Fang who is at (H-6) in Zeruhn Mines next to the boat from Palborough",
+          "description": "You must then go talk to Drake Fang who is at (H-6) in Zeruhn Mines next to the boat from Palborough Mines. (You dont have to get on the boat to talk to him, just come through Zeruhn). You will see a cutscene where Iron Eater will approve your mission and tell you to go check out Altepa.",
           "dependencies": [
             "ffxiclopedia-bastok-return-of-the-talekeeper-node-3"
-          ],
-          "location": {
-            "coordinates": "H-6",
-            "zone": "Drake Fang who is at",
-            "npc": "Drake Fang who is"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-return-of-the-talekeeper-node-5",
           "orderIndex": 4,
-          "title": "Go to the center of Western Altepa Desert (Revelation Rock)",
-          "description": "Go to the center of Western Altepa Desert (Revelation Rock). Southwest of the rock is a ??? at (G-8).",
+          "title": "Go to the center of Western Altepa Desert (Revelation Rock).",
+          "description": "Go to the center of Western Altepa Desert (Revelation Rock). Southwest of the rock is a ??? at (G-8). Examine it, and the Western Sphinx and Eastern Sphinx will pop. A quick way to get there is to Unity warp (Level 125 category).",
           "dependencies": [
             "ffxiclopedia-bastok-return-of-the-talekeeper-node-4"
-          ],
-          "location": {
-            "coordinates": "G-8",
-            "zone": "the center of Western Altepa Desert"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-return-of-the-talekeeper-node-6",
           "orderIndex": 5,
           "title": "Kill one or both of the Western Sphinx and Eastern Sphinx.",
-          "description": "Kill one or both of the Western Sphinx and Eastern Sphinx..",
+          "description": "Kill one or both of the Western Sphinx and Eastern Sphinx. Soloable with Trust at level 65. Trivial at Item Level. (see testimonials). Only Western Sphinx or Eastern Sphinx must be killed, but you cannot obtain the key item until the other is either dead or de-aggroed. If you fail to kill the NM(s) wait about 10 to 15 minutes and you will be able to trigger the fight again. If someone else aggros the 2nd Sphinx, you cannot obtain the Altepa moonpebble. Confirmed for aggro + depop, have to check if someone else claims and kills it.",
           "dependencies": [
             "ffxiclopedia-bastok-return-of-the-talekeeper-node-5"
           ]
@@ -810,26 +631,19 @@
           "id": "ffxiclopedia-bastok-return-of-the-talekeeper-node-7",
           "orderIndex": 6,
           "title": "After killing the Sphinxes, check the ??? again to get an Altepa moonpebble.",
-          "description": "After killing the Sphinxes, check the ??? again to get an Altepa moonpebble..",
+          "description": "After killing the Sphinxes, check the ??? again to get an Altepa moonpebble.",
           "dependencies": [
             "ffxiclopedia-bastok-return-of-the-talekeeper-node-6"
-          ],
-          "location": {
-            "zone": "to get an Altepa moonpebble"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-return-of-the-talekeeper-node-8",
           "orderIndex": 7,
-          "title": "Talk to Tall Mountain downstairs (J-7) in Bastok Mines on Ore Street by the \"Restricted Section\" in order to complete this mission.",
-          "description": "Talk to Tall Mountain downstairs (J-7) in Bastok Mines on Ore Street by the \"Restricted Section\" in order to complete this mission..",
+          "title": "Talk to Tall Mountain downstairs (J-7) in Bastok Mines on Ore Street by the \"Restricted Section\" in ",
+          "description": "Talk to Tall Mountain downstairs (J-7) in Bastok Mines on Ore Street by the \"Restricted Section\" in order to complete this mission. The NPC is next to Bastok Mines Home Point #3.",
           "dependencies": [
             "ffxiclopedia-bastok-return-of-the-talekeeper-node-7"
-          ],
-          "location": {
-            "coordinates": "J-7",
-            "zone": "Tall Mountain downstairs"
-          }
+          ]
         }
       ],
       "gates": []
@@ -843,28 +657,29 @@
         {
           "id": "ffxiclopedia-bastok-the-pirate-s-cove-node-1",
           "orderIndex": 0,
-          "title": "Talk to Naji in Metalworks",
+          "title": "Talk to Naji in Metalworks.",
           "description": "Talk to Naji in Metalworks. He is the guard outside the President's Office, where you will be treated to a cut scene.",
-          "dependencies": [],
-          "location": {
-            "zone": "Naji in Metalworks"
-          }
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-the-pirate-s-cove-node-2",
           "orderIndex": 1,
-          "title": "You will be sent to speak with Gilgamesh (through the Oaken Door at (K-8) in Norg) where you will get another cutscene.",
-          "description": "You will be sent to speak with Gilgamesh (through the Oaken Door at (K-8) in Norg) where you will get another cutscene..",
+          "title": "You will be sent to speak with Gilgamesh (through the Oaken Door at (K-8) in Norg) where you will ge",
+          "description": "You will be sent to speak with Gilgamesh (through the Oaken Door at (K-8) in Norg) where you will get another cutscene.",
           "dependencies": [
             "ffxiclopedia-bastok-the-pirate-s-cove-node-1"
-          ],
-          "location": {
-            "coordinates": "K-8",
-            "npc": "Gilgamesh"
-          }
+          ]
         }
       ],
-      "gates": []
+      "gates": [
+        {
+          "id": "ffxiclopedia-bastok-the-pirate-s-cove-gate-1",
+          "type": "other",
+          "afterNodeId": "ffxiclopedia-bastok-the-pirate-s-cove-node-1",
+          "requirement": "Adaman Ore",
+          "description": "Adaman Ore"
+        }
+      ]
     },
     {
       "id": "ffxiclopedia-bastok-the-final-image",
@@ -875,42 +690,33 @@
         {
           "id": "ffxiclopedia-bastok-the-final-image-node-1",
           "orderIndex": 0,
-          "title": "This mission requires a certain level of Rank Bar",
-          "description": "This mission requires a certain level of Rank Bar. Complete Wading Beasts 1 time or trade 4 single crystals to a Conquest Overseer to open this quest which will put your rank bar at half.",
-          "dependencies": [],
-          "location": {
-            "zone": "level of Rank Bar"
-          }
+          "title": "This mission requires a certain level of Rank Bar.",
+          "description": "This mission requires a certain level of Rank Bar. Complete Wading Beasts 1 time or trade 4 single crystals to a Conquest Overseer to open this quest which will put your rank bar at half. You can trade 12 crystals to get Full Rank Bar. Talk to a Bastok Gate Guard to receive the mission.",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-the-final-image-node-2",
           "orderIndex": 1,
           "title": "Talk to Cid in Metalworks (Home Point #1).",
-          "description": "Talk to Cid in Metalworks (Home Point #1)..",
+          "description": "Talk to Cid in Metalworks (Home Point #1).",
           "dependencies": [
             "ffxiclopedia-bastok-the-final-image-node-1"
-          ],
-          "location": {
-            "zone": "Cid in Metalworks"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-the-final-image-node-3",
           "orderIndex": 2,
-          "title": "Be sure to have Silent Oils, Ninja's Monomi: Ichi (with tools), or Dancer's Spectral Jig",
-          "description": "Be sure to have Silent Oils, Ninja's Monomi: Ichi (with tools), or Dancer's Spectral Jig. Monsters in Ro'Maeve are aggressive to level 75+ players by Sound and Magic spellcasting.",
+          "title": "Be sure to have Silent Oils, Ninja's Monomi: Ichi (with tools), or Dancer's Spectral Jig.",
+          "description": "Be sure to have Silent Oils, Ninja's Monomi: Ichi (with tools), or Dancer's Spectral Jig. Monsters in Ro'Maeve are aggressive to level 75+ players by Sound and Magic spellcasting. Mounts can now be used in Ro'Maeve, allowing you to move quicker and avoid aggro altogether. If using trusts, pull them out before mounting as there may not be a safe area to dismount near the ???",
           "dependencies": [
             "ffxiclopedia-bastok-the-final-image-node-2"
-          ],
-          "location": {
-            "zone": "have Silent Oils"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-the-final-image-node-4",
           "orderIndex": 3,
-          "title": "Travel to Ro'Maeve and find the ???, which can be located at:",
-          "description": "Travel to Ro'Maeve and find the ???, which can be located at:.",
+          "title": "Travel to Ro'Maeve and find the ???, which can be located at:.",
+          "description": "Travel to Ro'Maeve and find the ???, which can be located at:",
           "dependencies": [
             "ffxiclopedia-bastok-the-final-image-node-3"
           ]
@@ -927,50 +733,36 @@
         {
           "id": "ffxiclopedia-bastok-on-my-way-node-1",
           "orderIndex": 0,
-          "title": "If you traded 4 crystals to a Bastok Gate Guard for the prior mission, trade another 5 to get this mission.",
-          "description": "If you traded 4 crystals to a Bastok Gate Guard for the prior mission, trade another 5 to get this mission..",
-          "dependencies": [],
-          "location": {
-            "zone": "a Bastok Gate Guard for the prior mission"
-          }
+          "title": "If you traded 4 crystals to a Bastok Gate Guard for the prior mission, trade another 5 to get this m",
+          "description": "If you traded 4 crystals to a Bastok Gate Guard for the prior mission, trade another 5 to get this mission.",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-on-my-way-node-2",
           "orderIndex": 1,
           "title": "Talk to President Karst in Metalworks.",
-          "description": "Talk to President Karst in Metalworks..",
+          "description": "Talk to President Karst in Metalworks.",
           "dependencies": [
             "ffxiclopedia-bastok-on-my-way-node-1"
-          ],
-          "location": {
-            "zone": "President Karst in Metalworks"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-on-my-way-node-3",
           "orderIndex": 2,
-          "title": "Next talk to Hilda (E-6) in the \"Steaming Sheep\" restaurant in Port Bastok. (Next to Home Point #3)",
-          "description": "Next talk to Hilda (E-6) in the \"Steaming Sheep\" restaurant in Port Bastok. (Next to Home Point #3).",
+          "title": "Next talk to Hilda (E-6) in the \"Steaming Sheep\" restaurant in Port Bastok.",
+          "description": "Next talk to Hilda (E-6) in the \"Steaming Sheep\" restaurant in Port Bastok. (Next to Home Point #3)",
           "dependencies": [
             "ffxiclopedia-bastok-on-my-way-node-2"
-          ],
-          "location": {
-            "coordinates": "E-6",
-            "zone": "Hilda",
-            "npc": "Hilda"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-on-my-way-node-4",
           "orderIndex": 3,
           "title": "Go through Palborough Mines and into Waughroon Shrine.",
-          "description": "Go through Palborough Mines and into Waughroon Shrine..",
+          "description": "Go through Palborough Mines and into Waughroon Shrine.",
           "dependencies": [
             "ffxiclopedia-bastok-on-my-way-node-3"
-          ],
-          "location": {
-            "zone": "Waughroon Shrine"
-          }
+          ]
         }
       ],
       "gates": []
@@ -984,69 +776,51 @@
         {
           "id": "ffxiclopedia-bastok-the-chains-that-bind-us-node-1",
           "orderIndex": 0,
-          "title": "This mission requires a certain level of Rank Bar",
-          "description": "This mission requires a certain level of Rank Bar. Trade 6 crystals to a Conquest Overseer.",
-          "dependencies": [],
-          "location": {
-            "zone": "level of Rank Bar"
-          }
+          "title": "This mission requires a certain level of Rank Bar.",
+          "description": "This mission requires a certain level of Rank Bar. Trade 6 crystals to a Conquest Overseer. Talk to a Bastok Gate Guard to receive the mission.",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-the-chains-that-bind-us-node-2",
           "orderIndex": 1,
           "title": "Talk to Iron Eater at (J-8) guarding the Door to the President's Office.",
-          "description": "Talk to Iron Eater at (J-8) guarding the Door to the President's Office..",
+          "description": "Talk to Iron Eater at (J-8) guarding the Door to the President's Office. Iron Eater is involved in multiple quests and missions. If necessary, keep talking to him until he tells you to investigate the Quicksand Caves.",
           "dependencies": [
             "ffxiclopedia-bastok-the-chains-that-bind-us-node-1"
-          ],
-          "location": {
-            "coordinates": "J-8",
-            "zone": "Iron Eater at"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-the-chains-that-bind-us-node-3",
           "orderIndex": 2,
           "title": "Travel to Western Altepa Desert (G-5) and enter Quicksand Caves.",
-          "description": "Travel to Western Altepa Desert (G-5) and enter Quicksand Caves..",
+          "description": "Travel to Western Altepa Desert (G-5) and enter Quicksand Caves. Voidwatch warp to Kuftal Tunnel entrance is near this location. Requires starting the Zilart branch of Voidwatch. Alternatively, use the Kuftal Tunnel Survival Guide and exit back into Altepa. There is also Unity warping to Western Altepa Desert (Level 125 category).",
           "dependencies": [
             "ffxiclopedia-bastok-the-chains-that-bind-us-node-2"
-          ],
-          "location": {
-            "coordinates": "G-5",
-            "zone": "Western Altepa Desert"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-the-chains-that-bind-us-node-4",
           "orderIndex": 3,
-          "title": "Head to (H-8) and pass through the Weight Detection's door [works with 1 Galka, 2 Hume/Elvaan/Mithra, 3 Tarutaru also works with 1 Tarutaru and 1 of...",
-          "description": "Head to (H-8) and pass through the Weight Detection's door [works with 1 Galka, 2 Hume/Elvaan/Mithra, 3 Tarutaru also works with 1 Tarutaru and 1 of any other race, or Loadstone].",
+          "title": "Head to (H-8) and pass through the Weight Detection's door [works with 1 Galka, 2 Hume/Elvaan/Mithra",
+          "description": "Head to (H-8) and pass through the Weight Detection's door [works with 1 Galka, 2 Hume/Elvaan/Mithra, 3 Tarutaru also works with 1 Tarutaru and 1 of any other race, or Loadstone]. Trust NPCs do not work!!!",
           "dependencies": [
             "ffxiclopedia-bastok-the-chains-that-bind-us-node-3"
-          ],
-          "location": {
-            "coordinates": "H-8"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-the-chains-that-bind-us-node-5",
           "orderIndex": 4,
-          "title": "Head south into a new room and pass another Weight Detection's door (H-10)",
+          "title": "Head south into a new room and pass another Weight Detection's door (H-10).",
           "description": "Head south into a new room and pass another Weight Detection's door (H-10). The ??? (Galka Statue) you need is just to the south located at (G-11).",
           "dependencies": [
             "ffxiclopedia-bastok-the-chains-that-bind-us-node-4"
-          ],
-          "location": {
-            "coordinates": "H-10",
-            "zone": "a new room and pass another Weight Detection's door"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-the-chains-that-bind-us-node-6",
           "orderIndex": 5,
-          "title": "Clear the room first, then spawn the 3 NMs:",
-          "description": "Clear the room first, then spawn the 3 NMs:.",
+          "title": "Clear the room first, then spawn the 3 NMs:.",
+          "description": "Clear the room first, then spawn the 3 NMs:",
           "dependencies": [
             "ffxiclopedia-bastok-the-chains-that-bind-us-node-5"
           ]
@@ -1063,111 +837,81 @@
         {
           "id": "ffxiclopedia-bastok-enter-the-talekeeper-node-1",
           "orderIndex": 0,
-          "title": "This mission requires a certain level of Rank Bar to become available",
+          "title": "This mission requires a certain level of Rank Bar to become available.",
           "description": "This mission requires a certain level of Rank Bar to become available. Trade 6 crystals to a Conquest Overseer.",
-          "dependencies": [],
-          "location": {
-            "zone": "level of Rank Bar to become available"
-          }
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-enter-the-talekeeper-node-2",
           "orderIndex": 1,
           "title": "Talk to a Bastok Gate Guard to receive the mission.",
-          "description": "Talk to a Bastok Gate Guard to receive the mission..",
+          "description": "Talk to a Bastok Gate Guard to receive the mission.",
           "dependencies": [
             "ffxiclopedia-bastok-enter-the-talekeeper-node-1"
-          ],
-          "location": {
-            "zone": "a Bastok Gate Guard to receive the mission"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-enter-the-talekeeper-node-3",
           "orderIndex": 2,
           "title": "Talk to Drake Fang (H-6) in Zeruhn Mines for a cutscene.",
-          "description": "Talk to Drake Fang (H-6) in Zeruhn Mines for a cutscene..",
+          "description": "Talk to Drake Fang (H-6) in Zeruhn Mines for a cutscene.",
           "dependencies": [
             "ffxiclopedia-bastok-enter-the-talekeeper-node-2"
-          ],
-          "location": {
-            "coordinates": "H-6",
-            "zone": "Drake Fang"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-enter-the-talekeeper-node-4",
           "orderIndex": 3,
-          "title": "Head to Kuftal Tunnel. (H-4) from Western Altepa Desert.",
-          "description": "Head to Kuftal Tunnel. (H-4) from Western Altepa Desert..",
+          "title": "Head to Kuftal Tunnel.",
+          "description": "Head to Kuftal Tunnel. (H-4) from Western Altepa Desert. Fastest teleport option is the Survival Guide in Kuftal Tunnel. You can ride from Rabao, use the Voidwatch Zilart teleport, Western Altepa Desert Survival Guide teleport, or Unity teleport (Level 125 category) to get to the Western Altepa Desert exit to Kuftal Tunnel.",
           "dependencies": [
             "ffxiclopedia-bastok-enter-the-talekeeper-node-3"
-          ],
-          "location": {
-            "coordinates": "H-4",
-            "zone": "Kuftal Tunnel"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-enter-the-talekeeper-node-5",
           "orderIndex": 4,
-          "title": "Examine the ??? at H-8 on the top of the cliff near the entrance to Western Altepa Desert",
-          "description": "Examine the ??? at H-8 on the top of the cliff near the entrance to Western Altepa Desert. The dialogue should end with it saying the piece of wood fell down.",
+          "title": "Examine the ??? at H-8 on the top of the cliff near the entrance to Western Altepa Desert.",
+          "description": "Examine the ??? at H-8 on the top of the cliff near the entrance to Western Altepa Desert. The dialogue should end with it saying the piece of wood fell down. Everyone who needs the mission must check the ???. However, if someone misses it, they can check the ??? at the top after the NM is killed, then check the ??? at the bottom and still get the key item.",
           "dependencies": [
             "ffxiclopedia-bastok-enter-the-talekeeper-node-4"
-          ],
-          "location": {
-            "zone": "Western Altepa Desert"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-enter-the-talekeeper-node-6",
           "orderIndex": 5,
-          "title": "Clear the lower area of ghosts, then touch the ??? at H-7 at the bottom of the cliff (in the Cancer pop room) to spawn 3 NM ghosts: Dervo's Ghost...",
-          "description": "Clear the lower area of ghosts, then touch the ??? at H-7 at the bottom of the cliff (in the Cancer pop room) to spawn 3 NM ghosts: Dervo's Ghost Gizerl's Ghost Gordov's Ghost.",
+          "title": "Clear the lower area of ghosts, then touch the ??? at H-7 at the bottom of the cliff (in the Cancer ",
+          "description": "Clear the lower area of ghosts, then touch the ??? at H-7 at the bottom of the cliff (in the Cancer pop room) to spawn 3 NM ghosts: Dervo's Ghost Gizerl's Ghost Gordov's Ghost Doable solo with Trust at level 75. Trivial at Item Level It takes at least one minute from pop of the NMs before the cutscene can be triggered. If you kill the ghosts fast you will get the nothing message until the cutscene triggers. It is possible to complete this mission by killing only one of the ghosts. Pull one of the NMs, wait for the other two to despawn, then kill the NM that was pulled. If you do not wait for the other two NMs to despawn first, you will not be able to complete the mission by checking the ??? and will have to fight the mobs again. The wait time for the ??? to be active again is approximately 5 minutes.",
           "dependencies": [
             "ffxiclopedia-bastok-enter-the-talekeeper-node-5"
-          ],
-          "location": {
-            "zone": "spawn 3 NM ghosts"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-enter-the-talekeeper-node-7",
           "orderIndex": 6,
-          "title": "Have everyone check the ??? at the bottom until they receive the cutscene and a Key Item Old Piece of Wood",
-          "description": "Have everyone check the ??? at the bottom until they receive the cutscene and a Key Item Old Piece of Wood. Checking the ??? will not respawn the NM ghosts no matter how much time has passed (leaving the zone means you will have to re-fight the NMs), so it's okay to raise any members who have died first.",
+          "title": "Have everyone check the ??? at the bottom until they receive the cutscene and a Key Item Old Piece o",
+          "description": "Have everyone check the ??? at the bottom until they receive the cutscene and a Key Item Old Piece of Wood. Checking the ??? will not respawn the NM ghosts no matter how much time has passed (leaving the zone means you will have to re-fight the NMs), so it's okay to raise any members who have died first. A static time limit may exist between killing NMs and ??? triggering cutscene with mission completion. If your group or solo party killed each ghost, continue testing the ??? periodically until it yields the completion cutscene.",
           "dependencies": [
             "ffxiclopedia-bastok-enter-the-talekeeper-node-6"
-          ],
-          "location": {
-            "zone": "raise any members who have died first"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-enter-the-talekeeper-node-8",
           "orderIndex": 7,
           "title": "Talk to Drake Fang again for a long cut scene and to complete the mission.",
-          "description": "Talk to Drake Fang again for a long cut scene and to complete the mission..",
+          "description": "Talk to Drake Fang again for a long cut scene and to complete the mission.",
           "dependencies": [
             "ffxiclopedia-bastok-enter-the-talekeeper-node-7"
-          ],
-          "location": {
-            "zone": "Drake Fang again for a long cut scene and to complete the mission"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-enter-the-talekeeper-node-9",
           "orderIndex": 8,
-          "title": "Optional: Talk to Gumbah (J-7) and Detzo (I-6) in Bastok Mines, and Iron Eater (J-8) in Metalworks for mini-cutscenes.",
-          "description": "Optional: Talk to Gumbah (J-7) and Detzo (I-6) in Bastok Mines, and Iron Eater (J-8) in Metalworks for mini-cutscenes..",
+          "title": "Optional: Talk to Gumbah (J-7) and Detzo (I-6) in Bastok Mines, and Iron Eater (J-8) in Metalworks f",
+          "description": "Optional: Talk to Gumbah (J-7) and Detzo (I-6) in Bastok Mines, and Iron Eater (J-8) in Metalworks for mini-cutscenes.",
           "dependencies": [
             "ffxiclopedia-bastok-enter-the-talekeeper-node-8"
-          ],
-          "location": {
-            "coordinates": "J-7",
-            "zone": "Gumbah"
-          }
+          ]
         }
       ],
       "gates": []
@@ -1181,62 +925,45 @@
         {
           "id": "ffxiclopedia-bastok-the-salt-of-the-earth-node-1",
           "orderIndex": 0,
-          "title": "This mission requires a certain level of Rank Bar",
-          "description": "This mission requires a certain level of Rank Bar. Repeat missions or trade 10 crystals to a Conquest Overseer.",
-          "dependencies": [],
-          "location": {
-            "zone": "level of Rank Bar"
-          }
+          "title": "This mission requires a certain level of Rank Bar.",
+          "description": "This mission requires a certain level of Rank Bar. Repeat missions or trade 10 crystals to a Conquest Overseer. Talk to a Bastok Gate Guard to receive the mission.",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-the-salt-of-the-earth-node-2",
           "orderIndex": 1,
           "title": "Talk to Alois in the \"Conference Room\" to the left of the President's Office for a cutscene.",
-          "description": "Talk to Alois in the \"Conference Room\" to the left of the President's Office for a cutscene..",
+          "description": "Talk to Alois in the \"Conference Room\" to the left of the President's Office for a cutscene.",
           "dependencies": [
             "ffxiclopedia-bastok-the-salt-of-the-earth-node-1"
-          ],
-          "location": {
-            "zone": "the left of the President's Office for a cutscene"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-the-salt-of-the-earth-node-3",
           "orderIndex": 2,
           "title": "Talk to Dancing Wolf at (G-7) in Rabao, near Home Point #2.",
-          "description": "Talk to Dancing Wolf at (G-7) in Rabao, near Home Point #2..",
+          "description": "Talk to Dancing Wolf at (G-7) in Rabao, near Home Point #2.",
           "dependencies": [
             "ffxiclopedia-bastok-the-salt-of-the-earth-node-2"
-          ],
-          "location": {
-            "coordinates": "G-7",
-            "zone": "Dancing Wolf at"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-the-salt-of-the-earth-node-4",
           "orderIndex": 3,
-          "title": "Go to Gustav Tunnel and go to (G-6) on the second map",
-          "description": "Go to Gustav Tunnel and go to (G-6) on the second map. Spawn the NM by clicking on the ???.",
+          "title": "Go to Gustav Tunnel and go to (G-6) on the second map.",
+          "description": "Go to Gustav Tunnel and go to (G-6) on the second map. Spawn the NM by clicking on the ???. You can travel here using Survival Guide teleport. Unity warp (Level 128 category) will place you right at the entrance to the second map.",
           "dependencies": [
             "ffxiclopedia-bastok-the-salt-of-the-earth-node-3"
-          ],
-          "location": {
-            "coordinates": "G-6",
-            "zone": "Gustav Tunnel and go to"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-the-salt-of-the-earth-node-5",
           "orderIndex": 4,
-          "title": "The fight starts off with one Gigaplasm",
-          "description": "The fight starts off with one Gigaplasm. Once you kill it, it turns into two Macroplasms.",
+          "title": "The fight starts off with one Gigaplasm.",
+          "description": "The fight starts off with one Gigaplasm. Once you kill it, it turns into two Macroplasms. Each one of those turns into two Microplasms and each one of those turn into two Nanoplasms.",
           "dependencies": [
             "ffxiclopedia-bastok-the-salt-of-the-earth-node-4"
-          ],
-          "location": {
-            "zone": "two Macroplasms"
-          }
+          ]
         }
       ],
       "gates": []
@@ -1250,18 +977,15 @@
         {
           "id": "ffxiclopedia-bastok-where-two-paths-converge-node-1",
           "orderIndex": 0,
-          "title": "This mission requires a certain level of Rank Bar",
-          "description": "This mission requires a certain level of Rank Bar. Repeat missions or trade 9 crystals to a Conquest Overseer.",
-          "dependencies": [],
-          "location": {
-            "zone": "level of Rank Bar"
-          }
+          "title": "This mission requires a certain level of Rank Bar.",
+          "description": "This mission requires a certain level of Rank Bar. Repeat missions or trade 9 crystals to a Conquest Overseer. Speak to a Bastok Gate Guard to receive the mission.",
+          "dependencies": []
         },
         {
           "id": "ffxiclopedia-bastok-where-two-paths-converge-node-2",
           "orderIndex": 1,
-          "title": "Talk to Iron Eater for a cutscene starting with Iron Eater saying \"We've been waiting for you, (name).\"",
-          "description": "Talk to Iron Eater for a cutscene starting with Iron Eater saying \"We've been waiting for you, (name).\".",
+          "title": "Talk to Iron Eater for a cutscene starting with Iron Eater saying \"We've been waiting for you, (name",
+          "description": "Talk to Iron Eater for a cutscene starting with Iron Eater saying \"We've been waiting for you, (name).\" If you did not talk to Iron Eater after completing Enter the Talekeeper, you will receive a cutscene regarding Gumbah first and will need to talk to him again.",
           "dependencies": [
             "ffxiclopedia-bastok-where-two-paths-converge-node-1"
           ]
@@ -1269,20 +993,17 @@
         {
           "id": "ffxiclopedia-bastok-where-two-paths-converge-node-3",
           "orderIndex": 2,
-          "title": "Head to the Throne Room in Castle Zvahl Keep and enter the battlefield for Where Two Paths Converge",
+          "title": "Head to the Throne Room in Castle Zvahl Keep and enter the battlefield for Where Two Paths Converge.",
           "description": "Head to the Throne Room in Castle Zvahl Keep and enter the battlefield for Where Two Paths Converge. You can take the Home point which is located just before the Throne Room.",
           "dependencies": [
             "ffxiclopedia-bastok-where-two-paths-converge-node-2"
-          ],
-          "location": {
-            "zone": "the Throne Room in Castle Zvahl Keep and enter the battlefield for Where Two Paths Converge"
-          }
+          ]
         },
         {
           "id": "ffxiclopedia-bastok-where-two-paths-converge-node-4",
           "orderIndex": 3,
-          "title": "After the fight, there will be a cutscene and afterwards you can return to the president's office and talk to Iron Eater for another cutscene and to...",
-          "description": "After the fight, there will be a cutscene and afterwards you can return to the president's office and talk to Iron Eater for another cutscene and to finish the mission..",
+          "title": "After the fight, there will be a cutscene and afterwards you can return to the president's office an",
+          "description": "After the fight, there will be a cutscene and afterwards you can return to the president's office and talk to Iron Eater for another cutscene and to finish the mission.",
           "dependencies": [
             "ffxiclopedia-bastok-where-two-paths-converge-node-3"
           ]

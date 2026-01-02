@@ -124,11 +124,13 @@ struct ExportImportView: View {
         #if os(iOS)
         .navigationBarTitleDisplayMode(.inline)
         #endif
+        #if os(iOS)
         .sheet(isPresented: $showingExportSheet) {
             if let data = exportData {
                 ShareSheet(items: [data])
             }
         }
+        #endif
         .fileImporter(
             isPresented: $showingImportSheet,
             allowedContentTypes: [.json],

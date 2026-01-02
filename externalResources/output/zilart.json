@@ -3,7 +3,7 @@
   "name": "Rise of the Zilart",
   "category": "expansion",
   "sourceUrl": "https://ffxiclopedia.fandom.com/wiki/Category:Rise_of_the_Zilart_Missions",
-  "lastScraped": "2025-12-29T17:46:07.675Z",
+  "lastScraped": "2025-12-30T11:04:25.041Z",
   "missions": [
     {
       "id": "zilart-headstone-pilgrimage",
@@ -67,7 +67,16 @@
         "category": "expansion",
         "missionSet": "zilart",
         "minLevel": 60,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "Fire Fragment",
+          "Earth Fragment",
+          "Water Fragment",
+          "Wind Fragment",
+          "Ice Fragment",
+          "Lightning Fragment",
+          "Light Fragment"
+        ]
       }
     },
     {
@@ -91,7 +100,10 @@
         "category": "expansion",
         "missionSet": "zilart",
         "minLevel": null,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "Sacrificial Chamber Key"
+        ]
       }
     },
     {
@@ -111,7 +123,10 @@
         "category": "expansion",
         "missionSet": "zilart",
         "minLevel": 65,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "Zilart Rank 8"
+        ]
       }
     },
     {
@@ -321,7 +336,10 @@
         "category": "expansion",
         "missionSet": "zilart",
         "minLevel": null,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "Prismatic Fragment"
+        ]
       }
     },
     {
@@ -344,7 +362,10 @@
         "category": "expansion",
         "missionSet": "zilart",
         "minLevel": null,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "Access to Tu'Lia"
+        ]
       }
     },
     {
@@ -417,7 +438,10 @@
         "category": "expansion",
         "missionSet": "zilart",
         "minLevel": null,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "Cerulean Crystal"
+        ]
       }
     },
     {
@@ -440,7 +464,10 @@
         "category": "expansion",
         "missionSet": "zilart",
         "minLevel": null,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "Map of Norg"
+        ]
       }
     },
     {
@@ -569,7 +596,10 @@
         "category": "expansion",
         "missionSet": "zilart",
         "minLevel": 60,
-        "difficulty": "medium"
+        "difficulty": "medium",
+        "rewards": [
+          "Dark Fragment"
+        ]
       }
     },
     {

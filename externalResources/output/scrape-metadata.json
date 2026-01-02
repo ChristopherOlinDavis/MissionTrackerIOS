@@ -20,15 +20,21 @@
     },
     {
       "missionSetId": "zilart",
-      "lastScraped": "2025-12-29T17:46:07.789Z",
-      "lastKnownUpdate": "2025-12-29T17:46:07.675Z",
-      "scrapeCount": 1
+      "lastScraped": "2025-12-30T11:04:25.052Z",
+      "lastKnownUpdate": "2025-12-30T11:04:25.041Z",
+      "scrapeCount": 2
     },
     {
       "missionSetId": "promathia",
-      "lastScraped": "2025-12-29T17:46:07.789Z",
-      "lastKnownUpdate": "2025-12-29T17:46:07.724Z",
-      "scrapeCount": 1
+      "lastScraped": "2025-12-30T11:12:17.218Z",
+      "lastKnownUpdate": "2025-12-30T11:12:17.206Z",
+      "scrapeCount": 2
+    },
+    {
+      "missionSetId": "wotg",
+      "lastScraped": "2025-12-30T10:51:15.584Z",
+      "lastKnownUpdate": "2025-12-30T10:51:15.571Z",
+      "scrapeCount": 2
     }
   ]
 }

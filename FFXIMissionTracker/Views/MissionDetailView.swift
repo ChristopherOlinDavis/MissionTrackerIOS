@@ -165,6 +165,26 @@ struct MissionDetailView: View {
         #if os(iOS)
         .navigationBarTitleDisplayMode(.inline)
         #endif
+        .toolbar {
+            #if os(iOS)
+            ToolbarItem(placement: .navigationBarTrailing) {
+                if let urlString = mission.url, let url = URL(string: urlString) {
+                    Link(destination: url) {
+                        Label("Wiki", systemImage: "link.circle")
+                            .labelStyle(.iconOnly)
+                    }
+                }
+            }
+            #else
+            ToolbarItem(placement: .primaryAction) {
+                if let urlString = mission.url, let url = URL(string: urlString) {
+                    Link(destination: url) {
+                        Label("Wiki", systemImage: "link.circle")
+                    }
+                }
+            }
+            #endif
+        }
         .sheet(isPresented: $showingImageViewer) {
             if let selectedImage = selectedImage {
                 ImageViewerSheet(image: selectedImage)
@@ -181,7 +201,9 @@ struct ImageViewerSheet: View {
         NavigationStack {
             ZoomableImageView(imageURL: URL(string: image.src))
                 .navigationTitle(image.alt.isEmpty ? "Image" : image.alt)
+                #if os(iOS)
                 .navigationBarTitleDisplayMode(.inline)
+                #endif
                 .toolbar {
                     ToolbarItem(placement: .confirmationAction) {
                         Button("Done") {
